@@ -1,0 +1,54 @@
+name: ingest
+
+on:
+  schedule:
+    - cron: '0 5,6 * * *'
+    - cron: '0 11,12 * * *'
+    - cron: '0 17,18 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build edition
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          MAX_STORIES: '90'
+        run: |
+          # Find the folder that contains package.json (repo root or one level down).
+          if [ -f package.json ]; then
+            DIR=.
+          else
+            DIR=$(dirname "$(find . -maxdepth 2 -name package.json -not -path '*/node_modules/*' | head -1)")
+          fi
+          echo "Project directory: $DIR"
+          cd "$DIR"
+          npm install --no-audit --no-fund
+          npm run ingest
+
+      - name: Commit edition
+        run: |
+          git config user.name  "newsdesk-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "edition: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
