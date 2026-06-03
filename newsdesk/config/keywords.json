@@ -1,0 +1,47 @@
+{
+  "_notes": "Tune these to reshape rankings. Scores are additive on top of source weight + recency.",
+
+  "boost": {
+    "interest rate": 6, "rate cut": 6, "rate hike": 6, "bank of england": 6, "boe": 5,
+    "federal reserve": 5, "ecb": 4, "sarb": 6, "inflation": 4, "gdp": 3, "budget": 5,
+    "gilt": 6, "treasury yield": 5, "bond": 3, "refinanc": 8, "refinancing": 8,
+    "loan": 4, "debt": 5, "cre loan": 8, "lender": 5, "default": 7, "distress": 8,
+    "administration": 6, "insolvency": 6, "office": 5, "london office": 8,
+    "letting": 6, "prelet": 6, "pre-let": 6, "lease": 4, "acquisition": 6,
+    "disposal": 5, "portfolio": 4, "planning approval": 6, "development": 4,
+    "reit": 6, "valuation": 5, "yield expansion": 6, "cap rate": 5,
+    "growthpoint": 7, "redefine": 7, "hyprop": 7, "fortress": 6, "equites": 6,
+    "burstone": 6, "attacq": 6, "vukile": 6, "nepi rockcastle": 7,
+    "landsec": 6, "british land": 6, "segro": 6, "great portland": 6, "derwent": 6,
+    "merger": 5, "takeover": 6, "ipo": 4, "results": 3, "profit warning": 6,
+    "bank": 3, "investment": 3, "transaction": 4, "sens": 5
+  },
+
+  "penalty": {
+    "celebrity": -50, "kardashian": -50, "royal wedding": -30, "gossip": -50,
+    "sport": -40, "football": -35, "rugby": -35, "cricket": -30, "tennis": -30,
+    "premier league": -40, "f1": -30, "formula one": -30, "olympic": -25,
+    "entertainment": -40, "movie": -30, "film review": -30, "tv show": -30,
+    "celebrity gossip": -60, "lifestyle": -35, "recipe": -40, "horoscope": -50,
+    "fashion": -30, "travel guide": -25, "clickbait": -40, "you won't believe": -60,
+    "things to do": -30, "best deals": -25, "shopping": -20
+  },
+
+  "flags": {
+    "_notes": "Regexes (case-insensitive) that attach a visible flag chip + score bump.",
+    "rules": [
+      { "id": "big-deal",   "label": "£20m+ DEAL",      "score": 10, "tone": "neutral", "regex": "£\\s?(2[0-9]|[3-9][0-9]|[1-9][0-9]{2,})\\s?(m|mn|million|bn|billion)" },
+      { "id": "big-let",    "label": "10k+ SQ FT LET",  "score": 8,  "tone": "neutral", "regex": "(1[0-9]|[2-9][0-9]|[1-9][0-9]{2,})[, ]?[0-9]{0,3}\\s?(sq ?ft|square f(ee|oo)t).{0,40}(let|lease|prelet|pre-let|take)" },
+      { "id": "refi",       "label": "REFINANCING",     "score": 8,  "tone": "neutral", "regex": "refinanc" },
+      { "id": "planning",   "label": "PLANNING",        "score": 6,  "tone": "neutral", "regex": "planning (approval|consent|permission|granted)" },
+      { "id": "distress",   "label": "DISTRESS",        "score": 9,  "tone": "negative", "regex": "(distress|default|administration|insolven|receiver|covenant breach|profit warning|write-?down|impairment)" },
+      { "id": "reit",       "label": "REIT UPDATE",     "score": 6,  "tone": "neutral", "regex": "(reit|landsec|british land|segro|great portland|derwent|growthpoint|redefine|hyprop|fortress|equites|burstone|attacq|vukile|nepi rockcastle)" }
+    ]
+  },
+
+  "sentiment": {
+    "_notes": "Lightweight tone colouring for cards/markets headlines.",
+    "negative": ["fall", "falls", "slump", "plunge", "crash", "loss", "losses", "cut", "downgrade", "warning", "default", "distress", "recession", "layoff", "job cuts", "weak", "decline", "drop", "selloff", "sell-off"],
+    "positive": ["rise", "rises", "rally", "surge", "gain", "gains", "record high", "beat", "upgrade", "profit", "growth", "recovery", "strong", "approval", "rebound"]
+  }
+}

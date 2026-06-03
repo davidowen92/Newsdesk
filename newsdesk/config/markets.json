@@ -1,0 +1,25 @@
+{
+  "_notes": [
+    "Symbols use Yahoo Finance's chart endpoint (no key required, unofficial but stable).",
+    "If a symbol stops resolving, swap it here. Yields (gilt/treasury) are the least",
+    "reliable on Yahoo; see README for a keyed provider fallback if you need them solid.",
+    "group: 'index' | 'rate' | 'fx' | 'commodity' | 'crypto' (controls formatting + good/bad colouring)."
+  ],
+  "tickers": [
+    { "key": "ftse100",  "label": "FTSE 100",        "symbol": "^FTSE",     "group": "index" },
+    { "key": "ftse250",  "label": "FTSE 250",        "symbol": "^FTMC",     "group": "index" },
+    { "key": "sp500",    "label": "S&P 500",         "symbol": "^GSPC",     "group": "index" },
+    { "key": "nasdaq",   "label": "Nasdaq Comp.",    "symbol": "^IXIC",     "group": "index" },
+    { "key": "dow",      "label": "Dow Jones",       "symbol": "^DJI",      "group": "index" },
+    { "key": "jse",      "label": "JSE All Share",   "symbol": "^J203.JO",  "group": "index" },
+    { "key": "gilt10",   "label": "UK 10y Gilt",     "symbol": "GB10YR.GB", "group": "rate" },
+    { "key": "ust10",    "label": "US 10y Treasury", "symbol": "^TNX",      "group": "rate" },
+    { "key": "gbpusd",   "label": "GBP/USD",         "symbol": "GBPUSD=X",  "group": "fx" },
+    { "key": "gbpzar",   "label": "GBP/ZAR",         "symbol": "GBPZAR=X",  "group": "fx" },
+    { "key": "usdzar",   "label": "USD/ZAR",         "symbol": "USDZAR=X",  "group": "fx" },
+    { "key": "eurgbp",   "label": "EUR/GBP",         "symbol": "EURGBP=X",  "group": "fx" },
+    { "key": "brent",    "label": "Brent Crude",     "symbol": "BZ=F",      "group": "commodity" },
+    { "key": "gold",     "label": "Gold",            "symbol": "GC=F",      "group": "commodity" },
+    { "key": "bitcoin",  "label": "Bitcoin",         "symbol": "BTC-USD",   "group": "crypto" }
+  ]
+}

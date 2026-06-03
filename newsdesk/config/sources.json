@@ -1,0 +1,56 @@
+{
+  "_notes": [
+    "Two feed kinds are supported:",
+    "  'rss'        -> a direct RSS/Atom URL.",
+    "  'googlenews' -> a topical query turned into a Google News RSS feed.",
+    "Google News is used as a robust catch-all for sources that have no free RSS",
+    "or are paywalled (FT, Times, Telegraph premium, CoStar, Green Street, Estates",
+    "Gazette, Property Week, Bisnow, JSE SENS). It reliably returns recent items",
+    "server-side. Edit freely: add/remove feeds, change queries, retune weights.",
+    "Each feed has: id, kind, name (display source), url|query, section, geo, weight."
+  ],
+  "feeds": [
+
+    { "id": "bbc-business", "kind": "rss", "name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "section": "uk", "subsection": "economy", "geo": "uk", "weight": 6 },
+    { "id": "bbc-politics", "kind": "rss", "name": "BBC", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml", "section": "uk", "subsection": "politics", "geo": "uk", "weight": 6 },
+    { "id": "bbc-world", "kind": "rss", "name": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "section": "global", "subsection": "geopolitics", "geo": "global", "weight": 5 },
+
+    { "id": "sky-business", "kind": "rss", "name": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/business.xml", "section": "uk", "subsection": "business", "geo": "uk", "weight": 5 },
+    { "id": "sky-politics", "kind": "rss", "name": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/politics.xml", "section": "uk", "subsection": "politics", "geo": "uk", "weight": 5 },
+    { "id": "sky-world", "kind": "rss", "name": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/world.xml", "section": "global", "subsection": "geopolitics", "geo": "global", "weight": 4 },
+
+    { "id": "ft-home", "kind": "rss", "name": "Financial Times", "url": "https://www.ft.com/rss/home", "section": "uk", "subsection": "business", "geo": "uk", "weight": 8 },
+    { "id": "ft-companies", "kind": "rss", "name": "Financial Times", "url": "https://www.ft.com/companies?format=rss", "section": "uk", "subsection": "business", "geo": "uk", "weight": 8 },
+
+    { "id": "telegraph-business", "kind": "rss", "name": "The Telegraph", "url": "https://www.telegraph.co.uk/business/rss.xml", "section": "uk", "subsection": "business", "geo": "uk", "weight": 6 },
+
+    { "id": "moneyweb", "kind": "rss", "name": "Moneyweb", "url": "https://www.moneyweb.co.za/feed/", "section": "sa", "subsection": "economy", "geo": "sa", "weight": 7 },
+    { "id": "dailymaverick", "kind": "rss", "name": "Daily Maverick", "url": "https://www.dailymaverick.co.za/dmrss/", "section": "sa", "subsection": "politics", "geo": "sa", "weight": 6 },
+    { "id": "engineeringnews", "kind": "rss", "name": "Engineering News", "url": "https://www.engineeringnews.co.za/rss/news.rss", "section": "sa", "subsection": "economy", "geo": "sa", "weight": 5 },
+
+    { "id": "gn-reuters-markets", "kind": "googlenews", "name": "Reuters", "query": "markets when:1d site:reuters.com", "section": "global", "subsection": "markets", "geo": "global", "weight": 7 },
+    { "id": "gn-bloomberg-markets", "kind": "googlenews", "name": "Bloomberg", "query": "economy OR markets when:1d site:bloomberg.com", "section": "global", "subsection": "markets", "geo": "global", "weight": 7 },
+    { "id": "gn-times-uk", "kind": "googlenews", "name": "The Times", "query": "business OR economy when:1d site:thetimes.co.uk", "section": "uk", "subsection": "economy", "geo": "uk", "weight": 6 },
+
+    { "id": "gn-businessday-sa", "kind": "googlenews", "name": "Business Day", "query": "when:1d site:businesslive.co.za", "section": "sa", "subsection": "business", "geo": "sa", "weight": 6 },
+    { "id": "gn-news24-sa", "kind": "googlenews", "name": "News24", "query": "South Africa economy OR politics when:1d site:news24.com", "section": "sa", "subsection": "politics", "geo": "sa", "weight": 5 },
+
+    { "id": "gn-us", "kind": "googlenews", "name": "Google News", "query": "United States economy OR Federal Reserve when:1d", "section": "global", "subsection": "us", "geo": "us", "weight": 5 },
+    { "id": "gn-europe", "kind": "googlenews", "name": "Google News", "query": "Europe economy OR ECB when:1d", "section": "global", "subsection": "europe", "geo": "europe", "weight": 5 },
+    { "id": "gn-china", "kind": "googlenews", "name": "Google News", "query": "China economy OR markets when:1d", "section": "global", "subsection": "china", "geo": "china", "weight": 5 },
+    { "id": "gn-middleeast", "kind": "googlenews", "name": "Google News", "query": "Middle East when:1d", "section": "global", "subsection": "middleeast", "geo": "middleeast", "weight": 5 },
+
+    { "id": "gn-uk-cre-invest", "kind": "googlenews", "name": "Google News", "query": "London office investment OR \"central London office\" acquisition when:2d", "section": "realestate", "subsection": "uk-transactions", "geo": "uk", "weight": 8 },
+    { "id": "gn-uk-cre-leasing", "kind": "googlenews", "name": "Google News", "query": "London office letting OR \"prelet\" OR \"sq ft\" office when:2d", "section": "realestate", "subsection": "uk-leasing", "geo": "uk", "weight": 7 },
+    { "id": "gn-uk-cre-dev", "kind": "googlenews", "name": "Google News", "query": "London office development OR planning approval commercial scheme when:3d", "section": "realestate", "subsection": "uk-development", "geo": "uk", "weight": 7 },
+    { "id": "gn-uk-cre-debt", "kind": "googlenews", "name": "Google News", "query": "UK property refinancing OR commercial real estate debt OR \"CRE loan\" when:3d", "section": "realestate", "subsection": "uk-debt", "geo": "uk", "weight": 8 },
+    { "id": "gn-uk-reits", "kind": "googlenews", "name": "Google News", "query": "(Landsec OR \"British Land\" OR Segro OR \"Great Portland\" OR Derwent OR Shaftesbury) results OR update when:3d", "section": "realestate", "subsection": "uk-debt", "geo": "uk", "weight": 7 },
+    { "id": "gn-propertyweek", "kind": "googlenews", "name": "Property Week", "query": "when:3d site:propertyweek.com", "section": "realestate", "subsection": "uk-transactions", "geo": "uk", "weight": 7 },
+    { "id": "gn-costar-uk", "kind": "googlenews", "name": "CoStar", "query": "UK office when:3d site:costar.com", "section": "realestate", "subsection": "uk-transactions", "geo": "uk", "weight": 7 },
+    { "id": "gn-bisnow-uk", "kind": "googlenews", "name": "Bisnow", "query": "London when:3d site:bisnow.com", "section": "realestate", "subsection": "uk-leasing", "geo": "uk", "weight": 6 },
+    { "id": "gn-eg", "kind": "googlenews", "name": "Estates Gazette", "query": "when:3d site:egi.co.uk OR site:estatesgazette.com", "section": "realestate", "subsection": "uk-transactions", "geo": "uk", "weight": 6 },
+
+    { "id": "gn-sa-listed-prop", "kind": "googlenews", "name": "Google News", "query": "(Growthpoint OR Redefine OR Hyprop OR Fortress OR Equites OR Burstone OR Attacq OR Vukile OR \"Nepi Rockcastle\") when:3d", "section": "realestate", "subsection": "sa-listed", "geo": "sa", "weight": 8 },
+    { "id": "gn-sa-cre", "kind": "googlenews", "name": "Google News", "query": "South Africa commercial property OR REIT when:3d", "section": "realestate", "subsection": "sa-cre", "geo": "sa", "weight": 6 }
+  ]
+}

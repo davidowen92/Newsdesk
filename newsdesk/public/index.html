@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Newsdesk</title>
+  <meta name="theme-color" content="#0a0c10" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' fill='%230a0c10'/><rect x='2' y='3' width='12' height='2' fill='%233fb950'/><rect x='2' y='7' width='9' height='2' fill='%23c9d1d9'/><rect x='2' y='11' width='11' height='2' fill='%23d29922'/></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">▮▮▮</span>
+      <span class="wordmark">NEWSDESK</span>
+      <span class="edition-tag" id="editionTag">—</span>
+    </div>
+    <div class="status" id="statusBar">
+      <span class="dot" id="liveDot"></span>
+      <span id="lastUpdated">loading…</span>
+    </div>
+  </header>
+
+  <nav class="controls">
+    <div class="filters" id="sectionFilters"></div>
+    <div class="control-right">
+      <input id="search" class="search" type="search" placeholder="Search headlines…" autocomplete="off" />
+      <select id="editionPicker" class="picker" title="Archive"></select>
+    </div>
+  </nav>
+
+  <main class="grid">
+    <section class="col-main">
+      <div id="execSummary"></div>
+      <div id="changes"></div>
+      <div id="sections"></div>
+      <div id="emptyState" class="empty hidden">No stories match your filter.</div>
+    </section>
+
+    <aside class="col-side">
+      <div id="markets"></div>
+      <div id="wmtm"></div>
+    </aside>
+  </main>
+
+  <footer class="foot">
+    <span id="footMeta"></span>
+    <span>Editions at 06:00 · 12:00 · 18:00 UK · bookmark this page</span>
+  </footer>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

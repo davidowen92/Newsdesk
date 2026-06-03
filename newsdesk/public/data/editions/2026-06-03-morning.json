@@ -1,0 +1,1011 @@
+{
+  "id": "2026-06-03-morning",
+  "label": "Morning",
+  "created_at": "2026-06-03T06:05:37.528Z",
+  "ukDate": "2026-06-03",
+  "story_count": 15,
+  "executiveSummary": [
+    {
+      "title": "British Land refinances £350m facility amid tighter debt market",
+      "source": "Bloomberg",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        },
+        {
+          "id": "refi",
+          "label": "REFINANCING",
+          "tone": "neutral"
+        },
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://example.com/5"
+    },
+    {
+      "title": "Redefine sells Cape Town retail asset to fund debt reduction",
+      "source": "Business Day",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "refi",
+          "label": "REFINANCING",
+          "tone": "neutral"
+        },
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "UPDATED",
+      "url": "https://example.com/9"
+    },
+    {
+      "title": "Distressed regional office portfolio falls into administration",
+      "source": "Financial Times",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://example.com/6"
+    },
+    {
+      "title": "Growthpoint reports resilient office occupancy in interim results",
+      "source": "Moneyweb",
+      "tone": "positive",
+      "flags": [
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://example.com/8"
+    },
+    {
+      "title": "Blackstone acquires London office tower in £480m deal",
+      "source": "CoStar",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        }
+      ],
+      "status": "UPDATED",
+      "url": "https://example.com/3"
+    },
+    {
+      "title": "Planning approval granted for major Shoreditch office scheme",
+      "source": "Bisnow",
+      "tone": "positive",
+      "flags": [
+        {
+          "id": "planning",
+          "label": "PLANNING",
+          "tone": "neutral"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://example.com/7"
+    }
+  ],
+  "sections": {
+    "uk": {
+      "title": "United Kingdom",
+      "stories": [
+        {
+          "id": "demo0",
+          "title": "Bank of England holds rates as inflation cools to 2.4%",
+          "url": "https://example.com/0",
+          "source": "Reuters",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-06-03T05:05:37.518Z",
+          "snippet": "The MPC voted 7-2 to hold Bank Rate, citing easing services inflation.",
+          "score": 31,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "64baa081545d1d75",
+          "cluster_id": "ec6acc29d8c7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Reuters",
+              "url": "https://example.com/0"
+            }
+          ],
+          "summary": "The MPC voted 7-2 to hold Bank Rate, citing easing services inflation.",
+          "status": "NEW"
+        },
+        {
+          "id": "demo1",
+          "title": "Chancellor signals Budget tax changes for commercial property",
+          "url": "https://example.com/1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-06-03T04:05:37.518Z",
+          "snippet": "Treasury weighs business rates reform that could affect office occupiers.",
+          "score": 28,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "359e7b3bdc7c876f",
+          "cluster_id": "7b42858c1c1d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://example.com/1"
+            }
+          ],
+          "summary": "Treasury weighs business rates reform that could affect office occupiers.",
+          "status": "ONGOING"
+        }
+      ]
+    },
+    "sa": {
+      "title": "South Africa",
+      "stories": [
+        {
+          "id": "demo10",
+          "title": "SARB keeps repo rate unchanged as rand steadies",
+          "url": "https://example.com/10",
+          "source": "News24",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-06-03T03:05:37.518Z",
+          "snippet": "The Reserve Bank cited sticky inflation expectations.",
+          "score": 27.5,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "0aaa654fe1406946",
+          "cluster_id": "c09a2e2cab7d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "News24",
+              "url": "https://example.com/10"
+            }
+          ],
+          "summary": "The Reserve Bank cited sticky inflation expectations.",
+          "status": "UPDATED"
+        },
+        {
+          "id": "demo11",
+          "title": "South Africa coalition tensions rise over budget framework",
+          "url": "https://example.com/11",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-06-03T01:05:37.518Z",
+          "snippet": "Negotiations stall ahead of the medium-term statement.",
+          "score": 18.6,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "6f10514e60b712d5",
+          "cluster_id": "73be361cf1b3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://example.com/11"
+            }
+          ],
+          "summary": "Negotiations stall ahead of the medium-term statement.",
+          "status": "ONGOING"
+        }
+      ]
+    },
+    "global": {
+      "title": "Global News",
+      "stories": [
+        {
+          "id": "demo12",
+          "title": "Fed officials signal patience on rate cuts as data stays firm",
+          "url": "https://example.com/12",
+          "source": "Reuters",
+          "section": "global",
+          "subsection": "us",
+          "geo": "us",
+          "feedWeight": 7,
+          "published_at": "2026-06-03T04:05:37.518Z",
+          "snippet": "Treasury yields ticked higher after the remarks.",
+          "score": 28,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "144aaf3197d9094c",
+          "cluster_id": "82343e4f3d64",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Reuters",
+              "url": "https://example.com/12"
+            }
+          ],
+          "summary": "Treasury yields ticked higher after the remarks.",
+          "status": "NEW"
+        },
+        {
+          "id": "demo13",
+          "title": "ECB trims forecasts as euro-area growth disappoints",
+          "url": "https://example.com/13",
+          "source": "Bloomberg",
+          "section": "global",
+          "subsection": "europe",
+          "geo": "europe",
+          "feedWeight": 6,
+          "published_at": "2026-06-03T00:05:37.518Z",
+          "snippet": "Policymakers flagged downside risks to the periphery.",
+          "score": 17.2,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "e26187ea0813f112",
+          "cluster_id": "3d4f2aaa4c86",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bloomberg",
+              "url": "https://example.com/13"
+            }
+          ],
+          "summary": "Policymakers flagged downside risks to the periphery.",
+          "status": "NEW"
+        },
+        {
+          "id": "demo15",
+          "title": "Middle East tensions lift Brent crude above recent range",
+          "url": "https://example.com/15",
+          "source": "Sky News",
+          "section": "global",
+          "subsection": "middleeast",
+          "geo": "middleeast",
+          "feedWeight": 5,
+          "published_at": "2026-06-03T02:05:37.518Z",
+          "snippet": "Energy markets priced in a modest risk premium.",
+          "score": 13,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "e51666535a032a37",
+          "cluster_id": "4689534b821e",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://example.com/15"
+            }
+          ],
+          "summary": "Energy markets priced in a modest risk premium.",
+          "status": "UPDATED"
+        },
+        {
+          "id": "demo14",
+          "title": "China unveils fresh stimulus to support property sector",
+          "url": "https://example.com/14",
+          "source": "Reuters",
+          "section": "global",
+          "subsection": "china",
+          "geo": "china",
+          "feedWeight": 6,
+          "published_at": "2026-06-02T23:05:37.518Z",
+          "snippet": "Measures aim to stabilise developer financing.",
+          "score": 12.8,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b532c2fd057e639d",
+          "cluster_id": "8b105aad9b6e",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Reuters",
+              "url": "https://example.com/14"
+            }
+          ],
+          "summary": "Measures aim to stabilise developer financing.",
+          "status": "ONGOING"
+        }
+      ]
+    },
+    "realestate": {
+      "title": "Real Estate Intelligence",
+      "stories": [
+        {
+          "id": "demo5",
+          "title": "British Land refinances £350m facility amid tighter debt market",
+          "url": "https://example.com/5",
+          "source": "Bloomberg",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-06-03T00:05:37.518Z",
+          "snippet": "The REIT extended maturities as lenders stay cautious on offices.",
+          "score": 74.2,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            },
+            {
+              "id": "refi",
+              "label": "REFINANCING",
+              "tone": "neutral"
+            },
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "ae1423873616bc25",
+          "cluster_id": "2e0bcf7c1e55",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bloomberg",
+              "url": "https://example.com/5"
+            }
+          ],
+          "summary": "The REIT extended maturities as lenders stay cautious on offices.",
+          "status": "NEW"
+        },
+        {
+          "id": "demo9",
+          "title": "Redefine sells Cape Town retail asset to fund debt reduction",
+          "url": "https://example.com/9",
+          "source": "Business Day",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-06-02T22:05:37.518Z",
+          "snippet": "Proceeds will cut gearing as the group manages refinancing risk.",
+          "score": 55.4,
+          "flags": [
+            {
+              "id": "refi",
+              "label": "REFINANCING",
+              "tone": "neutral"
+            },
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "9b937ff70a03038c",
+          "cluster_id": "d8374e5ddb54",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Business Day",
+              "url": "https://example.com/9"
+            }
+          ],
+          "summary": "Proceeds will cut gearing as the group manages refinancing risk.",
+          "status": "UPDATED"
+        },
+        {
+          "id": "demo6",
+          "title": "Distressed regional office portfolio falls into administration",
+          "url": "https://example.com/6",
+          "source": "Financial Times",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-06-02T23:05:37.518Z",
+          "snippet": "A covenant breach triggered receivers across a 12-asset portfolio.",
+          "score": 46.8,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "60245489bc64eb02",
+          "cluster_id": "46b66f92a3c1",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://example.com/6"
+            }
+          ],
+          "summary": "A covenant breach triggered receivers across a 12-asset portfolio.",
+          "status": "ONGOING"
+        },
+        {
+          "id": "demo8",
+          "title": "Growthpoint reports resilient office occupancy in interim results",
+          "url": "https://example.com/8",
+          "source": "Moneyweb",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-06-03T02:05:37.518Z",
+          "snippet": "The SA REIT held distributions steady despite a soft Joburg market.",
+          "score": 43,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "b040e4907d9d4e53",
+          "cluster_id": "35233a00e577",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://example.com/8"
+            }
+          ],
+          "summary": "The SA REIT held distributions steady despite a soft Joburg market.",
+          "status": "NEW"
+        },
+        {
+          "id": "demo3",
+          "title": "Blackstone acquires London office tower in £480m deal",
+          "url": "https://example.com/3",
+          "source": "CoStar",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-06-03T02:05:37.518Z",
+          "snippet": "A landmark City asset changes hands as investment volumes recover.",
+          "score": 41,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "3660fa370692f5e6",
+          "cluster_id": "0843172896d5",
+          "duplicate_count": 2,
+          "also_in": [
+            "Property Week"
+          ],
+          "all_links": [
+            {
+              "source": "CoStar",
+              "url": "https://example.com/3"
+            },
+            {
+              "source": "Property Week",
+              "url": "https://example.com/2"
+            }
+          ],
+          "summary": "A landmark City asset changes hands as investment volumes recover.",
+          "status": "UPDATED"
+        },
+        {
+          "id": "demo7",
+          "title": "Planning approval granted for major Shoreditch office scheme",
+          "url": "https://example.com/7",
+          "source": "Bisnow",
+          "section": "realestate",
+          "subsection": "uk-development",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-06-02T21:05:37.518Z",
+          "snippet": "Council approved a 250,000 sq ft mixed-use commercial development.",
+          "score": 33.1,
+          "flags": [
+            {
+              "id": "planning",
+              "label": "PLANNING",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "1fcef99378a316ec",
+          "cluster_id": "7f71edd5acfc",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bisnow",
+              "url": "https://example.com/7"
+            }
+          ],
+          "summary": "Council approved a 250,000 sq ft mixed-use commercial development.",
+          "status": "ONGOING"
+        },
+        {
+          "id": "demo4",
+          "title": "Law firm signs 85,000 sq ft prelet at Canary Wharf scheme",
+          "url": "https://example.com/4",
+          "source": "Estates Gazette",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-06-03T01:05:37.518Z",
+          "snippet": "One of the largest West End-to-Docklands relocations this year.",
+          "score": 28.6,
+          "flags": [
+            {
+              "id": "big-let",
+              "label": "10k+ SQ FT LET",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "37af91fd91ce0128",
+          "cluster_id": "c53a07836032",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Estates Gazette",
+              "url": "https://example.com/4"
+            }
+          ],
+          "summary": "One of the largest West End-to-Docklands relocations this year.",
+          "status": "UPDATED"
+        }
+      ]
+    }
+  },
+  "markets": [
+    {
+      "key": "ftse100",
+      "label": "FTSE 100",
+      "symbol": "^FTSE",
+      "group": "index",
+      "ok": true,
+      "price": 8000,
+      "prevClose": 7968.12749003984,
+      "pct": 0.4,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "ftse250",
+      "label": "FTSE 250",
+      "symbol": "^FTMC",
+      "group": "index",
+      "ok": true,
+      "price": 8104,
+      "prevClose": 8120.240480961924,
+      "pct": -0.2,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "sp500",
+      "label": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "index",
+      "ok": true,
+      "price": 8208,
+      "prevClose": 8142.857142857143,
+      "pct": 0.8,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "nasdaq",
+      "label": "Nasdaq Comp.",
+      "symbol": "^IXIC",
+      "group": "index",
+      "ok": true,
+      "price": 8312,
+      "prevClose": 8221.562809099902,
+      "pct": 1.1,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "dow",
+      "label": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "index",
+      "ok": true,
+      "price": 8416,
+      "prevClose": 8390.827517447658,
+      "pct": 0.3,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "jse",
+      "label": "JSE All Share",
+      "symbol": "^J203.JO",
+      "group": "index",
+      "ok": true,
+      "price": 8520,
+      "prevClose": 8571.42857142857,
+      "pct": -0.6,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "gilt10",
+      "label": "UK 10y Gilt",
+      "symbol": "GB10YR.GB",
+      "group": "rate",
+      "ok": true,
+      "price": 4.53,
+      "prevClose": 4.51195219123506,
+      "pct": 0.4,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "ust10",
+      "label": "US 10y Treasury",
+      "symbol": "^TNX",
+      "group": "rate",
+      "ok": true,
+      "price": 4.58,
+      "prevClose": 4.589178356713427,
+      "pct": -0.2,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "gbpusd",
+      "label": "GBP/USD",
+      "symbol": "GBPUSD=X",
+      "group": "fx",
+      "ok": true,
+      "price": 1.4021,
+      "prevClose": 1.390972222222222,
+      "pct": 0.8,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "gbpzar",
+      "label": "GBP/ZAR",
+      "symbol": "GBPZAR=X",
+      "group": "fx",
+      "ok": true,
+      "price": 1.4186,
+      "prevClose": 1.4031651829871417,
+      "pct": 1.1,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "usdzar",
+      "label": "USD/ZAR",
+      "symbol": "USDZAR=X",
+      "group": "fx",
+      "ok": true,
+      "price": 1.4351,
+      "prevClose": 1.4308075772681956,
+      "pct": 0.3,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "eurgbp",
+      "label": "EUR/GBP",
+      "symbol": "EURGBP=X",
+      "group": "fx",
+      "ok": true,
+      "price": 1.4516,
+      "prevClose": 1.4603621730382295,
+      "pct": -0.6,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "brent",
+      "label": "Brent Crude",
+      "symbol": "BZ=F",
+      "group": "commodity",
+      "ok": true,
+      "price": 94.79,
+      "prevClose": 94.41235059760957,
+      "pct": 0.4,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "symbol": "GC=F",
+      "group": "commodity",
+      "ok": true,
+      "price": 95.86,
+      "prevClose": 96.05210420841684,
+      "pct": -0.2,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    },
+    {
+      "key": "bitcoin",
+      "label": "Bitcoin",
+      "symbol": "BTC-USD",
+      "group": "crypto",
+      "ok": true,
+      "price": 79194,
+      "prevClose": 78565.47619047618,
+      "pct": 0.8,
+      "change": 0,
+      "currency": "GBP",
+      "asof": "2026-06-03T06:05:37.518Z"
+    }
+  ],
+  "whatMattersToMe": {
+    "top5": [
+      {
+        "title": "British Land refinances £350m facility amid tighter debt market",
+        "summary": "The REIT extended maturities as lenders stay cautious on offices.",
+        "source": "Bloomberg",
+        "url": "https://example.com/5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          },
+          {
+            "id": "refi",
+            "label": "REFINANCING",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-06-03T00:05:37.518Z",
+        "score": 74.2,
+        "also_in": []
+      },
+      {
+        "title": "Redefine sells Cape Town retail asset to fund debt reduction",
+        "summary": "Proceeds will cut gearing as the group manages refinancing risk.",
+        "source": "Business Day",
+        "url": "https://example.com/9",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "refi",
+            "label": "REFINANCING",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "UPDATED",
+        "section": "realestate",
+        "published_at": "2026-06-02T22:05:37.518Z",
+        "score": 55.4,
+        "also_in": []
+      },
+      {
+        "title": "Distressed regional office portfolio falls into administration",
+        "summary": "A covenant breach triggered receivers across a 12-asset portfolio.",
+        "source": "Financial Times",
+        "url": "https://example.com/6",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "realestate",
+        "published_at": "2026-06-02T23:05:37.518Z",
+        "score": 46.8,
+        "also_in": []
+      },
+      {
+        "title": "Growthpoint reports resilient office occupancy in interim results",
+        "summary": "The SA REIT held distributions steady despite a soft Joburg market.",
+        "source": "Moneyweb",
+        "url": "https://example.com/8",
+        "tone": "positive",
+        "flags": [
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-06-03T02:05:37.518Z",
+        "score": 43,
+        "also_in": []
+      },
+      {
+        "title": "Blackstone acquires London office tower in £480m deal",
+        "summary": "A landmark City asset changes hands as investment volumes recover.",
+        "source": "CoStar",
+        "url": "https://example.com/3",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ],
+        "status": "UPDATED",
+        "section": "realestate",
+        "published_at": "2026-06-03T02:05:37.518Z",
+        "score": 41,
+        "also_in": [
+          "Property Week"
+        ]
+      }
+    ],
+    "creTop3": [
+      {
+        "title": "British Land refinances £350m facility amid tighter debt market",
+        "summary": "The REIT extended maturities as lenders stay cautious on offices.",
+        "source": "Bloomberg",
+        "url": "https://example.com/5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          },
+          {
+            "id": "refi",
+            "label": "REFINANCING",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-06-03T00:05:37.518Z",
+        "score": 74.2,
+        "also_in": []
+      },
+      {
+        "title": "Redefine sells Cape Town retail asset to fund debt reduction",
+        "summary": "Proceeds will cut gearing as the group manages refinancing risk.",
+        "source": "Business Day",
+        "url": "https://example.com/9",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "refi",
+            "label": "REFINANCING",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "UPDATED",
+        "section": "realestate",
+        "published_at": "2026-06-02T22:05:37.518Z",
+        "score": 55.4,
+        "also_in": []
+      },
+      {
+        "title": "Distressed regional office portfolio falls into administration",
+        "summary": "A covenant breach triggered receivers across a 12-asset portfolio.",
+        "source": "Financial Times",
+        "url": "https://example.com/6",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "realestate",
+        "published_at": "2026-06-02T23:05:37.518Z",
+        "score": 46.8,
+        "also_in": []
+      }
+    ],
+    "implications": [
+      "UK 10y gilt at 4.53 (+0.4%) — a key reference for property debt pricing and refinancing costs.",
+      "US 10y treasury at 4.58 sets the global rate backdrop influencing cross-border capital into London offices.",
+      "3 refinancing/distress item(s) flagged today — watch for read-across to debt availability and office valuations.",
+      "2 sizeable transaction(s) flagged (£20m+) — pricing evidence for the investment market.",
+      "FTSE 100 up 0.4% — broad risk sentiment proxy for listed property."
+    ],
+    "oneLiner": "Rates and refinancing remain the dominant swing factors for UK office values and debt availability."
+  },
+  "changes": null,
+  "allStoryIds": [
+    "demo5",
+    "demo9",
+    "demo6",
+    "demo8",
+    "demo3",
+    "demo7",
+    "demo0",
+    "demo4",
+    "demo1",
+    "demo12",
+    "demo10",
+    "demo11",
+    "demo13",
+    "demo15",
+    "demo14"
+  ]
+}

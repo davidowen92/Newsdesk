@@ -1,0 +1,20 @@
+{
+  "name": "newsdesk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automated personal news + markets + real-estate dashboard. Ingestion runs 3x/day via GitHub Actions; frontend is static.",
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "ingest:dry": "DRY_RUN=1 node scripts/ingest.mjs",
+    "serve": "node scripts/serve.mjs",
+    "seed": "node scripts/seed-demo.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
