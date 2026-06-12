@@ -1,7 +1,14 @@
 {
-  "latest": "2026-06-12-morning",
-  "generated_at": "2026-06-12T02:00:41.541Z",
+  "latest": "2026-06-12-evening",
+  "generated_at": "2026-06-12T22:33:33.002Z",
   "editions": [
+    {
+      "id": "2026-06-12-evening",
+      "label": "Evening",
+      "created_at": "2026-06-12T22:33:26.235Z",
+      "story_count": 90,
+      "file": "editions/2026-06-12-evening.json"
+    },
     {
       "id": "2026-06-12-morning",
       "label": "Morning",
