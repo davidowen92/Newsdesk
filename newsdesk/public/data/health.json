@@ -1,17 +1,25 @@
 {
-  "edition": "2026-06-24-midday",
-  "generated_at": "2026-06-24T12:35:19.282Z",
+  "edition": "2026-06-25-morning",
+  "generated_at": "2026-06-24T23:33:47.008Z",
   "feeds": 32,
-  "items": 1387,
+  "items": 1449,
   "stories": 90,
   "markets_ok": 14,
   "markets_total": 15,
   "feed_errors": [
+    {
+      "feed": "sky-politics",
+      "error": "Status code 500"
+    },
+    {
+      "feed": "sky-world",
+      "error": "Status code 500"
+    },
     {
       "feed": "engineeringnews",
       "error": "Status code 403"
     }
   ],
   "summariser": "extractive",
-  "duration_ms": 5050
+  "duration_ms": 12656
 }
