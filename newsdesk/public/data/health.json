@@ -1,8 +1,8 @@
 {
-  "edition": "2026-07-08-midday",
-  "generated_at": "2026-07-08T12:16:15.277Z",
+  "edition": "2026-07-08-evening",
+  "generated_at": "2026-07-08T18:16:33.916Z",
   "feeds": 32,
-  "items": 1343,
+  "items": 381,
   "stories": 90,
   "markets_ok": 14,
   "markets_total": 15,
@@ -10,8 +10,88 @@
     {
       "feed": "engineeringnews",
       "error": "Status code 403"
+    },
+    {
+      "feed": "gn-bloomberg-markets",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-us",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-news24-sa",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-reuters-markets",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-times-uk",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-businessday-sa",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-uk-cre-leasing",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-europe",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-middleeast",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-china",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-uk-cre-invest",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-uk-cre-dev",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-uk-reits",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-uk-cre-debt",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-propertyweek",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-bisnow-uk",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-costar-uk",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-sa-cre",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-eg",
+      "error": "Status code 503"
+    },
+    {
+      "feed": "gn-sa-listed-prop",
+      "error": "Status code 503"
     }
   ],
   "summariser": "extractive",
-  "duration_ms": 4865
+  "duration_ms": 31779
 }
