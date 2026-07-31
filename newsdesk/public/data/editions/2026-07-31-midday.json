@@ -1,0 +1,3759 @@
+{
+  "id": "2026-07-31-midday",
+  "label": "Midday",
+  "created_at": "2026-07-31T12:51:26.839Z",
+  "ukDate": "2026-07-31",
+  "story_count": 90,
+  "executiveSummary": [
+    {
+      "title": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market",
+      "source": "citybiz",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5"
+    },
+    {
+      "title": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income",
+      "source": "Property Week",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        },
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5"
+    },
+    {
+      "title": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition",
+      "source": "costar.com",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5"
+    },
+    {
+      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+      "source": "BBC",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Wrexham on the hunt for developer for £30m office",
+      "source": "Place North West",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        }
+      ],
+      "status": "NEW",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktzMEQ0UVl2eFFBc2dHaXNLeUNNSnNIUmt6RnRta0VhLWlJRzNLamVtbDBMZjJreENOUTE2MGRlNlB2Mllqcnh1Q0NLckhZQUZnRnkzNWxVUVRxUUc4cnFnTURtNnpqUTlnWFJMQ1c4dWxsMTE0VUEzWmJQYzVGS0gwWXlBcUY4Mnc?oc=5"
+    },
+    {
+      "title": "Prologis’s takeover of SEGRO could create ‘more dynamic’ REIT sector",
+      "source": "Property Week",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2NpNHE4ZmtCRE5aeVFIdDN3aW5MNmVYVXZMX0ZUTzBTb0V5MXg1Z2U4ODB2V1l1T3hRWEt2Q2hkbGpJWVZHVHR5V2pEcGZ4NUViOVVWQkNvQ3EzYmYzM3A1WlFfWmNwemxyOWNsOTY0a09Dd01MWmVoR1drNmYtSkxSU1pSZVZtYktreVZUeVZadjNuVXJNbjRUUVVDWDZHWHNkQg?oc=5"
+    }
+  ],
+  "sections": {
+    "uk": {
+      "title": "United Kingdom",
+      "stories": [
+        {
+          "id": "fe886055b772c302",
+          "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+          "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-31T12:19:20.000Z",
+          "snippet": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+          "score": 33,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "ab4e22e38e2fec62",
+          "cluster_id": "fd1052ce8d59",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+          "status": "NEW"
+        },
+        {
+          "id": "3a1dec99706563db",
+          "title": "Concerns raised over council's £900m debt",
+          "url": "https://www.bbc.co.uk/news/articles/c74gdmmrjn7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-31T10:54:34.000Z",
+          "snippet": "Councillor Patrick Lambert fears taxpayers will be left liable for the authority's debts.",
+          "score": 31,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "d6a66b24ad9aba66",
+          "cluster_id": "f2b5d4e243e5",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c74gdmmrjn7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Councillor Patrick Lambert fears taxpayers will be left liable for the authority's debts.",
+          "status": "NEW"
+        },
+        {
+          "id": "b57d83f77c9c4c7b",
+          "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-30T12:08:31.000Z",
+          "snippet": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "score": 27.5,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "56c08e29395da576",
+          "cluster_id": "9ba6b0184afe",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-22T12:22:58.597Z"
+        },
+        {
+          "id": "37485cbc405af5ac",
+          "title": "Sainsbury's agrees to sell Argos for £120m",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-31T12:42:22.000Z",
+          "snippet": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+          "score": 26,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a3aa9fda0f5c7a36",
+          "cluster_id": "d8820c0358ef",
+          "duplicate_count": 2,
+          "also_in": [
+            "Sky News"
+          ],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/sainsburys-agrees-120m-deal-to-sell-argos-13568664"
+            }
+          ],
+          "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "5696df07de6c6733",
+          "title": "Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners",
+          "url": "https://www.ft.com/content/e874feaf-38de-479d-937b-05daa5a021a9?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T07:48:49.000Z",
+          "snippet": "Sale marks UK retailer’s second attempt to offload general merchandise chain as it focuses on its core food business",
+          "score": 25.6,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "34d281c539d282d0",
+          "cluster_id": "5749745d6eba",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/e874feaf-38de-479d-937b-05daa5a021a9?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Sale marks UK retailer’s second attempt to offload general merchandise chain as it focuses on its core food business…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "3357fe85ed5a0b7c",
+          "title": "Fed dissenters warn of challenges in taming inflation",
+          "url": "https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T12:25:14.000Z",
+          "snippet": "Three rate-setters rebelled against US central bank’s majority decision to hold rates steady this week",
+          "score": 25,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "bcdcb2c6ae18bfaa",
+          "cluster_id": "9dd39fdf5513",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Three rate-setters rebelled against US central bank’s majority decision to hold rates steady this week…",
+          "status": "NEW"
+        }
+      ]
+    },
+    "sa": {
+      "title": "South Africa",
+      "stories": [
+        {
+          "id": "7e3cfe7b9a92f13f",
+          "title": "Rand faces bleak August, bonds dumped amid SARB uncertainty",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlzOExUcFhCbDVkYk83RmlIUlotaU9Ld0hrRjVOOUZ2TjhjZ0hUOGdaaWJsVEJMWkdwWk5rc2hlUUFQY3Bfb0NaX2RQT3ZYRVdwQXJ3SDJHMDRQemNONzdJVERCUzRhUVJmTTZzQV9fc1JmMFhkVm1kbnAwYUpyVmIwZDJ1R1J5REJETWN1a1BBV0k3Rks5VkhkalFBaVpzeVZHWm1YbE5Hb1BpWFJXX0RMbWs4dmlOV2xuZ2JIaHg?oc=5",
+          "source": "News24",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 5,
+          "published_at": "2026-07-31T12:00:15.000Z",
+          "snippet": "Rand faces bleak August, bonds dumped amid SARB uncertainty News24",
+          "score": 24,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "6cfc5ef05310d2e2",
+          "cluster_id": "cae55f682d29",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "News24",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlzOExUcFhCbDVkYk83RmlIUlotaU9Ld0hrRjVOOUZ2TjhjZ0hUOGdaaWJsVEJMWkdwWk5rc2hlUUFQY3Bfb0NaX2RQT3ZYRVdwQXJ3SDJHMDRQemNONzdJVERCUzRhUVJmTTZzQV9fc1JmMFhkVm1kbnAwYUpyVmIwZDJ1R1J5REJETWN1a1BBV0k3Rks5VkhkalFBaVpzeVZHWm1YbE5Hb1BpWFJXX0RMbWs4dmlOV2xuZ2JIaHg?oc=5"
+            }
+          ],
+          "summary": "Rand faces bleak August, bonds dumped amid SARB uncertainty News24…",
+          "status": "NEW"
+        },
+        {
+          "id": "0bd5663ce527e1df",
+          "title": "South Africa’s rand faces bleak August as policy stance queried",
+          "url": "https://www.moneyweb.co.za/news/economy/south-africas-rand-faces-bleak-august-as-policy-stance-queried/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T11:17:56.000Z",
+          "snippet": "A surprise rate hold has prompted investors to reassess the Sarb’s policy stance as August’s historically weak trading period begins.",
+          "score": 23,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "baebcfe8babf1722",
+          "cluster_id": "2802fcad4408",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/economy/south-africas-rand-faces-bleak-august-as-policy-stance-queried/"
+            }
+          ],
+          "summary": "A surprise rate hold has prompted investors to reassess the Sarb’s policy stance as August’s historically weak trading period begins.",
+          "status": "NEW"
+        },
+        {
+          "id": "c8134a6fc252c6c3",
+          "title": "Sarb doubles down on stablecoin regulation",
+          "url": "https://www.moneyweb.co.za/news/economy/sarb-doubles-down-on-stablecoin-regulation/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T11:00:16.000Z",
+          "snippet": "South Africa cannot have strict capital flow rules alongside weak crypto regulation, Kganyago says.",
+          "score": 23,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "2143a30c3d69df26",
+          "cluster_id": "5da178a86227",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/economy/sarb-doubles-down-on-stablecoin-regulation/"
+            }
+          ],
+          "summary": "South Africa cannot have strict capital flow rules alongside weak crypto regulation, Kganyago says.",
+          "status": "NEW"
+        }
+      ]
+    },
+    "global": {
+      "title": "Global News",
+      "stories": [
+        {
+          "id": "4ddcd2752bd26a6f",
+          "title": "Tokyo Inflation Quickens, Keeping BOJ on Interest Rate Hike Path",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVBya2xacUY0ZE1od0w1cXBqVFlZQ09YRm15UVd5QTZvM3B6dDlSRXdoUjlqOTUtWVZ2bWtqV3FfU1JvMGE5Q2JIbWhuZzFYdjlzQ0FvakJsYWZfdVI4Q0Y5UXZoNWlCTW4xTDVod29pYXRiLV9PN2hZXzBZNzVoZ2gxYTRTT1RvZ3J0ZUNodEk1MDZmLUt4SlRDcHVHOE5IbGdZSWIyaVY2aGhnQ0RGbFhxQ0o?oc=5",
+          "source": "Bloomberg.com",
+          "section": "global",
+          "subsection": "markets",
+          "geo": "global",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T00:48:00.000Z",
+          "snippet": "Tokyo Inflation Quickens, Keeping BOJ on Interest Rate Hike Path Bloomberg.com",
+          "score": 28.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "252b8a2ae175dd4a",
+          "cluster_id": "475b8bc3b866",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVBya2xacUY0ZE1od0w1cXBqVFlZQ09YRm15UVd5QTZvM3B6dDlSRXdoUjlqOTUtWVZ2bWtqV3FfU1JvMGE5Q2JIbWhuZzFYdjlzQ0FvakJsYWZfdVI4Q0Y5UXZoNWlCTW4xTDVod29pYXRiLV9PN2hZXzBZNzVoZ2gxYTRTT1RvZ3J0ZUNodEk1MDZmLUt4SlRDcHVHOE5IbGdZSWIyaVY2aGhnQ0RGbFhxQ0o?oc=5"
+            }
+          ],
+          "summary": "Tokyo Inflation Quickens, Keeping BOJ on Interest Rate Hike Path Bloomberg.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "abd95b45b40cb9a8",
+          "title": "US Federal Reserve Holds Interest Rates Steady at 3.5 Percent",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KeERVanlodVNIcnJjZWMyYTFXUUEyWmVHcmE2SGZiZHRkeGRTVDlkY2U2U3ZDa2ViTVNtWDV6TGE4MEplbzJuazMxTGcxMFY5TVdWbjVlNFFtOGU1ZmVtdlpFMlJZUVpya1F6X3pVOGg?oc=5",
+          "source": "sekbernews.id",
+          "section": "global",
+          "subsection": "us",
+          "geo": "us",
+          "feedWeight": 5,
+          "published_at": "2026-07-31T06:40:25.000Z",
+          "snippet": "US Federal Reserve Holds Interest Rates Steady at 3.5 Percent sekbernews.id",
+          "score": 23.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "e1f5e51bb1c303c0",
+          "cluster_id": "5957861f4be0",
+          "duplicate_count": 2,
+          "also_in": [
+            "Traders Union"
+          ],
+          "all_links": [
+            {
+              "source": "sekbernews.id",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KeERVanlodVNIcnJjZWMyYTFXUUEyWmVHcmE2SGZiZHRkeGRTVDlkY2U2U3ZDa2ViTVNtWDV6TGE4MEplbzJuazMxTGcxMFY5TVdWbjVlNFFtOGU1ZmVtdlpFMlJZUVpya1F6X3pVOGg?oc=5"
+            },
+            {
+              "source": "Traders Union",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFraTVzbGhDZlo5bXdpTkJ4UTNZVFdWVUtGRDB2TFlZMUVrWTEwaVJCTm8zWDlUYTFlZk9nNUtsYWNoSXEtTkRjM2pwMUFBSzJfTmxvY1FBYzkteC1BQjJDZUJ4bmJHYzRnMVRJb0JHcENvX2o5VWRXbk5sVkxqLUJBU1M?oc=5"
+            }
+          ],
+          "summary": "US Federal Reserve Holds Interest Rates Steady at 3.5 Percent sekbernews.id…",
+          "status": "NEW"
+        }
+      ]
+    },
+    "realestate": {
+      "title": "Real Estate Intelligence",
+      "stories": [
+        {
+          "id": "bab097f3139761c3",
+          "title": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5",
+          "source": "citybiz",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T12:40:15.000Z",
+          "snippet": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market citybiz",
+          "score": 43,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "73ab51d83d0a472a",
+          "cluster_id": "d1e4fd2ac915",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "citybiz",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5"
+            }
+          ],
+          "summary": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market citybiz…",
+          "status": "NEW"
+        },
+        {
+          "id": "b136f464cfe80b76",
+          "title": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T09:38:21.000Z",
+          "snippet": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income Property Week",
+          "score": 37.4,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            },
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "ca18236c32095ce2",
+          "cluster_id": "b2da426a5e1b",
+          "duplicate_count": 3,
+          "also_in": [
+            "TipRanks"
+          ],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5"
+            },
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQktNWHRJRF9RMHlERXJTejdTT0dSNU84bEw2YUlZLW5YNno0Z1RWNjVCN1F3dWcwSFlPWlYxT1ptaWwtcUs3S3ZqVXJiYjh5S19hd3VMdzdUR0I1NEFiQlpycDZLYThvVG85LXhZSy14eDZxV3Yya2R2WHVxNUlwVS15VGlvVTUwZldoYlZVcEpwUEFWZFBYMlN4ektrXzBURDZPU2tPUTdncWRfRlhoeFZZOUZ2LUs3eVBDb1h1cklEYlR6TnZlaXU1aWlEZFBf?oc=5"
+            },
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmN0djIyckhXZHplYXRkbjUzb3YzVDBXdVZXQnkxZmkwM0dNRlpFMWVIMkV5eFIxRkl1WVllX3poTE0xUG41ZHpLdWRsUU5MOFpXREhpWlNIREhxYkNkejJSeHdFTDJTWlpwTWhKQS1iaEdHeUZwV2RJNmxjZW9vdVYwZ05QRWtQbjBSS3dobEVCRkdQMlFLaU9JRTlJeDNvYmJvYjcya2pkRzVVYkk4cFF4VWN1U0tHYngyUXo5czZSUQ?oc=5"
+            }
+          ],
+          "summary": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income Property Week…",
+          "status": "NEW"
+        },
+        {
+          "id": "b4bd4fc1dad637ed",
+          "title": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5",
+          "source": "costar.com",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T08:25:33.000Z",
+          "snippet": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition costar.com",
+          "score": 34.8,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "4c0eb5baa3eeeb99",
+          "cluster_id": "d99f462b7b55",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "costar.com",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5"
+            }
+          ],
+          "summary": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition costar.com…",
+          "status": "NEW"
+        },
+        {
+          "id": "83a7ab6123bc6e07",
+          "title": "Wrexham on the hunt for developer for £30m office",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktzMEQ0UVl2eFFBc2dHaXNLeUNNSnNIUmt6RnRta0VhLWlJRzNLamVtbDBMZjJreENOUTE2MGRlNlB2Mllqcnh1Q0NLckhZQUZnRnkzNWxVUVRxUUc4cnFnTURtNnpqUTlnWFJMQ1c4dWxsMTE0VUEzWmJQYzVGS0gwWXlBcUY4Mnc?oc=5",
+          "source": "Place North West",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T10:09:00.000Z",
+          "snippet": "Wrexham on the hunt for developer for £30m office Place North West",
+          "score": 32,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "79f079b86e83e22b",
+          "cluster_id": "800e900e2e02",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Place North West",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktzMEQ0UVl2eFFBc2dHaXNLeUNNSnNIUmt6RnRta0VhLWlJRzNLamVtbDBMZjJreENOUTE2MGRlNlB2Mllqcnh1Q0NLckhZQUZnRnkzNWxVUVRxUUc4cnFnTURtNnpqUTlnWFJMQ1c4dWxsMTE0VUEzWmJQYzVGS0gwWXlBcUY4Mnc?oc=5"
+            }
+          ],
+          "summary": "Wrexham on the hunt for developer for £30m office Place North West…",
+          "status": "NEW"
+        },
+        {
+          "id": "5ec192346bcaf571",
+          "title": "Prologis’s takeover of SEGRO could create ‘more dynamic’ REIT sector",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2NpNHE4ZmtCRE5aeVFIdDN3aW5MNmVYVXZMX0ZUTzBTb0V5MXg1Z2U4ODB2V1l1T3hRWEt2Q2hkbGpJWVZHVHR5V2pEcGZ4NUViOVVWQkNvQ3EzYmYzM3A1WlFfWmNwemxyOWNsOTY0a09Dd01MWmVoR1drNmYtSkxSU1pSZVZtYktreVZUeVZadjNuVXJNbjRUUVVDWDZHWHNkQg?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-29T09:17:50.000Z",
+          "snippet": "Prologis’s takeover of SEGRO could create ‘more dynamic’ REIT sector Property Week",
+          "score": 32,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "0b8d6730873cb707",
+          "cluster_id": "bdbf1be3d623",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2NpNHE4ZmtCRE5aeVFIdDN3aW5MNmVYVXZMX0ZUTzBTb0V5MXg1Z2U4ODB2V1l1T3hRWEt2Q2hkbGpJWVZHVHR5V2pEcGZ4NUViOVVWQkNvQ3EzYmYzM3A1WlFfWmNwemxyOWNsOTY0a09Dd01MWmVoR1drNmYtSkxSU1pSZVZtYktreVZUeVZadjNuVXJNbjRUUVVDWDZHWHNkQg?oc=5"
+            }
+          ],
+          "summary": "Prologis’s takeover of SEGRO could create ‘more dynamic’ REIT sector Property Week…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-29T12:56:43.837Z"
+        },
+        {
+          "id": "3e4009859d8b9b6e",
+          "title": "PHP Healthcare REIT Rules Out Equity Raise To Tackle Debt Burden",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVN3dVNUMl82ZkVNQmU1SnE3dzJqYzlsTWZjNURqdXhKcU5ZcW1WbnlfUUZnTXNqU09BVnlhTWdIUWdTeDNiNmxQR29LXzcydzFCYm9Sckl3ZDQyRlNwRHJpanZxQXF0azRlOUdPUTE3RUMwWW1wRVN5SDY5VGFubHpTbUppWU0zZVo3NTY0djhudHVHMGN1LQ?oc=5",
+          "source": "londoninsider.co.uk",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T06:02:05.000Z",
+          "snippet": "PHP Healthcare REIT Rules Out Equity Raise To Tackle Debt Burden londoninsider.co.uk",
+          "score": 31.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "ae8ba801a4aefe00",
+          "cluster_id": "02b8daef5dc2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "londoninsider.co.uk",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVN3dVNUMl82ZkVNQmU1SnE3dzJqYzlsTWZjNURqdXhKcU5ZcW1WbnlfUUZnTXNqU09BVnlhTWdIUWdTeDNiNmxQR29LXzcydzFCYm9Sckl3ZDQyRlNwRHJpanZxQXF0azRlOUdPUTE3RUMwWW1wRVN5SDY5VGFubHpTbUppWU0zZVo3NTY0djhudHVHMGN1LQ?oc=5"
+            }
+          ],
+          "summary": "PHP Healthcare REIT Rules Out Equity Raise To Tackle Debt Burden londoninsider.co.uk…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "d0505d3d5c7bc7f1",
+          "title": "Nairobi County Unleashes Six Debt Recovery Cartels on Land Rates Defaulters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHVUdW4yVTgxN2dLOFhwWEQ4Z1lHQ3ZidjA3N1lpZWR2SUJEeTlPQ2NEVV9qeWlmRGZwamZKM2JBREJWT2V3NkU5Y1k5MGZLa2cwU3dJaS0tcF82QU1yWDNyMlBraHVZR3RWSV80a3kxQ1RXVm54Tm9OLUIwYjVWaWJDZXBiaXZrTDZGbFJsTGRjN1VUV1RJamdEWERaNm16bHdhUXhpRldOMjQ3VEE?oc=5",
+          "source": "streamlinefeed.co.ke",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T11:00:56.000Z",
+          "snippet": "Nairobi County Unleashes Six Debt Recovery Cartels on Land Rates Defaulters streamlinefeed.co.ke",
+          "score": 31.4,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "c5c5c24c854dbf34",
+          "cluster_id": "4b29cb2cfdec",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "streamlinefeed.co.ke",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHVUdW4yVTgxN2dLOFhwWEQ4Z1lHQ3ZidjA3N1lpZWR2SUJEeTlPQ2NEVV9qeWlmRGZwamZKM2JBREJWT2V3NkU5Y1k5MGZLa2cwU3dJaS0tcF82QU1yWDNyMlBraHVZR3RWSV80a3kxQ1RXVm54Tm9OLUIwYjVWaWJDZXBiaXZrTDZGbFJsTGRjN1VUV1RJamdEWERaNm16bHdhUXhpRldOMjQ3VEE?oc=5"
+            }
+          ],
+          "summary": "Nairobi County Unleashes Six Debt Recovery Cartels on Land Rates Defaulters streamlinefeed.co.ke…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "1c1af352b45e2c81",
+          "title": "A project led by Nissan explores integrated energy technologies to redefine EV charging",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHJCeDhPTmhOdllZM0tGSmJCaU5nY0RqeFlKQVNTVmVHVldBaW04MFVrdXl5WmpWVTJsOVZjU0lRTEtOU3gtOXhUUjRIYjBoU2dxLU9tUWZWa2dSZFdScnVOa0xRSUlobDFHOFdzbjlwZDljc1RKLU9nZEo5MnZMWVFzTXJSMXhTZmk2WGpKd1p6MlVnb2ctWGg4SnVpMHloUHg1dnVhYUxxWFd2QncwdzlyTQ?oc=5",
+          "source": "Engineer Live",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T11:30:00.000Z",
+          "snippet": "A project led by Nissan explores integrated energy technologies to redefine EV charging Engineer Live",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "386995e746ededc8",
+          "cluster_id": "1e775c59cbb4",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Engineer Live",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHJCeDhPTmhOdllZM0tGSmJCaU5nY0RqeFlKQVNTVmVHVldBaW04MFVrdXl5WmpWVTJsOVZjU0lRTEtOU3gtOXhUUjRIYjBoU2dxLU9tUWZWa2dSZFdScnVOa0xRSUlobDFHOFdzbjlwZDljc1RKLU9nZEo5MnZMWVFzTXJSMXhTZmk2WGpKd1p6MlVnb2ctWGg4SnVpMHloUHg1dnVhYUxxWFd2QncwdzlyTQ?oc=5"
+            }
+          ],
+          "summary": "A project led by Nissan explores integrated energy technologies to redefine EV charging Engineer Live…",
+          "status": "NEW"
+        },
+        {
+          "id": "0dfa940817092ca3",
+          "title": "Does Shopify’s (SHOP) AI Commerce Push Quietly Redefine Its Long-Term Platform Moat?",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlBodmt4NkpRVVhZS1JJWFNoZEU0QXJCYWNsWkJJWDM4TDEyZF85cGtORXF3bVdVWkFrWXA2RW8xNjNSS1czT3JIZHNpZnU5TllqVkdXWGd1OVYxX3poLWxQZTRaa0VUS1Z6b2N1aEJLWEQwczVhMjlJUjMzckxyaDJfZTg3VXdkdElnTFo1dTVPYUJGM3U4RWZNNTlWYXVyRy1meURzR1NYQVpXdnZaOWxkQ2ZYNF9zRldGM2pjX0VJQ2hyQ3N3d0tR0gHKAUFVX3lxTE02UGh2a3g2SlFVWFlLUklYU2hkRTRBckJhY2xaQklYMzhMMTJkXzlwa05FcXdtV1VaQWtZcDZFbzE2M1JLVzNPckhkc2lmdTlOWWpWR1dYZ3U5VjFfemgtbFBlNFprRVRLVnpvY3VoQktYRDBzNWEyOUlSMzNyTHJoMl9lODdVd2R0SWdMWjV1NU9hQkYzdThFZk01OVZhdXJHLWZ5RHNHU1hBWld2dlo5bGRDZlg0X3NGV0YzamNfRUlDaHJDc3d3S1E?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T10:40:37.000Z",
+          "snippet": "Does Shopify’s (SHOP) AI Commerce Push Quietly Redefine Its Long-Term Platform Moat? simplywall.st",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "f857c9213bb6cbb3",
+          "cluster_id": "8b8e204d0f0e",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlBodmt4NkpRVVhZS1JJWFNoZEU0QXJCYWNsWkJJWDM4TDEyZF85cGtORXF3bVdVWkFrWXA2RW8xNjNSS1czT3JIZHNpZnU5TllqVkdXWGd1OVYxX3poLWxQZTRaa0VUS1Z6b2N1aEJLWEQwczVhMjlJUjMzckxyaDJfZTg3VXdkdElnTFo1dTVPYUJGM3U4RWZNNTlWYXVyRy1meURzR1NYQVpXdnZaOWxkQ2ZYNF9zRldGM2pjX0VJQ2hyQ3N3d0tR0gHKAUFVX3lxTE02UGh2a3g2SlFVWFlLUklYU2hkRTRBckJhY2xaQklYMzhMMTJkXzlwa05FcXdtV1VaQWtZcDZFbzE2M1JLVzNPckhkc2lmdTlOWWpWR1dYZ3U5VjFfemgtbFBlNFprRVRLVnpvY3VoQktYRDBzNWEyOUlSMzNyTHJoMl9lODdVd2R0SWdMWjV1NU9hQkYzdThFZk01OVZhdXJHLWZ5RHNHU1hBWld2dlo5bGRDZlg0X3NGV0YzamNfRUlDaHJDc3d3S1E?oc=5"
+            }
+          ],
+          "summary": "Does Shopify’s (SHOP) AI Commerce Push Quietly Redefine Its Long-Term Platform Moat?…",
+          "status": "NEW"
+        },
+        {
+          "id": "02837558cb56369a",
+          "title": "Beating the Heat: Turkish Coasts Redefine the Summer Getaway Experience",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaERWX1B1RTdQNXJLREdXOHp2M2J1NVl6U041ZDM0SzEtRHpQR2p4MDY4a0FpYmhPUzBOZE5FNTRERVJsSk5GQzlWanZYZEJKYTRDZlVxNjg3Z3NMQmNQT3gyTTdhYkV0MTRSMmFQZ1BaREFHNWYwSXJNVWxlT1ZYX2t2a0RpVFdzQVJvV2dsdTNNMmxHanlMdmZ4emVDZw?oc=5",
+          "source": "Trav Talk",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T10:10:10.000Z",
+          "snippet": "Beating the Heat: Turkish Coasts Redefine the Summer Getaway Experience Trav Talk",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "95c9a3e5658fb3a5",
+          "cluster_id": "e3020f8677af",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Trav Talk",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaERWX1B1RTdQNXJLREdXOHp2M2J1NVl6U041ZDM0SzEtRHpQR2p4MDY4a0FpYmhPUzBOZE5FNTRERVJsSk5GQzlWanZYZEJKYTRDZlVxNjg3Z3NMQmNQT3gyTTdhYkV0MTRSMmFQZ1BaREFHNWYwSXJNVWxlT1ZYX2t2a0RpVFdzQVJvV2dsdTNNMmxHanlMdmZ4emVDZw?oc=5"
+            }
+          ],
+          "summary": "Beating the Heat: Turkish Coasts Redefine the Summer Getaway Experience Trav Talk…",
+          "status": "NEW"
+        },
+        {
+          "id": "f29a4c9befb57153",
+          "title": "Aster Hospitals and CARE Hospitals Launch 'Pranaam' to Redefine Elder Care",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSjlnWWV4MWE4ZU44TFd4eU10bE5mRGZvTkZScE5jdlF6N3I2OWtfX0t6MEhxaEFCWHVvR2R0WGFqRFUxYWQ3RjctdHFJM2NKM0lLS043RmszcHV5azFmTGRWa015ZkluMWZyN3pTQVFJWkhYZjhtdVRiTmRXUVJOQk5JSWtBWE1OM240Mi0zRlJ2RDg1Vml1dDZtbi1jNzdrSkdNMWR4M0RTNHZJYUF3Z0tWV3Q3UVUwNkdyY21vbmRPNXVITHVzeERvV1cwZVc1SzdQcTdzNlk5cTBFVmZiOXlROGpCNldP0gHuAUFVX3lxTFBIR2U2bWE1TEtFbjdSS3Rsa2c4dWtZNHp2bkNHWmVweUpQS2d2ZUlKV2lPZ3k5YjRPWWF2OV9BaEdNR0V5bDRPZGVvS1lJbmRlOUJDSE90UUxaaUdMeG5ROEdwLTltZWJ4QU1LYUFrLVl5cHZUMDBFYzlERkpEZXBGSHl6em9VdXFnNTB4bGxEYlUwME5ob3FGbmROVEFpVmhNWmlMN0dINWJzeGQxZnNoQ3dfZzdUY0lDQlota0RyUVlNWWw0aUhkME1hWHNmdzFFUG1SOGRrWmZkLWRMZDNpZ044V0tXa3FLQjI5bHc?oc=5",
+          "source": "Business Standard",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T10:25:16.000Z",
+          "snippet": "Aster Hospitals and CARE Hospitals Launch 'Pranaam' to Redefine Elder Care Business Standard",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "cf2f642df97b05ed",
+          "cluster_id": "ea42c4463b74",
+          "duplicate_count": 3,
+          "also_in": [
+            "ANI News",
+            "tripurastarnews.com"
+          ],
+          "all_links": [
+            {
+              "source": "Business Standard",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSjlnWWV4MWE4ZU44TFd4eU10bE5mRGZvTkZScE5jdlF6N3I2OWtfX0t6MEhxaEFCWHVvR2R0WGFqRFUxYWQ3RjctdHFJM2NKM0lLS043RmszcHV5azFmTGRWa015ZkluMWZyN3pTQVFJWkhYZjhtdVRiTmRXUVJOQk5JSWtBWE1OM240Mi0zRlJ2RDg1Vml1dDZtbi1jNzdrSkdNMWR4M0RTNHZJYUF3Z0tWV3Q3UVUwNkdyY21vbmRPNXVITHVzeERvV1cwZVc1SzdQcTdzNlk5cTBFVmZiOXlROGpCNldP0gHuAUFVX3lxTFBIR2U2bWE1TEtFbjdSS3Rsa2c4dWtZNHp2bkNHWmVweUpQS2d2ZUlKV2lPZ3k5YjRPWWF2OV9BaEdNR0V5bDRPZGVvS1lJbmRlOUJDSE90UUxaaUdMeG5ROEdwLTltZWJ4QU1LYUFrLVl5cHZUMDBFYzlERkpEZXBGSHl6em9VdXFnNTB4bGxEYlUwME5ob3FGbmROVEFpVmhNWmlMN0dINWJzeGQxZnNoQ3dfZzdUY0lDQlota0RyUVlNWWw0aUhkME1hWHNmdzFFUG1SOGRrWmZkLWRMZDNpZ044V0tXa3FLQjI5bHc?oc=5"
+            },
+            {
+              "source": "ANI News",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXVhNm42Q19yQkhfYkQ4UDJQTEx5TmJVd2pSQklZaUxJdFI0RzJUOGFaOXI0bXNFbEhXMTdCOE02eEZ6NEU0OFJoZHFOalpyTV82Z1I0ZFhtSU9HUVNEUUJvWENMQWlmV0hoTkZaSXlPZlFVQ2lXSENRZFRCblhOSTZoWW9YRlpyN2hfUXUyQnhpdU5yQ3JncWpJXzhnVmNXM25leFhTSGk1NTFsT1pjMnpWRm1PQlJ0X3FLb0JVclc?oc=5"
+            },
+            {
+              "source": "tripurastarnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMndGZVdScHdTb0Q0dUQ1UWNBbndHWGw5ZXBfSXpONkRwbjBnY3ZLSl9vbm5qeF95NHhCd0gtV3d4UUhKaG5xQTRyMWF0Y29NWTBaNTI2MW5kMDhuUF84eHBhYk16MS13RFZON0dFaHlPODM1QzN4QjJvX2JuM05GZG9YLThGZWlGUU80bU1kRE02d3VybEFoVmM4bS1kMUNTRnk5c28wOGk?oc=5"
+            }
+          ],
+          "summary": "Aster Hospitals and CARE Hospitals Launch 'Pranaam' to Redefine Elder Care Business Standard…",
+          "status": "NEW"
+        },
+        {
+          "id": "f17145e840229757",
+          "title": "IonQ's Vertical Integration Bet: A $1.8 Billion Pivot That Could Redefine the Quantum Race",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLTl0LW8xb04yeEFfQXNSZWdMMVZkNmFhR1ZTOHFGb3RjRDZFNFZONlNBRG5VQ1lmLVNxajl1bTdtQ3hMWWJ0cjhsMnNCU3ZvZGhuY08xOWR2VUpXVU0xTEJsUi1GYzkwQkF6Ulk2SHRaTkZfWG1ZZklSb3Bxd0Jza0JJTnpTYVhNRmhNcWpuWkJhOXVTUXNMY0NjbHNZX09lS2VwWUN4VVZuX0Z1NkdGTTBFd3luTW1LdjB4SjBWb3AtdkpWYW1rRktMUEttc01relBKWEU3dkdhTkE?oc=5",
+          "source": "AD HOC NEWS",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T12:11:53.000Z",
+          "snippet": "IonQ's Vertical Integration Bet: A $1.8 Billion Pivot That Could Redefine the Quantum Race AD HOC NEWS",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "0a514d0b267c2a4b",
+          "cluster_id": "924fa58e27d8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "AD HOC NEWS",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLTl0LW8xb04yeEFfQXNSZWdMMVZkNmFhR1ZTOHFGb3RjRDZFNFZONlNBRG5VQ1lmLVNxajl1bTdtQ3hMWWJ0cjhsMnNCU3ZvZGhuY08xOWR2VUpXVU0xTEJsUi1GYzkwQkF6Ulk2SHRaTkZfWG1ZZklSb3Bxd0Jza0JJTnpTYVhNRmhNcWpuWkJhOXVTUXNMY0NjbHNZX09lS2VwWUN4VVZuX0Z1NkdGTTBFd3luTW1LdjB4SjBWb3AtdkpWYW1rRktMUEttc01relBKWEU3dkdhTkE?oc=5"
+            }
+          ],
+          "summary": "IonQ's Vertical Integration Bet: A $1.8 Billion Pivot That Could Redefine the Quantum Race AD HOC NEWS…",
+          "status": "NEW"
+        },
+        {
+          "id": "9efd8adf11cff169",
+          "title": "Top Pinoy chefs redefine local dishes with blueberries",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpR0p4ODJmOFNZZHNCM0xHbDBGbmFCM3VXZ2ZCVG5PMGduaWozY1ZqZ2tETzRlbEV5YjJQcnZ1ejI5UmxfUmJHN0V2bGxIZ0Jw?oc=5",
+          "source": "Philippine News Agency",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T12:36:16.000Z",
+          "snippet": "Top Pinoy chefs redefine local dishes with blueberries Philippine News Agency",
+          "score": 31,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "2fc3168b4fc10fa4",
+          "cluster_id": "36f4c29411e9",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Philippine News Agency",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpR0p4ODJmOFNZZHNCM0xHbDBGbmFCM3VXZ2ZCVG5PMGduaWozY1ZqZ2tETzRlbEV5YjJQcnZ1ejI5UmxfUmJHN0V2bGxIZ0Jw?oc=5"
+            }
+          ],
+          "summary": "Top Pinoy chefs redefine local dishes with blueberries Philippine News Agency…",
+          "status": "NEW"
+        },
+        {
+          "id": "fd9a05953c8fc1e0",
+          "title": "SEGRO say ‘no’ to dust compensation for residents affected by development",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3JfdVU1NXY4d05uVldabHBvakR1bVBEaVRsMnlmbjN4MGRpQVh6ell2eGVncGc4WEw1Q0Q3bTB3Vl9xWGtubkFLbDFSQzBaOG9WWmt2b1AxT2RaQTRsSmlsTTNiSXpzUGZPemlhUjFGV1U5eEJseWZPZ0Z1YVhpaEZIQ2NDM0lwQUZkY3dwaWQwcW9ScDFOVXIyZjhjb1ZkSzZ6OHVQNG8wdGFJc1E?oc=5",
+          "source": "St Albans Times",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T06:23:06.000Z",
+          "snippet": "SEGRO say ‘no’ to dust compensation for residents affected by development St Albans Times",
+          "score": 30,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "dbca857facbe1be5",
+          "cluster_id": "5903d556ff01",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "St Albans Times",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3JfdVU1NXY4d05uVldabHBvakR1bVBEaVRsMnlmbjN4MGRpQVh6ell2eGVncGc4WEw1Q0Q3bTB3Vl9xWGtubkFLbDFSQzBaOG9WWmt2b1AxT2RaQTRsSmlsTTNiSXpzUGZPemlhUjFGV1U5eEJseWZPZ0Z1YVhpaEZIQ2NDM0lwQUZkY3dwaWQwcW9ScDFOVXIyZjhjb1ZkSzZ6OHVQNG8wdGFJc1E?oc=5"
+            }
+          ],
+          "summary": "SEGRO say ‘no’ to dust compensation for residents affected by development St Albans Times…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "86c0f034702ba31b",
+          "title": "Rambus (RMBS): Do Record Q2 Results And Buybacks Redefine Its AI Memory Investment Case?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTk1JQmVIYWYtT1haRzNIcDNEalpvYVhqODFKSE9FcWZaR01VY1VHbHlLRDZSbms4NlRZVHk1cnlHVFEybzNfeVFlRXc5WU9ydXNleUMwZExXN215UElxZDVpa3FQT1ZsVTRyaXUtcUhMbGh4MW5EN0JucjRHZjl5Tm1acmtwZ1R4YVY3Zk9ucmZuak5jSW90ek01dnFHVTVXSVdaSDZqMXJHSG5Td1A0ejR5amc0VHdjbndmeGtBSzJoTFFmcEd3OWJ0QzZzTEg30gHQAUFVX3lxTE9OTUlCZUhhZi1PWFpHM0hwM0RqWm9hWGo4MUpIT0VxZlpHTVVjVUdseUtENlJuazg2VFlUeTVyeUdUUTJvM195UWVFdzlZT3J1c2V5QzBkTFc3bXlQSXFkNWlrcVBPVmxVNHJpdS1xSExsaHgxbkQ3Qm5yNEdmOXlObVpya3BnVHhhVjdmT25yZm5qTmNJb3R6TTV2cUdVNVdJV1pINmoxckdIblN3UDR6NHlqZzRUd2Nud2Z4a0FLMmhMUWZwR3c5YnRDNnNMSDc?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T12:53:01.000Z",
+          "snippet": "Rambus (RMBS): Do Record Q2 Results And Buybacks Redefine Its AI Memory Investment Case? simplywall.st",
+          "score": 29.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "2352f0a0d90ff425",
+          "cluster_id": "80900c5253cd",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTk1JQmVIYWYtT1haRzNIcDNEalpvYVhqODFKSE9FcWZaR01VY1VHbHlLRDZSbms4NlRZVHk1cnlHVFEybzNfeVFlRXc5WU9ydXNleUMwZExXN215UElxZDVpa3FQT1ZsVTRyaXUtcUhMbGh4MW5EN0JucjRHZjl5Tm1acmtwZ1R4YVY3Zk9ucmZuak5jSW90ek01dnFHVTVXSVdaSDZqMXJHSG5Td1A0ejR5amc0VHdjbndmeGtBSzJoTFFmcEd3OWJ0QzZzTEg30gHQAUFVX3lxTE9OTUlCZUhhZi1PWFpHM0hwM0RqWm9hWGo4MUpIT0VxZlpHTVVjVUdseUtENlJuazg2VFlUeTVyeUdUUTJvM195UWVFdzlZT3J1c2V5QzBkTFc3bXlQSXFkNWlrcVBPVmxVNHJpdS1xSExsaHgxbkQ3Qm5yNEdmOXlObVpya3BnVHhhVjdmT25yZm5qTmNJb3R6TTV2cUdVNVdJV1pINmoxckdIblN3UDR6NHlqZzRUd2Nud2Z4a0FLMmhMUWZwR3c5YnRDNnNMSDc?oc=5"
+            }
+          ],
+          "summary": "Rambus (RMBS): Do Record Q2 Results And Buybacks Redefine Its AI Memory Investment Case?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "9b22912977817d76",
+          "title": "Long Harbour wins £160m NatWest loan for two London BTR assets",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWN1dnEtNmRqdUFiSGpmSVlud0QzRndIRllWZkFzRkhyejRYMlVmdFNVUm50Skt2cE1FQS1sdk1PYlA4TEJZQmJoNEM3dExoY19KNGx1VVdoaHZIQzRfQ0dWVzRZZkMtNWxUQi1xX3p4ekpneUNSc01ZeEJwd0R6OUZUSy1KenNsNFRDYXo1eWI?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T09:27:24.000Z",
+          "snippet": "Long Harbour wins £160m NatWest loan for two London BTR assets Property Week",
+          "score": 29.3,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "03efd35564e06b7b",
+          "cluster_id": "e22e5f6117c9",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWN1dnEtNmRqdUFiSGpmSVlud0QzRndIRllWZkFzRkhyejRYMlVmdFNVUm50Skt2cE1FQS1sdk1PYlA4TEJZQmJoNEM3dExoY19KNGx1VVdoaHZIQzRfQ0dWVzRZZkMtNWxUQi1xX3p4ekpneUNSc01ZeEJwd0R6OUZUSy1KenNsNFRDYXo1eWI?oc=5"
+            }
+          ],
+          "summary": "Long Harbour wins £160m NatWest loan for two London BTR assets Property Week…",
+          "status": "NEW"
+        },
+        {
+          "id": "c71ad74a41184224",
+          "title": "SEGRO reports strong H1 performance amid positive occupier markets momentum",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObG53Y2dBZm5UMjRyTFhzNzlEZ2hzb1R5SUo3MDRaUkROTGhqS1NNSnZBaXFPenA5XzZmUVJEQlVCOUswYTQ4elpoY05xWG5ZXzJwOW9JaXk1WThxZjdhR2dMdmVHNGhaLWluSTZIMmVoMVNZN21fbzlWX2lGNGVrdm9neHktbEpUcVQyc0pRaThSX01SUUlVbVhHOTQ4YlBPdTZFZ0lCb1Z4dnhSVjJTaFVB?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T10:00:11.000Z",
+          "snippet": "SEGRO reports strong H1 performance amid positive occupier markets momentum Property Week",
+          "score": 29,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "2767dfd6fdb7f8a7",
+          "cluster_id": "c382010d56c3",
+          "duplicate_count": 4,
+          "also_in": [
+            "Property Week"
+          ],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObG53Y2dBZm5UMjRyTFhzNzlEZ2hzb1R5SUo3MDRaUkROTGhqS1NNSnZBaXFPenA5XzZmUVJEQlVCOUswYTQ4elpoY05xWG5ZXzJwOW9JaXk1WThxZjdhR2dMdmVHNGhaLWluSTZIMmVoMVNZN21fbzlWX2lGNGVrdm9neHktbEpUcVQyc0pRaThSX01SUUlVbVhHOTQ4YlBPdTZFZ0lCb1Z4dnhSVjJTaFVB?oc=5"
+            },
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVk0SzNmRm9GZXhybU8weThWVUhaZWtoMkNFTEZEM21hcVBTbW9ydEdTM3dQYWpTUUxXUU90S2hxYU8tTHZBN19tMmNicXpYeHZnUFpyVnFlR0llaFFGTnlmUUNYOEV1TERyTTlJeUIxOTY0SjZXRlgwbklKVFM3cWIzVTd1R2EzVF9ILWpsd0VjXy1sUjB4amp1X3V6SWE5U0JfdVp3?oc=5"
+            },
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVk0SzNmRm9GZXhybU8weThWVUhaZWtoMkNFTEZEM21hcVBTbW9ydEdTM3dQYWpTUUxXUU90S2hxYU8tTHZBN19tMmNicXpYeHZnUFpyVnFlR0llaFFGTnlmUUNYOEV1TERyTTlJeUIxOTY0SjZXRlgwbklKVFM3cWIzVTd1R2EzVF9ILWpsd0VjXy1sUjB4amp1X3V6SWE5U0JfdVp3?oc=5"
+            },
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObG53Y2dBZm5UMjRyTFhzNzlEZ2hzb1R5SUo3MDRaUkROTGhqS1NNSnZBaXFPenA5XzZmUVJEQlVCOUswYTQ4elpoY05xWG5ZXzJwOW9JaXk1WThxZjdhR2dMdmVHNGhaLWluSTZIMmVoMVNZN21fbzlWX2lGNGVrdm9neHktbEpUcVQyc0pRaThSX01SUUlVbVhHOTQ4YlBPdTZFZ0lCb1Z4dnhSVjJTaFVB?oc=5"
+            }
+          ],
+          "summary": "SEGRO reports strong H1 performance amid positive occupier markets momentum Property Week…",
+          "status": "NEW"
+        },
+        {
+          "id": "10abdd15e2a0b5ae",
+          "title": "Why SEGRO (LSE:SGRO) And Land Securities (LSE:LAND) Matter As Rates Stay In View",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUYwSlU3RTJELVZjbDhkVzl3OFRxUHNtTUJ4aXFnV1hvbGtnTXhQX2ZjcFMxenJmWmxnUDJqTzk2eWNySHNkcVE4bzJXMU5lT3owVEF2RVljRmxUdnJxdVYzVVZRN0didXZUYnowNkd6dnk2MjVrQVI5dGZjdUQ4bEx0RmpmbFQ4dVpRUm9DQzZHY3BoU08zX1hxR212UmxDeUNwdlU3U3JoNXNoZnc0bmd3ZXQtcnBtUnQyR1h6SmZfd09IaTRKbWZIRUYxaEQ1bzRpOVUtVQ?oc=5",
+          "source": "Kalkine Media",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T11:05:00.000Z",
+          "snippet": "Why SEGRO (LSE:SGRO) And Land Securities (LSE:LAND) Matter As Rates Stay In View Kalkine Media",
+          "score": 29,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a7929b4ba2f55309",
+          "cluster_id": "0e09ce085580",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine Media",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUYwSlU3RTJELVZjbDhkVzl3OFRxUHNtTUJ4aXFnV1hvbGtnTXhQX2ZjcFMxenJmWmxnUDJqTzk2eWNySHNkcVE4bzJXMU5lT3owVEF2RVljRmxUdnJxdVYzVVZRN0didXZUYnowNkd6dnk2MjVrQVI5dGZjdUQ4bEx0RmpmbFQ4dVpRUm9DQzZHY3BoU08zX1hxR212UmxDeUNwdlU3U3JoNXNoZnc0bmd3ZXQtcnBtUnQyR1h6SmZfd09IaTRKbWZIRUYxaEQ1bzRpOVUtVQ?oc=5"
+            }
+          ],
+          "summary": "Why SEGRO (LSE:SGRO) And Land Securities (LSE:LAND) Matter As Rates Stay In View Kalkine Media…",
+          "status": "NEW"
+        },
+        {
+          "id": "5a4cfd018c2621d0",
+          "title": "SEGRO Confirms Total Voting Rights Following Share Capital Update",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkVBZTJXNXBTTzRJLTdHeW4wempJMHpXYTVSd1BOVHJBa2l1aWQzaDM1NkdCZi1DMnF3MlF6cF9IUUtTRzNYWkRtUldlLUhRbmF1ekJZSFBGSjJkTXBYdHRfSml5NnA0NzktMDh4UmRncWhhYlZyOEstelZRZ2VoMVFzWFFGc3hnU1EzLWF5NzNJZ001RGpHUlZXNmxjb0w4cE1mRDY1c0lVNjhpRmQwSFJaVktEYUtWSngw?oc=5",
+          "source": "TipRanks",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T12:07:01.000Z",
+          "snippet": "SEGRO Confirms Total Voting Rights Following Share Capital Update TipRanks",
+          "score": 29,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "94b9f7c25426f6e4",
+          "cluster_id": "776500d22697",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkVBZTJXNXBTTzRJLTdHeW4wempJMHpXYTVSd1BOVHJBa2l1aWQzaDM1NkdCZi1DMnF3MlF6cF9IUUtTRzNYWkRtUldlLUhRbmF1ekJZSFBGSjJkTXBYdHRfSml5NnA0NzktMDh4UmRncWhhYlZyOEstelZRZ2VoMVFzWFFGc3hnU1EzLWF5NzNJZ001RGpHUlZXNmxjb0w4cE1mRDY1c0lVNjhpRmQwSFJaVktEYUtWSngw?oc=5"
+            }
+          ],
+          "summary": "SEGRO Confirms Total Voting Rights Following Share Capital Update TipRanks…",
+          "status": "NEW"
+        },
+        {
+          "id": "e3833015e49f52f0",
+          "title": "SEGRO Adds Small Tranche of Shares to LSE Listing",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdNUlF0YmlNbmRUUlJWMldIUGQwLUxkSGtRTFI1eGZQY1d3eFVxT2JfMEp0Qm9uOW9MQlFiaHYwRlZEZk1EaVljZzVZMTJVZ2xWd1Y4Y1lsVGpVNGRNVzRpMzRTUGd1eV93TXIwY0M1dGxJdGw5M0N0Nl8xaEx1TzVfZ0Y3ZWJDaFV1Nm12UWhoR3dkOG1ITmhXR3lVQTVxYTZn?oc=5",
+          "source": "TipRanks",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T12:07:02.000Z",
+          "snippet": "SEGRO Adds Small Tranche of Shares to LSE Listing TipRanks",
+          "score": 29,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "30868310a427ee15",
+          "cluster_id": "b1ab038aaff5",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdNUlF0YmlNbmRUUlJWMldIUGQwLUxkSGtRTFI1eGZQY1d3eFVxT2JfMEp0Qm9uOW9MQlFiaHYwRlZEZk1EaVljZzVZMTJVZ2xWd1Y4Y1lsVGpVNGRNVzRpMzRTUGd1eV93TXIwY0M1dGxJdGw5M0N0Nl8xaEx1TzVfZ0Y3ZWJDaFV1Nm12UWhoR3dkOG1ITmhXR3lVQTVxYTZn?oc=5"
+            }
+          ],
+          "summary": "SEGRO Adds Small Tranche of Shares to LSE Listing TipRanks…",
+          "status": "NEW"
+        },
+        {
+          "id": "b0012baef8d9d6a7",
+          "title": "EBR Systems (ASX:EBR) Bets Leadless Heart-Pacing Technology Can Redefine a Major Cardiac Market",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzhVNTlEWEdiYlFOMmxmTUJXcXFRZmFTSVhPUzRmb3pTSlJWaHdZQ3dpV2pBdDRwSHAtUnVlbmtna05qNXpKMTk2X2xsbzBPa211UXlLaWFnV0dVdlkycHNZZ0VYdDF6Tml0QWVNTDR2bDVjaUx5ZURDQzlvRkZ0aWVqQzZkZWZjd2c5Tm9mQmRMYVhDTmxIZHJOMk1rNmJrRXdmdkp3MFdhVnFqaWRMeklaWWdzSG83RXRON3RCTy0ycG5iU25QOE9paw?oc=5",
+          "source": "Kalkine",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T07:29:00.000Z",
+          "snippet": "EBR Systems (ASX:EBR) Bets Leadless Heart-Pacing Technology Can Redefine a Major Cardiac Market Kalkine",
+          "score": 28.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "15c726692193a530",
+          "cluster_id": "217f162cd300",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzhVNTlEWEdiYlFOMmxmTUJXcXFRZmFTSVhPUzRmb3pTSlJWaHdZQ3dpV2pBdDRwSHAtUnVlbmtna05qNXpKMTk2X2xsbzBPa211UXlLaWFnV0dVdlkycHNZZ0VYdDF6Tml0QWVNTDR2bDVjaUx5ZURDQzlvRkZ0aWVqQzZkZWZjd2c5Tm9mQmRMYVhDTmxIZHJOMk1rNmJrRXdmdkp3MFdhVnFqaWRMeklaWWdzSG83RXRON3RCTy0ycG5iU25QOE9paw?oc=5"
+            }
+          ],
+          "summary": "EBR Systems (ASX:EBR) Bets Leadless Heart-Pacing Technology Can Redefine a Major Cardiac Market Kalkine…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "747ee8c905e24add",
+          "title": "IOF Detonates 700 Tons of Explosives Beneath Historic Shaqif Fortress in South Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0p3LXZzRWpPZnU1VGFBZlBoQTZ4XzVacUZDZjNlaVJDemNVQmxYRkVyekJLYW8ybTJvWU8yWUphVjdMTkRLLVYzV0NnLW84WGdNN2s1YmdpcE9idXBHZVdlN0lhWk9BOU1Ddlo5bFdMM0J2TkhmR1pTRTBtMXVrejlGMHk0TmtSeVhmaUFlamQ1Zk5lcHFaV1d2NEZVUjBfYVhCYlI1RmF0bkhUNzgxUjBtWVJiS1RpLUlRb3RhN1VpOGhmSE5saA?oc=5",
+          "source": "اسلام تايمز",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T09:13:25.000Z",
+          "snippet": "IOF Detonates 700 Tons of Explosives Beneath Historic Shaqif Fortress in South Lebanon اسلام تايمز",
+          "score": 28.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "1c05a2b55d403ee9",
+          "cluster_id": "8ce200d57ed2",
+          "duplicate_count": 2,
+          "also_in": [
+            "İlke Haber Ajansı"
+          ],
+          "all_links": [
+            {
+              "source": "اسلام تايمز",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0p3LXZzRWpPZnU1VGFBZlBoQTZ4XzVacUZDZjNlaVJDemNVQmxYRkVyekJLYW8ybTJvWU8yWUphVjdMTkRLLVYzV0NnLW84WGdNN2s1YmdpcE9idXBHZVdlN0lhWk9BOU1Ddlo5bFdMM0J2TkhmR1pTRTBtMXVrejlGMHk0TmtSeVhmaUFlamQ1Zk5lcHFaV1d2NEZVUjBfYVhCYlI1RmF0bkhUNzgxUjBtWVJiS1RpLUlRb3RhN1VpOGhmSE5saA?oc=5"
+            },
+            {
+              "source": "İlke Haber Ajansı",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQVV3YmZnNERwS1ZWemhyUEF6RHRQLTVNdWF4MEFsWV9nTWxyNFMxOTdKSzV1cGJfell3X3NVeE9PaVpLaTJIeUJhRGFDc2ZKUUZQMkxYTGdSWTZQSTVCaFFBVWRJSWo5Sm9pRjFjOGE2OFhiT3lfcUN4SWlhclJvM214SFZLdlEwa0FYdFQ1U1RBeW1NQ0lkSjFTalBoS3dYdExSXzctU3YwMjltOGRMQ0hHLTI2ZkVDZzNJU29PX2tseXRHd3pKb3oyZWJmOUpHdlFGbQ?oc=5"
+            }
+          ],
+          "summary": "IOF Detonates 700 Tons of Explosives Beneath Historic Shaqif Fortress in South Lebanon اسلام تايمز…",
+          "status": "NEW"
+        },
+        {
+          "id": "4f4ce65665f19cf6",
+          "title": "Is RPC (RES) Using Steady Dividends And Higher Sales To Redefine Its Capital Priorities?",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRURUV0tDaXAyLV83NkZMLU1FOWU3V2pUNkZkZ3ZTbkotS1VuMEZzMHpVdE1oTXZMXzlzcWtLejVLV1JPYWhHbndGTXJyY2dkYjFiOUgzeHFiVmhVZzZ6S0paNy0wUVBKTHhXSVQyNFRaLXdpQkhvZE5hM2I4WnMtalltTGhwRzBZeFFwc3JtRkxraVV3NUh3R3pUMFBTSmpaM0ZrZmkwTG14c0dfNXoxbnNWbDJUMmlGWm5xaXhB0gG-AUFVX3lxTE9FRFRXS0NpcDItXzc2RkwtTUU5ZTdXalQ2RmRndlNuSi1LVW4wRnMwelV0TWhNdkxfOXNxa0t6NUtXUk9haEdud0ZNcnJjZ2RiMWI5SDN4cWJWaFVnNnpLSlo3LTBRUEpMeFdJVDI0VFotd2lCSG9kTmEzYjhacy1qWW1MaHBHMFl4UXBzcm1GTGtpVXc1SHdHelQwUFNKalozRmtmaTBMbXhzR181ejFuc1ZsMlQyaUZabnFpeEE?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T06:35:59.000Z",
+          "snippet": "Is RPC (RES) Using Steady Dividends And Higher Sales To Redefine Its Capital Priorities? simplywall.st",
+          "score": 28.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "8b2107b9ecd01359",
+          "cluster_id": "f0157025497a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRURUV0tDaXAyLV83NkZMLU1FOWU3V2pUNkZkZ3ZTbkotS1VuMEZzMHpVdE1oTXZMXzlzcWtLejVLV1JPYWhHbndGTXJyY2dkYjFiOUgzeHFiVmhVZzZ6S0paNy0wUVBKTHhXSVQyNFRaLXdpQkhvZE5hM2I4WnMtalltTGhwRzBZeFFwc3JtRkxraVV3NUh3R3pUMFBTSmpaM0ZrZmkwTG14c0dfNXoxbnNWbDJUMmlGWm5xaXhB0gG-AUFVX3lxTE9FRFRXS0NpcDItXzc2RkwtTUU5ZTdXalQ2RmRndlNuSi1LVW4wRnMwelV0TWhNdkxfOXNxa0t6NUtXUk9haEdud0ZNcnJjZ2RiMWI5SDN4cWJWaFVnNnpLSlo3LTBRUEpMeFdJVDI0VFotd2lCSG9kTmEzYjhacy1qWW1MaHBHMFl4UXBzcm1GTGtpVXc1SHdHelQwUFNKalozRmtmaTBMbXhzR181ejFuc1ZsMlQyaUZabnFpeEE?oc=5"
+            }
+          ],
+          "summary": "Is RPC (RES) Using Steady Dividends And Higher Sales To Redefine Its Capital Priorities?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "f6008c8fc4160c7e",
+          "title": "Su-34 hidden in a fortress: the main airbase has strengthened the protection of its most valuable fighters",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWG93Y190WDNnWFRyNHpsVjA2RVd0bkRwZ0pUZk90bzVjSURKdUItZFJZbENPOTZ0cjB6cHFNSEhCWUNhSW9nUkFLOFBvT2g4RVcxZ0lyYkwtSm9wUVh2Vlg5dGkzWjFvQTJVYkxxSVNUcTR2S3FMdFNyR0U1aFdJRE9SZGdFZzRBWHRuLTMtM0xZTk83UDZXQ1BLQVJvalloNGF6SVpGc044RTR3ZEdDMlZ0Z05kV2J6dF9SVy1vRlVYMHdwbjA5SHBLS2xEZExqdWkxQlVuc2jSAdgBQVVfeXFMTlhvd2NfdFgzZ1hUcjR6bFYwNkVXdG5EcGdKVGZPdG81Y0lESnVCLWRSWWxDTzk2dHIwenBxTUhIQllDYUlvZ1JBSzhQb09oOEVXMWdJcmJMLUpvcFFYdlZYOXRpM1oxb0EyVWJMcUlTVHE0dktxTHRTckdFNWhXSURPUmRnRWc0QVh0bi0zLTNMWU5PN1A2V0NQS0FSb2pZaDRheklaRnNOOEU0d2RHQzJWdGdOZFdienRfUlctb0ZVWDB3cG4wOUhwS0tsRGRManVpMUJVbnNo?oc=5",
+          "source": "www1.ru",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T07:57:32.000Z",
+          "snippet": "Su-34 hidden in a fortress: the main airbase has strengthened the protection of its most valuable fighters www1.ru",
+          "score": 27.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "2d96b876fa2dfdc0",
+          "cluster_id": "a314e28eeded",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "www1.ru",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWG93Y190WDNnWFRyNHpsVjA2RVd0bkRwZ0pUZk90bzVjSURKdUItZFJZbENPOTZ0cjB6cHFNSEhCWUNhSW9nUkFLOFBvT2g4RVcxZ0lyYkwtSm9wUVh2Vlg5dGkzWjFvQTJVYkxxSVNUcTR2S3FMdFNyR0U1aFdJRE9SZGdFZzRBWHRuLTMtM0xZTk83UDZXQ1BLQVJvalloNGF6SVpGc044RTR3ZEdDMlZ0Z05kV2J6dF9SVy1vRlVYMHdwbjA5SHBLS2xEZExqdWkxQlVuc2jSAdgBQVVfeXFMTlhvd2NfdFgzZ1hUcjR6bFYwNkVXdG5EcGdKVGZPdG81Y0lESnVCLWRSWWxDTzk2dHIwenBxTUhIQllDYUlvZ1JBSzhQb09oOEVXMWdJcmJMLUpvcFFYdlZYOXRpM1oxb0EyVWJMcUlTVHE0dktxTHRTckdFNWhXSURPUmRnRWc0QVh0bi0zLTNMWU5PN1A2V0NQS0FSb2pZaDRheklaRnNOOEU0d2RHQzJWdGdOZFdienRfUlctb0ZVWDB3cG4wOUhwS0tsRGRManVpMUJVbnNo?oc=5"
+            }
+          ],
+          "summary": "Su-34 hidden in a fortress: the main airbase has strengthened the protection of its most valuable fighters www1.ru…",
+          "status": "NEW"
+        },
+        {
+          "id": "53969b0521f31d26",
+          "title": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ka3dQSkpKbEhqbEF0d0FjVmZRZElwX09BS1BfeVNFZzZUdk42VnpqV0VaRnlIMngwQnZKRHZnSVFaMEExRlZGYTZUR2VJZ3U5d0FYZHN2dmxiLXI5WV9ISk0xX24ySllSYmFWc2J5X2NkVUU?oc=5",
+          "source": "Container News",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T05:00:38.000Z",
+          "snippet": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy Container News",
+          "score": 27.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a74d04e3359770d3",
+          "cluster_id": "7443c1760672",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Container News",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ka3dQSkpKbEhqbEF0d0FjVmZRZElwX09BS1BfeVNFZzZUdk42VnpqV0VaRnlIMngwQnZKRHZnSVFaMEExRlZGYTZUR2VJZ3U5d0FYZHN2dmxiLXI5WV9ISk0xX24ySllSYmFWc2J5X2NkVUU?oc=5"
+            }
+          ],
+          "summary": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy Container News…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "bdcebb3f96127a6b",
+          "title": "Will Baidu’s (BIDU) London and Hong Kong Robotaxi Trials Redefine Its Global AI Narrative",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkhNVVJyems4ZExFUjBFWE9uVFRYbzdvemNjUEw3RDJ4OVc1TzBZUkVudkR2SUZkNG9yM0lDMFpCRjN1WDFseDZuZThSc05hVEIzbjhrWThaTUd6eXZsdEFCZU9VeklTaFRpME12Z21iWTZpVHZvTWhXdmdDcXk2WGZaQ2xxWEVkdUNVd1RnMzhRcjF1VFdGLWIxZUxEeWd0R0tHTHdpRFU1c2Q2N3BRaW02OXpSbmlsS1Y5dHJR0gHDAUFVX3lxTE5BcjN2S1Z3WVNyV3dJb1VzaW1JYm9Dcy1OWkhCbFlqT2ZNV3RxbFBPbWFJb3lhVkVHeG4tT0ZwbjF5SDVfdl81R3NjZ0QtZGtTYjJEZ1FEUHg2Q01YRDVJT25tMVpHaW0xemh3dFlHaEFQZ05NNzVZbWdSVi03QjFNT3Z5dWs3dGNCX1ZKNmpfMXZfdzNMMExMV0RwakRuVm1KNjM1UEcwSmhteWFfN3U1ME5GQWRLTkp4UE9xM0ZlYzMxdw?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:54:33.000Z",
+          "snippet": "Will Baidu’s (BIDU) London and Hong Kong Robotaxi Trials Redefine Its Global AI Narrative simplywall.st",
+          "score": 27.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "b882d1d32b547cc8",
+          "cluster_id": "9ab3f0819ff0",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkhNVVJyems4ZExFUjBFWE9uVFRYbzdvemNjUEw3RDJ4OVc1TzBZUkVudkR2SUZkNG9yM0lDMFpCRjN1WDFseDZuZThSc05hVEIzbjhrWThaTUd6eXZsdEFCZU9VeklTaFRpME12Z21iWTZpVHZvTWhXdmdDcXk2WGZaQ2xxWEVkdUNVd1RnMzhRcjF1VFdGLWIxZUxEeWd0R0tHTHdpRFU1c2Q2N3BRaW02OXpSbmlsS1Y5dHJR0gHDAUFVX3lxTE5BcjN2S1Z3WVNyV3dJb1VzaW1JYm9Dcy1OWkhCbFlqT2ZNV3RxbFBPbWFJb3lhVkVHeG4tT0ZwbjF5SDVfdl81R3NjZ0QtZGtTYjJEZ1FEUHg2Q01YRDVJT25tMVpHaW0xemh3dFlHaEFQZ05NNzVZbWdSVi03QjFNT3Z5dWs3dGNCX1ZKNmpfMXZfdzNMMExMV0RwakRuVm1KNjM1UEcwSmhteWFfN3U1ME5GQWRLTkp4UE9xM0ZlYzMxdw?oc=5"
+            }
+          ],
+          "summary": "Will Baidu’s (BIDU) London and Hong Kong Robotaxi Trials Redefine Its Global AI Narrative simplywall.st…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "1ee2c8cda0528055",
+          "title": "Did Linde's (LIN) New Renewable PPAs Quietly Redefine Its Decarbonization and Margin Narrative?",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVNoa0gxdWF0VzV0Ynh6dXJYQ3FRZGlIeUkxTjAyYzVueE1QOVFzNVhTV0JyNExGMjEwT0plMWVjM3ZWVXlxRFlMaWdrNVdEUUg4S01ucUlLOFpIME9vTWFraE5Yak1TTEpSZFhGdmZ2Y1RtTG1LeERPWEVCUUE3UUtWUnlNeGpVZ01NbFA2U3lqUXZSOWJ6ZmF3QzNLUEZtdEpZTk9yRWJpXy11cFctRkdOOTN4cHhmQk16S0wwa1Z0Sm5NSUZN0gHHAUFVX3lxTE9RU2hrSDF1YXRXNXRieHp1clhDcVFkaUh5STFOMDJjNW54TVA5UXM1WFNXQnI0TEYyMTBPSmUxZWMzdlZVeXFEWUxpZ2s1V0RRSDhLTW5xSUs4WkgwT29NYWtoTlhqTVNMSlJkWEZ2ZnZjVG1MbUt4RE9YRUJRQTdRS1ZSeU14alVnTU1sUDZTeWpRdlI5YnpmYXdDM0tQRm10SllOT3JFYmlfLXVwVy1GR045M3hweGZCTXpLTDBrVnRKbk1JRk0?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:54:34.000Z",
+          "snippet": "Did Linde's (LIN) New Renewable PPAs Quietly Redefine Its Decarbonization and Margin Narrative? simplywall.st",
+          "score": 27.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "3b5373f688c87ed6",
+          "cluster_id": "815acc3abff7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVNoa0gxdWF0VzV0Ynh6dXJYQ3FRZGlIeUkxTjAyYzVueE1QOVFzNVhTV0JyNExGMjEwT0plMWVjM3ZWVXlxRFlMaWdrNVdEUUg4S01ucUlLOFpIME9vTWFraE5Yak1TTEpSZFhGdmZ2Y1RtTG1LeERPWEVCUUE3UUtWUnlNeGpVZ01NbFA2U3lqUXZSOWJ6ZmF3QzNLUEZtdEpZTk9yRWJpXy11cFctRkdOOTN4cHhmQk16S0wwa1Z0Sm5NSUZN0gHHAUFVX3lxTE9RU2hrSDF1YXRXNXRieHp1clhDcVFkaUh5STFOMDJjNW54TVA5UXM1WFNXQnI0TEYyMTBPSmUxZWMzdlZVeXFEWUxpZ2s1V0RRSDhLTW5xSUs4WkgwT29NYWtoTlhqTVNMSlJkWEZ2ZnZjVG1MbUt4RE9YRUJRQTdRS1ZSeU14alVnTU1sUDZTeWpRdlI5YnpmYXdDM0tQRm10SllOT3JFYmlfLXVwVy1GR045M3hweGZCTXpLTDBrVnRKbk1JRk0?oc=5"
+            }
+          ],
+          "summary": "Did Linde's (LIN) New Renewable PPAs Quietly Redefine Its Decarbonization and Margin Narrative?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "752611a3ae2ef0d9",
+          "title": "Is Hamilton Lane (HLNE) Using Savant Deal To Redefine Its Wealth Management and Risk Profile?",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOFBJQmszMlNXTGdwZzM4cHhwUm53WWN0ZGVyWDJaUFhzVDVkYzZEcmk1dkRScVk4ckFEWldkcmpoOGtQTGZYaVN3MTdzdlgtUDI1NHBWWUJfLWRZdHA0ampaTzFHVEJQZlRGaGpoLXNSalVnclpQX3VmLWpFY3ZPUjl2V0JBOFhYNG5HWFBPQ2hRT1p2SWVlQU1TMG9CNzRLbXU2TG1UMDBjWVBha0RfemdnWkZOczhjczZlZUJka0R1cGtJUzJ5TzZUdW1KRFg1VS1LZFVoTzhRaG1tOFFr0gHkAUFVX3lxTE5IRnZBMkg1R1NIMUpUSlYxUEhOOEJuZFRjMW9PQmQwSHVxOEZoa0JGOEdPWmdMOTdLV1hwOUZmRmZ2dGNPM1hLdUZBcV9jOUgyZE1OaDFJS3hxWGgyd1QtVjFDU29wTm9VQ2pEaW1WanpTQ0xmMkZpTmZEYXNKM1Z2U1ZBaG1ySkVwdnZ1SUYtTXVjNWZoV1RDc0Q0VV9FQUtyQnVsNU84ZmZRSV9OZHBRZkJ3S281NkNveWZxLVptVFQ3S1d0blN2cjVqeGhZUmp6eEw3M0pjbGliNFl2SUpCUnJoOQ?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:54:33.000Z",
+          "snippet": "Is Hamilton Lane (HLNE) Using Savant Deal To Redefine Its Wealth Management and Risk Profile? simplywall.st",
+          "score": 27.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "fac908d9546b30f6",
+          "cluster_id": "bf4cd3f96305",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOFBJQmszMlNXTGdwZzM4cHhwUm53WWN0ZGVyWDJaUFhzVDVkYzZEcmk1dkRScVk4ckFEWldkcmpoOGtQTGZYaVN3MTdzdlgtUDI1NHBWWUJfLWRZdHA0ampaTzFHVEJQZlRGaGpoLXNSalVnclpQX3VmLWpFY3ZPUjl2V0JBOFhYNG5HWFBPQ2hRT1p2SWVlQU1TMG9CNzRLbXU2TG1UMDBjWVBha0RfemdnWkZOczhjczZlZUJka0R1cGtJUzJ5TzZUdW1KRFg1VS1LZFVoTzhRaG1tOFFr0gHkAUFVX3lxTE5IRnZBMkg1R1NIMUpUSlYxUEhOOEJuZFRjMW9PQmQwSHVxOEZoa0JGOEdPWmdMOTdLV1hwOUZmRmZ2dGNPM1hLdUZBcV9jOUgyZE1OaDFJS3hxWGgyd1QtVjFDU29wTm9VQ2pEaW1WanpTQ0xmMkZpTmZEYXNKM1Z2U1ZBaG1ySkVwdnZ1SUYtTXVjNWZoV1RDc0Q0VV9FQUtyQnVsNU84ZmZRSV9OZHBRZkJ3S281NkNveWZxLVptVFQ3S1d0blN2cjVqeGhZUmp6eEw3M0pjbGliNFl2SUpCUnJoOQ?oc=5"
+            }
+          ],
+          "summary": "Is Hamilton Lane (HLNE) Using Savant Deal To Redefine Its Wealth Management and Risk Profile?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "dd978ef6efdae4e0",
+          "title": "These Trailblazing Female Politicians Helped Redefine American Leadership",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREFRZlZzXzc5YTZIUzFDb19OeG44MTREWTZfZDRlWjFZMzRxeE1ra0RBdEpjZ0RUNHlaWFI3R0I4Q0JscDRkQ1o4MUhjQmhmY2ZCdEZwbDZqRGZMTTJiYTBUM3d1NXNVTnB1YXlUTG9KX0w1S1RGTkM3VW1pemt1eFZUZm1zcElLSmVrMHBnWTZlRVFw?oc=5",
+          "source": "aol.ca",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:57:11.000Z",
+          "snippet": "These Trailblazing Female Politicians Helped Redefine American Leadership aol.ca",
+          "score": 27.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "4b3d560043c86801",
+          "cluster_id": "2b3b42688f81",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "aol.ca",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREFRZlZzXzc5YTZIUzFDb19OeG44MTREWTZfZDRlWjFZMzRxeE1ra0RBdEpjZ0RUNHlaWFI3R0I4Q0JscDRkQ1o4MUhjQmhmY2ZCdEZwbDZqRGZMTTJiYTBUM3d1NXNVTnB1YXlUTG9KX0w1S1RGTkM3VW1pemt1eFZUZm1zcElLSmVrMHBnWTZlRVFw?oc=5"
+            }
+          ],
+          "summary": "These Trailblazing Female Politicians Helped Redefine American Leadership aol.ca…",
+          "status": "NEW"
+        },
+        {
+          "id": "a9e89acbf6ec4088",
+          "title": "British Land (LON:BLND) Reaches New 12-Month High - Still a Buy?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDllVE9lQjlnRUUwTzNDZmhxSWE4UmdGQXJHbjZVa1BBS3FYdmgxUjB3czh0YkdsSWFwQjFEM1Q2bm40VGlfUGZNOUVqWDV6WUJHZDBxSkR0QnVxRTItb2VrS3l0VzZSdE1nV0s1QnNJLVB4S2F3cURTMXNRUXRnbkN5UXV5bThjUDU3SFg1SUlCeDdhVk44bHJMNDk1cW5VQklaWHdTTmhIUllBX3JhU3l3?oc=5",
+          "source": "marketbeat.com",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T09:36:18.000Z",
+          "snippet": "British Land (LON:BLND) Reaches New 12-Month High - Still a Buy? marketbeat.com",
+          "score": 27.3,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "44c03a73a225e5ae",
+          "cluster_id": "bdfb8fe2643a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "marketbeat.com",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDllVE9lQjlnRUUwTzNDZmhxSWE4UmdGQXJHbjZVa1BBS3FYdmgxUjB3czh0YkdsSWFwQjFEM1Q2bm40VGlfUGZNOUVqWDV6WUJHZDBxSkR0QnVxRTItb2VrS3l0VzZSdE1nV0s1QnNJLVB4S2F3cURTMXNRUXRnbkN5UXV5bThjUDU3SFg1SUlCeDdhVk44bHJMNDk1cW5VQklaWHdTTmhIUllBX3JhU3l3?oc=5"
+            }
+          ],
+          "summary": "British Land (LON:BLND) Reaches New 12-Month High - Still a Buy?…",
+          "status": "NEW"
+        },
+        {
+          "id": "7d79171334be2a65",
+          "title": "Russia grinds into Donetsk ‘fortress belt’, official says",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUVudXluM3ZuY1hVdXczMVg5MjhwUk9SbDl1SkliRXJFTGdMa1F5OFl1cXFBbWdwMkxSLU9XeTlsSExXYmZFd3ZpUWdvR3VuZElVcHVEaUFNWjY3dDdnMXVJUWtVOTBSUnFPRW9ja2dDVF8zV3o4aTNHQzk2NGtGYWItbzF2eUhrb1kyQTlESDI?oc=5",
+          "source": "UK Defence Journal",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T06:51:03.000Z",
+          "snippet": "Russia grinds into Donetsk ‘fortress belt’, official says UK Defence Journal",
+          "score": 27.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "ec936340cfa845a3",
+          "cluster_id": "e2ac5ef9cc3f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "UK Defence Journal",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUVudXluM3ZuY1hVdXczMVg5MjhwUk9SbDl1SkliRXJFTGdMa1F5OFl1cXFBbWdwMkxSLU9XeTlsSExXYmZFd3ZpUWdvR3VuZElVcHVEaUFNWjY3dDdnMXVJUWtVOTBSUnFPRW9ja2dDVF8zV3o4aTNHQzk2NGtGYWItbzF2eUhrb1kyQTlESDI?oc=5"
+            }
+          ],
+          "summary": "Russia grinds into Donetsk ‘fortress belt’, official says UK Defence Journal…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "76c9af924abf5092",
+          "title": "What Is Putting Growthpoint (ASX:GOZ) in Focus?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXRSTmpRdFFZT2MwdC1CVlRsaUc5YjQzSml1ZDZGSW13U2I3dEhrMGk3a0drbjJyUmp4SG4xdXB2UWY3S3pRU2txYU9lR1NDUW9IMWI4eWRvWTF1TnB6dU5GVGdIeEZoYjJVVkgyUjNfcFllOHRxZmx1TWxLV0xYZ2JIM2tSc3ZUVW9aUGlQbnJlX1MwMFQ5TjN2c2lQOHRUanRDMElMUjZudkZrX1E?oc=5",
+          "source": "Kalkine Media",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:06:00.000Z",
+          "snippet": "What Is Putting Growthpoint (ASX:GOZ) in Focus? Kalkine Media",
+          "score": 27.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "ec882e70372628bd",
+          "cluster_id": "35a07e825e99",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine Media",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXRSTmpRdFFZT2MwdC1CVlRsaUc5YjQzSml1ZDZGSW13U2I3dEhrMGk3a0drbjJyUmp4SG4xdXB2UWY3S3pRU2txYU9lR1NDUW9IMWI4eWRvWTF1TnB6dU5GVGdIeEZoYjJVVkgyUjNfcFllOHRxZmx1TWxLV0xYZ2JIM2tSc3ZUVW9aUGlQbnJlX1MwMFQ5TjN2c2lQOHRUanRDMElMUjZudkZrX1E?oc=5"
+            }
+          ],
+          "summary": "What Is Putting Growthpoint (ASX:GOZ) in Focus?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "bd45df2c3dabbecb",
+          "title": "Fortress Value Acquisition Corp. V Revenue Breakdown – NASDAQ:FVAV",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa0tGQ3J1LWFuSTNiaTlYUFpCRTNmaExEMENkdFo0LTBYQnpWbWFRRnhlR1N3LUFfb29KSUN5eHVTa0U3NW1NbldGb1ZHQzljTERYZ3pHWklIZUY0dUVZRDUxbDRTM2t5a3pOYnRhdGc0dW85aUZN?oc=5",
+          "source": "TradingView",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T06:26:54.000Z",
+          "snippet": "Fortress Value Acquisition Corp. V Revenue Breakdown – NASDAQ:FVAV TradingView",
+          "score": 27,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "f9eb08a451e49d05",
+          "cluster_id": "e7f1e7af24a8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TradingView",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa0tGQ3J1LWFuSTNiaTlYUFpCRTNmaExEMENkdFo0LTBYQnpWbWFRRnhlR1N3LUFfb29KSUN5eHVTa0U3NW1NbldGb1ZHQzljTERYZ3pHWklIZUY0dUVZRDUxbDRTM2t5a3pOYnRhdGc0dW85aUZN?oc=5"
+            }
+          ],
+          "summary": "Fortress Value Acquisition Corp. V Revenue Breakdown – NASDAQ:FVAV TradingView…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-29T18:05:25.808Z"
+        },
+        {
+          "id": "9108e948ef77323f",
+          "title": "News | Owner-occupier deals boost London office investment to £2 billion",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNek1wM2RSeVdwTHg1UDFRcWZ2RkxjZjFOMEVJOFZJc3I4dEVaR0stMU1yZkhlLUxNeDQ1dHprdXBoZHkzZnd3aEVTZ01wWDNaU2h3emU1eUpWZXRVeFRwa1JpUGxSWll2RVdGLWdabnpjUlVuR21JTFNQUEYyM0NFTUJQcE5lc19ENEdTZ05WMEpTUXF6LUdlN2xkQW9EVkdycHZ3X09pcTVTZw?oc=5",
+          "source": "costar.com",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T19:42:30.000Z",
+          "snippet": "News | Owner-occupier deals boost London office investment to £2 billion costar.com",
+          "score": 26.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "27ddc646ee357a6e",
+          "cluster_id": "448797f65fe5",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "costar.com",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNek1wM2RSeVdwTHg1UDFRcWZ2RkxjZjFOMEVJOFZJc3I4dEVaR0stMU1yZkhlLUxNeDQ1dHprdXBoZHkzZnd3aEVTZ01wWDNaU2h3emU1eUpWZXRVeFRwa1JpUGxSWll2RVdGLWdabnpjUlVuR21JTFNQUEYyM0NFTUJQcE5lc19ENEdTZ05WMEpTUXF6LUdlN2xkQW9EVkdycHZ3X09pcTVTZw?oc=5"
+            }
+          ],
+          "summary": "News | Owner-occupier deals boost London office investment to £2 billion costar.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "7a5fccf800973379",
+          "title": "Wayflyer agrees $1.5bn ‘forward flow’ loan deal with US giant Fortress",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1lqNjd2T0hhc05oSGlkS2ZVb2lBLWZab29CWHZ1ZFFmOHplNW9IRWpWdDVESFQ1R2FlOXZiRWZIWGU1S0RMcklSdVBSTTV3aFZpZHhEandPVF9RTDdEWDVfRHlzTmhXMjZaMnBlajlhQnJXaFJ4WVdFRFo3Yk8wMkRUa2tmSGI5WW9scTFhaFZraWRFM0ltZ2s3akVHc0RCMXdIT05nT1BvNkd2Ni1oaG1YaEc?oc=5",
+          "source": "The Irish Times",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T14:05:06.000Z",
+          "snippet": "Wayflyer agrees $1.5bn ‘forward flow’ loan deal with US giant Fortress The Irish Times",
+          "score": 26.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "81932bd73d3d1fec",
+          "cluster_id": "2b9706e892c3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Irish Times",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1lqNjd2T0hhc05oSGlkS2ZVb2lBLWZab29CWHZ1ZFFmOHplNW9IRWpWdDVESFQ1R2FlOXZiRWZIWGU1S0RMcklSdVBSTTV3aFZpZHhEandPVF9RTDdEWDVfRHlzTmhXMjZaMnBlajlhQnJXaFJ4WVdFRFo3Yk8wMkRUa2tmSGI5WW9scTFhaFZraWRFM0ltZ2s3akVHc0RCMXdIT05nT1BvNkd2Ni1oaG1YaEc?oc=5"
+            }
+          ],
+          "summary": "Wayflyer agrees $1.5bn ‘forward flow’ loan deal with US giant Fortress The Irish Times…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "7fc0e4e5882eb9d7",
+          "title": "Parkville business owners share concerns as Redefine Route 9 Project enters next phase",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZy0zUkVqc2VndVdjQmFpbDA2VVRWSTdjYkg5VGlPRGpBQ2lQMzczalpuM2ZiaFJBOV9nYVFPZEwyNnV2SW5BQUN5VDFIWjdHLUQtVGNvLS1GendQemJjVmFHbkZJZEpjcDY2UmZJVHg0eURZU25OYmlXOTl3ajQ0RWNyMHhVNmZVUm93dUtrVDV1d0dXT3pFYTdOYkJpaUxwNFVDVVVXbkpfOUJPMG80TNIBtgFBVV95cUxNNmpWSnRWWnkwZHRWem1DdFFJMFNEbTVrMTVnS0NfSExwdDFLR2NNQkRhYXZ4MVEzZm5fcjVfei12VEk1MmFNUHZRYjBOX2lDTF9VSVMzOFVZSE9pT2k5QmU1Z2dYdmM5cGFuTDJ1M054UWwtSG1iOUU3ZEhUMlhmLVdhQ1J6MnY1SUQ1WFJ5MGJNQUZoX2lVRFJtLThrYzBWWFc5V1p4Mi1rWE1Fc2pBa3RUcUFXUQ?oc=5",
+          "source": "FOX4KC.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T02:23:06.000Z",
+          "snippet": "Parkville business owners share concerns as Redefine Route 9 Project enters next phase FOX4KC.com",
+          "score": 26.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "4e9c4e086fddb2d6",
+          "cluster_id": "ce1dae812b64",
+          "duplicate_count": 3,
+          "also_in": [
+            "FOX4KC.com",
+            "Yahoo"
+          ],
+          "all_links": [
+            {
+              "source": "FOX4KC.com",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZy0zUkVqc2VndVdjQmFpbDA2VVRWSTdjYkg5VGlPRGpBQ2lQMzczalpuM2ZiaFJBOV9nYVFPZEwyNnV2SW5BQUN5VDFIWjdHLUQtVGNvLS1GendQemJjVmFHbkZJZEpjcDY2UmZJVHg0eURZU25OYmlXOTl3ajQ0RWNyMHhVNmZVUm93dUtrVDV1d0dXT3pFYTdOYkJpaUxwNFVDVVVXbkpfOUJPMG80TNIBtgFBVV95cUxNNmpWSnRWWnkwZHRWem1DdFFJMFNEbTVrMTVnS0NfSExwdDFLR2NNQkRhYXZ4MVEzZm5fcjVfei12VEk1MmFNUHZRYjBOX2lDTF9VSVMzOFVZSE9pT2k5QmU1Z2dYdmM5cGFuTDJ1M054UWwtSG1iOUU3ZEhUMlhmLVdhQ1J6MnY1SUQ1WFJ5MGJNQUZoX2lVRFJtLThrYzBWWFc5V1p4Mi1rWE1Fc2pBa3RUcUFXUQ?oc=5"
+            },
+            {
+              "source": "FOX4KC.com",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTF9NWGJfYWw4QVVVTXhoX0FnWTBwb09wWjB0RVVWWlRkNVltUHoxZWhCdWNYUE5sdVN4bXQ5SWtvc0NtVmNVbnhfd1c1eG5ONl9BMS1Ea0NrRDJWLUpnTTJRQjdHV0VBSktHTnN5eHA1ekRRellvSDAxZkZKc25HcjhDQmViclY4cFZWREhRX0ZJOHU1MUM4YW1hUTZlSENRMGM5MzZBWTRFLWVhNjVTd3VYakwtVE1DMWxwYjV3?oc=5"
+            },
+            {
+              "source": "Yahoo",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzhKdFVkR3ZuUWVCU0tBcGFnQUNpdTVhQVk1N0xsVmtfVmpsSlN4SnhITVdZay1kQXZKeHRvd2xVamQyR09MeU1UX3NuTGxLMjNHU3Z0RGE5VGQwZkxZMkNVbWQ1ckhPZlk5cVZBSHNjM2VlWVV4MzNqajNQcFNZbUxtMi1tX0tiOWVYeGtMMzRFb1U?oc=5"
+            }
+          ],
+          "summary": "Parkville business owners share concerns as Redefine Route 9 Project enters next phase FOX4KC.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "bf26dffc2865a32d",
+          "title": "British Land (LON:BLND) Share Price Crosses Above 200-Day Moving Average - Should You Sell?",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmZQV1ozbEkxM0tpYzczOXllbXlVVUM3OElVdVlvd194a184NmU3ZGZ3ZlBiZjVWb2dyeGUzUFRDMWYyMXNoM2ZvbHhDekZBZzQyNUh3YkFHYjRkTm9XcVBMaUVacEhsTXlCeFhCTWF5dHlQV0JCQXBBUl9yZ0Q2QkZLSFpYNW1oNFVDRUtEZFAzN012RXdnckVVVlllbmVncGNwc1hlM0w1MHRrdWd3alNyNmVTV3Z6U082SnZqS3F2SzRLbUZzczQxc3lhT1FqZVpzOExn?oc=5",
+          "source": "marketbeat.com",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-31T07:43:44.000Z",
+          "snippet": "British Land (LON:BLND) Share Price Crosses Above 200-Day Moving Average - Should You Sell? marketbeat.com",
+          "score": 26.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "0712c922a2117362",
+          "cluster_id": "6b1fa0bd3fe8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "marketbeat.com",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmZQV1ozbEkxM0tpYzczOXllbXlVVUM3OElVdVlvd194a184NmU3ZGZ3ZlBiZjVWb2dyeGUzUFRDMWYyMXNoM2ZvbHhDekZBZzQyNUh3YkFHYjRkTm9XcVBMaUVacEhsTXlCeFhCTWF5dHlQV0JCQXBBUl9yZ0Q2QkZLSFpYNW1oNFVDRUtEZFAzN012RXdnckVVVlllbmVncGNwc1hlM0w1MHRrdWd3alNyNmVTV3Z6U082SnZqS3F2SzRLbUZzczQxc3lhT1FqZVpzOExn?oc=5"
+            }
+          ],
+          "summary": "British Land (LON:BLND) Share Price Crosses Above 200-Day Moving Average - Should You Sell?…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "63ce71eea14d227f",
+          "title": "Is ELLIS PARK Really a FORTRESS? | Mailbag",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yb0czQ0lZLWZXUzUxVnFXYU1ORXQyTm11cW5ObnowYnRfSG5EUjNqeWRxak1VZmVlR2F1cHFwekkwWmxGXzJFT2x0bC1VWU5qdXNZ?oc=5",
+          "source": "rova",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T04:54:19.000Z",
+          "snippet": "Is ELLIS PARK Really a FORTRESS? | Mailbag rova",
+          "score": 26.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "b88591c84beaf926",
+          "cluster_id": "647952c2984c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "rova",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yb0czQ0lZLWZXUzUxVnFXYU1ORXQyTm11cW5ObnowYnRfSG5EUjNqeWRxak1VZmVlR2F1cHFwekkwWmxGXzJFT2x0bC1VWU5qdXNZ?oc=5"
+            }
+          ],
+          "summary": "Is ELLIS PARK Really a FORTRESS? | Mailbag rova…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "f3e33e9a7a970c9e",
+          "title": "Hammerson acquires £218m Manchester Arndale stake as it eyes more external acquisitions",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0VITjRnZ3RGWGFabk9VYVlNNUxhMUV3cjB0MGlXZmJjM2dUNHpjNDA3NmlLT1g4SUY1WFRlTW5RN1RPWnpaaUZYdXZzdUhxYV81dG04M2ludjU2c2RKOFJWUDh5ZWJVeDBzRVkydE1IM0VQRzZ0VTlTdzBKVXZKaHlEQ21mMjU1YVZHSGIzQXluSU1WTlZld3dPWmNYbWt0aFlDUnFNVzBQemVuOGpPYnZIZGFJWDJPLS1TMGQ5cFM?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T16:48:22.000Z",
+          "snippet": "Hammerson acquires £218m Manchester Arndale stake as it eyes more external acquisitions Property Week",
+          "score": 26.3,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a2c6ce9307a46d27",
+          "cluster_id": "8113336e041d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0VITjRnZ3RGWGFabk9VYVlNNUxhMUV3cjB0MGlXZmJjM2dUNHpjNDA3NmlLT1g4SUY1WFRlTW5RN1RPWnpaaUZYdXZzdUhxYV81dG04M2ludjU2c2RKOFJWUDh5ZWJVeDBzRVkydE1IM0VQRzZ0VTlTdzBKVXZKaHlEQ21mMjU1YVZHSGIzQXluSU1WTlZld3dPWmNYbWt0aFlDUnFNVzBQemVuOGpPYnZIZGFJWDJPLS1TMGQ5cFM?oc=5"
+            }
+          ],
+          "summary": "Hammerson acquires £218m Manchester Arndale stake as it eyes more external acquisitions Property Week…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "968d08bc848d41f7",
+          "title": "Boeing B-17 Flying Fortress — History, Specs & Stories",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0FuMTV5d3doRFVyS01wSy1JYU5mWlFkbW05a2tyZzN6eV9ScUlsXzJKOEZVR2hiUENVVllEYV9ReEV1c3ROelktZ3lxaTdWbFF4MVBUWHRmV2VpZ2FtY3R4YmNyNDZ4d3NxWDZWcF9mSmF6eFJucWZ5Y294aFFTX3VwSUhuUGJPcGQzVFhfM3lXTkUwR3c4WlhtRGdWMnhFbk9oaWYtMzAzQVJTaEdRMVNR?oc=5",
+          "source": "MiGFlug",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T23:14:42.000Z",
+          "snippet": "Boeing B-17 Flying Fortress — History, Specs & Stories MiGFlug",
+          "score": 26.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "26f8391bc349d929",
+          "cluster_id": "cd5beb571b8d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "MiGFlug",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0FuMTV5d3doRFVyS01wSy1JYU5mWlFkbW05a2tyZzN6eV9ScUlsXzJKOEZVR2hiUENVVllEYV9ReEV1c3ROelktZ3lxaTdWbFF4MVBUWHRmV2VpZ2FtY3R4YmNyNDZ4d3NxWDZWcF9mSmF6eFJucWZ5Y294aFFTX3VwSUhuUGJPcGQzVFhfM3lXTkUwR3c4WlhtRGdWMnhFbk9oaWYtMzAzQVJTaEdRMVNR?oc=5"
+            }
+          ],
+          "summary": "Boeing B-17 Flying Fortress — History, Specs & Stories MiGFlug…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "c89668daf56bd147",
+          "title": "Law firm probes New Fortress Energy officers fo...",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEFVd2ZFOVkyVnY4NDJWNWJTbUh3Q1NybGVnejhNWFpmY0hPa2RBb3RfRERWdXlpRXZXNUJRcEVnR2xfZG5HYVl6ZGszSjBRMEhOYjNJV2IxMmJVZm1yVVRRQko0THZhVm5PdnV3VEVZcWpZeDBTTG9UdHEweV90ZlM1ek5CZXMydS0wcEt3?oc=5",
+          "source": "pluang.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T13:36:22.000Z",
+          "snippet": "Law firm probes New Fortress Energy officers fo... pluang.com",
+          "score": 26,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "f19a5c5150f47937",
+          "cluster_id": "064c0c7a952a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "pluang.com",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEFVd2ZFOVkyVnY4NDJWNWJTbUh3Q1NybGVnejhNWFpmY0hPa2RBb3RfRERWdXlpRXZXNUJRcEVnR2xfZG5HYVl6ZGszSjBRMEhOYjNJV2IxMmJVZm1yVVRRQko0THZhVm5PdnV3VEVZcWpZeDBTTG9UdHEweV90ZlM1ek5CZXMydS0wcEt3?oc=5"
+            }
+          ],
+          "summary": "Law firm probes New Fortress Energy officers fo...",
+          "status": "UPDATED",
+          "first_seen": "2026-07-29T18:05:25.808Z"
+        },
+        {
+          "id": "665db349c845fa03",
+          "title": "Digital magazine aims to redefine how visitors experience Niagara",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3RHczFJQ1dDMzZXdmdqdGRLd2hENGNWVl9QYnA5cWVjYUd0b0tvTGtuVmFTN2hEbnk4TEhzSUN1cmVnaTBkcURaOVIzU3AzcmZCSGxqUHBKTnhqRUprbFBIdHcyVHlsVmNwTXMwN2NNU2dHR0E4TGl3cS1KRmNiSnJtSHRxMUVldUJiRzd1YU4wYm1LYnFZ?oc=5",
+          "source": "Niagara Economic Development",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T08:39:56.000Z",
+          "snippet": "Digital magazine aims to redefine how visitors experience Niagara Niagara Economic Development",
+          "score": 26,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "f5101d7dc35e8261",
+          "cluster_id": "5ba450993c2a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Niagara Economic Development",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3RHczFJQ1dDMzZXdmdqdGRLd2hENGNWVl9QYnA5cWVjYUd0b0tvTGtuVmFTN2hEbnk4TEhzSUN1cmVnaTBkcURaOVIzU3AzcmZCSGxqUHBKTnhqRUprbFBIdHcyVHlsVmNwTXMwN2NNU2dHR0E4TGl3cS1KRmNiSnJtSHRxMUVldUJiRzd1YU4wYm1LYnFZ?oc=5"
+            }
+          ],
+          "summary": "Digital magazine aims to redefine how visitors experience Niagara Niagara Economic Development…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-29T12:56:43.837Z"
+        },
+        {
+          "id": "2f439108efd6559f",
+          "title": "Picton (LSE:PCTN) Unveils Surprise Takeover as Property Portfolio Holds Firm",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjZiVm83aGlUVmw0WThxek92QkhWLS1iX3pidTM3MnFlTXJBNVY1bmgwbEhDSUxqa3lLSDJ0QWNzV3VscEJEZy1nTkZFRzQ1MUFReUF2aFFMMWZwaHA0VzVaTF90Y0ZHa2Utel91d0Fmdmt0enZjVkZCZkd5UHlQZDhWeHBGUDRLQ2FLc2tGdFU4R3hsVjU1Q0Fld3RZS3l0SldrclRtbHROUE5XWFl6UGg3bi0zRkFoSXc?oc=5",
+          "source": "Kalkine Media",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T08:11:00.000Z",
+          "snippet": "Picton (LSE:PCTN) Unveils Surprise Takeover as Property Portfolio Holds Firm Kalkine Media",
+          "score": 25.7,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "e0d3514f03642325",
+          "cluster_id": "9f4587b2c140",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine Media",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjZiVm83aGlUVmw0WThxek92QkhWLS1iX3pidTM3MnFlTXJBNVY1bmgwbEhDSUxqa3lLSDJ0QWNzV3VscEJEZy1nTkZFRzQ1MUFReUF2aFFMMWZwaHA0VzVaTF90Y0ZHa2Utel91d0Fmdmt0enZjVkZCZkd5UHlQZDhWeHBGUDRLQ2FLc2tGdFU4R3hsVjU1Q0Fld3RZS3l0SldrclRtbHROUE5XWFl6UGg3bi0zRkFoSXc?oc=5"
+            }
+          ],
+          "summary": "Picton (LSE:PCTN) Unveils Surprise Takeover as Property Portfolio Holds Firm Kalkine Media…",
+          "status": "NEW"
+        },
+        {
+          "id": "40913be68d7e7125",
+          "title": "Six sci-fi films that redefine reality and imagination| The New Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFUc1E5dldPUlF6dkkzUzFNdm5FblNZaWJGNWhCaEFrdjdvZDVIbkJncm41N3dWS3NZRlJNX0x6T1NHNWw3MnlQNUtocjZoY2dmbE0tTXE5bWItdkdhbTFFaDlteGlBbVllS2lHeHdjeVlKVGhzdExLSVo0eXhmeVJfcjl1WG1HMzRoM09JWkNpYWczNm9TOXdzOE9SNGRlMnBYM3FrRllnVEFzc3hybmpISmozZ2_SAbwBQVVfeXFMTWdtQUVRWE8tbnZ2azlPN3Z3ZWMwNVEwRjFfMjBpcmFFRFdZX0RDbk9qd2NFQVIyd1d2N1R1WS1YbGlMc1RGZHUwWHYtNDR4NWc2cnJtcE9WLWhETHZjdEVBMU1kOEgtRVBRb3lMYXJOSWpnTURLU2Vfa2tHQUNoOU1ncS1OMGFKY1pSRmF2REVYbzM2aXlCT2VReF9OUFdSWmphQUpIUkVCc2NKYVFSQnp1Q3JZc2NXRWFReGM?oc=5",
+          "source": "newtimes.co.rw",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T21:48:48.000Z",
+          "snippet": "Six sci-fi films that redefine reality and imagination| The New Times newtimes.co.rw",
+          "score": 25.3,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "55d70a6fc6cf8a17",
+          "cluster_id": "206c42c1130a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "newtimes.co.rw",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFUc1E5dldPUlF6dkkzUzFNdm5FblNZaWJGNWhCaEFrdjdvZDVIbkJncm41N3dWS3NZRlJNX0x6T1NHNWw3MnlQNUtocjZoY2dmbE0tTXE5bWItdkdhbTFFaDlteGlBbVllS2lHeHdjeVlKVGhzdExLSVo0eXhmeVJfcjl1WG1HMzRoM09JWkNpYWczNm9TOXdzOE9SNGRlMnBYM3FrRllnVEFzc3hybmpISmozZ2_SAbwBQVVfeXFMTWdtQUVRWE8tbnZ2azlPN3Z3ZWMwNVEwRjFfMjBpcmFFRFdZX0RDbk9qd2NFQVIyd1d2N1R1WS1YbGlMc1RGZHUwWHYtNDR4NWc2cnJtcE9WLWhETHZjdEVBMU1kOEgtRVBRb3lMYXJOSWpnTURLU2Vfa2tHQUNoOU1ncS1OMGFKY1pSRmF2REVYbzM2aXlCT2VReF9OUFdSWmphQUpIUkVCc2NKYVFSQnp1Q3JZc2NXRWFReGM?oc=5"
+            }
+          ],
+          "summary": "Six sci-fi films that redefine reality and imagination| The New Times newtimes.co.rw…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "d800d0b994bff0b9",
+          "title": "Fortress to Purchase $1.5 Billion of Loans By Fintech Unicorn Wayflyer",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmlURXA5VHRWWkFPREc1Y1B5UXJvdkkycFJ5cUQwd2VHTnVXTzdTNmotUzFGQ0ItTkQ4cnU5a05naVk1WUlzVDFCSjdqaTl1MzNWYVdPb1dLREk2QWUwRGhEaWkyQVNlSzVXRXdPaElMN2c2RUZ1QjJEWXctcURIaHcxaTdFcGtkeEVhSzNBNUd5ZEp6OXlQRFpkMHpzWUY0dzR6akJRaGpCQ2NRRDlZdWNQUUJKelNoU3RJVQ?oc=5",
+          "source": "Bloomberg.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T23:01:00.000Z",
+          "snippet": "Fortress to Purchase $1.5 Billion of Loans By Fintech Unicorn Wayflyer Bloomberg.com",
+          "score": 25.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "c2dd076ede7d1379",
+          "cluster_id": "ba55d09c0fe3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmlURXA5VHRWWkFPREc1Y1B5UXJvdkkycFJ5cUQwd2VHTnVXTzdTNmotUzFGQ0ItTkQ4cnU5a05naVk1WUlzVDFCSjdqaTl1MzNWYVdPb1dLREk2QWUwRGhEaWkyQVNlSzVXRXdPaElMN2c2RUZ1QjJEWXctcURIaHcxaTdFcGtkeEVhSzNBNUd5ZEp6OXlQRFpkMHpzWUY0dzR6akJRaGpCQ2NRRDlZdWNQUUJKelNoU3RJVQ?oc=5"
+            }
+          ],
+          "summary": "Fortress to Purchase $1.5 Billion of Loans By Fintech Unicorn Wayflyer Bloomberg.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "32042578ffabb3a8",
+          "title": "FORTRESS TRANS INFRASTR INVS ($FTAI) Releases Q2 2026 Earnings",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPME5FaVp4SkdWYzVKVlJhWk5OVTg5SXFfdmhRTzNDUXQyT2hGLW1RbkxWdnBTa1RSa0pRRGt1UFhiQkdHWHpqTDJmVDI1cDVMZk51WXBFa0hJMUgtM3RmLW03X2FMSjZ4eEJsTHVncFBfYUI4ZmJaVzB3ZUVCWEU4a0NJWEJrejlHRkxxNi10TXdNbzktNEd3S180OEZCUVg4M2Jr?oc=5",
+          "source": "Quiver Quantitative",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T22:50:00.000Z",
+          "snippet": "FORTRESS TRANS INFRASTR INVS ($FTAI) Releases Q2 2026 Earnings Quiver Quantitative",
+          "score": 25.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "ff77b59868445097",
+          "cluster_id": "65124161e892",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Quiver Quantitative",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPME5FaVp4SkdWYzVKVlJhWk5OVTg5SXFfdmhRTzNDUXQyT2hGLW1RbkxWdnBTa1RSa0pRRGt1UFhiQkdHWHpqTDJmVDI1cDVMZk51WXBFa0hJMUgtM3RmLW03X2FMSjZ4eEJsTHVncFBfYUI4ZmJaVzB3ZUVCWEU4a0NJWEJrejlHRkxxNi10TXdNbzktNEd3S180OEZCUVg4M2Jr?oc=5"
+            }
+          ],
+          "summary": "FORTRESS TRANS INFRASTR INVS ($FTAI) Releases Q2 2026 Earnings Quiver Quantitative…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "25becacc73bfaf1a",
+          "title": "Picton Property Income Agrees All-Share Takeover as NAV Dips and Portfolio Grows Modestly",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG5oeFlUbzBfZDJOU1lCamU2ZG1SX1hBWVRqclRDa2tGdXpYRy1yX2FuSzl2NldSbWZaTVhYUlNndm40TEtKTXJPZE9VOENYQjIzTE1QWW5Ga0ktMTNsb2hBNHNlcEZZNWxtZDdPUnkyTW5zRHRNYkd5R0xFbldDYTZrcnNUdm1lU1hvU0YycEUtQ2Q4ZGsxYVFVS1Npc3R4RmhpekVwaTR6OHdLOWY1bDR3WW56Ym1CNXp5Q2h2UVBzaFZieGxMaWQ2Ulp4X3lFNElKb25IQVE?oc=5",
+          "source": "TipRanks",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T06:39:49.000Z",
+          "snippet": "Picton Property Income Agrees All-Share Takeover as NAV Dips and Portfolio Grows Modestly TipRanks",
+          "score": 25.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a73e98323534a7ae",
+          "cluster_id": "229869049f08",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG5oeFlUbzBfZDJOU1lCamU2ZG1SX1hBWVRqclRDa2tGdXpYRy1yX2FuSzl2NldSbWZaTVhYUlNndm40TEtKTXJPZE9VOENYQjIzTE1QWW5Ga0ktMTNsb2hBNHNlcEZZNWxtZDdPUnkyTW5zRHRNYkd5R0xFbldDYTZrcnNUdm1lU1hvU0YycEUtQ2Q4ZGsxYVFVS1Npc3R4RmhpekVwaTR6OHdLOWY1bDR3WW56Ym1CNXp5Q2h2UVBzaFZieGxMaWQ2Ulp4X3lFNElKb25IQVE?oc=5"
+            }
+          ],
+          "summary": "Picton Property Income Agrees All-Share Takeover as NAV Dips and Portfolio Grows Modestly TipRanks…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "5da4710473a924d2",
+          "title": "THE BORNEO FORTRESS -- SPECIAL REPORT (PART 3): THE PRAGMATIC ROADMAP",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1R5TGk1MU5tREpBbWZIWXNLa2pULUdsNnhNUE1FSDlmLXNTOXl1b01TZFY3NlMyckw3cTB5Nl9PUDJrU1d4M1IwRjdCek9JZERhdTdYcFhJN25GaVJ6MmdtYTNaLWJKc0t1NkMycDlwOTdzZEE0X2IxaDZHOUpmcFVxbUlUaEN1Z1NYcEFCaXBRUy1BRVdiWjVRTmJxb0UxcGxBZNIBqgFBVV95cUxQeVJjQk1LQklla0prbjRDdTA1dG53Z1JPRWs4NWE5NjNUSXVpN0g4OE04SXZ6enBiVGd5YldPOE5MaVRlQVZiOXhKZmgxWTEwMm9DZmNXT2d6REhRUmdVd2RDbWRGZVBOZTQ0cVRLRTJvcjFodTNNRExqeWYzcVE2b21WMXhDdm4xMVlaQkJLSTVLWWRPbzI3T3Zkb2Y4LXpIaklIdV9FWS0yZw?oc=5",
+          "source": "Jesselton Times",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T00:14:21.000Z",
+          "snippet": "THE BORNEO FORTRESS -- SPECIAL REPORT (PART 3): THE PRAGMATIC ROADMAP Jesselton Times",
+          "score": 25,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "80a96cacdfce39f1",
+          "cluster_id": "3922224e83ab",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Jesselton Times",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1R5TGk1MU5tREpBbWZIWXNLa2pULUdsNnhNUE1FSDlmLXNTOXl1b01TZFY3NlMyckw3cTB5Nl9PUDJrU1d4M1IwRjdCek9JZERhdTdYcFhJN25GaVJ6MmdtYTNaLWJKc0t1NkMycDlwOTdzZEE0X2IxaDZHOUpmcFVxbUlUaEN1Z1NYcEFCaXBRUy1BRVdiWjVRTmJxb0UxcGxBZNIBqgFBVV95cUxQeVJjQk1LQklla0prbjRDdTA1dG53Z1JPRWs4NWE5NjNUSXVpN0g4OE04SXZ6enBiVGd5YldPOE5MaVRlQVZiOXhKZmgxWTEwMm9DZmNXT2d6REhRUmdVd2RDbWRGZVBOZTQ0cVRLRTJvcjFodTNNRExqeWYzcVE2b21WMXhDdm4xMVlaQkJLSTVLWWRPbzI3T3Zkb2Y4LXpIaklIdV9FWS0yZw?oc=5"
+            }
+          ],
+          "summary": "THE BORNEO FORTRESS -- SPECIAL REPORT (PART 3): THE PRAGMATIC ROADMAP Jesselton Times…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "c75178896e85fc5f",
+          "title": "WSFS Bank's Annual Money Trends Survey Signals Shift to Purposeful Spending as Consumers Redefine Financial Habits",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb2lsSVp6S0JGVG1oakpnbkR1bGJRdEhmWDd1MmxvYk5yY0pJTWJnMVhXSzVERlNhbHdLUFhHNUVtMS1vLXZHNFZ2YVlOMk1RZ2dmRy1DLWVxLTduakM3WGFJbjdZX3Btc1dWajNOYW4ySmRCZWY0dGF3SlBCODVrN0toUGNQZUZ2WUdEN0Q2YV9ZRW94b1NpeWFGVmoySHBHZy1lNlliMkFMcTNrc3drV2IxWWJiQ1MwRUpIekZHV2lNdlFNVlZ2UUhQcERGQ2w3a2J3NkF2bVg5WHdUdjA4R1I1ZllYZlBxM21ZVEFEMGQ2WnBaSHlrc3phMmNHNG8?oc=5",
+          "source": "Business Wire",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-29T16:00:00.000Z",
+          "snippet": "WSFS Bank's Annual Money Trends Survey Signals Shift to Purposeful Spending as Consumers Redefine Financial Habits Business Wire",
+          "score": 25,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "32f1cd5362e407b5",
+          "cluster_id": "8798d62feeb0",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Business Wire",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb2lsSVp6S0JGVG1oakpnbkR1bGJRdEhmWDd1MmxvYk5yY0pJTWJnMVhXSzVERlNhbHdLUFhHNUVtMS1vLXZHNFZ2YVlOMk1RZ2dmRy1DLWVxLTduakM3WGFJbjdZX3Btc1dWajNOYW4ySmRCZWY0dGF3SlBCODVrN0toUGNQZUZ2WUdEN0Q2YV9ZRW94b1NpeWFGVmoySHBHZy1lNlliMkFMcTNrc3drV2IxWWJiQ1MwRUpIekZHV2lNdlFNVlZ2UUhQcERGQ2w3a2J3NkF2bVg5WHdUdjA4R1I1ZllYZlBxM21ZVEFEMGQ2WnBaSHlrc3phMmNHNG8?oc=5"
+            }
+          ],
+          "summary": "WSFS Bank's Annual Money Trends Survey Signals Shift to Purposeful Spending as Consumers Redefine Financial Habits Business Wire…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "4a3fd49e01e1ef1d",
+          "title": "News | Segro increases pre-tax profits and earnings per share in half-year results",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkt6cHZyRElBejd1WER4VnhQMEZsOVFNaks4Q2JSYlFVZE5kbC1vMUE4YmdlT1V0bWFENmE0ak9keFJUbUNETGkzb3o5X09tVVBFR05fM3ExbDRZNVBtVlQ4QzZiVldmWU53TWI2TmtmTGJFWXN3UnlvQ3lUYUwxZWFQb05kWkxqSF9YRXZhZ1IxTEttNDREZEtRQkMtOHVhc0l6R0N1TXNRMFlXQXlONTJIczd0dGs?oc=5",
+          "source": "costar.com",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T14:07:29.000Z",
+          "snippet": "News | Segro increases pre-tax profits and earnings per share in half-year results costar.com",
+          "score": 24.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "d98ea6894fee5eb3",
+          "cluster_id": "dc743c9a89cf",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "costar.com",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkt6cHZyRElBejd1WER4VnhQMEZsOVFNaks4Q2JSYlFVZE5kbC1vMUE4YmdlT1V0bWFENmE0ak9keFJUbUNETGkzb3o5X09tVVBFR05fM3ExbDRZNVBtVlQ4QzZiVldmWU53TWI2TmtmTGJFWXN3UnlvQ3lUYUwxZWFQb05kWkxqSF9YRXZhZ1IxTEttNDREZEtRQkMtOHVhc0l6R0N1TXNRMFlXQXlONTJIczd0dGs?oc=5"
+            }
+          ],
+          "summary": "News | Segro increases pre-tax profits and earnings per share in half-year results costar.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "c3446d23b1b261ff",
+          "title": "Is HPE (HPE) Using Quantum Partnerships To Quietly Redefine Its High-Performance Computing Edge?",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMm1VS2EtOXhza2stcXVTZUQ1VlU5NEwwUU9tY3o3aVQzeEhGY1lVbXl2Q0VSN1hLNFFLVlFPQ2FTNXpQQUtGVXdvazNfeVRNRGRrRmlydVBNOVFwYzJrR2pBWkJtOVhDZkw1bURPQ2xsR2llMzBsUVRUWTc1MmZyeDBvT0xkeENzT0FDY0pKUjdSZ0N6aGk5TjhPaS1mdDZsM2xPRnBnTTRHZnVvQXNCWTNzdUlzYjVNbFdhN3RHMlpRY2Qxb2pCdEF1bWNEMGI0aEYxWdIB2gFBVV95cUxORUVHeXc5Vmp0R2U3MXhQN1ExQWlUUlotRTRCTXphdzZVTEdvejlrVVU4UkJuNlhXUEhBeXJvczlyZ2JWUEM2RWdkWHFTVmdKZDhmajhYNDZ1TTUwZmQ5eWtJWFE1Ulh6WXJpdTF1S0l5RXpNX1FfeWhRM0s4MGJiNU9uX19QRFVUc1RGOUVFcy0zMHUtOVk4bFdXVkNMb1dhcjl3eXEwMzJyc0lqd054c01zSUtkd09NQTlqNkc3QlRyVlF6Z2RwS0ppQ0dteFVkWGtkN3l4OC01dw?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T19:22:26.000Z",
+          "snippet": "Is HPE (HPE) Using Quantum Partnerships To Quietly Redefine Its High-Performance Computing Edge? simplywall.st",
+          "score": 24.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "8b800e7a6b075170",
+          "cluster_id": "56f952464bc7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMm1VS2EtOXhza2stcXVTZUQ1VlU5NEwwUU9tY3o3aVQzeEhGY1lVbXl2Q0VSN1hLNFFLVlFPQ2FTNXpQQUtGVXdvazNfeVRNRGRrRmlydVBNOVFwYzJrR2pBWkJtOVhDZkw1bURPQ2xsR2llMzBsUVRUWTc1MmZyeDBvT0xkeENzT0FDY0pKUjdSZ0N6aGk5TjhPaS1mdDZsM2xPRnBnTTRHZnVvQXNCWTNzdUlzYjVNbFdhN3RHMlpRY2Qxb2pCdEF1bWNEMGI0aEYxWdIB2gFBVV95cUxORUVHeXc5Vmp0R2U3MXhQN1ExQWlUUlotRTRCTXphdzZVTEdvejlrVVU4UkJuNlhXUEhBeXJvczlyZ2JWUEM2RWdkWHFTVmdKZDhmajhYNDZ1TTUwZmQ5eWtJWFE1Ulh6WXJpdTF1S0l5RXpNX1FfeWhRM0s4MGJiNU9uX19QRFVUc1RGOUVFcy0zMHUtOVk4bFdXVkNMb1dhcjl3eXEwMzJyc0lqd054c01zSUtkd09NQTlqNkc3QlRyVlF6Z2RwS0ppQ0dteFVkWGtkN3l4OC01dw?oc=5"
+            }
+          ],
+          "summary": "Is HPE (HPE) Using Quantum Partnerships To Quietly Redefine Its High-Performance Computing Edge?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "a9c90314c10971fd",
+          "title": "Why Kenya’s Crypto Clampdown Is a Fortress for Banks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDI0ZHQtakpxSDBLVmtIS2N3NTc5RGllWVVJR3V6LXRZX0dmSHhUNWFMSTFNSVZGNDVZR0RZQ1ZueFVlSDNTRWFmUldxdERwY19pZmc0X1gtRDRtZm1SU0Qyem9LQXFhRGtZOHZIUDNuWFBJazdMOEJwRnY1M1FxVlVpRkNWaTNGQmFlVmlOUmxhSzVmdjJF?oc=5",
+          "source": "Launch Base Africa",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T05:26:00.000Z",
+          "snippet": "Why Kenya’s Crypto Clampdown Is a Fortress for Banks Launch Base Africa",
+          "score": 24.7,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "e19c62b8dd99fa7e",
+          "cluster_id": "e392bc6ba686",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Launch Base Africa",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDI0ZHQtakpxSDBLVmtIS2N3NTc5RGllWVVJR3V6LXRZX0dmSHhUNWFMSTFNSVZGNDVZR0RZQ1ZueFVlSDNTRWFmUldxdERwY19pZmc0X1gtRDRtZm1SU0Qyem9LQXFhRGtZOHZIUDNuWFBJazdMOEJwRnY1M1FxVlVpRkNWaTNGQmFlVmlOUmxhSzVmdjJF?oc=5"
+            }
+          ],
+          "summary": "Why Kenya’s Crypto Clampdown Is a Fortress for Banks Launch Base Africa…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "ace73897711dd3a0",
+          "title": "Fortress launches Creative Studio to leverage gaming's cultural dominance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWctWnc4QVpFMkpxSUJjT1JzbDVJeDZDZ282TEtfRVpqR2NvOFFUUmo1U1NHdFU0cXRmaGVfSkdocDFueDRaN0VQSlhLUU1YNnRnX1ZsdG05LTkxQmRveTY3T2RJaXFMRXlNdHR6WVVrVzNkU1JISGtpQ0tNUWM1d1hqV292bHN5eGFtZDV2eUhpeDJtSVk5TlJQVFhGVE1adFd0R3Vwbw?oc=5",
+          "source": "Mi-3.com.au.",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T22:42:13.000Z",
+          "snippet": "Fortress launches Creative Studio to leverage gaming's cultural dominance Mi-3.com.au.",
+          "score": 24.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "9248dd37520d7481",
+          "cluster_id": "e114ade8eff8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Mi-3.com.au.",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWctWnc4QVpFMkpxSUJjT1JzbDVJeDZDZ282TEtfRVpqR2NvOFFUUmo1U1NHdFU0cXRmaGVfSkdocDFueDRaN0VQSlhLUU1YNnRnX1ZsdG05LTkxQmRveTY3T2RJaXFMRXlNdHR6WVVrVzNkU1JISGtpQ0tNUWM1d1hqV292bHN5eGFtZDV2eUhpeDJtSVk5TlJQVFhGVE1adFd0R3Vwbw?oc=5"
+            }
+          ],
+          "summary": "Fortress launches Creative Studio to leverage gaming's cultural dominance Mi-3.com.au.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "659ee21d7440033d",
+          "title": "SEGRO Plc Reports Earnings Results for the Half Year Ended June 30, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHJtVjYzOXRWSUtKS3NuQWtheVh3Q3hNVWlSSEFpeWU4QjJzQjF0RTNrbnNCcEZtTkdBMW9XMndTTWFFSUdIcGJkVUVkVDlmQWdOS01pbkhNc0VHcVVUekJVVi1tQWdoNllYS1lPckNqVHZIdHJLeW9ZVVBqVDNxM0lxQnNYWDZPbWlnbTdoTC1BanhnNlJqMHNZdmZiTUJwUHp2OFRzN1prYXdMdmpreENiMmZGZGZub1NJVTdpOWx2QQ?oc=5",
+          "source": "marketscreener.com",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T11:56:10.000Z",
+          "snippet": "SEGRO Plc Reports Earnings Results for the Half Year Ended June 30, 2026 marketscreener.com",
+          "score": 24.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "e5bbd2ef21127936",
+          "cluster_id": "3bb8e9414380",
+          "duplicate_count": 4,
+          "also_in": [
+            "TradingView",
+            "marketscreener.com",
+            "Moneyweb"
+          ],
+          "all_links": [
+            {
+              "source": "marketscreener.com",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHJtVjYzOXRWSUtKS3NuQWtheVh3Q3hNVWlSSEFpeWU4QjJzQjF0RTNrbnNCcEZtTkdBMW9XMndTTWFFSUdIcGJkVUVkVDlmQWdOS01pbkhNc0VHcVVUekJVVi1tQWdoNllYS1lPckNqVHZIdHJLeW9ZVVBqVDNxM0lxQnNYWDZPbWlnbTdoTC1BanhnNlJqMHNZdmZiTUJwUHp2OFRzN1prYXdMdmpreENiMmZGZGZub1NJVTdpOWx2QQ?oc=5"
+            },
+            {
+              "source": "TradingView",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWS1rNWNwZzZQczlQaElUeEdyTXQ1a0VGb1FCQ1NRZnFYRWUxVmdQWFVQZWxhNVZGVEJpRks2VHgzaXJxQnA4c0lBU0RUYjRtMzE0S3RDYklHZ3p0UE5SQVlXeG56WEs2ZXRhV2JuUHB2UnlXbXRFdnlfSmd5MHMxNWd6TG1SRzhLU3F5bGhQM29ubERpNURWaVU1UThHUlhJSTZSaXEwQ2hLWTdvYVZ1NVBVeTIwcHRLQWxFa2lWM3JkVzU2aV9SWnVRaTNHOTNi?oc=5"
+            },
+            {
+              "source": "marketscreener.com",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaU5IdFRYeS1PUGYySFkxVnRGRGZhOFIyRDBCRGRINFhBc2pyeGdYZGRBckF0TmdlOTJ2YllibmF0NEdaVjNFcUZ6M0tpYS1faW85SVF1Zl8td0NnMWY4eF9pcVBJX0MzRkFVb2R2YndwNTZ4UWdHUlNzWm1PRE9veDlrYzdzX3FEZjlDLWNDZlBYOGxTV2diWHBDWnZicFE5dDZIenRtNVgwZDBzNjEwLUlrVlpVSkY0QW1HdEhxb08yeXBXVV9tcHhtQXo5Vlg2ZG1TaA?oc=5"
+            },
+            {
+              "source": "Moneyweb",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVVaR0dOb05HYTgzdU1tQk9sRE9ydFlPOEMwU1FPRUZfc3BfY29fZzlndUNyTXNBdjRjTTJHQjdKeGlVYmN5VzRnbkJ3VFNtNVJVeEppVXNqcHFuazFCWi1iRGVWTGU3alpBc2pUYVMwSEpvWXFZRlVsM0daTVZDZUQzZlE1SlJrNFNlWXRpQXV6UTVpMk1fdlRCNzNuVWZnb05FVjByUnplaFQxVjVibWZJa2w?oc=5"
+            }
+          ],
+          "summary": "SEGRO Plc Reports Earnings Results for the Half Year Ended June 30, 2026 marketscreener.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "2c3c2536415ee13c",
+          "title": "Dream Industrial REIT Announces Entry Into U.K. Multi-Let Industrial Market and Growth of Strategic Private Ventures in Europe",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMlNCRDlDR2ltRkN2RF93OHowb2JZN1FjcFJ1eF9aVkUyLVNNZjJUaTJ0YzNnM0t4VlI5N1ZQT0lrVFZxYzhPd0R4WklzcE9kUlhnZGlBZ0VYdVFKei1uY3l1bjl3SkZIQXgtTThaNElraUQyRUdNX28wS0lYUmF5RHBqTHZyQnNxM1FYY2hsVUJqZWdUdDUzekRlTlp6YUJSS1VPUXlhdzRhbGxhdFpLeXhkRkRxbkplZG0yTTFTNUVZZWZuUFhsd25YYzRJQ2xwaGFIWUpKcHQzR3U0RUJ0Z1lHR3ZiaXpnb2RuNDBwM1l0c01MZXU0QXRhNEhWSElua2V5YVo0NE1ha19MTjR3Mw?oc=5",
+          "source": "Business Wire",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T22:06:00.000Z",
+          "snippet": "Dream Industrial REIT Announces Entry Into U.K. Multi-Let Industrial Market and Growth of Strategic Private Ventures in Europe Business Wire",
+          "score": 24.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "f3e40dc17478168b",
+          "cluster_id": "020b433e0b3f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Business Wire",
+              "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMlNCRDlDR2ltRkN2RF93OHowb2JZN1FjcFJ1eF9aVkUyLVNNZjJUaTJ0YzNnM0t4VlI5N1ZQT0lrVFZxYzhPd0R4WklzcE9kUlhnZGlBZ0VYdVFKei1uY3l1bjl3SkZIQXgtTThaNElraUQyRUdNX28wS0lYUmF5RHBqTHZyQnNxM1FYY2hsVUJqZWdUdDUzekRlTlp6YUJSS1VPUXlhdzRhbGxhdFpLeXhkRkRxbkplZG0yTTFTNUVZZWZuUFhsd25YYzRJQ2xwaGFIWUpKcHQzR3U0RUJ0Z1lHR3ZiaXpnb2RuNDBwM1l0c01MZXU0QXRhNEhWSElua2V5YVo0NE1ha19MTjR3Mw?oc=5"
+            }
+          ],
+          "summary": "Dream Industrial REIT Announces Entry Into U.K.",
+          "status": "UPDATED",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "ff13db19a27e4cee",
+          "title": "CoStar Data Shows London Dominates UK Office Development as Regional Pipeline Hits 20-Year Low",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0xvUlNkYWhtZVduUjJfRGREQS1tTWtwX0RJNzNIN3dLc25zODBVdV9fY1hlQlplNFhYZ0VXWFhkSjFoLUxSaXV5REdGcjN3T0NidDUyY2VMbnI1aG9kYXNidm1FdkVLZHlNYm9ueDFsbGRIUFJ4VFExUEJDWnNTUWwwbjJ2OXFBaW4zNnVUaDdwVVZrVnVnR2k0ckhOVnN4OG50UlhTeXNYamtsb21Xa0lzbGR1VE9KQ3lKSHFDU3hITUFheUFuZlFLYjZCaVppbG1VOGl4Q285OWtCczIw?oc=5",
+          "source": "巴士的報",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T07:00:46.000Z",
+          "snippet": "CoStar Data Shows London Dominates UK Office Development as Regional Pipeline Hits 20-Year Low 巴士的報",
+          "score": 24.2,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "019f0a232dcff0d6",
+          "cluster_id": "f6d47b9c6e58",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "巴士的報",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0xvUlNkYWhtZVduUjJfRGREQS1tTWtwX0RJNzNIN3dLc25zODBVdV9fY1hlQlplNFhYZ0VXWFhkSjFoLUxSaXV5REdGcjN3T0NidDUyY2VMbnI1aG9kYXNidm1FdkVLZHlNYm9ueDFsbGRIUFJ4VFExUEJDWnNTUWwwbjJ2OXFBaW4zNnVUaDdwVVZrVnVnR2k0ckhOVnN4OG50UlhTeXNYamtsb21Xa0lzbGR1VE9KQ3lKSHFDU3hITUFheUFuZlFLYjZCaVppbG1VOGl4Q285OWtCczIw?oc=5"
+            }
+          ],
+          "summary": "CoStar Data Shows London Dominates UK Office Development as Regional Pipeline Hits 20-Year Low 巴士的報…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "d9d9501748d782a8",
+          "title": "Do Harrow’s (HROW) Retina Data Updates Quietly Redefine Its Core Growth Strategy?",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMklqck1YZjNyRHhKaGJYQzNOVFlVbUgxbEd4czExMFE5RVA0OGZzWFFNUlAwWU5ISkRBbU1keW13UHRqNXYxakwycUJ0dHA4Mk5lNXFVRkd1YWFOZThIQkFpZkVzMDJRNGU4LTdIeUE5NHFXZzZ5WWlFcFppZWo4TjVleThlaHVBa1NsNW80TF9aVFBVT3dNZUlUcVE3UHJnUXJzZUhiZ1c0R05QUmR2cWdqdTlPdjJ5aEFXd002dWtIVWxJZHlaTzZNQkdMb0JFdU5Za3FpekV1bUVB0gHcAUFVX3lxTE0ySWpyTVhmM3JEeEpoYlhDM05UWVVtSDFsR3hzMTEwUTlFUDQ4ZnNYUU1SUDBZTkhKREFtTWR5bXdQdGo1djFqTDJxQnR0cDgyTmU1cVVGR3VhYU5lOEhCQWlmRXMwMlE0ZTgtN0h5QTk0cVdnNnlZaUVwWmllajhONWV5OGVodUFrU2w1bzRMX1pUUFVPd01lSVRxUTdQcmdRcnNlSGJnVzRHTlBSZHZxZ2p1OU92MnloQVd3TTZ1a0hVbElkeVpPNk1CR0xvQkV1TllrcWl6RXVtRUE?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T16:19:23.000Z",
+          "snippet": "Do Harrow’s (HROW) Retina Data Updates Quietly Redefine Its Core Growth Strategy? simplywall.st",
+          "score": 24.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "eb656768844cf748",
+          "cluster_id": "19d820ba048f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMklqck1YZjNyRHhKaGJYQzNOVFlVbUgxbEd4czExMFE5RVA0OGZzWFFNUlAwWU5ISkRBbU1keW13UHRqNXYxakwycUJ0dHA4Mk5lNXFVRkd1YWFOZThIQkFpZkVzMDJRNGU4LTdIeUE5NHFXZzZ5WWlFcFppZWo4TjVleThlaHVBa1NsNW80TF9aVFBVT3dNZUlUcVE3UHJnUXJzZUhiZ1c0R05QUmR2cWdqdTlPdjJ5aEFXd002dWtIVWxJZHlaTzZNQkdMb0JFdU5Za3FpekV1bUVB0gHcAUFVX3lxTE0ySWpyTVhmM3JEeEpoYlhDM05UWVVtSDFsR3hzMTEwUTlFUDQ4ZnNYUU1SUDBZTkhKREFtTWR5bXdQdGo1djFqTDJxQnR0cDgyTmU1cVVGR3VhYU5lOEhCQWlmRXMwMlE0ZTgtN0h5QTk0cVdnNnlZaUVwWmllajhONWV5OGVodUFrU2w1bzRMX1pUUFVPd01lSVRxUTdQcmdRcnNlSGJnVzRHTlBSZHZxZ2p1OU92MnloQVd3TTZ1a0hVbElkeVpPNk1CR0xvQkV1TllrcWl6RXVtRUE?oc=5"
+            }
+          ],
+          "summary": "Do Harrow’s (HROW) Retina Data Updates Quietly Redefine Its Core Growth Strategy?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "b3abd153b9a13965",
+          "title": "Olowu lauds MAPOLY’s 10Gbps Smart Campus project says it will redefine technology .",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTlsRjU5OTBSRGRiTUdFMnJkY0ZDMEZsc0lzUEFXWm9PMWUtWGVjYk9jdXBuQUl4cnBwNUdCLXpSakxBeS1VU1ZjUVZTS0tSRDhKbzVWS2liWTlrUDRGcXdRS2RwLXphUHI3Z3dTMm9WYXFZV0VkaGhnWTZfOW9VRXo3UkY0SjRUQW5XNDZRNkdyUE9GQTlyRG51bzhRbVF5Q1Jtb2RsaW9PanZBUHR5cWlrR0RaWTJD?oc=5",
+          "source": "The Guardian Nigeria News",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T16:04:00.000Z",
+          "snippet": "Olowu lauds MAPOLY’s 10Gbps Smart Campus project says it will redefine technology . The Guardian Nigeria News",
+          "score": 24.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "440f3f5ffc44f938",
+          "cluster_id": "cb9c2a561649",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Guardian Nigeria News",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTlsRjU5OTBSRGRiTUdFMnJkY0ZDMEZsc0lzUEFXWm9PMWUtWGVjYk9jdXBuQUl4cnBwNUdCLXpSakxBeS1VU1ZjUVZTS0tSRDhKbzVWS2liWTlrUDRGcXdRS2RwLXphUHI3Z3dTMm9WYXFZV0VkaGhnWTZfOW9VRXo3UkY0SjRUQW5XNDZRNkdyUE9GQTlyRG51bzhRbVF5Q1Jtb2RsaW9PanZBUHR5cWlrR0RaWTJD?oc=5"
+            }
+          ],
+          "summary": "Olowu lauds MAPOLY’s 10Gbps Smart Campus project says it will redefine technology .",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "f175c453495896a5",
+          "title": "SEGRO Plc 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:SEGXF) 2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmJiWGFzeXRxd3JCMFVqLW5NbU1DMmkxTEJhYktaRy1WazBOX3RXTFREQlNyZXFRMlBaUE9iYUJUNHlDcElaU2VRbktCcS1aNV9LUFdFeDVVak9OSGdXN05ZaUx4eG15LUhxeWRFdGVqam8zX2pFZVZTQUZiNXl1aXp6U0UzT0lTVXNaeE8yaER3LUkyMG9LZA?oc=5",
+          "source": "Seeking Alpha",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T09:08:02.000Z",
+          "snippet": "SEGRO Plc 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:SEGXF) 2026-07-30 Seeking Alpha",
+          "score": 24.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "727fc750abe479cf",
+          "cluster_id": "55083e3f9091",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Seeking Alpha",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmJiWGFzeXRxd3JCMFVqLW5NbU1DMmkxTEJhYktaRy1WazBOX3RXTFREQlNyZXFRMlBaUE9iYUJUNHlDcElaU2VRbktCcS1aNV9LUFdFeDVVak9OSGdXN05ZaUx4eG15LUhxeWRFdGVqam8zX2pFZVZTQUZiNXl1aXp6U0UzT0lTVXNaeE8yaER3LUkyMG9LZA?oc=5"
+            }
+          ],
+          "summary": "SEGRO Plc 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:SEGXF) 2026-07-30 Seeking Alpha…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "70502d735728320d",
+          "title": "Rayner approves Grow Places’ £500m Truman Brewery redevelopment",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWi1fbVRFZmdVNzhVYW1SblREQXJ0d2RWdHhzUGdQclRPd242SERLQ25MaU5DaDBRRWRKbE9GYU9HMU1iX3NySVdnMkVEVWt6SF81Mkg2ZF81cWVPMEw5a2c5WUZDWUhMTmQ3a1F0ZU5oQ3VETl93VEt3UXV6VFZhRFBFZTFud0o2a09OT05fa080cUNBRk9lLWVyNA?oc=5",
+          "source": "Property Week",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T14:56:54.000Z",
+          "snippet": "Rayner approves Grow Places’ £500m Truman Brewery redevelopment Property Week",
+          "score": 24,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "6d6a5d3581ebc9a6",
+          "cluster_id": "1536fbb57787",
+          "duplicate_count": 2,
+          "also_in": [
+            "Property Week"
+          ],
+          "all_links": [
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWi1fbVRFZmdVNzhVYW1SblREQXJ0d2RWdHhzUGdQclRPd242SERLQ25MaU5DaDBRRWRKbE9GYU9HMU1iX3NySVdnMkVEVWt6SF81Mkg2ZF81cWVPMEw5a2c5WUZDWUhMTmQ3a1F0ZU5oQ3VETl93VEt3UXV6VFZhRFBFZTFud0o2a09OT05fa080cUNBRk9lLWVyNA?oc=5"
+            },
+            {
+              "source": "Property Week",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWi1fbVRFZmdVNzhVYW1SblREQXJ0d2RWdHhzUGdQclRPd242SERLQ25MaU5DaDBRRWRKbE9GYU9HMU1iX3NySVdnMkVEVWt6SF81Mkg2ZF81cWVPMEw5a2c5WUZDWUhMTmQ3a1F0ZU5oQ3VETl93VEt3UXV6VFZhRFBFZTFud0o2a09OT05fa080cUNBRk9lLWVyNA?oc=5"
+            }
+          ],
+          "summary": "Rayner approves Grow Places’ £500m Truman Brewery redevelopment Property Week…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "b5277eb689ed1581",
+          "title": "Canadian REIT Buys Brooklyn Medical Office For $90M: The N.Y. Deal Sheet (July 28, 2026)",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzc4czRvbVFzdnQyWXNheWphUGlKVDczdWdHUUNWd0IzbjJ3dkhCNzZjSlBDel9DTWxUQndUSFdsX2FSeHJhT05LazczcGVMZGtpTm12Sm5TTGVGZEVOcUtxcFhLU2ozU1pkdDJLbEV2SWRoRGdWTzYzUWNVc0d1N2RxRUZoMkNSM3htVkVDRWhjWmF6cVpNWkkwenZPTlZ5WU1BU09Dd09EZw?oc=5",
+          "source": "Bisnow",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-28T15:38:05.000Z",
+          "snippet": "Canadian REIT Buys Brooklyn Medical Office For $90M: The N.Y. Deal Sheet (July 28, 2026) Bisnow",
+          "score": 24,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "d462d7444190772e",
+          "cluster_id": "ebcd82eaf2f7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bisnow",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzc4czRvbVFzdnQyWXNheWphUGlKVDczdWdHUUNWd0IzbjJ3dkhCNzZjSlBDel9DTWxUQndUSFdsX2FSeHJhT05LazczcGVMZGtpTm12Sm5TTGVGZEVOcUtxcFhLU2ozU1pkdDJLbEV2SWRoRGdWTzYzUWNVc0d1N2RxRUZoMkNSM3htVkVDRWhjWmF6cVpNWkkwenZPTlZ5WU1BU09Dd09EZw?oc=5"
+            }
+          ],
+          "summary": "Canadian REIT Buys Brooklyn Medical Office For $90M: The N.Y.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-29T07:48:10.462Z"
+        },
+        {
+          "id": "00e86e69f9c0039e",
+          "title": "HSBC sells $25 billion Australian home and personal loan portfolio to Blackstone",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsZ0sxTzRjUW1CRzZwNTRxa19BenVoeXUyVGNBQVBCUlJyYmc5Y05icDIzZjFBekJpMlJpQ1FfM09hZTV4MlNNWUtsc0ZmSkhnZGFKN0xQRk10YkxLLW5oSS1vRG0zd29GMWpRNkpuR3NrSmRr?oc=5",
+          "source": "AOL.com",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T08:50:30.000Z",
+          "snippet": "HSBC sells $25 billion Australian home and personal loan portfolio to Blackstone AOL.com",
+          "score": 24,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "5091c4acf5f01123",
+          "cluster_id": "9ea5d2795fea",
+          "duplicate_count": 3,
+          "also_in": [
+            "Reuters",
+            "Bloomberg.com"
+          ],
+          "all_links": [
+            {
+              "source": "AOL.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsZ0sxTzRjUW1CRzZwNTRxa19BenVoeXUyVGNBQVBCUlJyYmc5Y05icDIzZjFBekJpMlJpQ1FfM09hZTV4MlNNWUtsc0ZmSkhnZGFKN0xQRk10YkxLLW5oSS1vRG0zd29GMWpRNkpuR3NrSmRr?oc=5"
+            },
+            {
+              "source": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmNEbzNraXlwVEpqXzh4ZFBmZWlxQkk0Zk9WaVdhQ3owRHhzYWRUUnBjYnpyWG5ia3dlOTJNbFhNZzNPUGtZUVY5RkgtRzdYcklJUGp5MWRmWFhaT3RqcV80bS1JVnVBVm83UV9BWjdxSlVaUGlGVlJRQ0otYU5hVVI3TENKZ3o1UGFQTDdGenJTQjNJb2VjVUJXRnhGZlphdmkxQTBINXJVemZkU0pST2IwQlNyRFh2Vk13?oc=5"
+            },
+            {
+              "source": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWlKX1NYSTVlMUNRRExHaUpNdnNqVVdmekZ1TDNfZHRTV1ZkYy1xTnBBT0pRNGpCcnpVWVc3enlXTmQ1Y1dmb1NQRnFnRmdDOWZIWnRoZ1A3Rm02Y1d3dnZWZlFwdS1ybk9Sc0k4cFp6RkR0d3hGX09RbjdHaXVjTks0OXV6RVk0OTRCRjlDOWpMTmdRQmx6X1JxQnJ3RGFpYVVIVDh1Zm9fVEVoOVZ1eV9PWDk?oc=5"
+            }
+          ],
+          "summary": "HSBC sells $25 billion Australian home and personal loan portfolio to Blackstone AOL.com…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "a57a7eeac02b4f9d",
+          "title": "BOARDWALK REIT REPORTS RESILIENT Q2 2026 RESULTS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzZKaXlQcHE3Vzk4V29WWTBma1FYOGQxU3djRzgya1ZEZW5ja2VYdm9KWHNWMFRfa0g1SHhSb1ZBLUVwVXRNS05xSTZpWGdLSWMxT0JyLXJ1MzJPUVZfMDNyd3Q1b1RkSUlOZk1TZXlYRmZLOWhONF9vYmk0cVVGN3hzTXR5R0ZucWlIUDRTSFA1S0huQXZ1WlZqNVluYVRiZktVU1RWWQ?oc=5",
+          "source": "PR Newswire",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-28T21:11:00.000Z",
+          "snippet": "BOARDWALK REIT REPORTS RESILIENT Q2 2026 RESULTS PR Newswire",
+          "score": 24,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "82c221a4e073b882",
+          "cluster_id": "bddefeecf581",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "PR Newswire",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzZKaXlQcHE3Vzk4V29WWTBma1FYOGQxU3djRzgya1ZEZW5ja2VYdm9KWHNWMFRfa0g1SHhSb1ZBLUVwVXRNS05xSTZpWGdLSWMxT0JyLXJ1MzJPUVZfMDNyd3Q1b1RkSUlOZk1TZXlYRmZLOWhONF9vYmk0cVVGN3hzTXR5R0ZucWlIUDRTSFA1S0huQXZ1WlZqNVluYVRiZktVU1RWWQ?oc=5"
+            }
+          ],
+          "summary": "BOARDWALK REIT REPORTS RESILIENT Q2 2026 RESULTS PR Newswire…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-29T07:48:10.462Z"
+        },
+        {
+          "id": "8a689492d6b373e3",
+          "title": "SEGRO hails ‘strong’ H1 results as occupier demand lifts earnings",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0JUSDNBT3pnaWVUWVdwbEJhSjFDQmJER2ZaZXV6Ukp6VmdvVFZXa01wMC1ZSzZleWpkTjYzZ3VnT1psUVdLajN1MXpHMXE1eUh1YUJNdXZwTE1vOGo3YlpZLTZJSEo2d24wRUcxOWdrOXhHOWxlSVc4NEZnRWpKNGRiQzg5VmRCV2d3Y01ES04xUzNtTEZVeWtjZFA?oc=5",
+          "source": "Place Midlands",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-30T07:12:00.000Z",
+          "snippet": "SEGRO hails ‘strong’ H1 results as occupier demand lifts earnings Place Midlands",
+          "score": 23.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "211eacc377cd1e11",
+          "cluster_id": "8d5611cd82b7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Place Midlands",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0JUSDNBT3pnaWVUWVdwbEJhSjFDQmJER2ZaZXV6Ukp6VmdvVFZXa01wMC1ZSzZleWpkTjYzZ3VnT1psUVdLajN1MXpHMXE1eUh1YUJNdXZwTE1vOGo3YlpZLTZJSEo2d24wRUcxOWdrOXhHOWxlSVc4NEZnRWpKNGRiQzg5VmRCV2d3Y01ES04xUzNtTEZVeWtjZFA?oc=5"
+            }
+          ],
+          "summary": "SEGRO hails ‘strong’ H1 results as occupier demand lifts earnings Place Midlands…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "2d80c2552f6f3bbb",
+          "title": "From boiling acid to Antarctic ice: The extraordinary organisms that redefine the limits of life on Earth",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmNObTVkX2VwbDdCTGhvRlkwQjdBN1N4TU5NbDVMVFBHRlB0QndqQkJIQTNwcFNCYTJEZDNUWlFENzZxUnZaOFFZZXQyc2RrbzJydGtyWTNlTUo2WnlkMHQ3Q0QycVBMMFdIenVoUnp2cmtBNjV0M3kwV2picDhtMFhfZHduUy03cC1JOGZDUDVmc2pTR0lIdTlpVTAzOGtmeTVUTW44TmFiZFNxYTBkMkNVNmxOZVM2ZXBBZjZpTkZRUTZyZ1FOaXdEc1VKVHlQdzlVVzhXalZQODBRbWxRWkVwTlVwSy1KQkJ5cE1MYnM0bUpDc0R5X29xOFJKTXJWYlFNRNIBigJBVV95cUxPSGU4NWxfX2VYbHN3UlFuUmwteFItTGNab3dPSGs1NVlYMFhyMjA3N1hxUjFxX0ZhMmllYTB0djAyZGpIZjFsTWxFSENtX1hZSGs5Y0NHaXlXdU1NdURSdmhkZ1N3VGJwV29TT1RBNDNPQ2ItaTZfS29JSXJ2NU9tV2JtbFdjTjlxMGRyWHExbWdvT2k1RkdiY1ZZa21kRWJveGN1VTl0Z3l1dVhTTXdKTm5UX1k0dExkbmJwTTAxcFdPalNnMzFkTS1ENXI1c2NsQWNSS2l2MXM4MkxOc05ZRzVMSzh3dG1WS2k1aVFnRkNDS3R2Y3VOMWo1VmNXa0NXRjZ3WjlqMm82UQ?oc=5",
+          "source": "The Times of India",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T13:45:00.000Z",
+          "snippet": "From boiling acid to Antarctic ice: The extraordinary organisms that redefine the limits of life on Earth The Times of India",
+          "score": 23.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "e6f604aec52d50cd",
+          "cluster_id": "016b7aa76ac6",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmNObTVkX2VwbDdCTGhvRlkwQjdBN1N4TU5NbDVMVFBHRlB0QndqQkJIQTNwcFNCYTJEZDNUWlFENzZxUnZaOFFZZXQyc2RrbzJydGtyWTNlTUo2WnlkMHQ3Q0QycVBMMFdIenVoUnp2cmtBNjV0M3kwV2picDhtMFhfZHduUy03cC1JOGZDUDVmc2pTR0lIdTlpVTAzOGtmeTVUTW44TmFiZFNxYTBkMkNVNmxOZVM2ZXBBZjZpTkZRUTZyZ1FOaXdEc1VKVHlQdzlVVzhXalZQODBRbWxRWkVwTlVwSy1KQkJ5cE1MYnM0bUpDc0R5X29xOFJKTXJWYlFNRNIBigJBVV95cUxPSGU4NWxfX2VYbHN3UlFuUmwteFItTGNab3dPSGs1NVlYMFhyMjA3N1hxUjFxX0ZhMmllYTB0djAyZGpIZjFsTWxFSENtX1hZSGs5Y0NHaXlXdU1NdURSdmhkZ1N3VGJwV29TT1RBNDNPQ2ItaTZfS29JSXJ2NU9tV2JtbFdjTjlxMGRyWHExbWdvT2k1RkdiY1ZZa21kRWJveGN1VTl0Z3l1dVhTTXdKTm5UX1k0dExkbmJwTTAxcFdPalNnMzFkTS1ENXI1c2NsQWNSS2l2MXM4MkxOc05ZRzVMSzh3dG1WS2k1aVFnRkNDS3R2Y3VOMWo1VmNXa0NXRjZ3WjlqMm82UQ?oc=5"
+            }
+          ],
+          "summary": "From boiling acid to Antarctic ice: The extraordinary organisms that redefine the limits of life on Earth The Times of India…",
+          "status": "NEW"
+        },
+        {
+          "id": "a2f0e787b184aa38",
+          "title": "Fortress Backs Wayflyer With $1.5B Forward-Flow Deal for E-Commerce Merchants",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUEyNGl1dlV5dVF2RXJCUzI4YWRnYVVFdnd2ODE5ZDB1bVFJeW5fS0x3MW5JaHFBQU5qU2R1VHFSdXVtbFJTVHEtVXR3SWgzRkVkTGxKQVpSZnc2M0h3Tkw1c2NEQnJPVjhDUm1BcUp0bmJrZFFuSkFhVDgwRFlEWFpVWXFDZU1UTnJ5dkxGVDBhXzNNdEpqdWZvVEJKeWNlWmNEdXZuak9ldTNsbzFHei1WTVp5Y011VUYwc2ZR?oc=5",
+          "source": "Tech Times",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T19:01:20.000Z",
+          "snippet": "Fortress Backs Wayflyer With $1.5B Forward-Flow Deal for E-Commerce Merchants Tech Times",
+          "score": 23.7,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "540cfe0d69b78b52",
+          "cluster_id": "8a39428affb6",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Tech Times",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUEyNGl1dlV5dVF2RXJCUzI4YWRnYVVFdnd2ODE5ZDB1bVFJeW5fS0x3MW5JaHFBQU5qU2R1VHFSdXVtbFJTVHEtVXR3SWgzRkVkTGxKQVpSZnc2M0h3Tkw1c2NEQnJPVjhDUm1BcUp0bmJrZFFuSkFhVDgwRFlEWFpVWXFDZU1UTnJ5dkxGVDBhXzNNdEpqdWZvVEJKeWNlWmNEdXZuak9ldTNsbzFHei1WTVp5Y011VUYwc2ZR?oc=5"
+            }
+          ],
+          "summary": "Fortress Backs Wayflyer With $1.5B Forward-Flow Deal for E-Commerce Merchants Tech Times…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "f93a112a833d1f0f",
+          "title": "How Did a Young Tunisian Woman Redefine the Meaning of Disability?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzNUeDQtWGJ4UnRyYkwxeC1wU2lsVDV5b3A4WF9pdHh2WWdHSTJFN090Wjdlcnp3VTMxX0NaU3pYaHNRaGhIV3F5OTV6VHRpQTVVQ0UxWjZjN1BRYVE1Z0NRVXZvdFVwV3JhTl9SVXpUWmZTRlVVbnJWNlNib1hSa0xaUU0xQl9oQ1kxYWpON0ZzWGJ1NS1ZVlkwRzd6bTZvNmExQzJPY1dpUVZMSkc0?oc=5",
+          "source": "JINHAGENCY",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T13:28:29.000Z",
+          "snippet": "How Did a Young Tunisian Woman Redefine the Meaning of Disability? JINHAGENCY",
+          "score": 23.7,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "757ce73397377c71",
+          "cluster_id": "b46def5c04bf",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "JINHAGENCY",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzNUeDQtWGJ4UnRyYkwxeC1wU2lsVDV5b3A4WF9pdHh2WWdHSTJFN090Wjdlcnp3VTMxX0NaU3pYaHNRaGhIV3F5OTV6VHRpQTVVQ0UxWjZjN1BRYVE1Z0NRVXZvdFVwV3JhTl9SVXpUWmZTRlVVbnJWNlNib1hSa0xaUU0xQl9oQ1kxYWpON0ZzWGJ1NS1ZVlkwRzd6bTZvNmExQzJPY1dpUVZMSkc0?oc=5"
+            }
+          ],
+          "summary": "How Did a Young Tunisian Woman Redefine the Meaning of Disability?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "742e17f7948119ab",
+          "title": "Could AI Agents Redefine Git Infrastructure?",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzFWWnhsWTEwVm5FUUpPaGRsekVEUGMxZ1RPZWVPYVpzczBvb3E1RS1GR3NJV05zY3poMzQzVmxQeXhNQ1QxOTJqSTJrWU9zQzM3c3VaOHhCTTluVU1mSEdBbHhaY0hnd25MQUtjelFCWHFCdEQtb0lPaEdkTUNuMnVLekhpcjZuX0ZF?oc=5",
+          "source": "Open Source For You",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T12:45:10.000Z",
+          "snippet": "Could AI Agents Redefine Git Infrastructure? Open Source For You",
+          "score": 23.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a73084185b2919c5",
+          "cluster_id": "4b6958dbed58",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Open Source For You",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzFWWnhsWTEwVm5FUUpPaGRsekVEUGMxZ1RPZWVPYVpzczBvb3E1RS1GR3NJV05zY3poMzQzVmxQeXhNQ1QxOTJqSTJrWU9zQzM3c3VaOHhCTTluVU1mSEdBbHhaY0hnd25MQUtjelFCWHFCdEQtb0lPaEdkTUNuMnVLekhpcjZuX0ZF?oc=5"
+            }
+          ],
+          "summary": "Could AI Agents Redefine Git Infrastructure?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "9a8b432a89c83cb3",
+          "title": "Longevity Startups Employ Cutting-Edge Science in a Bid to Redefine Wellness",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHNwdms2N0xkZ2RDaXZIOXlFZ2NhN2RxOGJCdF9IOVdtXzlIZ0luTzVLcHpSVHFSZGxWVXZSTThxbW9xTmNnQl9CeHdVTmplMC1NRFd5TjhmRGtERXF4clhnaVdDLUR6dmFMQWFfcVJZQ3VCMGR0NkN1aGFuUUExb0NKNzMwcDV2Qlp1aUlBcm9DYU9nRzZJckxaU0JZbTVKdmN0Q2hTcFNWeE84SjNFYkZBcDBwYU5H?oc=5",
+          "source": "Athletech News",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T12:32:45.000Z",
+          "snippet": "Longevity Startups Employ Cutting-Edge Science in a Bid to Redefine Wellness Athletech News",
+          "score": 23.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "ffd7194b8d4a40fa",
+          "cluster_id": "fd38b23849ef",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Athletech News",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHNwdms2N0xkZ2RDaXZIOXlFZ2NhN2RxOGJCdF9IOVdtXzlIZ0luTzVLcHpSVHFSZGxWVXZSTThxbW9xTmNnQl9CeHdVTmplMC1NRFd5TjhmRGtERXF4clhnaVdDLUR6dmFMQWFfcVJZQ3VCMGR0NkN1aGFuUUExb0NKNzMwcDV2Qlp1aUlBcm9DYU9nRzZJckxaU0JZbTVKdmN0Q2hTcFNWeE84SjNFYkZBcDBwYU5H?oc=5"
+            }
+          ],
+          "summary": "Longevity Startups Employ Cutting-Edge Science in a Bid to Redefine Wellness Athletech News…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "213f44bd6a07ae3d",
+          "title": "From SaaS to Agents-as-a-Service: Microsoft’s Aims to Redefine the CX Tech Stack",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUpITHFoNTF2YXAxN0NuY2FmM2Npbk9nZEFLMTZtMEpDM1BaNnNoOU5EaURUdV9GbnloMEIwVUpWZUlWaHV6cGxQZ1NjaG1yRUJnQmtsQjBGcWxMTG5IYlV1Ujkzc0FDUENaenRCYkJISmFzblNKTmo3VkgwcjlGSk1xNUJNV283Rk5sbUY0U0lYZFZQUFFyWldJUlpZaWh4Y1VXdFRtQ3BZZTNlNEpLUDVhYzdYal9BSlZjLWxILV9sMlFnV0E?oc=5",
+          "source": "CX Today",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T11:50:49.000Z",
+          "snippet": "From SaaS to Agents-as-a-Service: Microsoft’s Aims to Redefine the CX Tech Stack CX Today",
+          "score": 23.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "e054ae57af5234c1",
+          "cluster_id": "288d826e4e74",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "CX Today",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUpITHFoNTF2YXAxN0NuY2FmM2Npbk9nZEFLMTZtMEpDM1BaNnNoOU5EaURUdV9GbnloMEIwVUpWZUlWaHV6cGxQZ1NjaG1yRUJnQmtsQjBGcWxMTG5IYlV1Ujkzc0FDUENaenRCYkJISmFzblNKTmo3VkgwcjlGSk1xNUJNV283Rk5sbUY0U0lYZFZQUFFyWldJUlpZaWh4Y1VXdFRtQ3BZZTNlNEpLUDVhYzdYal9BSlZjLWxILV9sMlFnV0E?oc=5"
+            }
+          ],
+          "summary": "From SaaS to Agents-as-a-Service: Microsoft’s Aims to Redefine the CX Tech Stack CX Today…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "79b80fbab7211046",
+          "title": "Rising London office costs could curb growth, warns Avison Young",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakNvNHNrczVwY2lNYmlfWG5oemVfYzhPMlMxcVdmRWlBQXpFd3d5M1FtdGFvRVdDMThPaGlWSi03bjVZRGdNbVQ2eWR6blZGMGJydWRnWV9QQXlEVVVGNGlMSmRicnplS3ZsaHJNVUtxbW9hdHA3UWI5M09WMFlHSkkyWjc2c29hSmRWOWpWQ3ItLXpaSU5kZzl6eWNCcG1Bbk03ag?oc=5",
+          "source": "Estates Gazette",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T11:16:40.000Z",
+          "snippet": "Rising London office costs could curb growth, warns Avison Young Estates Gazette",
+          "score": 23.4,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "df4ac20a0a5dce86",
+          "cluster_id": "0eb48a2dad05",
+          "duplicate_count": 2,
+          "also_in": [
+            "Estates Gazette"
+          ],
+          "all_links": [
+            {
+              "source": "Estates Gazette",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakNvNHNrczVwY2lNYmlfWG5oemVfYzhPMlMxcVdmRWlBQXpFd3d5M1FtdGFvRVdDMThPaGlWSi03bjVZRGdNbVQ2eWR6blZGMGJydWRnWV9QQXlEVVVGNGlMSmRicnplS3ZsaHJNVUtxbW9hdHA3UWI5M09WMFlHSkkyWjc2c29hSmRWOWpWQ3ItLXpaSU5kZzl6eWNCcG1Bbk03ag?oc=5"
+            },
+            {
+              "source": "Estates Gazette",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakNvNHNrczVwY2lNYmlfWG5oemVfYzhPMlMxcVdmRWlBQXpFd3d5M1FtdGFvRVdDMThPaGlWSi03bjVZRGdNbVQ2eWR6blZGMGJydWRnWV9QQXlEVVVGNGlMSmRicnplS3ZsaHJNVUtxbW9hdHA3UWI5M09WMFlHSkkyWjc2c29hSmRWOWpWQ3ItLXpaSU5kZzl6eWNCcG1Bbk03ag?oc=5"
+            }
+          ],
+          "summary": "Rising London office costs could curb growth, warns Avison Young Estates Gazette…",
+          "status": "UPDATED",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "3a417f2cf65a0afd",
+          "title": "Fortress Biotech Just Netted $159 Million - Its Preferred Shares Could Be The Real Winner",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTNoeG16RGdmSEhHaTFQeUM3Ull6ZUpfUzVlaGlWVHVfTDVkY0pxN0xMNW5jbmtNNmxadHVFcjNacTJRa2pFTEtlUTZCWks5T3M2Y2hobVdYUXZwRVBfOVM4Tm1PRUx6dFlRc3U3c0FVUmRaQnFiZU5ZWFZVb3FSMlFpZjVQQ1oyWUF6cTJJR25PSzdTYmEyV3gwVi0zZHg2b0pDWHN3Y3hKQkZrS3FpNUVwaHRCRV9La0NfV2hGT1pveGxLdlE?oc=5",
+          "source": "Seeking Alpha",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T17:26:27.000Z",
+          "snippet": "Fortress Biotech Just Netted $159 Million - Its Preferred Shares Could Be The Real Winner Seeking Alpha",
+          "score": 23.4,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "7e2e24ee2cb71645",
+          "cluster_id": "9263c81a5e18",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Seeking Alpha",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTNoeG16RGdmSEhHaTFQeUM3Ull6ZUpfUzVlaGlWVHVfTDVkY0pxN0xMNW5jbmtNNmxadHVFcjNacTJRa2pFTEtlUTZCWks5T3M2Y2hobVdYUXZwRVBfOVM4Tm1PRUx6dFlRc3U3c0FVUmRaQnFiZU5ZWFZVb3FSMlFpZjVQQ1oyWUF6cTJJR25PSzdTYmEyV3gwVi0zZHg2b0pDWHN3Y3hKQkZrS3FpNUVwaHRCRV9La0NfV2hGT1pveGxLdlE?oc=5"
+            }
+          ],
+          "summary": "Fortress Biotech Just Netted $159 Million - Its Preferred Shares Could Be The Real Winner Seeking Alpha…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "d022e18c57909468",
+          "title": "Aberdeen boss Stephen Robinson wants to make Pittodrie a fortress this season",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmFpZDdDMFJucGdLSHJfX2ZtaWhXVWVEaTMwTXZZZXU0RVEyWjBHQjlyQ2VyTjlMbnprcEVFTGZYcVA1T0JkZnh6cFRyN3k2Ny10QmpiWXlLZkp3Tnh6bU1UbExnSTJlTzRpYWtaM2Fzd09RbEozWWlzdGpPRUh6enVTdHVIeER5SXpqMENIM1I5REVGT2x0U1YzVnNIQXRaOS1vbVhhZWFZd3hzajJXOWZXVG90RTFUMGVZU2RJa29xVUtIaFhn?oc=5",
+          "source": "Press and Journal",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T17:00:38.000Z",
+          "snippet": "Aberdeen boss Stephen Robinson wants to make Pittodrie a fortress this season Press and Journal",
+          "score": 23.3,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "4149378061226371",
+          "cluster_id": "0e3d489640f3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Press and Journal",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmFpZDdDMFJucGdLSHJfX2ZtaWhXVWVEaTMwTXZZZXU0RVEyWjBHQjlyQ2VyTjlMbnprcEVFTGZYcVA1T0JkZnh6cFRyN3k2Ny10QmpiWXlLZkp3Tnh6bU1UbExnSTJlTzRpYWtaM2Fzd09RbEozWWlzdGpPRUh6enVTdHVIeER5SXpqMENIM1I5REVGT2x0U1YzVnNIQXRaOS1vbVhhZWFZd3hzajJXOWZXVG90RTFUMGVZU2RJa29xVUtIaFhn?oc=5"
+            }
+          ],
+          "summary": "Aberdeen boss Stephen Robinson wants to make Pittodrie a fortress this season Press and Journal…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "e7d01243b994a350",
+          "title": "Hillwood Investment Properties secures £76.4m loan from Affinius Capital",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGdHdVVDMVRlbUdxNl9mWnFHMTVUSFg5a1VjTTQ1UE94em5fQW1yVmVVT01FNkhtbnBUT0JiN1BJQm4xMjZEdkY5aFJSaVIzMkxPQ1p1ZUZ4SVpXQmxoSldJaXAwU0JoU0dGSl96MXBWdmZpVThoVV9jNFpKMDE0MmdUWi0zd1ZDZEZRa2gwaVFBQldHb1U3U0N3RWlVbGFRMEI0TXpWcDU5V0E0enM0?oc=5",
+          "source": "Estates Gazette",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-07-31T09:18:10.000Z",
+          "snippet": "Hillwood Investment Properties secures £76.4m loan from Affinius Capital Estates Gazette",
+          "score": 23.2,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "7e6de5c0e671ba8c",
+          "cluster_id": "787c4895e7d3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Estates Gazette",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGdHdVVDMVRlbUdxNl9mWnFHMTVUSFg5a1VjTTQ1UE94em5fQW1yVmVVT01FNkhtbnBUT0JiN1BJQm4xMjZEdkY5aFJSaVIzMkxPQ1p1ZUZ4SVpXQmxoSldJaXAwU0JoU0dGSl96MXBWdmZpVThoVV9jNFpKMDE0MmdUWi0zd1ZDZEZRa2gwaVFBQldHb1U3U0N3RWlVbGFRMEI0TXpWcDU5V0E0enM0?oc=5"
+            }
+          ],
+          "summary": "Hillwood Investment Properties secures £76.4m loan from Affinius Capital Estates Gazette…",
+          "status": "NEW"
+        },
+        {
+          "id": "3e8a7215d12e9065",
+          "title": "Can RELX (LSE:REL) And AstraZeneca (LSE:AZN) Redefine UK Growth Stocks?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVhcm4za1FzdFNkLVNxOVpnY29RWmtqV3BCZHJINnlSQmJGQk9VNk5lWDFXN3hQWGdFRFZpelU1SnAzMzJCUkNyOEMwUWxzYXVXMkJFZXFGQ0xGRVZEazZIZUV1Z2FaXzdnN3lrczVjS21HSDJWZk53WkVIU0dVUUd4M0Jveklqc0tfRTFKQjJKMi1uaE50MFJ2TDI5VTJ0Q0FuM0hVN2RqUQ?oc=5",
+          "source": "Kalkine Media",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T09:50:00.000Z",
+          "snippet": "Can RELX (LSE:REL) And AstraZeneca (LSE:AZN) Redefine UK Growth Stocks? Kalkine Media",
+          "score": 23.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "30b149fcb6871ab0",
+          "cluster_id": "d85603dfa8c2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine Media",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVhcm4za1FzdFNkLVNxOVpnY29RWmtqV3BCZHJINnlSQmJGQk9VNk5lWDFXN3hQWGdFRFZpelU1SnAzMzJCUkNyOEMwUWxzYXVXMkJFZXFGQ0xGRVZEazZIZUV1Z2FaXzdnN3lrczVjS21HSDJWZk53WkVIU0dVUUd4M0Jveklqc0tfRTFKQjJKMi1uaE50MFJ2TDI5VTJ0Q0FuM0hVN2RqUQ?oc=5"
+            }
+          ],
+          "summary": "Can RELX (LSE:REL) And AstraZeneca (LSE:AZN) Redefine UK Growth Stocks?…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "054641c3ddd643c3",
+          "title": "SEGRO Delivers Strong H1 2026 Results and Expands Data Centre Growth Pipeline",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUngtMlFmV3daSFFfQUFOMVJrNHo2X1pCZmtrckYycFZGTDgzWTExcEREbzBtcm15OE8yTEJWN2JyRW1yNXE4NzY5aHpKTjVtZWxEUEs1OUdWZDRzTlkxRy1RXzA3YmNmR3ZmaG5ZM3B6UTRIbmlKQkdiY1N6VmFLY2RCakNtWlBzczZHMGYwRzdLY3NKdngzNTJyRWRPYjZoUU5FZDZ1VlREZlgzd3FEWWxNcnFKWHVWYkZmdFdZQTh1eFBmZ2FIYw?oc=5",
+          "source": "TipRanks",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-29T07:00:00.000Z",
+          "snippet": "SEGRO Delivers Strong H1 2026 Results and Expands Data Centre Growth Pipeline TipRanks",
+          "score": 23,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "409d3d2ffa91ef5d",
+          "cluster_id": "8ebfa88c3c02",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TipRanks",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUngtMlFmV3daSFFfQUFOMVJrNHo2X1pCZmtrckYycFZGTDgzWTExcEREbzBtcm15OE8yTEJWN2JyRW1yNXE4NzY5aHpKTjVtZWxEUEs1OUdWZDRzTlkxRy1RXzA3YmNmR3ZmaG5ZM3B6UTRIbmlKQkdiY1N6VmFLY2RCakNtWlBzczZHMGYwRzdLY3NKdngzNTJyRWRPYjZoUU5FZDZ1VlREZlgzd3FEWWxNcnFKWHVWYkZmdFdZQTh1eFBmZ2FIYw?oc=5"
+            }
+          ],
+          "summary": "SEGRO Delivers Strong H1 2026 Results and Expands Data Centre Growth Pipeline TipRanks…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "aa7b0dab905c9d1d",
+          "title": "News | RBS's former City offices set to change hands for circa £320 million",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemhNcGg2WXBiTDh4N0dNWWJmQ1BYSjVNYmlOZnJuR1ZVOWVVVU9nVHN0RV93Ukp6TnBVWkNPNzR5MmJMemk5QXkyUHhxS2stTklrY2lfNmlnX1V5QUN6aEQ4WjFvLU92QnJwemFKTGZiajBxSUJtS1hZYXF5SWRXZU53UFR6VTlwVzR3ZHd4eW5lODhiQTVtdmlRY1lmMzQwSXZSaDdaQ0I1a00?oc=5",
+          "source": "costar.com",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-07-28T13:40:15.000Z",
+          "snippet": "News | RBS's former City offices set to change hands for circa £320 million costar.com",
+          "score": 23,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "6128cb266dfd66e2",
+          "cluster_id": "1f57278c186c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "costar.com",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemhNcGg2WXBiTDh4N0dNWWJmQ1BYSjVNYmlOZnJuR1ZVOWVVVU9nVHN0RV93Ukp6TnBVWkNPNzR5MmJMemk5QXkyUHhxS2stTklrY2lfNmlnX1V5QUN6aEQ4WjFvLU92QnJwemFKTGZiajBxSUJtS1hZYXF5SWRXZU53UFR6VTlwVzR3ZHd4eW5lODhiQTVtdmlRY1lmMzQwSXZSaDdaQ0I1a00?oc=5"
+            }
+          ],
+          "summary": "News | RBS's former City offices set to change hands for circa £320 million costar.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-28T18:14:22.362Z"
+        },
+        {
+          "id": "a204ed8f4b47efc1",
+          "title": "Wayflyer and Fortress Announce $1.5 Billion Forward-Flow Agreement to Fund Small Businesses",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHBaUHdZbkJKUlFGUVZhMWRHOWk5bXp1M1VLV2xDdDl3b1hFRDhHbW9fRzlQZktaUHRhX2daSWF3VXJlMHhUTUxnUnUya0M3SERvZU9FMm9TeUtfd0hyUWhxY1pXeTRCMmxyaUs5M2VuaV9fNUJEZE9ycjVxZ3VFQUU5bkNLT0pOUFJTOTNtc0tVMExGNDV0aVhkT0xXZjNBc05OSmw5N3lJdFJnX2ZUWlZxTjJueGhiNi0w?oc=5",
+          "source": "Financial IT",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T15:18:39.000Z",
+          "snippet": "Wayflyer and Fortress Announce $1.5 Billion Forward-Flow Agreement to Fund Small Businesses Financial IT",
+          "score": 23,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "fbd940248f8c98fb",
+          "cluster_id": "26e07eea37b5",
+          "duplicate_count": 3,
+          "also_in": [
+            "Pulse 2.0",
+            "01net"
+          ],
+          "all_links": [
+            {
+              "source": "Financial IT",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHBaUHdZbkJKUlFGUVZhMWRHOWk5bXp1M1VLV2xDdDl3b1hFRDhHbW9fRzlQZktaUHRhX2daSWF3VXJlMHhUTUxnUnUya0M3SERvZU9FMm9TeUtfd0hyUWhxY1pXeTRCMmxyaUs5M2VuaV9fNUJEZE9ycjVxZ3VFQUU5bkNLT0pOUFJTOTNtc0tVMExGNDV0aVhkT0xXZjNBc05OSmw5N3lJdFJnX2ZUWlZxTjJueGhiNi0w?oc=5"
+            },
+            {
+              "source": "Pulse 2.0",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORXJyQ0pFdGtZQlJPNWota19RUjNkWWEzMUFyTVYzTl8tOWFzYjZhTDNsUW9Rc2dxcWJyX2NoWWE3TXo1NGtvWjFEOHZGU1NvZzV2LUdUQ0trdVV4NHpaSkFlODVOaHFlLVRvOURFWUg2WFBVNnpzdjJCSjE0Xzl5cm1UTU5Nb2xkdnAxazlQU1lNYXlLOV9FV1V2RFBGekg2NExsV2JaSVhUVm5wUnFj0gG0AUFVX3lxTE1Pdk1EYVBXb2NWZXN6WlM2TmM3NDM5MUM0OEV5RlVqZndsQWRkQ04xR3hJV1NxUHF6UUFWYjBhWVJWaEtiVW8wMnpwOTdYNWFvUDNXTVAzVWRqX2VXMDh5bWJicGxkZzhrQ09DdThhODBqQWZnWGN1Y09SUjBwWm5yNDRIQW0yQmRKLUFGSFBFYlBxdzlMTEowOXRuRFJyZjJjRzd5QUw2NklJd3RrSEhBczNkTA?oc=5"
+            },
+            {
+              "source": "01net",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJEYUVWWFdXSWZfUWMtb0M0ck55Nl9jZlFVNFNsdS1lZDJqTHVHWnJ4Rmx1Y0k2YmdoTGVFRDROYXpLNUFXTUp0NXp6UDdpRjVtWkJ6aldERXNLTzlVRjdKNDVUalhCajE4eG14ck1CcklGSmdpM2dIZ2ZuX2pIT1RJWU85UEYyQi1IbmlvVkNEM0dwbEZUelJ0QUVLanBYQVcxMDFFa3phMmh0dkJ1MDN3?oc=5"
+            }
+          ],
+          "summary": "Wayflyer and Fortress Announce $1.5 Billion Forward-Flow Agreement to Fund Small Businesses Financial IT…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-31T07:56:43.484Z"
+        },
+        {
+          "id": "166b4df22cb1b3c0",
+          "title": "Radisson Hotel Group and Accenture Redefine Travel Discovery on ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTNuVmY0TVJ1ay1rLU1fdkpuSGJJVHAwS3NSM0ZYSjRVbFl6eW94dF9SaE5yZVFNaXEySndlemZha0Z2SDQ1WkQ0eGRDY0tUWk9TYVUwSnZCWlFLaHJqUUhucVRsZ2ZOdkxCTUlMaUx3SFpaX3NoWk5FVXVza2kyM01lWGFLOHpMb1NCcTBFYmdndHV5OFlXNW1EV3hZUTZGVFVUaTcyZUtYNGU0NUE?oc=5",
+          "source": "IT News Africa",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-07-30T08:11:27.000Z",
+          "snippet": "Radisson Hotel Group and Accenture Redefine Travel Discovery on ChatGPT IT News Africa",
+          "score": 23,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "894f049c5c2ce76b",
+          "cluster_id": "15918613670d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "IT News Africa",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTNuVmY0TVJ1ay1rLU1fdkpuSGJJVHAwS3NSM0ZYSjRVbFl6eW94dF9SaE5yZVFNaXEySndlemZha0Z2SDQ1WkQ0eGRDY0tUWk9TYVUwSnZCWlFLaHJqUUhucVRsZ2ZOdkxCTUlMaUx3SFpaX3NoWk5FVXVza2kyM01lWGFLOHpMb1NCcTBFYmdndHV5OFlXNW1EV3hZUTZGVFVUaTcyZUtYNGU0NUE?oc=5"
+            }
+          ],
+          "summary": "Radisson Hotel Group and Accenture Redefine Travel Discovery on ChatGPT IT News Africa…",
+          "status": "NEW"
+        }
+      ]
+    }
+  },
+  "markets": [
+    {
+      "key": "ftse100",
+      "label": "FTSE 100",
+      "symbol": "^FTSE",
+      "group": "index",
+      "price": 10913.39,
+      "prevClose": 10736.2,
+      "change": 177.1899999999987,
+      "pct": 1.65,
+      "currency": "GBP",
+      "asof": "2026-07-31T12:36:28.000Z",
+      "ok": true
+    },
+    {
+      "key": "ftse250",
+      "label": "FTSE 250",
+      "symbol": "^FTMC",
+      "group": "index",
+      "price": 24112.69,
+      "prevClose": 23801.5,
+      "change": 311.1899999999987,
+      "pct": 1.31,
+      "currency": "GBP",
+      "asof": "2026-07-31T12:36:29.000Z",
+      "ok": true
+    },
+    {
+      "key": "sp500",
+      "label": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "index",
+      "price": 7437.63,
+      "prevClose": 7408.3,
+      "change": 29.329999999999927,
+      "pct": 0.4,
+      "currency": "USD",
+      "asof": "2026-07-30T20:44:35.000Z",
+      "ok": true
+    },
+    {
+      "key": "nasdaq",
+      "label": "Nasdaq Comp.",
+      "symbol": "^IXIC",
+      "group": "index",
+      "price": 25122.178,
+      "prevClose": 25137.69,
+      "change": -15.511999999998807,
+      "pct": -0.06,
+      "currency": "USD",
+      "asof": "2026-07-30T21:15:59.000Z",
+      "ok": true
+    },
+    {
+      "key": "dow",
+      "label": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "index",
+      "price": 52208.06,
+      "prevClose": 51711.65,
+      "change": 496.4099999999962,
+      "pct": 0.96,
+      "currency": "USD",
+      "asof": "2026-07-30T20:56:30.000Z",
+      "ok": true
+    },
+    {
+      "key": "jse",
+      "label": "JSE All Share",
+      "symbol": "^J203.JO",
+      "group": "index",
+      "price": 112008.55,
+      "prevClose": 110109.6,
+      "change": 1898.949999999997,
+      "pct": 1.72,
+      "currency": "ZAR",
+      "asof": "2026-07-31T12:36:00.000Z",
+      "ok": true
+    },
+    {
+      "key": "gilt10",
+      "label": "UK 10y Gilt",
+      "symbol": "GB10YR.GB",
+      "group": "rate",
+      "ok": false,
+      "error": "HTTP 404",
+      "price": null,
+      "pct": null
+    },
+    {
+      "key": "ust10",
+      "label": "US 10y Treasury",
+      "symbol": "^TNX",
+      "group": "rate",
+      "price": 4.694,
+      "prevClose": 4.641,
+      "change": 0.052999999999999936,
+      "pct": 1.14,
+      "currency": "USD",
+      "asof": "2026-07-31T12:36:25.000Z",
+      "ok": true
+    },
+    {
+      "key": "gbpusd",
+      "label": "GBP/USD",
+      "symbol": "GBPUSD=X",
+      "group": "fx",
+      "price": 1.3426,
+      "prevClose": 1.3351,
+      "change": 0.007500000000000062,
+      "pct": 0.56,
+      "currency": "USD",
+      "asof": "2026-07-31T12:51:21.000Z",
+      "ok": true
+    },
+    {
+      "key": "gbpzar",
+      "label": "GBP/ZAR",
+      "symbol": "GBPZAR=X",
+      "group": "fx",
+      "price": 22.2493,
+      "prevClose": 22.3073,
+      "change": -0.05799999999999983,
+      "pct": -0.26,
+      "currency": "ZAR",
+      "asof": "2026-07-31T12:51:29.000Z",
+      "ok": true
+    },
+    {
+      "key": "usdzar",
+      "label": "USD/ZAR",
+      "symbol": "USDZAR=X",
+      "group": "fx",
+      "price": 16.5733,
+      "prevClose": 16.7091,
+      "change": -0.1357999999999997,
+      "pct": -0.81,
+      "currency": "ZAR",
+      "asof": "2026-07-31T12:51:30.000Z",
+      "ok": true
+    },
+    {
+      "key": "eurgbp",
+      "label": "EUR/GBP",
+      "symbol": "EURGBP=X",
+      "group": "fx",
+      "price": 0.8556,
+      "prevClose": 0.8535,
+      "change": 0.0020999999999999908,
+      "pct": 0.25,
+      "currency": "GBP",
+      "asof": "2026-07-31T12:51:31.000Z",
+      "ok": true
+    },
+    {
+      "key": "brent",
+      "label": "Brent Crude",
+      "symbol": "BZ=F",
+      "group": "commodity",
+      "price": 90.22,
+      "prevClose": 88.36,
+      "change": 1.8599999999999994,
+      "pct": 2.11,
+      "currency": "USD",
+      "asof": "2026-07-31T12:34:34.000Z",
+      "ok": true
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "symbol": "GC=F",
+      "group": "commodity",
+      "price": 4100.1,
+      "prevClose": 4074.5,
+      "change": 25.600000000000364,
+      "pct": 0.63,
+      "currency": "USD",
+      "asof": "2026-07-31T12:41:27.000Z",
+      "ok": true
+    },
+    {
+      "key": "bitcoin",
+      "label": "Bitcoin",
+      "symbol": "BTC-USD",
+      "group": "crypto",
+      "price": 63608.22,
+      "prevClose": 63724.9,
+      "change": -116.68000000000029,
+      "pct": -0.18,
+      "currency": "USD",
+      "asof": "2026-07-31T12:51:27.000Z",
+      "ok": true
+    }
+  ],
+  "whatMattersToMe": {
+    "top5": [
+      {
+        "title": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market",
+        "summary": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market citybiz…",
+        "source": "citybiz",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T12:40:15.000Z",
+        "score": 43,
+        "also_in": []
+      },
+      {
+        "title": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income",
+        "summary": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income Property Week…",
+        "source": "Property Week",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T09:38:21.000Z",
+        "score": 37.4,
+        "also_in": [
+          "TipRanks"
+        ]
+      },
+      {
+        "title": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition",
+        "summary": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition costar.com…",
+        "source": "costar.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T08:25:33.000Z",
+        "score": 34.8,
+        "also_in": []
+      },
+      {
+        "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+        "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "NEW",
+        "section": "uk",
+        "published_at": "2026-07-31T12:19:20.000Z",
+        "score": 33,
+        "also_in": []
+      },
+      {
+        "title": "Wrexham on the hunt for developer for £30m office",
+        "summary": "Wrexham on the hunt for developer for £30m office Place North West…",
+        "source": "Place North West",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktzMEQ0UVl2eFFBc2dHaXNLeUNNSnNIUmt6RnRta0VhLWlJRzNLamVtbDBMZjJreENOUTE2MGRlNlB2Mllqcnh1Q0NLckhZQUZnRnkzNWxVUVRxUUc4cnFnTURtNnpqUTlnWFJMQ1c4dWxsMTE0VUEzWmJQYzVGS0gwWXlBcUY4Mnc?oc=5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T10:09:00.000Z",
+        "score": 32,
+        "also_in": []
+      }
+    ],
+    "creTop3": [
+      {
+        "title": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market",
+        "summary": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market citybiz…",
+        "source": "citybiz",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T12:40:15.000Z",
+        "score": 43,
+        "also_in": []
+      },
+      {
+        "title": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income",
+        "summary": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income Property Week…",
+        "source": "Property Week",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T09:38:21.000Z",
+        "score": 37.4,
+        "also_in": [
+          "TipRanks"
+        ]
+      },
+      {
+        "title": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition",
+        "summary": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition costar.com…",
+        "source": "costar.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ],
+        "status": "NEW",
+        "section": "realestate",
+        "published_at": "2026-07-31T08:25:33.000Z",
+        "score": 34.8,
+        "also_in": []
+      }
+    ],
+    "implications": [
+      "US 10y treasury at 4.694 sets the global rate backdrop influencing cross-border capital into London offices.",
+      "3 refinancing/distress item(s) flagged today — watch for read-across to debt availability and office valuations.",
+      "10 sizeable transaction(s) flagged (£20m+) — pricing evidence for the investment market.",
+      "FTSE 100 up 1.65% — broad risk sentiment proxy for listed property.",
+      "GBP/USD at 1.3426 affects overseas-buyer appetite for London assets."
+    ],
+    "oneLiner": "Rates and refinancing remain the dominant swing factors for UK office values and debt availability."
+  },
+  "changes": {
+    "previousId": "2026-07-31-morning",
+    "addedCount": 31,
+    "carriedCount": 59,
+    "newHeadlines": [
+      {
+        "title": "Hilco Real Estate Brings $14.3 Million New York Distressed Loan Portfolio to Market",
+        "source": "citybiz",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZBU3R5b2N3RFdnU3FZR2c1X0JHS3lUbVd5S0RhbGNIM0Rwa0ZybWcydkNDTVZja3JsTlFROTBqSGVmMEJ4em5DNTl2aVJZeHB2U1FpWk1rR1YyX0xHMGVmb29oLWFTYUhhTFI5UG9rM0ZKcE04bzhVaWc2RTNwWWQwa0pWX091RGNsbUhMX0piTHRBbkFOUnM0eDVvNk9BTkZDNHNJQkFIcUJEUlJXdWJtOFBsaTZ5d0laMTRR?oc=5",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ]
+      },
+      {
+        "title": "LondonMetric and Schroder REIT strike £404m deal for Picton Property Income",
+        "source": "Property Week",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkVEbEhTellmRUZQb3VMT3p2cmdKSzBvTHQ5enhyR2ZxNl9SLUcxcEtoR0lWY3JPWGN0elNYak04NGZXNThoSENyUEVtZUZLZGsxMDJmNjVLTUhmUnEyMkdwQWlzUHg0VS1BSDNlb2VWYl94SkNvLVhsMUFUSHpOUDdqZjkxaHowdlpNdG1hMHpvZEttTkFOak4ycEd0LUFiOVVpMFpUbXZpRFhrWDdCNg?oc=5",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          },
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ]
+      },
+      {
+        "title": "News | Crown Estate completes circa £120 million Piccadilly Estate leasehold acquisition",
+        "source": "costar.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWl4eVhaR0FfVU1UZEIwUWRja2RuOWIycmE2Ym4tMnJLRVZwb19vbEtzWVJSSFVsVnlYcXM5Ynl4bUdZcGtkYkVIWm9ocEpMSEp5dHUwRTJsM3JyUHlaR0oyUGNRazZ3bWpNRUR6b3o5bW1CenpEYXVGeVBPOC1iOW5EY2pBakJsNnpCT19vYmY2dU5ZX05XcXFJRktJenEyOUpDVjRPUi1EX2tDWlA2a2tzQXc0YVFjUnhpeE5B?oc=5",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ]
+      },
+      {
+        "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ]
+      },
+      {
+        "title": "Wrexham on the hunt for developer for £30m office",
+        "source": "Place North West",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktzMEQ0UVl2eFFBc2dHaXNLeUNNSnNIUmt6RnRta0VhLWlJRzNLamVtbDBMZjJreENOUTE2MGRlNlB2Mllqcnh1Q0NLckhZQUZnRnkzNWxVUVRxUUc4cnFnTURtNnpqUTlnWFJMQ1c4dWxsMTE0VUEzWmJQYzVGS0gwWXlBcUY4Mnc?oc=5",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ]
+      },
+      {
+        "title": "Nairobi County Unleashes Six Debt Recovery Cartels on Land Rates Defaulters",
+        "source": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHVUdW4yVTgxN2dLOFhwWEQ4Z1lHQ3ZidjA3N1lpZWR2SUJEeTlPQ2NEVV9qeWlmRGZwamZKM2JBREJWT2V3NkU5Y1k5MGZLa2cwU3dJaS0tcF82QU1yWDNyMlBraHVZR3RWSV80a3kxQ1RXVm54Tm9OLUIwYjVWaWJDZXBiaXZrTDZGbFJsTGRjN1VUV1RJamdEWERaNm16bHdhUXhpRldOMjQ3VEE?oc=5",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ]
+      },
+      {
+        "title": "Concerns raised over council's £900m debt",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c74gdmmrjn7o?at_medium=RSS&at_campaign=rss",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ]
+      },
+      {
+        "title": "A project led by Nissan explores integrated energy technologies to redefine EV charging",
+        "source": "Engineer Live",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHJCeDhPTmhOdllZM0tGSmJCaU5nY0RqeFlKQVNTVmVHVldBaW04MFVrdXl5WmpWVTJsOVZjU0lRTEtOU3gtOXhUUjRIYjBoU2dxLU9tUWZWa2dSZFdScnVOa0xRSUlobDFHOFdzbjlwZDljc1RKLU9nZEo5MnZMWVFzTXJSMXhTZmk2WGpKd1p6MlVnb2ctWGg4SnVpMHloUHg1dnVhYUxxWFd2QncwdzlyTQ?oc=5",
+        "flags": [
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ]
+      }
+    ]
+  },
+  "allStoryIds": [
+    "bab097f3139761c3",
+    "b136f464cfe80b76",
+    "b4bd4fc1dad637ed",
+    "fe886055b772c302",
+    "83a7ab6123bc6e07",
+    "5ec192346bcaf571",
+    "3e4009859d8b9b6e",
+    "d0505d3d5c7bc7f1",
+    "3a1dec99706563db",
+    "1c1af352b45e2c81",
+    "0dfa940817092ca3",
+    "02837558cb56369a",
+    "f29a4c9befb57153",
+    "f17145e840229757",
+    "9efd8adf11cff169",
+    "fd9a05953c8fc1e0",
+    "86c0f034702ba31b",
+    "9b22912977817d76",
+    "c71ad74a41184224",
+    "10abdd15e2a0b5ae",
+    "5a4cfd018c2621d0",
+    "e3833015e49f52f0",
+    "b0012baef8d9d6a7",
+    "747ee8c905e24add",
+    "4ddcd2752bd26a6f",
+    "4f4ce65665f19cf6",
+    "f6008c8fc4160c7e",
+    "b57d83f77c9c4c7b",
+    "53969b0521f31d26",
+    "bdcebb3f96127a6b",
+    "1ee2c8cda0528055",
+    "752611a3ae2ef0d9",
+    "dd978ef6efdae4e0",
+    "a9e89acbf6ec4088",
+    "7d79171334be2a65",
+    "76c9af924abf5092",
+    "bd45df2c3dabbecb",
+    "9108e948ef77323f",
+    "7a5fccf800973379",
+    "7fc0e4e5882eb9d7",
+    "bf26dffc2865a32d",
+    "63ce71eea14d227f",
+    "f3e33e9a7a970c9e",
+    "968d08bc848d41f7",
+    "37485cbc405af5ac",
+    "c89668daf56bd147",
+    "665db349c845fa03",
+    "2f439108efd6559f",
+    "5696df07de6c6733",
+    "40913be68d7e7125",
+    "d800d0b994bff0b9",
+    "32042578ffabb3a8",
+    "25becacc73bfaf1a",
+    "3357fe85ed5a0b7c",
+    "5da4710473a924d2",
+    "c75178896e85fc5f",
+    "4a3fd49e01e1ef1d",
+    "c3446d23b1b261ff",
+    "a9c90314c10971fd",
+    "ace73897711dd3a0",
+    "659ee21d7440033d",
+    "2c3c2536415ee13c",
+    "ff13db19a27e4cee",
+    "d9d9501748d782a8",
+    "b3abd153b9a13965",
+    "f175c453495896a5",
+    "7e3cfe7b9a92f13f",
+    "70502d735728320d",
+    "b5277eb689ed1581",
+    "00e86e69f9c0039e",
+    "a57a7eeac02b4f9d",
+    "8a689492d6b373e3",
+    "2d80c2552f6f3bbb",
+    "a2f0e787b184aa38",
+    "f93a112a833d1f0f",
+    "742e17f7948119ab",
+    "9a8b432a89c83cb3",
+    "213f44bd6a07ae3d",
+    "79b80fbab7211046",
+    "3a417f2cf65a0afd",
+    "d022e18c57909468",
+    "e7d01243b994a350",
+    "3e8a7215d12e9065",
+    "abd95b45b40cb9a8",
+    "0bd5663ce527e1df",
+    "c8134a6fc252c6c3",
+    "054641c3ddd643c3",
+    "aa7b0dab905c9d1d",
+    "a204ed8f4b47efc1",
+    "166b4df22cb1b3c0"
+  ]
+}
