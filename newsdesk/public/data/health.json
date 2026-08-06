@@ -1,8 +1,8 @@
 {
-  "edition": "2026-08-05-midday",
-  "generated_at": "2026-08-05T12:49:12.398Z",
+  "edition": "2026-08-06-morning",
+  "generated_at": "2026-08-06T07:45:06.636Z",
   "feeds": 32,
-  "items": 1488,
+  "items": 1463,
   "stories": 90,
   "markets_ok": 14,
   "markets_total": 15,
@@ -10,8 +10,12 @@
     {
       "feed": "engineeringnews",
       "error": "Status code 403"
+    },
+    {
+      "feed": "dailymaverick",
+      "error": "Request timed out after 20000ms"
     }
   ],
   "summariser": "extractive",
-  "duration_ms": 6135
+  "duration_ms": 23912
 }
