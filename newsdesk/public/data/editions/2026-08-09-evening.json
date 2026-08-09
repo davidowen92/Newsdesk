@@ -1,0 +1,3184 @@
+{
+  "id": "2026-08-09-evening",
+  "label": "Evening",
+  "created_at": "2026-08-09T19:08:04.568Z",
+  "ukDate": "2026-08-09",
+  "story_count": 90,
+  "executiveSummary": [
+    {
+      "title": "Billionaire Ashley leads race to clinch takeover of Harvey Nichols",
+      "source": "Sky News",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710"
+    },
+    {
+      "title": "Zimbabwe dollar bourse plans venture board, eyes $5bn market value",
+      "source": "Moneyweb",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "reit",
+          "label": "REIT UPDATE",
+          "tone": "neutral"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://www.moneyweb.co.za/news/africa/zimbabwe-dollar-bourse-plans-venture-board-eyes-5bn-market-value/"
+    },
+    {
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "source": "BBC",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Owner of bike maker Raleigh files for insolvency",
+      "source": "BBC",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+      "source": "BBC",
+      "tone": "negative",
+      "flags": [
+        {
+          "id": "distress",
+          "label": "DISTRESS",
+          "tone": "negative"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Sir Keir Starmer made misleading defence spending claim, watchdog says",
+      "source": "BBC",
+      "tone": "neutral",
+      "flags": [
+        {
+          "id": "big-deal",
+          "label": "£20m+ DEAL",
+          "tone": "neutral"
+        }
+      ],
+      "status": "ONGOING",
+      "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "sections": {
+    "uk": {
+      "title": "United Kingdom",
+      "stories": [
+        {
+          "id": "8b0a2051ced765e9",
+          "title": "Billionaire Ashley leads race to clinch takeover of Harvey Nichols",
+          "url": "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-07T14:27:00.000Z",
+          "snippet": "The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administration.",
+          "score": 27,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "651a1130798fcad5",
+          "cluster_id": "852ec12fd961",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710"
+            }
+          ],
+          "summary": "The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administra…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-07T17:47:36.912Z"
+        },
+        {
+          "id": "2f83371b5baf1ce8",
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-07T13:32:41.000Z",
+          "snippet": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+          "score": 22,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "1924e20283b369f8",
+          "cluster_id": "fccfb06b54d3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-07T17:47:36.912Z"
+        },
+        {
+          "id": "e23c1f435c6b2520",
+          "title": "Owner of bike maker Raleigh files for insolvency",
+          "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T12:34:42.000Z",
+          "snippet": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+          "score": 22,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "126a07c912a49bc9",
+          "cluster_id": "c4eef489443c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-06T07:44:42.727Z"
+        },
+        {
+          "id": "ae792817d99a0dac",
+          "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+          "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-05T19:39:48.000Z",
+          "snippet": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+          "score": 22,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "0980df2507e8d85b",
+          "cluster_id": "be7cda45474f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-06T07:44:42.727Z"
+        },
+        {
+          "id": "e3635dc34833ed96",
+          "title": "Sir Keir Starmer made misleading defence spending claim, watchdog says",
+          "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T14:59:15.000Z",
+          "snippet": "The Wales Office and MoD also repeated the claim that £270bn more was being spent on defence.",
+          "score": 22,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "3a684aec0bf41b4d",
+          "cluster_id": "306879f7d5b3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The Wales Office and MoD also repeated the claim that £270bn more was being spent on defence.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-06T07:44:42.727Z"
+        },
+        {
+          "id": "d8bcef86e28261f1",
+          "title": "Chris Mason: What his first week in power tells us about Andy Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-24T12:58:58.000Z",
+          "snippet": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
+          "score": 22,
+          "flags": [
+            {
+              "id": "distress",
+              "label": "DISTRESS",
+              "tone": "negative"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "b2cc0c51348ae946",
+          "cluster_id": "2d9c93c87ebb",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-24T12:15:21.841Z"
+        },
+        {
+          "id": "393e33d79bb15402",
+          "title": "Hargreaves Lansdown orders staff back to office",
+          "url": "https://www.ft.com/content/590e468a-1eb7-4d1b-a7a5-80541c3ff35a?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T04:00:09.000Z",
+          "snippet": "UK’s biggest DIY investment platform calls employees back to the workplace three days a week",
+          "score": 20.3,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "9e04bd7cc86fa1dc",
+          "cluster_id": "7659e5db2fff",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/590e468a-1eb7-4d1b-a7a5-80541c3ff35a?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "UK’s biggest DIY investment platform calls employees back to the workplace three days a week…",
+          "status": "NEW"
+        },
+        {
+          "id": "3707615aee6a0281",
+          "title": "Inflation could hit 6pc, warns Bank of England",
+          "url": "https://www.telegraph.co.uk/business/2026/04/30/interest-rates-uk-bank-of-england-oil-prices-iran-war-ftse/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-04-30T17:22:17.000Z",
+          "snippet": "Inflation could hit 6pc, warns Bank of England",
+          "score": 20,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "625382d89c496335",
+          "cluster_id": "7b15a4523a7a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/04/30/interest-rates-uk-bank-of-england-oil-prices-iran-war-ftse/"
+            }
+          ],
+          "summary": "Inflation could hit 6pc, warns Bank of England…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-05T12:10:51.398Z"
+        },
+        {
+          "id": "8e10909475f99426",
+          "title": "Bank of England ‘flying blind’ on inflation",
+          "url": "https://www.telegraph.co.uk/business/2026/04/22/inflation-uk-iran-war-fuel-prices-trump-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-04-22T11:57:01.000Z",
+          "snippet": "Bank of England ‘flying blind’ on inflation",
+          "score": 20,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "9001e9b9f1d67540",
+          "cluster_id": "69a3f3f0a830",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/04/22/inflation-uk-iran-war-fuel-prices-trump-ftse-100-markets/"
+            }
+          ],
+          "summary": "Bank of England ‘flying blind’ on inflation…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-05T12:10:51.398Z"
+        },
+        {
+          "id": "5a1f54b5109e083c",
+          "title": "Trump calls for interest rate cut as energy prices climb",
+          "url": "https://www.telegraph.co.uk/business/2026/03/12/oil-price-iran-us-strait-of-hormuz-trump-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-03-12T19:52:47.000Z",
+          "snippet": "Trump calls for interest rate cut as energy prices climb",
+          "score": 19,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "5ca04c75aaec8c69",
+          "cluster_id": "6a1770859ace",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/03/12/oil-price-iran-us-strait-of-hormuz-trump-ftse-100-markets/"
+            }
+          ],
+          "summary": "Trump calls for interest rate cut as energy prices climb…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-07T08:30:04.633Z"
+        },
+        {
+          "id": "46ed45a834f32573",
+          "title": "A very British by-election reaches its finale",
+          "url": "https://www.ft.com/content/af06cfa1-0ea8-40a6-ad2c-81fe47a63e7b?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T17:15:01.000Z",
+          "snippet": "Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift",
+          "score": 18,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b7885cb4705357ed",
+          "cluster_id": "1a9a00bddce4",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/af06cfa1-0ea8-40a6-ad2c-81fe47a63e7b?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Clacton poll unlikely to settle serious questions over Reform UK leader, while a solar eclipse promises an economic lift…",
+          "status": "NEW"
+        },
+        {
+          "id": "53b1e3fe4d6e2991",
+          "title": "Organised crime suspect Daniel Kinahan extradited from Dubai",
+          "url": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T18:44:21.000Z",
+          "snippet": "Irish government jet believed to be carrying alleged drug trafficker lands in Dublin",
+          "score": 18,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "f3ea50d4543e42ea",
+          "cluster_id": "756ea5aefc5f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0"
+            }
+          ],
+          "summary": "Irish government jet believed to be carrying alleged drug trafficker lands in Dublin…",
+          "status": "NEW"
+        },
+        {
+          "id": "11ca0ad63cc4c942",
+          "title": "France faces budget showdown as presidential election looms",
+          "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T04:00:09.000Z",
+          "snippet": "Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader",
+          "score": 17.3,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "84014e85fd803d94",
+          "cluster_id": "effe9325789b",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-09T05:51:52.907Z"
+        },
+        {
+          "id": "b3a920bcde3b7de6",
+          "title": "What do people want from Argos?",
+          "url": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-07T08:04:21.000Z",
+          "snippet": "As Sainsbury agrees to sell Argos for £120m, we ask people if they still shop there, and what the new owners can do to compete with big online retailers like Amazon.",
+          "score": 17,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "978982ada53f7a4f",
+          "cluster_id": "873f658a3d09",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "As Sainsbury agrees to sell Argos for £120m, we ask people if they still shop there, and what the new owners can do to compete with big online retailers like Amazon.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-07T11:40:11.446Z"
+        },
+        {
+          "id": "d7bdb738a6a4258c",
+          "title": "Reeves reaps £30bn windfall from wealth taxes",
+          "url": "https://www.telegraph.co.uk/business/2026/04/23/treasury-borrowing-reeves-iran-war-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-04-23T15:43:44.000Z",
+          "snippet": "Reeves reaps £30bn windfall from wealth taxes",
+          "score": 17,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "505484c950a0ba16",
+          "cluster_id": "f644b7ccf4ad",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/04/23/treasury-borrowing-reeves-iran-war-ftse-100-markets/"
+            }
+          ],
+          "summary": "Reeves reaps £30bn windfall from wealth taxes…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "756d9eef2573d417",
+          "title": "Trump is dismantling US guardrails, warn former security officials",
+          "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T16:00:01.000Z",
+          "snippet": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
+          "score": 16.4,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "c55b1d0ba4210c23",
+          "cluster_id": "a736ec331d17",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy…",
+          "status": "NEW"
+        },
+        {
+          "id": "902caecec40c3116",
+          "title": "Netanyahu rejects Trump’s Gaza disarmament plan",
+          "url": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T15:17:33.000Z",
+          "snippet": "Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’",
+          "score": 16.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "3461d751a7579270",
+          "cluster_id": "91af7f7b8abc",
+          "duplicate_count": 3,
+          "also_in": [
+            "BBC",
+            "Sky News"
+          ],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza-13571334"
+            }
+          ],
+          "summary": "Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’…",
+          "status": "NEW"
+        },
+        {
+          "id": "9b2bb269f1d86683",
+          "title": "Facebook owner condemned as 'public nuisance' and ordered to pay $942m over harm to children",
+          "url": "https://news.sky.com/story/meta-ordered-to-pay-almost-1bn-over-child-safety-failings-13570556",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-07T01:57:00.000Z",
+          "snippet": "Meta, the owner of Facebook, Instagram and WhatsApp, has been ordered to pay $567m (£421m) to address the harm caused to children on its platforms.",
+          "score": 16,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "2bfb1a0cb9aa3338",
+          "cluster_id": "ce7a77cf9dae",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/meta-ordered-to-pay-almost-1bn-over-child-safety-failings-13570556"
+            }
+          ],
+          "summary": "Meta, the owner of Facebook, Instagram and WhatsApp, has been ordered to pay $567m (£421m) to address the harm caused to children on its platforms.",
+          "status": "NEW"
+        },
+        {
+          "id": "90ad40169d8249d5",
+          "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+          "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-07T15:29:23.000Z",
+          "snippet": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+          "score": 16,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "27cf34be1609f8ba",
+          "cluster_id": "6e47951ae872",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-07T17:47:36.912Z"
+        },
+        {
+          "id": "c313680e0914b79a",
+          "title": "What could happen to prisoner early release scheme now?",
+          "url": "https://www.bbc.co.uk/news/articles/c62vqj7ged4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-04T11:59:22.000Z",
+          "snippet": "The PM is changing the scheme for some prisoners after a police officer's widow said the possible early release of his killers was \"deplorable\".",
+          "score": 16,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "658e58055b607030",
+          "cluster_id": "495f9c603f0d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c62vqj7ged4o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The PM is changing the scheme for some prisoners after a police officer's widow said the possible early release of his killers was \"deplorable\".",
+          "status": "NEW"
+        },
+        {
+          "id": "9aae9c72a89e1b0a",
+          "title": "UK economy to flatline, warns Bank of England",
+          "url": "https://www.telegraph.co.uk/business/2026/07/30/uk-interest-rates-bank-of-england-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-30T16:22:41.000Z",
+          "snippet": "UK economy to flatline, warns Bank of England",
+          "score": 16,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b6b90ebc9ed68111",
+          "cluster_id": "0e6f01152a95",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/07/30/uk-interest-rates-bank-of-england-ftse-100-markets/"
+            }
+          ],
+          "summary": "UK economy to flatline, warns Bank of England…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-30T19:39:01.659Z"
+        },
+        {
+          "id": "da63c687675c775f",
+          "title": "In full: the leaked OBR Budget report",
+          "url": "https://www.telegraph.co.uk/business/2025/11/26/leaked-obr-forecast-in-full/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-26T12:31:04.000Z",
+          "snippet": "Details of Rachel Reeves’s tax raids released early in error. Read the official forecasts here",
+          "score": 16,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "fe721c803a7990cd",
+          "cluster_id": "12a419fc97e4",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/26/leaked-obr-forecast-in-full/"
+            }
+          ],
+          "summary": "Details of Rachel Reeves’s tax raids released early in error.",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "675970a3e6cd18ce",
+          "title": "America’s hidden M&A boom",
+          "url": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T15:00:00.000Z",
+          "snippet": "It’s lurking in one of the US’s top exports: higher education",
+          "score": 15.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "dd3c6d5b52389a95",
+          "cluster_id": "4af07883c471",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "It’s lurking in one of the US’s top exports: higher education…",
+          "status": "NEW"
+        },
+        {
+          "id": "0ef2e518ba84d5e7",
+          "title": "Early release of PC Harper's killers under review, Sky News understands",
+          "url": "https://news.sky.com/story/early-release-of-two-pc-andrew-harpers-killers-under-review-sky-news-understands-13571341",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T11:49:00.000Z",
+          "snippet": "Early prison release policy is still under review as the government considers options available to block the release of PC Andrew Harper's killers, Sky News understands.",
+          "score": 15.7,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "e2d0b4103b679638",
+          "cluster_id": "a5825f997890",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/early-release-of-two-pc-andrew-harpers-killers-under-review-sky-news-understands-13571341"
+            }
+          ],
+          "summary": "Early prison release policy is still under review as the government considers options available to block the release of PC Andrew Harper's killers, Sky News understands.",
+          "status": "NEW"
+        },
+        {
+          "id": "d5c73aa7291df0c0",
+          "title": "EasyJet agrees to £5.7bn takeover",
+          "url": "https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-06T18:11:00.000Z",
+          "snippet": "EasyJet has agreed to a deal to sell the airline for around £5.7bn ($7.7bn) to a US-based investment firm.",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b7624b41825a548e",
+          "cluster_id": "4e0723f99960",
+          "duplicate_count": 2,
+          "also_in": [
+            "BBC"
+          ],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "EasyJet has agreed to a deal to sell the airline for around £5.7bn ($7.7bn) to a US-based investment firm.",
+          "status": "NEW"
+        },
+        {
+          "id": "e29834c9b3af9d57",
+          "title": "Nearly £13bn wiped off UK lenders over US banking fears",
+          "url": "https://www.telegraph.co.uk/business/2025/10/17/us-banks-credit-loans-fraud-ftse-100-markets-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-10-17T17:28:13.000Z",
+          "snippet": "Nearly £13bn wiped off UK lenders over US banking fears",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "7e7acba2b581075b",
+          "cluster_id": "b53786e7be01",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/10/17/us-banks-credit-loans-fraud-ftse-100-markets-latest/"
+            }
+          ],
+          "summary": "Nearly £13bn wiped off UK lenders over US banking fears…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "ebdc37e3033ace84",
+          "title": "The bank behind China’s AI listings bonanza",
+          "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T01:22:52.000Z",
+          "snippet": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
+          "score": 14.7,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "3143c821d3e22ebc",
+          "cluster_id": "15989f01494a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race…",
+          "status": "NEW"
+        },
+        {
+          "id": "198016265fd232d7",
+          "title": "Could AI create a ‘permanent underclass’?",
+          "url": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T11:30:10.000Z",
+          "snippet": "San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market",
+          "score": 14.5,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "7c86283df98cd37a",
+          "cluster_id": "89e480c3793c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market…",
+          "status": "NEW"
+        },
+        {
+          "id": "a77c959828b5bb15",
+          "title": "Holding public servants to account is harder than it seems",
+          "url": "https://www.ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T11:00:09.000Z",
+          "snippet": "A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?",
+          "score": 14.4,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "5b2e0831690e21e4",
+          "cluster_id": "907e4f638d4c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60"
+            }
+          ],
+          "summary": "A new law imposing a duty of candour seeks to force officials to tell the truth.",
+          "status": "NEW"
+        },
+        {
+          "id": "649580420a4d8502",
+          "title": "Burnham urged to rule out changes to pension lump sums in next Budget",
+          "url": "https://www.ft.com/content/5da56bdb-07d5-4ab7-be03-4bf303400a90?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-08T04:00:41.000Z",
+          "snippet": "Do not invite pre-Budget speculation for third year running, City bosses warn new PM",
+          "score": 14.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "15edb52a9bc22827",
+          "cluster_id": "9974dbdd470c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/5da56bdb-07d5-4ab7-be03-4bf303400a90?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Do not invite pre-Budget speculation for third year running, City bosses warn new PM…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-08T05:48:27.352Z"
+        },
+        {
+          "id": "cdf2d739d041e21c",
+          "title": "Asian carmakers cash in as high petrol prices lift US demand for hybrids",
+          "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T10:00:09.000Z",
+          "snippet": "Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July",
+          "score": 14,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "5662d54e30a30035",
+          "cluster_id": "5d8ae5aea0fe",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Sales, including of models made by Honda, Hyundai and Toyota, jump by a fifth in July…",
+          "status": "NEW"
+        },
+        {
+          "id": "0453391148a1740d",
+          "title": "Kids, flats and student loans: Why UK first-time buyers are getting older",
+          "url": "https://www.ft.com/content/d9e0c81c-9160-48e7-9309-01f21de5fe5d?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-08T04:00:41.000Z",
+          "snippet": "One in three starts a family before having a home of their own",
+          "score": 13.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "55045ae6e3dacebd",
+          "cluster_id": "2111b1cff185",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/d9e0c81c-9160-48e7-9309-01f21de5fe5d?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "One in three starts a family before having a home of their own…",
+          "status": "NEW"
+        },
+        {
+          "id": "daff22e96d7c8269",
+          "title": "Interest rates to ‘rise by September’ as oil prices surge",
+          "url": "https://www.telegraph.co.uk/business/2026/07/14/oil-prices-trump-strikes-iran-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-14T14:38:05.000Z",
+          "snippet": "Interest rates to ‘rise by September’ as oil prices surge",
+          "score": 13,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "13a94f11160c2932",
+          "cluster_id": "1d4d21e84444",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/07/14/oil-prices-trump-strikes-iran-ftse-100-markets/"
+            }
+          ],
+          "summary": "Interest rates to ‘rise by September’ as oil prices surge…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-22T18:06:55.954Z"
+        },
+        {
+          "id": "44add4996b5c3025",
+          "title": "City slashes bets on rate cuts after energy price shock",
+          "url": "https://www.telegraph.co.uk/business/2026/03/02/oil-prices-brent-iran-us-strait-of-hormuz-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-03-02T19:01:20.000Z",
+          "snippet": "City slashes bets on rate cuts after energy price shock",
+          "score": 13,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "8c6259c000acebd9",
+          "cluster_id": "6d0a81448c35",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/03/02/oil-prices-brent-iran-us-strait-of-hormuz-ftse-100-markets/"
+            }
+          ],
+          "summary": "City slashes bets on rate cuts after energy price shock…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "3fd84bff9ce5a81b",
+          "title": "City bets on rate cuts as unemployment soars",
+          "url": "https://www.telegraph.co.uk/business/2026/02/17/unemployment-wages-uk-economy-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-02-17T18:25:24.000Z",
+          "snippet": "City bets on rate cuts as unemployment soars",
+          "score": 13,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "5d63ba100a2f64ba",
+          "cluster_id": "b5f3efe9da21",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/02/17/unemployment-wages-uk-economy-ftse-100-markets/"
+            }
+          ],
+          "summary": "City bets on rate cuts as unemployment soars…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "c55e463717d6bc10",
+          "title": "Traders bet on rate cuts to support ‘weakening’ economy",
+          "url": "https://www.telegraph.co.uk/business/2025/11/11/uk-unemployment-jobs-wages-ftse-100-markets/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-11T18:55:22.000Z",
+          "snippet": "Traders bet on rate cuts to support ‘weakening’ economy",
+          "score": 13,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "3fa40f5e43939852",
+          "cluster_id": "b14d5dc1537d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/11/uk-unemployment-jobs-wages-ftse-100-markets/"
+            }
+          ],
+          "summary": "Traders bet on rate cuts to support ‘weakening’ economy…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-08T18:16:02.140Z"
+        },
+        {
+          "id": "7e8c2644e4873276",
+          "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+          "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-07T23:00:07.000Z",
+          "snippet": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
+          "score": 13,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "5fe34d7719340528",
+          "cluster_id": "4852e751047f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development…",
+          "status": "NEW"
+        },
+        {
+          "id": "14484f54ee5d4800",
+          "title": "MPs fear one key issue could end new PM's honeymoon period",
+          "url": "https://news.sky.com/story/could-this-key-issue-reverse-the-burnham-bounce-13570779",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T02:03:00.000Z",
+          "snippet": "For all the talk of immigration and prisoner releases ending Andy Burnham's honeymoon, there's another row looming for the new prime minister.",
+          "score": 12.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "420de2b23390a476",
+          "cluster_id": "a98df3d84b11",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/could-this-key-issue-reverse-the-burnham-bounce-13570779"
+            }
+          ],
+          "summary": "For all the talk of immigration and prisoner releases ending Andy Burnham's honeymoon, there's another row looming for the new prime minister.",
+          "status": "NEW"
+        },
+        {
+          "id": "695e89b490d8f56e",
+          "title": "First Brands urges court to approve bankruptcy settlement",
+          "url": "https://www.ft.com/content/e1f2e2b9-6f52-44fc-a659-e981d2fc923e?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-08T11:21:34.000Z",
+          "snippet": "Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker",
+          "score": 12.7,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "8ec2dfb50459da05",
+          "cluster_id": "ee30ca02a980",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/e1f2e2b9-6f52-44fc-a659-e981d2fc923e?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker…",
+          "status": "NEW"
+        },
+        {
+          "id": "4ceefea441db9a23",
+          "title": "Turkey’s cyber law shifts sweeping powers to presidency",
+          "url": "https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T04:00:10.000Z",
+          "snippet": "Move raises concern about ‘absolute digital obedience’ among social media and gaming platforms",
+          "score": 12.3,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "9aaa3c13e6700143",
+          "cluster_id": "147913ed60c8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Move raises concern about ‘absolute digital obedience’ among social media and gaming platforms…",
+          "status": "NEW"
+        },
+        {
+          "id": "355462c7443b8f5f",
+          "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+          "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T04:00:09.000Z",
+          "snippet": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+          "score": 12.3,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "dbdccffc818685ec",
+          "cluster_id": "211b6e606267",
+          "duplicate_count": 2,
+          "also_in": [
+            "Financial Times"
+          ],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1"
+            },
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter…",
+          "status": "NEW"
+        },
+        {
+          "id": "11feef53086090c9",
+          "title": "‘Don’t underestimate us’: German shipbuilder boss steers TKMS to large order wins",
+          "url": "https://www.ft.com/content/b33e9218-f192-4bc1-9e2b-73a8c1d97ca8?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T04:00:09.000Z",
+          "snippet": "Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery",
+          "score": 12.3,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "17cda06148263b68",
+          "cluster_id": "92f50d02747f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/b33e9218-f192-4bc1-9e2b-73a8c1d97ca8?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Despite a series of deals, Oliver Burkhard stresses the importance of ‘prudent growth’ with a focus on delivery…",
+          "status": "NEW"
+        },
+        {
+          "id": "3a55211eb15cf0a3",
+          "title": "Illegal working arrests double in two years, Home Office says",
+          "url": "https://www.bbc.co.uk/news/articles/ce3qzd9932do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T23:32:12.000Z",
+          "snippet": "The Home Office says there has been a record number of raids and arrests in the first six months of 2026.",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "1c5ef3f002645f51",
+          "cluster_id": "58e6790501ab",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ce3qzd9932do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The Home Office says there has been a record number of raids and arrests in the first six months of 2026.",
+          "status": "NEW"
+        },
+        {
+          "id": "02646cc2f9082b7e",
+          "title": "Referrals to Prevent anti-terror scheme at record high",
+          "url": "https://www.bbc.co.uk/news/articles/c3r072j10zlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T13:45:46.000Z",
+          "snippet": "The Home Office says the 10-year-high in referrals could be due to the 2024 Southport attacks.",
+          "score": 12,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "59c22f5ff174aefb",
+          "cluster_id": "1c263c1e783c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3r072j10zlo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The Home Office says the 10-year-high in referrals could be due to the 2024 Southport attacks.",
+          "status": "NEW"
+        },
+        {
+          "id": "538639e29f00af50",
+          "title": "Key takeaways as Andy Burnham becomes PM",
+          "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-20T20:07:01.000Z",
+          "snippet": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "9d4f67c6a7e55a1b",
+          "cluster_id": "8ffde2873fa3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "434b6cf336cfa30d",
+          "title": "SpaceX rockets to $2.1 trillion valuation on stock market debut",
+          "url": "https://www.telegraph.co.uk/business/2026/06/12/spacex-ipo-elon-musk-uk-us-retail-investors-wall-street/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-06-12T19:33:34.000Z",
+          "snippet": "SpaceX rockets to $2.1 trillion valuation on stock market debut",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "f175534616d97650",
+          "cluster_id": "6ad193883282",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/06/12/spacex-ipo-elon-musk-uk-us-retail-investors-wall-street/"
+            }
+          ],
+          "summary": "SpaceX rockets to $2.1 trillion valuation on stock market debut…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "6a93e78ffdcde425",
+          "title": "Britain risks ‘explosion’ in national debt",
+          "url": "https://www.telegraph.co.uk/business/2025/12/16/uk-unemployment-us-jobs-figures-ftse-100-markets-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-12-16T20:19:20.000Z",
+          "snippet": "Britain risks ‘explosion’ in national debt",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a0d99cc502f56591",
+          "cluster_id": "fa6b91900cc6",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/12/16/uk-unemployment-us-jobs-figures-ftse-100-markets-latest/"
+            }
+          ],
+          "summary": "Britain risks ‘explosion’ in national debt…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "1f5918279d9a0225",
+          "title": "Savers pile into cash Isas before Budget tax raid",
+          "url": "https://www.telegraph.co.uk/business/2025/12/01/budget-reeves-oil-ftse-100-bond-markets-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-12-01T18:37:10.000Z",
+          "snippet": "Savers pile into cash Isas before Budget tax raid",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "591636183f379bd9",
+          "cluster_id": "74d6026183d6",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/12/01/budget-reeves-oil-ftse-100-bond-markets-latest/"
+            }
+          ],
+          "summary": "Savers pile into cash Isas before Budget tax raid…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "8c5e83cc75f89dbf",
+          "title": "Reeves hints at more tax rises after Budget betrayal",
+          "url": "https://www.telegraph.co.uk/business/2025/11/26/budget-2025-rachel-reeves-tax-rises-ftse-100-markets-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-26T20:16:34.000Z",
+          "snippet": "Reeves hints at more tax rises after Budget betrayal",
+          "score": 12,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "a1ba91e37ac5f31a",
+          "cluster_id": "4ccdf0f071e3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/26/budget-2025-rachel-reeves-tax-rises-ftse-100-markets-latest/"
+            }
+          ],
+          "summary": "Reeves hints at more tax rises after Budget betrayal…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "58be693ccc0753d9",
+          "title": "Budget 2025: Key points at a glance",
+          "url": "https://www.telegraph.co.uk/business/2025/11/26/budget-2025-key-points-at-a-glance/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-26T14:10:10.000Z",
+          "snippet": "Everything you need to know following the Chancellor’s speech to the Commons",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "69c87bee31c51ca5",
+          "cluster_id": "5c2e522b88c9",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/26/budget-2025-key-points-at-a-glance/"
+            }
+          ],
+          "summary": "Everything you need to know following the Chancellor’s speech to the Commons…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "04d974f1b9a49178",
+          "title": "Reeves hit with £10bn borrowing blow days before Budget",
+          "url": "https://www.telegraph.co.uk/business/2025/11/21/uk-treasury-borrowing-budget-reeves-ftse-100-markets-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-21T15:29:56.000Z",
+          "snippet": "Reeves hit with £10bn borrowing blow days before Budget",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "2844a23f19aa7871",
+          "cluster_id": "725bf63446e2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/21/uk-treasury-borrowing-budget-reeves-ftse-100-markets-latest/"
+            }
+          ],
+          "summary": "Reeves hit with £10bn borrowing blow days before Budget…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "414750f05fefb3f1",
+          "title": "FTSE 100 plunges over Budget tax chaos",
+          "url": "https://www.telegraph.co.uk/business/2025/11/14/income-tax-u-turn-pound-bond-markets-gilts-ftse-100-latest/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-11-14T19:03:21.000Z",
+          "snippet": "FTSE 100 plunges over Budget tax chaos",
+          "score": 12,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "2f49693317001186",
+          "cluster_id": "f9d3752c8cad",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/11/14/income-tax-u-turn-pound-bond-markets-gilts-ftse-100-latest/"
+            }
+          ],
+          "summary": "FTSE 100 plunges over Budget tax chaos…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "b6bb19701248a631",
+          "title": "Wall Street boss warns of ‘cockroaches’ in $3tn debt market",
+          "url": "https://www.telegraph.co.uk/business/2025/10/14/uk-unemployment-ons-trump-china-ftse-100-us-wall-street/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-10-14T18:29:46.000Z",
+          "snippet": "Wall Street boss warns of ‘cockroaches’ in $3tn debt market",
+          "score": 12,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "e628d9fcc9063a6e",
+          "cluster_id": "098903ab7971",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/10/14/uk-unemployment-ons-trump-china-ftse-100-us-wall-street/"
+            }
+          ],
+          "summary": "Wall Street boss warns of ‘cockroaches’ in $3tn debt market…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "8c5bf9d62e96d0b7",
+          "title": "One of the world’s biggest coal producers battles to keep lights on",
+          "url": "https://www.ft.com/content/ff321dc1-41d6-473d-b7e7-2a58224a18e7?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-09T02:05:57.000Z",
+          "snippet": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market",
+          "score": 11.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "24e03f6dcb705a35",
+          "cluster_id": "d14e3ec85e83",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/ff321dc1-41d6-473d-b7e7-2a58224a18e7?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market…",
+          "status": "NEW"
+        },
+        {
+          "id": "4d7eb6a36485b12b",
+          "title": "Flying taxi-maker Vertical Aerospace to land fresh $100m capital injection",
+          "url": "https://news.sky.com/story/flying-taxi-maker-vertical-aerospace-to-land-fresh-100m-capital-injection-13571326",
+          "source": "Sky News",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T10:19:00.000Z",
+          "snippet": "A flying taxi maker which has pledged to create 1,000 new jobs in Britain is in the process of raising another $100m to accelerate its ambition of delivering mass commercial electric aviation.",
+          "score": 11.1,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "738f379ec7e7d0af",
+          "cluster_id": "261e548c4194",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/flying-taxi-maker-vertical-aerospace-to-land-fresh-100m-capital-injection-13571326"
+            }
+          ],
+          "summary": "A flying taxi maker which has pledged to create 1,000 new jobs in Britain is in the process of raising another $100m to accelerate its ambition of delivering mass commercial electric aviation.",
+          "status": "NEW"
+        },
+        {
+          "id": "2afdf4a98d9cd3b0",
+          "title": "Prisoner release row proving to be Burnham's first big test as PM",
+          "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-07T15:18:00.000Z",
+          "snippet": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "d62a61f8f2d278b0",
+          "cluster_id": "039b18df8fad",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
+          "status": "NEW"
+        },
+        {
+          "id": "3337c7b4b14b7b17",
+          "title": "Burnham orders review of grooming gang early releases",
+          "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T13:56:53.000Z",
+          "snippet": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "106680231aecdf49",
+          "cluster_id": "b5a57f8faa8c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+          "status": "NEW"
+        },
+        {
+          "id": "fb421be38db93867",
+          "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+          "url": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-05T18:38:45.000Z",
+          "snippet": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "4ccbdd3fc28b10ac",
+          "cluster_id": "f56f45694611",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+          "status": "NEW"
+        },
+        {
+          "id": "099d7ba650f70732",
+          "title": "Inflation fall a ‘false dawn’, Burnham warned",
+          "url": "https://www.telegraph.co.uk/business/2026/07/22/inflation-falls-june-petrol-prices/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-07-22T12:30:47.000Z",
+          "snippet": "Inflation fall a ‘false dawn’, Burnham warned",
+          "score": 11,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "683f5c7697e0569d",
+          "cluster_id": "91f345cd6f68",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/07/22/inflation-falls-june-petrol-prices/"
+            }
+          ],
+          "summary": "Inflation fall a ‘false dawn’, Burnham warned…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-22T18:06:55.954Z"
+        },
+        {
+          "id": "ad98b9bf8de8940d",
+          "title": "Inflation stalls ahead of Iran war price shock",
+          "url": "https://www.telegraph.co.uk/business/2026/03/25/uk-inflation-us-iran-war-bank-of-england-rates-ftse-100/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-03-25T11:05:59.000Z",
+          "snippet": "Inflation stalls ahead of Iran war price shock",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "3ec880dd9bf8b366",
+          "cluster_id": "03ca6d1dd3ba",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/03/25/uk-inflation-us-iran-war-bank-of-england-rates-ftse-100/"
+            }
+          ],
+          "summary": "Inflation stalls ahead of Iran war price shock…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "d55ce69128be4470",
+          "title": "Borrowing costs surge on fears of inflation crisis",
+          "url": "https://www.telegraph.co.uk/business/2026/03/05/oil-gas-us-iran-war-trump-israel-ftse-100-markets-energy/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-03-05T20:52:41.000Z",
+          "snippet": "Borrowing costs surge on fears of inflation crisis",
+          "score": 11,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "afb398cd41f127ca",
+          "cluster_id": "07da6333e660",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/03/05/oil-gas-us-iran-war-trump-israel-ftse-100-markets-energy/"
+            }
+          ],
+          "summary": "Borrowing costs surge on fears of inflation crisis…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "933166c83e06137e",
+          "title": "Brexit has pushed up inflation, claims Reeves",
+          "url": "https://www.telegraph.co.uk/business/2025/10/28/rachel-reeves-saudi-arabia-obr-forecast-budget-productivity/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-10-28T14:50:11.000Z",
+          "snippet": "Brexit has pushed up inflation, claims Reeves",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "634a9eac1d7262d0",
+          "cluster_id": "7e82ce88c383",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/10/28/rachel-reeves-saudi-arabia-obr-forecast-budget-productivity/"
+            }
+          ],
+          "summary": "Brexit has pushed up inflation, claims Reeves…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "0738fb281cf929bf",
+          "title": "Borrowing costs fall to one-year low after inflation surprise",
+          "url": "https://www.telegraph.co.uk/business/2025/10/22/inflation-expected-to-jump-to-4pc/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2025-10-22T13:42:44.000Z",
+          "snippet": "Borrowing costs fall to one-year low after inflation surprise",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a0c450cdee4569b3",
+          "cluster_id": "83bc36f03573",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2025/10/22/inflation-expected-to-jump-to-4pc/"
+            }
+          ],
+          "summary": "Borrowing costs fall to one-year low after inflation surprise…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "7ec400ddbc4f73c5",
+          "title": "Greg Abel finally puts Buffett’s cash pile to work",
+          "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-08T15:36:35.000Z",
+          "snippet": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks",
+          "score": 10.2,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "7d3699932b5a1cbf",
+          "cluster_id": "437a3dbfd481",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks…",
+          "status": "NEW"
+        },
+        {
+          "id": "70e1938410a75c7f",
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "economy",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-05T21:37:08.000Z",
+          "snippet": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+          "score": 10,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "e4a43857deab2366",
+          "cluster_id": "b67a19953796",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+          "status": "NEW"
+        },
+        {
+          "id": "3e65c10e2eb83793",
+          "title": "Walk-in mental health centres to open in banks and libraries across England",
+          "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T07:28:08.000Z",
+          "snippet": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
+          "score": 10,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "2ffcb43491a7c95f",
+          "cluster_id": "7fae15007f0a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
+          "status": "NEW"
+        },
+        {
+          "id": "3b6da3143b657171",
+          "title": "Investors shun UK bonds after Starmer quits",
+          "url": "https://www.telegraph.co.uk/business/2026/06/22/pound-uk-bonds-borrowing-costs-starmer-burnham-ftse-100/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-06-22T16:59:19.000Z",
+          "snippet": "Investors shun UK bonds after Starmer quits",
+          "score": 10,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a7b4ba2695fd8704",
+          "cluster_id": "a57a41e9c482",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/06/22/pound-uk-bonds-borrowing-costs-starmer-burnham-ftse-100/"
+            }
+          ],
+          "summary": "Investors shun UK bonds after Starmer quits…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        },
+        {
+          "id": "887486f5be565dfc",
+          "title": "Burnham will break fiscal rules to borrow, banks warn",
+          "url": "https://www.telegraph.co.uk/business/2026/06/19/pound-burnham-gilts-bond-markets-borrowing-costs-ftse-100/",
+          "source": "The Telegraph",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-06-19T17:44:49.000Z",
+          "snippet": "Burnham will break fiscal rules to borrow, banks warn",
+          "score": 10,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b7f6528e91c4e234",
+          "cluster_id": "a2616fbf595f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/06/19/pound-burnham-gilts-bond-markets-borrowing-costs-ftse-100/"
+            }
+          ],
+          "summary": "Burnham will break fiscal rules to borrow, banks warn…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-02T11:57:10.882Z"
+        }
+      ]
+    },
+    "sa": {
+      "title": "South Africa",
+      "stories": [
+        {
+          "id": "580836f8a2172a07",
+          "title": "Zimbabwe dollar bourse plans venture board, eyes $5bn market value",
+          "url": "https://www.moneyweb.co.za/news/africa/zimbabwe-dollar-bourse-plans-venture-board-eyes-5bn-market-value/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-08T02:00:18.000Z",
+          "snippet": "The exchange is broadening beyond equities with Reits, ETFs and infrastructure-focused investment products to deepen capital markets.",
+          "score": 23,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "5f9a8e25c79c964a",
+          "cluster_id": "3858a6d6f13e",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/africa/zimbabwe-dollar-bourse-plans-venture-board-eyes-5bn-market-value/"
+            }
+          ],
+          "summary": "The exchange is broadening beyond equities with Reits, ETFs and infrastructure-focused investment products to deepen capital markets.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-08T05:48:27.352Z"
+        },
+        {
+          "id": "21669714ca920ec2",
+          "title": "Czech billionaires play outsized role in European M&A market",
+          "url": "https://www.moneyweb.co.za/news/international/czech-billionaires-play-outsized-role-in-european-ma-market/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:54.000Z",
+          "snippet": "Growing foreign acquisitions by Czech investors are reshaping the country's economy and boosting income from assets held abroad.",
+          "score": 16.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "db537917f084e34c",
+          "cluster_id": "094e8059d47d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/international/czech-billionaires-play-outsized-role-in-european-ma-market/"
+            }
+          ],
+          "summary": "Growing foreign acquisitions by Czech investors are reshaping the country's economy and boosting income from assets held abroad.",
+          "status": "NEW"
+        },
+        {
+          "id": "8d94c5ca1be972d4",
+          "title": "WOMEN’S DAY 1956-2026: Numbers game cannot cure South Africa of its gender-based violence",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-09-numbers-game-cannot-cure-south-africa-of-its-violence-gender-based-violence/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-09T05:34:28.000Z",
+          "snippet": "Statistics and budgets do not reflect whether the state’s interventions are fit for purpose and effective.",
+          "score": 15.7,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "59e8858c4c9257ec",
+          "cluster_id": "6a33d3145f98",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-09-numbers-game-cannot-cure-south-africa-of-its-violence-gender-based-violence/"
+            }
+          ],
+          "summary": "Statistics and budgets do not reflect whether the state’s interventions are fit for purpose and effective.",
+          "status": "NEW"
+        },
+        {
+          "id": "c5eadd412db75e4c",
+          "title": "HOT SEAT: ‘Workshop Mom’ at the wheel of big change for women in Nigeria",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-09-workshop-mom-at-the-wheel-of-big-change-for-women-in-nigeria/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-09T09:00:00.000Z",
+          "snippet": "Tokunbo Adegoju never intended to fix cars, but these days, on the radio and at work, she is called on as a trusted expert to diagnose vehicle defects. Her mentoring of trainees is opening doors for others too.",
+          "score": 11.7,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "ca4518a370347d44",
+          "cluster_id": "bbe14326dc2c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-09-workshop-mom-at-the-wheel-of-big-change-for-women-in-nigeria/"
+            }
+          ],
+          "summary": "Tokunbo Adegoju never intended to fix cars, but these days, on the radio and at work, she is called on as a trusted expert to diagnose vehicle defects.",
+          "status": "NEW"
+        },
+        {
+          "id": "fbc98e0e63453e73",
+          "title": "Grade 1 at age 5: A policy built on unstable foundations",
+          "url": "https://www.dailymaverick.co.za/opinionista/2026-08-06-grade-1-at-age-5-a-policy-built-on-unstable-foundations/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-06T12:00:50.000Z",
+          "snippet": "Age-based admissions mask a deeper crisis: most children enter Grade 1 without the developmental foundations they need. Until South Africa invests in the birth-to-five years, the system will remain on unstable ground.",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "0837f8a9a70b11d1",
+          "cluster_id": "5d3106d79e55",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/opinionista/2026-08-06-grade-1-at-age-5-a-policy-built-on-unstable-foundations/"
+            }
+          ],
+          "summary": "Age-based admissions mask a deeper crisis: most children enter Grade 1 without the developmental foundations they need.",
+          "status": "NEW"
+        },
+        {
+          "id": "5b43619876f6a425",
+          "title": "How to ensure SA’s just transition is truly just",
+          "url": "https://www.dailymaverick.co.za/opinionista/2026-08-03-how-to-ensure-sas-just-transition-is-truly-just/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-03T18:21:14.000Z",
+          "snippet": "Measuring a just transition isn’t about how quickly projects get approved. It requires closing the enforcement gap to ensure economic development doesn’t trample environmental rights.",
+          "score": 11,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "47419368e0763e5d",
+          "cluster_id": "4e6af98afba7",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/opinionista/2026-08-03-how-to-ensure-sas-just-transition-is-truly-just/"
+            }
+          ],
+          "summary": "Measuring a just transition isn’t about how quickly projects get approved.",
+          "status": "NEW"
+        },
+        {
+          "id": "4db91a76163a2604",
+          "title": "This history of currencies suggests the US dollar’s dominance may fade …",
+          "url": "https://www.moneyweb.co.za/news/economy/this-history-of-currencies-suggests-the-us-dollars-dominance-may-fade/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:57.000Z",
+          "snippet": "But it will happen slowly.",
+          "score": 10.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "8888cba4984c8fd6",
+          "cluster_id": "e65e812485ad",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/economy/this-history-of-currencies-suggests-the-us-dollars-dominance-may-fade/"
+            }
+          ],
+          "summary": "But it will happen slowly.",
+          "status": "NEW"
+        },
+        {
+          "id": "42c9d72c8b9741c7",
+          "title": "The world crossed a major solar milestone – no one noticed",
+          "url": "https://www.moneyweb.co.za/news/tech/the-world-crossed-a-major-solar-milestone/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:55.000Z",
+          "snippet": "Global solar deployment speeds up dramatically as the 3-terawatt threshold is reached in three years, while building the first terawatt took a decade.",
+          "score": 10.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a97ffa7ecc98a7a4",
+          "cluster_id": "31e73083e6ac",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/tech/the-world-crossed-a-major-solar-milestone/"
+            }
+          ],
+          "summary": "Global solar deployment speeds up dramatically as the 3-terawatt threshold is reached in three years, while building the first terawatt took a decade.",
+          "status": "NEW"
+        },
+        {
+          "id": "1a13c6e77b91c065",
+          "title": "El Niño could push millions into acute hunger, UN warns",
+          "url": "https://www.moneyweb.co.za/news/international/el-nino-could-push-millions-into-acute-hunger-un-warns/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:28.000Z",
+          "snippet": "The World Food Programme says the strongest El Niño in more than 70 years could sharply worsen food insecurity, with Latin America and the Caribbean hardest hit.",
+          "score": 10.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "ac55f86a1702366c",
+          "cluster_id": "7560405e9c7b",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/international/el-nino-could-push-millions-into-acute-hunger-un-warns/"
+            }
+          ],
+          "summary": "The World Food Programme says the strongest El Niño in more than 70 years could sharply worsen food insecurity, with Latin America and the Caribbean hardest hit.",
+          "status": "NEW"
+        },
+        {
+          "id": "c1307c693eeb093b",
+          "title": "Tourism gets a boost from Africa’s largest 3D-printed structure",
+          "url": "https://www.moneyweb.co.za/news/south-africa/tourism-gets-a-boost-from-africas-largest-3d-printed-structure/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:24.000Z",
+          "snippet": "The Garden Route destination adds innovative attraction to strengthen the region's tourism.",
+          "score": 10.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "f1ccb866d2c56953",
+          "cluster_id": "bccfbe6b3bd3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/news/south-africa/tourism-gets-a-boost-from-africas-largest-3d-printed-structure/"
+            }
+          ],
+          "summary": "The Garden Route destination adds innovative attraction to strengthen the region's tourism.",
+          "status": "NEW"
+        },
+        {
+          "id": "3e84e7c4cbaef430",
+          "title": "Hack of supposedly safe bitcoin tool tries faith of the devoted",
+          "url": "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/hack-of-supposedly-safe-bitcoin-tool-tries-faith-of-the-devoted/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-09T02:00:04.000Z",
+          "snippet": "A software vulnerability allowed hackers to steal Bitcoin from affected hardware wallets, reigniting debate over self-custody.",
+          "score": 10.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "85596c8737e95925",
+          "cluster_id": "f41407d48557",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/hack-of-supposedly-safe-bitcoin-tool-tries-faith-of-the-devoted/"
+            }
+          ],
+          "summary": "A software vulnerability allowed hackers to steal Bitcoin from affected hardware wallets, reigniting debate over self-custody.",
+          "status": "NEW"
+        },
+        {
+          "id": "19646a26c91a06af",
+          "title": "NO HALFWAY: The lessons we learnt from Estelle, the journalist who could",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-09-the-lessons-we-learnt-from-estelle-the-journalist-who-could/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-09T06:00:00.000Z",
+          "snippet": "This column about our former colleague went out to Baywatch readers in Nelson Mandela Bay on Friday, 7 August.",
+          "score": 10.8,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "60e19f43d6290ead",
+          "cluster_id": "377002714ab5",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-09-the-lessons-we-learnt-from-estelle-the-journalist-who-could/"
+            }
+          ],
+          "summary": "This column about our former colleague went out to Baywatch readers in Nelson Mandela Bay on Friday, 7 August.",
+          "status": "NEW"
+        },
+        {
+          "id": "3fe1d4cbb56eed92",
+          "title": "THE LOWLY NEWSPAPERMAN: Wrangles over expropriation and Metro cops risk sinking to needless GNU depths",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-09-wrangles-over-expropriation-and-metro-cops-risk-sinking-to-needless-gnu-depths/",
+          "source": "Daily Maverick",
+          "section": "sa",
+          "subsection": "politics",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-09T05:00:00.000Z",
+          "snippet": "Although the Government of National Unity functions in unison, there are intractable issues that need clearer heads in order to avoid messy and drawn-out confrontations.",
+          "score": 10.6,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "ae854d77e00fa03f",
+          "cluster_id": "7fc309c1d537",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-09-wrangles-over-expropriation-and-metro-cops-risk-sinking-to-needless-gnu-depths/"
+            }
+          ],
+          "summary": "Although the Government of National Unity functions in unison, there are intractable issues that need clearer heads in order to avoid messy and drawn-out confrontations.",
+          "status": "NEW"
+        }
+      ]
+    },
+    "global": {
+      "title": "Global News",
+      "stories": [
+        {
+          "id": "830076b7f9733775",
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T18:03:55.000Z",
+          "snippet": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "f404ed54a03cd75a",
+          "cluster_id": "eade6acc073c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+          "status": "NEW"
+        },
+        {
+          "id": "88d93f7c4f32f321",
+          "title": "Drones spotted over German base days after Leipzig bomb incident",
+          "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T16:18:10.000Z",
+          "snippet": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "76f1b63eba2ccfb3",
+          "cluster_id": "eb0915fb287f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+          "status": "NEW"
+        },
+        {
+          "id": "cd34ac80695801f4",
+          "title": "Puerto Rico rations water supplies due to intense drought",
+          "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T16:43:23.000Z",
+          "snippet": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "a3ac201463fb8176",
+          "cluster_id": "e09c8ccb6a00",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+          "status": "NEW"
+        },
+        {
+          "id": "dbf9548a1556ce64",
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T16:46:18.000Z",
+          "snippet": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+          "score": 15,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "cb4b75380c655bb8",
+          "cluster_id": "9c3d60859e24",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+          "status": "NEW"
+        },
+        {
+          "id": "1032d605d584a4d4",
+          "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+          "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T15:34:04.000Z",
+          "snippet": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+          "score": 13.2,
+          "flags": [],
+          "tone": "negative",
+          "content_hash": "b6a6ebb74769f305",
+          "cluster_id": "d4c357ad40a8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+          "status": "NEW"
+        },
+        {
+          "id": "a8ce2d0681b01813",
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-08T17:58:42.000Z",
+          "snippet": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+          "score": 12.5,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "13d4c3901b8a3466",
+          "cluster_id": "cbec76bdc54a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+          "status": "NEW"
+        },
+        {
+          "id": "ed762ddf1f1f83ef",
+          "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+          "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-08T15:59:37.000Z",
+          "snippet": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+          "score": 12.2,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "57a1bbf1b782b54d",
+          "cluster_id": "ec6df215b2e3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+          "status": "NEW"
+        },
+        {
+          "id": "71b2c5d7966f8d5b",
+          "title": "Ancient Roman shipwreck discovered off Sicily coast",
+          "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-09T12:27:26.000Z",
+          "snippet": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+          "score": 11.9,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "9e3e4c7526ca1285",
+          "cluster_id": "7531c49150fc",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+          "status": "NEW"
+        },
+        {
+          "id": "7503591c004d82a9",
+          "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+          "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "global",
+          "subsection": "geopolitics",
+          "geo": "global",
+          "feedWeight": 5,
+          "published_at": "2026-08-08T23:43:44.000Z",
+          "snippet": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+          "score": 11.4,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "86232f23ae556e49",
+          "cluster_id": "b157cf5e20ce",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+          "status": "NEW"
+        }
+      ]
+    },
+    "realestate": {
+      "title": "Real Estate Intelligence",
+      "stories": []
+    }
+  },
+  "markets": [
+    {
+      "key": "ftse100",
+      "label": "FTSE 100",
+      "symbol": "^FTSE",
+      "group": "index",
+      "price": 10901.09,
+      "prevClose": 10868.1,
+      "change": 32.98999999999978,
+      "pct": 0.3,
+      "currency": "GBP",
+      "asof": "2026-08-07T15:35:29.000Z",
+      "ok": true
+    },
+    {
+      "key": "ftse250",
+      "label": "FTSE 250",
+      "symbol": "^FTMC",
+      "group": "index",
+      "price": 24854.86,
+      "prevClose": 23975,
+      "change": 879.8600000000006,
+      "pct": 3.67,
+      "currency": "GBP",
+      "asof": "2026-08-07T15:35:30.000Z",
+      "ok": true
+    },
+    {
+      "key": "sp500",
+      "label": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "index",
+      "price": 7757.64,
+      "prevClose": 7489.72,
+      "change": 267.9200000000001,
+      "pct": 3.58,
+      "currency": "USD",
+      "asof": "2026-08-07T20:50:24.000Z",
+      "ok": true
+    },
+    {
+      "key": "nasdaq",
+      "label": "Nasdaq Comp.",
+      "symbol": "^IXIC",
+      "group": "index",
+      "price": 26690.615,
+      "prevClose": 25373.85,
+      "change": 1316.765000000003,
+      "pct": 5.19,
+      "currency": "USD",
+      "asof": "2026-08-07T21:15:59.000Z",
+      "ok": true
+    },
+    {
+      "key": "dow",
+      "label": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "index",
+      "price": 54036.93,
+      "prevClose": 52485.03,
+      "change": 1551.9000000000015,
+      "pct": 2.96,
+      "currency": "USD",
+      "asof": "2026-08-07T20:50:36.000Z",
+      "ok": true
+    },
+    {
+      "key": "jse",
+      "label": "JSE All Share",
+      "symbol": "^J203.JO",
+      "group": "index",
+      "price": 117518.36,
+      "prevClose": 112675.4,
+      "change": 4842.960000000006,
+      "pct": 4.3,
+      "currency": "ZAR",
+      "asof": "2026-08-07T15:06:52.000Z",
+      "ok": true
+    },
+    {
+      "key": "gilt10",
+      "label": "UK 10y Gilt",
+      "symbol": "GB10YR.GB",
+      "group": "rate",
+      "ok": false,
+      "error": "HTTP 404",
+      "price": null,
+      "pct": null
+    },
+    {
+      "key": "ust10",
+      "label": "US 10y Treasury",
+      "symbol": "^TNX",
+      "group": "rate",
+      "price": 4.66,
+      "prevClose": 4.686,
+      "change": -0.0259999999999998,
+      "pct": -0.55,
+      "currency": "USD",
+      "asof": "2026-08-07T18:59:53.000Z",
+      "ok": true
+    },
+    {
+      "key": "gbpusd",
+      "label": "GBP/USD",
+      "symbol": "GBPUSD=X",
+      "group": "fx",
+      "price": 1.3492,
+      "prevClose": 1.3492,
+      "change": 0,
+      "pct": 0,
+      "currency": "USD",
+      "asof": "2026-08-09T00:21:21.000Z",
+      "ok": true
+    },
+    {
+      "key": "gbpzar",
+      "label": "GBP/ZAR",
+      "symbol": "GBPZAR=X",
+      "group": "fx",
+      "price": 21.8177,
+      "prevClose": 22.2039,
+      "change": -0.3862000000000023,
+      "pct": -1.74,
+      "currency": "ZAR",
+      "asof": "2026-08-09T19:06:24.000Z",
+      "ok": true
+    },
+    {
+      "key": "usdzar",
+      "label": "USD/ZAR",
+      "symbol": "USDZAR=X",
+      "group": "fx",
+      "price": 16.1858,
+      "prevClose": 16.4583,
+      "change": -0.27250000000000085,
+      "pct": -1.66,
+      "currency": "ZAR",
+      "asof": "2026-08-09T19:08:31.000Z",
+      "ok": true
+    },
+    {
+      "key": "eurgbp",
+      "label": "EUR/GBP",
+      "symbol": "EURGBP=X",
+      "group": "fx",
+      "price": 0.8567,
+      "prevClose": 0.8556,
+      "change": 0.0010999999999999899,
+      "pct": 0.13,
+      "currency": "GBP",
+      "asof": "2026-08-07T21:29:25.000Z",
+      "ok": true
+    },
+    {
+      "key": "brent",
+      "label": "Brent Crude",
+      "symbol": "BZ=F",
+      "group": "commodity",
+      "price": 83.55,
+      "prevClose": 79.36,
+      "change": 4.189999999999998,
+      "pct": 5.28,
+      "currency": "USD",
+      "asof": "2026-08-07T20:59:58.000Z",
+      "ok": true
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "symbol": "GC=F",
+      "group": "commodity",
+      "price": 4399.7,
+      "prevClose": 4095.4,
+      "change": 304.2999999999997,
+      "pct": 7.43,
+      "currency": "USD",
+      "asof": "2026-08-07T20:59:55.000Z",
+      "ok": true
+    },
+    {
+      "key": "bitcoin",
+      "label": "Bitcoin",
+      "symbol": "BTC-USD",
+      "group": "crypto",
+      "price": 65145.31,
+      "prevClose": 64597.5,
+      "change": 547.8099999999977,
+      "pct": 0.85,
+      "currency": "USD",
+      "asof": "2026-08-09T19:08:37.000Z",
+      "ok": true
+    }
+  ],
+  "whatMattersToMe": {
+    "top5": [
+      {
+        "title": "Billionaire Ashley leads race to clinch takeover of Harvey Nichols",
+        "summary": "The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administra…",
+        "source": "Sky News",
+        "url": "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-07T14:27:00.000Z",
+        "score": 27,
+        "also_in": []
+      },
+      {
+        "title": "Zimbabwe dollar bourse plans venture board, eyes $5bn market value",
+        "summary": "The exchange is broadening beyond equities with Reits, ETFs and infrastructure-focused investment products to deepen capital markets.",
+        "source": "Moneyweb",
+        "url": "https://www.moneyweb.co.za/news/africa/zimbabwe-dollar-bourse-plans-venture-board-eyes-5bn-market-value/",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "sa",
+        "published_at": "2026-08-08T02:00:18.000Z",
+        "score": 23,
+        "also_in": []
+      },
+      {
+        "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+        "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-07T13:32:41.000Z",
+        "score": 22,
+        "also_in": []
+      },
+      {
+        "title": "Owner of bike maker Raleigh files for insolvency",
+        "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-06T12:34:42.000Z",
+        "score": 22,
+        "also_in": []
+      },
+      {
+        "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+        "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-05T19:39:48.000Z",
+        "score": 22,
+        "also_in": []
+      }
+    ],
+    "creTop3": [
+      {
+        "title": "Billionaire Ashley leads race to clinch takeover of Harvey Nichols",
+        "summary": "The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administra…",
+        "source": "Sky News",
+        "url": "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-07T14:27:00.000Z",
+        "score": 27,
+        "also_in": []
+      },
+      {
+        "title": "Zimbabwe dollar bourse plans venture board, eyes $5bn market value",
+        "summary": "The exchange is broadening beyond equities with Reits, ETFs and infrastructure-focused investment products to deepen capital markets.",
+        "source": "Moneyweb",
+        "url": "https://www.moneyweb.co.za/news/africa/zimbabwe-dollar-bourse-plans-venture-board-eyes-5bn-market-value/",
+        "tone": "neutral",
+        "flags": [
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "sa",
+        "published_at": "2026-08-08T02:00:18.000Z",
+        "score": 23,
+        "also_in": []
+      },
+      {
+        "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+        "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "tone": "negative",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ],
+        "status": "ONGOING",
+        "section": "uk",
+        "published_at": "2026-08-07T13:32:41.000Z",
+        "score": 22,
+        "also_in": []
+      }
+    ],
+    "implications": [
+      "US 10y treasury at 4.66 sets the global rate backdrop influencing cross-border capital into London offices.",
+      "5 refinancing/distress item(s) flagged today — watch for read-across to debt availability and office valuations.",
+      "4 sizeable transaction(s) flagged (£20m+) — pricing evidence for the investment market.",
+      "FTSE 100 up 0.3% — broad risk sentiment proxy for listed property.",
+      "GBP/USD at 1.3492 affects overseas-buyer appetite for London assets."
+    ],
+    "oneLiner": "Rates and refinancing remain the dominant swing factors for UK office values and debt availability."
+  },
+  "changes": {
+    "previousId": "2026-08-09-morning",
+    "addedCount": 82,
+    "carriedCount": 8,
+    "newHeadlines": [
+      {
+        "title": "Hargreaves Lansdown orders staff back to office",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/590e468a-1eb7-4d1b-a7a5-80541c3ff35a?syn-25a6b1a6=1",
+        "flags": []
+      },
+      {
+        "title": "Inflation could hit 6pc, warns Bank of England",
+        "source": "The Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/04/30/interest-rates-uk-bank-of-england-oil-prices-iran-war-ftse/",
+        "flags": []
+      },
+      {
+        "title": "Bank of England ‘flying blind’ on inflation",
+        "source": "The Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/04/22/inflation-uk-iran-war-fuel-prices-trump-ftse-100-markets/",
+        "flags": []
+      },
+      {
+        "title": "Trump calls for interest rate cut as energy prices climb",
+        "source": "The Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/03/12/oil-price-iran-us-strait-of-hormuz-trump-ftse-100-markets/",
+        "flags": []
+      },
+      {
+        "title": "A very British by-election reaches its finale",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/af06cfa1-0ea8-40a6-ad2c-81fe47a63e7b?syn-25a6b1a6=1",
+        "flags": []
+      },
+      {
+        "title": "Organised crime suspect Daniel Kinahan extradited from Dubai",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
+        "flags": []
+      },
+      {
+        "title": "What do people want from Argos?",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ]
+      },
+      {
+        "title": "Reeves reaps £30bn windfall from wealth taxes",
+        "source": "The Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/04/23/treasury-borrowing-reeves-iran-war-ftse-100-markets/",
+        "flags": [
+          {
+            "id": "big-deal",
+            "label": "£20m+ DEAL",
+            "tone": "neutral"
+          }
+        ]
+      }
+    ]
+  },
+  "allStoryIds": [
+    "8b0a2051ced765e9",
+    "580836f8a2172a07",
+    "2f83371b5baf1ce8",
+    "e23c1f435c6b2520",
+    "ae792817d99a0dac",
+    "e3635dc34833ed96",
+    "d8bcef86e28261f1",
+    "393e33d79bb15402",
+    "3707615aee6a0281",
+    "8e10909475f99426",
+    "5a1f54b5109e083c",
+    "46ed45a834f32573",
+    "53b1e3fe4d6e2991",
+    "11ca0ad63cc4c942",
+    "b3a920bcde3b7de6",
+    "d7bdb738a6a4258c",
+    "21669714ca920ec2",
+    "756d9eef2573d417",
+    "902caecec40c3116",
+    "9b2bb269f1d86683",
+    "90ad40169d8249d5",
+    "c313680e0914b79a",
+    "9aae9c72a89e1b0a",
+    "da63c687675c775f",
+    "675970a3e6cd18ce",
+    "8d94c5ca1be972d4",
+    "0ef2e518ba84d5e7",
+    "830076b7f9733775",
+    "88d93f7c4f32f321",
+    "cd34ac80695801f4",
+    "dbf9548a1556ce64",
+    "d5c73aa7291df0c0",
+    "e29834c9b3af9d57",
+    "ebdc37e3033ace84",
+    "198016265fd232d7",
+    "a77c959828b5bb15",
+    "649580420a4d8502",
+    "cdf2d739d041e21c",
+    "1032d605d584a4d4",
+    "0453391148a1740d",
+    "daff22e96d7c8269",
+    "44add4996b5c3025",
+    "3fd84bff9ce5a81b",
+    "c55e463717d6bc10",
+    "7e8c2644e4873276",
+    "14484f54ee5d4800",
+    "695e89b490d8f56e",
+    "a8ce2d0681b01813",
+    "4ceefea441db9a23",
+    "355462c7443b8f5f",
+    "11feef53086090c9",
+    "ed762ddf1f1f83ef",
+    "3a55211eb15cf0a3",
+    "02646cc2f9082b7e",
+    "538639e29f00af50",
+    "434b6cf336cfa30d",
+    "6a93e78ffdcde425",
+    "1f5918279d9a0225",
+    "8c5e83cc75f89dbf",
+    "58be693ccc0753d9",
+    "04d974f1b9a49178",
+    "414750f05fefb3f1",
+    "b6bb19701248a631",
+    "71b2c5d7966f8d5b",
+    "8c5bf9d62e96d0b7",
+    "c5eadd412db75e4c",
+    "7503591c004d82a9",
+    "4d7eb6a36485b12b",
+    "2afdf4a98d9cd3b0",
+    "3337c7b4b14b7b17",
+    "fb421be38db93867",
+    "099d7ba650f70732",
+    "ad98b9bf8de8940d",
+    "d55ce69128be4470",
+    "933166c83e06137e",
+    "0738fb281cf929bf",
+    "fbc98e0e63453e73",
+    "5b43619876f6a425",
+    "4db91a76163a2604",
+    "42c9d72c8b9741c7",
+    "1a13c6e77b91c065",
+    "c1307c693eeb093b",
+    "3e84e7c4cbaef430",
+    "19646a26c91a06af",
+    "3fe1d4cbb56eed92",
+    "7ec400ddbc4f73c5",
+    "70e1938410a75c7f",
+    "3e65c10e2eb83793",
+    "3b6da3143b657171",
+    "887486f5be565dfc"
+  ]
+}
