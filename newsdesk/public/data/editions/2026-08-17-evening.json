@@ -1,7 +1,7 @@
 {
   "id": "2026-08-17-evening",
   "label": "Evening",
-  "created_at": "2026-08-17T17:24:56.021Z",
+  "created_at": "2026-08-17T18:36:24.568Z",
   "ukDate": "2026-08-17",
   "story_count": 90,
   "executiveSummary": [
@@ -21,7 +21,7 @@
           "tone": "neutral"
         }
       ],
-      "status": "UPDATED",
+      "status": "ONGOING",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0psdHQwZXdMWHRYVjdoaWlVZVF4Nktqa3hoMVhvcmJqcGFicmhrRmlSM3hMbTNxTzNweVhxQnphQklxUk5pYlhYNW1sclZEaFY0NE9oNlU0aEZOc3YxQ0JzS3BMLWNVQXVjMnVSTVJpMWthdlhtYkhQYkRsZjA0RkFNbENzRkpVUGZFV2J1Z2Fhc1pBVmFJ?oc=5"
     },
     {
@@ -40,7 +40,7 @@
           "tone": "neutral"
         }
       ],
-      "status": "NEW",
+      "status": "ONGOING",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWE1UeE53eFlDR3luNUZLb3phSXdvclhucEFCMF83aEdqWldZUXNCNG5DdGZ5N1Z2Tno5cnBFc0xiQTRlcjBncUtaa0lvemJTc3AtOHYzb3ZTbXgtVl83UE1TazlKRG9kREtZblVmQVpEX1U2ZDR2M2lkRk1BdWpSZUFwZlF5Wnkzb1lvRm9faUdFUmhodkhscERaaVJBRjJaMWlheHRwOFZNVkRlVFVhb3liaHE5cDhhaVAzMTBIS05NMHd3SEY0UnN0NkZ5enZBVnFyMlN5aGsyLTc5MW0w0gHkAUFVX3lxTE1tTnN2al9pRkZLa25BTlhJR1MyYzVvbkQ2blBuQktaRWJVSk0xa1ZYdXFDMElPdEttbmlldUJaUWZLUnB1YVM3S29ad3VDTVN3eldLc21na1FYVjNtbnZvSEFNb1ZHLVBYaDJQNWZEaTJPMWNpckh6N2NFNUJZYnVwNWJUeE1ocVkwNV94eG1ybzhvaVRCYThFR1JOT0Nya0NRb3kzbVFlUG1SUG5meGN6VU15d0pmdmMxS0RFQy0zd2E5Sjk0T3dTb3AtalFmd2tMeGxDVzBMdTE1MUNSTGIwWjdzYw?oc=5"
     },
     {
@@ -68,7 +68,7 @@
           "tone": "negative"
         }
       ],
-      "status": "NEW",
+      "status": "ONGOING",
       "url": "https://www.ft.com/content/83d287ed-43e2-466d-9490-06879efb04fc?syn-25a6b1a6=1"
     },
     {
@@ -120,7 +120,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T11:31:10.000Z",
           "snippet": "The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about",
-          "score": 35.2,
+          "score": 34.7,
           "flags": [
             {
               "id": "distress",
@@ -140,7 +140,69 @@
             }
           ],
           "summary": "The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "d340dabcbc2c51aa",
+          "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
+          "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "section": "uk",
+          "subsection": "politics",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-17T17:34:30.000Z",
+          "snippet": "BBC Verify breaks down what the party says it wants to do to cut the benefits bill - and how realistic it is.",
+          "score": 26,
+          "flags": [
+            {
+              "id": "big-deal",
+              "label": "£20m+ DEAL",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "negative",
+          "content_hash": "462f06524aee53c0",
+          "cluster_id": "0e6f49971bc8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "summary": "BBC Verify breaks down what the party says it wants to do to cut the benefits bill - and how realistic it is.",
           "status": "NEW"
+        },
+        {
+          "id": "a6678a966347f818",
+          "title": "Air conditioning becomes ‘must-have’ for overheated London office workers",
+          "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T04:00:20.000Z",
+          "snippet": "Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market",
+          "score": 25.4,
+          "flags": [],
+          "tone": "positive",
+          "content_hash": "69a47c346fc7744d",
+          "cluster_id": "248fed789ff8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
           "id": "c7ef15ab85306d3d",
@@ -153,7 +215,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T12:42:27.000Z",
           "snippet": "Deal marks largest contract awarded to Big Four firms in at least a decade",
-          "score": 25.7,
+          "score": 25.2,
           "flags": [
             {
               "id": "big-deal",
@@ -173,68 +235,8 @@
             }
           ],
           "summary": "Deal marks largest contract awarded to Big Four firms in at least a decade…",
-          "status": "NEW"
-        },
-        {
-          "id": "a6678a966347f818",
-          "title": "Air conditioning becomes ‘must-have’ for overheated London office workers",
-          "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "section": "uk",
-          "subsection": "business",
-          "geo": "uk",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T04:00:20.000Z",
-          "snippet": "Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market",
-          "score": 25.7,
-          "flags": [],
-          "tone": "positive",
-          "content_hash": "69a47c346fc7744d",
-          "cluster_id": "248fed789ff8",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Financial Times",
-              "url": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1"
-            }
-          ],
-          "summary": "Cooling rises up the list of sought-after features in constrained high-quality commercial real estate market…",
           "status": "ONGOING",
-          "first_seen": "2026-08-17T05:40:21.753Z"
-        },
-        {
-          "id": "c2ca3a25da12d800",
-          "title": "US tech stock correction likely, warn ECB economists",
-          "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "section": "uk",
-          "subsection": "business",
-          "geo": "uk",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T14:40:25.000Z",
-          "snippet": "Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post",
-          "score": 25,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "80e71a097580ed5b",
-          "cluster_id": "a0ca40245916",
-          "duplicate_count": 2,
-          "also_in": [
-            "Financial Times"
-          ],
-          "all_links": [
-            {
-              "source": "Financial Times",
-              "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1"
-            },
-            {
-              "source": "Financial Times",
-              "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1"
-            }
-          ],
-          "summary": "Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post…",
-          "status": "NEW"
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "d212707b6ac90c22",
@@ -247,7 +249,7 @@
           "feedWeight": 6,
           "published_at": "2026-08-17T12:43:09.000Z",
           "snippet": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-          "score": 23.7,
+          "score": 23.2,
           "flags": [
             {
               "id": "big-deal",
@@ -267,7 +269,8 @@
             }
           ],
           "summary": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "b86063b269f8c1c7",
@@ -300,13 +303,76 @@
             }
           ],
           "summary": "Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "c2ca3a25da12d800",
+          "title": "US tech stock correction likely, warn ECB economists",
+          "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T14:40:25.000Z",
+          "snippet": "Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post",
+          "score": 23,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "80e71a097580ed5b",
+          "cluster_id": "a0ca40245916",
+          "duplicate_count": 2,
+          "also_in": [
+            "Financial Times"
+          ],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1"
+            },
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         }
       ]
     },
     "sa": {
       "title": "South Africa",
-      "stories": []
+      "stories": [
+        {
+          "id": "dc86c314717c5de5",
+          "title": "Slim tegnologie verhoog boere se winsgrense",
+          "url": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/slim-tegnologie-verhoog-boere-se-winsgrense/",
+          "source": "Moneyweb",
+          "section": "sa",
+          "subsection": "economy",
+          "geo": "sa",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T17:15:04.000Z",
+          "snippet": "Daneel Rossouw, landbouverkoopshoof by Nedbank Kommersiële Bank, gesels oor slim tegnologie vir lanbou besighede.",
+          "score": 25,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "4ac4b43ce84cbd5c",
+          "cluster_id": "b090180db790",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Moneyweb",
+              "url": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/slim-tegnologie-verhoog-boere-se-winsgrense/"
+            }
+          ],
+          "summary": "Daneel Rossouw, landbouverkoopshoof by Nedbank Kommersiële Bank, gesels oor slim tegnologie vir lanbou besighede.",
+          "status": "NEW"
+        }
+      ]
     },
     "global": {
       "title": "Global News",
@@ -315,14 +381,14 @@
           "id": "24c143cf486ec19a",
           "title": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZHBSMENzZm5wbTR6dGpZbWxkVGdrU3kzNEJkUnRwa250Mkp6NzRIQ2xyRkZsYU1vTU5PWnRVSXBSaTdNeFRpWFM0SFNzRkdlZ1dCYmkzdmxqMW5SQWJlbWwwRHBDU1dDRElRQmROMHJBSkEyanF1bXpzdW5MRGxzUmtPUW5PTlhjQ0otVGZvam9VWVlFdkwwdzhRemZLZ3lBcEdoZ3c1bVJnanlidVVCQTdTTW1ZcXhTRl95bVlxYmp2MWkyTVhtcTE2UWNWODkzb0NkZg?oc=5",
-          "source": "reuters.com",
+          "source": "Reuters",
           "section": "global",
           "subsection": "markets",
           "geo": "global",
           "feedWeight": 7,
           "published_at": "2026-08-17T12:41:45.000Z",
-          "snippet": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports reuters.com",
-          "score": 29.7,
+          "snippet": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports Reuters",
+          "score": 29.2,
           "flags": [
             {
               "id": "distress",
@@ -331,18 +397,19 @@
             }
           ],
           "tone": "negative",
-          "content_hash": "e7626f06d9dfd688",
+          "content_hash": "8990d9ee1270701a",
           "cluster_id": "57348e79d88f",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "reuters.com",
+              "source": "Reuters",
               "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZHBSMENzZm5wbTR6dGpZbWxkVGdrU3kzNEJkUnRwa250Mkp6NzRIQ2xyRkZsYU1vTU5PWnRVSXBSaTdNeFRpWFM0SFNzRkdlZ1dCYmkzdmxqMW5SQWJlbWwwRHBDU1dDRElRQmROMHJBSkEyanF1bXpzdW5MRGxzUmtPUW5PTlhjQ0otVGZvam9VWVlFdkwwdzhRemZLZ3lBcEdoZ3c1bVJnanlidVVCQTdTTW1ZcXhTRl95bVlxYmp2MWkyTVhtcTE2UWNWODkzb0NkZg?oc=5"
             }
           ],
-          "summary": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports reuters.com…",
-          "status": "NEW"
+          "summary": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports Reuters…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "bb7294a6e2a8c1d6",
@@ -355,7 +422,7 @@
           "feedWeight": 5,
           "published_at": "2026-08-17T12:44:00.000Z",
           "snippet": "Vindee Redefine The Kenyan Creator Economy From Abroad Mpasho",
-          "score": 25.7,
+          "score": 25.2,
           "flags": [
             {
               "id": "reit",
@@ -375,7 +442,8 @@
             }
           ],
           "summary": "Vindee Redefine The Kenyan Creator Economy From Abroad Mpasho…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "d67e1655fee73960",
@@ -388,7 +456,7 @@
           "feedWeight": 5,
           "published_at": "2026-08-16T21:33:00.000Z",
           "snippet": "Is US drifting towards 'silent default'? The Express Tribune",
-          "score": 24.3,
+          "score": 24.1,
           "flags": [
             {
               "id": "distress",
@@ -415,27 +483,27 @@
           "id": "bf6ad657e34dc41e",
           "title": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
-          "source": "reuters.com",
+          "source": "Reuters",
           "section": "global",
           "subsection": "markets",
           "geo": "global",
           "feedWeight": 7,
           "published_at": "2026-08-17T12:22:20.000Z",
-          "snippet": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say reuters.com",
-          "score": 23.6,
+          "snippet": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say Reuters",
+          "score": 23.1,
           "flags": [],
           "tone": "negative",
-          "content_hash": "f4c46f63e68a8408",
+          "content_hash": "7471af8e4b544250",
           "cluster_id": "438c88fde7ee",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "reuters.com",
+              "source": "Reuters",
               "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5"
             }
           ],
-          "summary": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say reuters.com…",
+          "summary": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say Reuters…",
           "status": "UPDATED",
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
@@ -450,7 +518,7 @@
           "feedWeight": 5,
           "published_at": "2026-08-17T11:06:24.000Z",
           "snippet": "A weaker U.S. dollar and cooling expectations of Federal Reserve rate hikes have supported a rebound in silver prices, with market participants awaiting a breakout above the upper bound of the trading range. Moomoo",
-          "score": 23,
+          "score": 22.6,
           "flags": [],
           "tone": "neutral",
           "content_hash": "bd2448204e494925",
@@ -464,63 +532,8 @@
             }
           ],
           "summary": "A weaker U.S. dollar and cooling expectations of Federal Reserve rate hikes have supported a rebound in silver prices, with market participants awaiting a breakout above the upper bound of the trading range. Moomoo…",
-          "status": "NEW"
-        },
-        {
-          "id": "2108648ba20042bf",
-          "title": "FTSE 100 Climbs 0.12% to 10,763 as Soft US Retail Data Trims Federal Reserve Rate Hike Bets - International Business Times Australia",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkpoTkkzRHlXOWgzNDRORnE3eGtmUmo4VjBFbzdtQlpIUTRlQklsUzRVMDBYek1zSG1vQndPVmdnWWhUcnQ1RXlUNERJeFlSdjVncVdJRVBnUmpUSlQ0UWE1QnFjZXROdUY1bUN4TDk1RWxRNHYwdXJvX3VQVDlndFN3SkNyLW5C?oc=5",
-          "source": "Google News",
-          "section": "global",
-          "subsection": "us",
-          "geo": "us",
-          "feedWeight": 5,
-          "published_at": "2026-08-17T09:10:18.000Z",
-          "snippet": "FTSE 100 Climbs 0.12% to 10,763 as Soft US Retail Data Trims Federal Reserve Rate Hike Bets International Business Times Australia",
-          "score": 22.3,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "b5b8c7a42024bd4c",
-          "cluster_id": "576a0e572046",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Google News",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkpoTkkzRHlXOWgzNDRORnE3eGtmUmo4VjBFbzdtQlpIUTRlQklsUzRVMDBYek1zSG1vQndPVmdnWWhUcnQ1RXlUNERJeFlSdjVncVdJRVBnUmpUSlQ0UWE1QnFjZXROdUY1bUN4TDk1RWxRNHYwdXJvX3VQVDlndFN3SkNyLW5C?oc=5"
-            }
-          ],
-          "summary": "FTSE 100 Climbs 0.12% to 10,763 as Soft US Retail Data Trims Federal Reserve Rate Hike Bets International Business Times Australia…",
           "status": "ONGOING",
-          "first_seen": "2026-08-17T11:19:16.042Z"
-        },
-        {
-          "id": "4c52931509cbb435",
-          "title": "Expectations for Federal Reserve rate hikes have cooled, AI sentiment has rebounded, Nasdaq futures have risen, memory chip stocks have broadly gained, and gold has once again surpassed the $4,400 mark.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmdINkdjX2hIa1FEb0FMSVkxc2ZrMFJhWS0teVNXdTdyMzg4QVBreU1ZQWRJNUt1MEVwMG5UdUxzXzRCWG9rX3NPYUJSTWNnMGFoN0EzVThpNEJvTHdvOW9HZVRod3dkYnFHVGxxcjRhZHhkNnRWZ1YtWEUtNmdZY1kyQjAtWUNmSG9aZ2FPWUhWN2QwVkNNdlBJdEFZTm5pdno5ZW9GTkM1ZGlhZDhV?oc=5",
-          "source": "Moomoo",
-          "section": "global",
-          "subsection": "us",
-          "geo": "us",
-          "feedWeight": 5,
-          "published_at": "2026-08-17T08:28:59.000Z",
-          "snippet": "Expectations for Federal Reserve rate hikes have cooled, AI sentiment has rebounded, Nasdaq futures have risen, memory chip stocks have broadly gained, and gold has once again surpassed the $4,400 mark. Moomoo",
-          "score": 22.1,
-          "flags": [],
-          "tone": "positive",
-          "content_hash": "979c191551671536",
-          "cluster_id": "e28b0f5a338f",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Moomoo",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmdINkdjX2hIa1FEb0FMSVkxc2ZrMFJhWS0teVNXdTdyMzg4QVBreU1ZQWRJNUt1MEVwMG5UdUxzXzRCWG9rX3NPYUJSTWNnMGFoN0EzVThpNEJvTHdvOW9HZVRod3dkYnFHVGxxcjRhZHhkNnRWZ1YtWEUtNmdZY1kyQjAtWUNmSG9aZ2FPWUhWN2QwVkNNdlBJdEFZTm5pdno5ZW9GTkM1ZGlhZDhV?oc=5"
-            }
-          ],
-          "summary": "Expectations for Federal Reserve rate hikes have cooled, AI sentiment has rebounded, Nasdaq futures have risen, memory chip stocks have broadly gained, and gold has once again surpassed the $4,400 mark.",
-          "status": "ONGOING",
-          "first_seen": "2026-08-17T11:19:16.042Z"
+          "first_seen": "2026-08-17T17:24:56.021Z"
         }
       ]
     },
@@ -538,7 +551,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T10:20:36.000Z",
           "snippet": "ASK4 completes £170m refinancing with new capex facility Property Week",
-          "score": 47.8,
+          "score": 47.3,
           "flags": [
             {
               "id": "big-deal",
@@ -563,7 +576,7 @@
             }
           ],
           "summary": "ASK4 completes £170m refinancing with new capex facility Property Week…",
-          "status": "UPDATED",
+          "status": "ONGOING",
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
@@ -577,7 +590,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T08:30:39.000Z",
           "snippet": "Will Northern Trust's Expanded Singapore Fund Administration Role Redefine Its Cross-Border Moat (NTRS)? simplywall.st",
-          "score": 42.1,
+          "score": 41.7,
           "flags": [
             {
               "id": "distress",
@@ -602,7 +615,8 @@
             }
           ],
           "summary": "Will Northern Trust's Expanded Singapore Fund Administration Role Redefine Its Cross-Border Moat (NTRS)?…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "554c5f10096cd4d7",
@@ -649,7 +663,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T06:20:56.000Z",
           "snippet": "Derwent London Advances £50m Buyback, Cuts Share Count to 110.3m TipRanks",
-          "score": 34.4,
+          "score": 34.1,
           "flags": [
             {
               "id": "big-deal",
@@ -688,7 +702,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T20:37:59.000Z",
           "snippet": "VICI Properties (VICI) Completes Debt Refinance, Is The Discount To Fair Value Too Wide? simplywall.st",
-          "score": 32.2,
+          "score": 31.9,
           "flags": [
             {
               "id": "refi",
@@ -722,7 +736,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T10:11:00.000Z",
           "snippet": "Has A Takeover Approach Changed How The Market Values Segro (LSE:SGRO) Warehouses? Kalkine Media",
-          "score": 31.7,
+          "score": 31.3,
           "flags": [
             {
               "id": "reit",
@@ -746,16 +760,16 @@
           "first_seen": "2026-08-17T12:30:55.998Z"
         },
         {
-          "id": "8f3f56f6f6d5797c",
-          "title": "Japan weighs AI inventorship as courts redefine patent reach",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEJ3S2RWekhIZnBFa3FRVVpKRlRMTlY2THZ4NG5aNENZYV8zM0JxSnI0eEQxSm1JVVE3NVF3M1JiMldyOHpYaU1jTGZETTBDdFQzSXRxMWZWUE9RSzRJb1FEaDlDVzVydy1TRg?oc=5",
-          "source": "Digital Watch Observatory",
+          "id": "f40e349855218682",
+          "title": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0lOeUNtTU5nQ08yOFUxOXpWR0JXdlFLNC1QLUQ3TS1yS2JrQjA5dzJhakFTWHptTzBDMWxTUUhzQTZxSmJlLVB4YnlOeUtMZUIzbzVGSU9sT0FyTEhpQ093T3J1cVNjZ2ZUdnR3bjFsRUx1cWhNSWRuS3AwNkxXMnJzVjF0NzhUYlFHVi05cHBmeUN0ZHhnSEFEVGJtWloybENidVdmWFVQeTdZLWt0MFhHUHU3LVV3dFFNQUZVTEFuSFdLT3ZzX0JWMmJuR0FVVExHaldpdTc3cjRwbFFNQU16V1ZYZ3RQWmwzZ21n0gHzAUFVX3lxTFB4TmUzUWRFR0tqMXZ0SHM3ai1oaW5MUkI3LVp2VXMtbXo3QVhRUU1sNmUzeWpibHdpc3lrVGV5bVI1VEtYa2RqWUEyTnNGM3pYVl9zbmFJakw3WEdHS1l2el96cXRwYVJjb014ZkZoSkVIdlZoZ1hNczlrNVNDVFBpTnlqa3U0SnNUdEtsN2R1M2NKSFphWDVSRGtpTVlpRU5YbkdBSXVmMUQ1TXg0ZTNWcHhrY2NDT0ZRbHA3eThYYl9wVzk1NlREeXZaYnBQc3ZIMVkwYUtvcFVPZ0FWM2tXejJNaExWYms0LXZfakdGbzFFdw?oc=5",
+          "source": "simplywall.st",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-17T14:27:31.000Z",
-          "snippet": "Japan weighs AI inventorship as courts redefine patent reach Digital Watch Observatory",
+          "published_at": "2026-08-17T17:45:59.000Z",
+          "snippet": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO simplywall.st",
           "score": 31,
           "flags": [
             {
@@ -764,51 +778,18 @@
               "tone": "neutral"
             }
           ],
-          "tone": "neutral",
-          "content_hash": "c843fa3f5c6bf82e",
-          "cluster_id": "b65d17997058",
+          "tone": "positive",
+          "content_hash": "2fce3ebf41799a0a",
+          "cluster_id": "902ba851832f",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "Digital Watch Observatory",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEJ3S2RWekhIZnBFa3FRVVpKRlRMTlY2THZ4NG5aNENZYV8zM0JxSnI0eEQxSm1JVVE3NVF3M1JiMldyOHpYaU1jTGZETTBDdFQzSXRxMWZWUE9RSzRJb1FEaDlDVzVydy1TRg?oc=5"
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0lOeUNtTU5nQ08yOFUxOXpWR0JXdlFLNC1QLUQ3TS1yS2JrQjA5dzJhakFTWHptTzBDMWxTUUhzQTZxSmJlLVB4YnlOeUtMZUIzbzVGSU9sT0FyTEhpQ093T3J1cVNjZ2ZUdnR3bjFsRUx1cWhNSWRuS3AwNkxXMnJzVjF0NzhUYlFHVi05cHBmeUN0ZHhnSEFEVGJtWloybENidVdmWFVQeTdZLWt0MFhHUHU3LVV3dFFNQUZVTEFuSFdLT3ZzX0JWMmJuR0FVVExHaldpdTc3cjRwbFFNQU16V1ZYZ3RQWmwzZ21n0gHzAUFVX3lxTFB4TmUzUWRFR0tqMXZ0SHM3ai1oaW5MUkI3LVp2VXMtbXo3QVhRUU1sNmUzeWpibHdpc3lrVGV5bVI1VEtYa2RqWUEyTnNGM3pYVl9zbmFJakw3WEdHS1l2el96cXRwYVJjb014ZkZoSkVIdlZoZ1hNczlrNVNDVFBpTnlqa3U0SnNUdEtsN2R1M2NKSFphWDVSRGtpTVlpRU5YbkdBSXVmMUQ1TXg0ZTNWcHhrY2NDT0ZRbHA3eThYYl9wVzk1NlREeXZaYnBQc3ZIMVkwYUtvcFVPZ0FWM2tXejJNaExWYms0LXZfakdGbzFFdw?oc=5"
             }
           ],
-          "summary": "Japan weighs AI inventorship as courts redefine patent reach Digital Watch Observatory…",
-          "status": "NEW"
-        },
-        {
-          "id": "209cf5f56c34f0bd",
-          "title": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5",
-          "source": "cspdailynews.com",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T14:57:06.000Z",
-          "snippet": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says cspdailynews.com",
-          "score": 31,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "b7d6f73e72ce5b21",
-          "cluster_id": "6af77c5fb7c2",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "cspdailynews.com",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5"
-            }
-          ],
-          "summary": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says cspdailynews.com…",
+          "summary": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO simplywall.st…",
           "status": "NEW"
         },
         {
@@ -842,19 +823,20 @@
             }
           ],
           "summary": "Redefine Your Self-Care Routine This National Wellness Month WFLA…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
-          "id": "e869f16aabd62456",
-          "title": "Why EU rules could redefine Africa's agricultural competitiveness",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWdEaEhaM2tTenI4OUxCYjBBaDBRN2hkRFlGNE94dlYxcVhaOGp0ZFF5X0Ewd3dNS19PaFJ3NUx0WWstZVFVQy1VX1JSQVlYbi1TZkxTcTk4clpyS1FIMlFrTWhzNVZCa2JMNHo2aTdMbmw3SUNhQkNUaWZKREFfX2hFTGVBV3o3bThjNHd3NjViZ1BZR3hLN1A3N3JZQ3A1Tmg2WmNHcDYxcTlGdjNnUXNMUS01V0RyWVQ1TDFfcVBYVGlkU1ptT1ZqM2Y?oc=5",
-          "source": "standardmedia.co.ke",
+          "id": "33b2799765b6b005",
+          "title": "Zales taps Anomaly to redefine everyday fine jewelry",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThJcVJxbmFUM2xZMk9DTElRZ3VtZlRzZzBnTlk1X1FOSEp3WVczWlR0SWVhMzd5MXVQUGx0eFgxTDc5YXBHZS1kakJjMXpwMjBxeXVaZVBDVEdhLXR3YVpKTEhlTndITTBCUEdabTVHY2VqSm1GbDBzcmVSMXNDUQ?oc=5",
+          "source": "Roastbrief US",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-17T14:50:35.000Z",
-          "snippet": "Why EU rules could redefine Africa's agricultural competitiveness standardmedia.co.ke",
+          "published_at": "2026-08-17T18:03:33.000Z",
+          "snippet": "Zales taps Anomaly to redefine everyday fine jewelry Roastbrief US",
           "score": 31,
           "flags": [
             {
@@ -864,27 +846,17 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "18be89d60ca8cca4",
-          "cluster_id": "6f570b6433d7",
-          "duplicate_count": 3,
-          "also_in": [
-            "standardmedia.co.ke"
-          ],
+          "content_hash": "dc887de6986fdee1",
+          "cluster_id": "c5045929e5ab",
+          "duplicate_count": 1,
+          "also_in": [],
           "all_links": [
             {
-              "source": "standardmedia.co.ke",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWdEaEhaM2tTenI4OUxCYjBBaDBRN2hkRFlGNE94dlYxcVhaOGp0ZFF5X0Ewd3dNS19PaFJ3NUx0WWstZVFVQy1VX1JSQVlYbi1TZkxTcTk4clpyS1FIMlFrTWhzNVZCa2JMNHo2aTdMbmw3SUNhQkNUaWZKREFfX2hFTGVBV3o3bThjNHd3NjViZ1BZR3hLN1A3N3JZQ3A1Tmg2WmNHcDYxcTlGdjNnUXNMUS01V0RyWVQ1TDFfcVBYVGlkU1ptT1ZqM2Y?oc=5"
-            },
-            {
-              "source": "standardmedia.co.ke",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGlBcFIwZ1NWWXdwQkVuX2t4RjlDT2Zqc2pZcHBDU05lMkxQa2xNaURJaENESnczQ0lycm5IaEtxUnViNV92cWlJS0kweVFuNldiSmV1dmxBY0t2VGZiVkJQdlZMQjBFTExpWk1ydW9Kak5tQldsRHdCWlpBVkZFN2I4N2xENDV0VkJ5NmtGcEgtMlg4M01fUTZsZUhjVGE1bndJLU9CeDc1Y0tXd3hfNEhzSVlsdDh0Z2VDZUUzQVRGRE9C0gHEAUFVX3lxTE1kaUFwUjBnU1ZZd3BCRW5fa3hGOUNPZmpzallwcENTTmUyTFBrbE1pREloQ0RKdzNDSXJybkhoS3FSdWI1X3ZxaUlLSTB5UW42V2JKZXV2bEFjS3ZUZmJWQlB2VkxCMEVMTGlaTXJ1b0pqTm1CV2xEd0JaWkFWRkU3Yjg3bEQ0NXRWQnk2a0ZwSC0yWDgzTV9RNmxlSGNUYTVud0ktT0J4NzVjS1d3eF80SHNJWWx0OHRnZUNlRTNBVEZET0I?oc=5"
-            },
-            {
-              "source": "standardmedia.co.ke",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2YzY0k0UE1lOWh4Zl9jeHk2dWJLN0hsYUNTVHAwX25oNFVtTVczZlpWU3ZVUUR6SFJMT0Q4RVJSYy1HZDFIcEN5ZFl5VTdfRk9qV2JTRXliVE93MXU4V3NKSnc4WHZVTEdxNTVPQjREdFR1YV9JZXY0Ukcza2xNSXF4VlowbnEwX2d5ZzhUbGRLbzNmN2Y5X1lMeDJCYnBsdk5DRjhaZkxfaEU5NndpUWM0ZWlCQnhLZUpXRVotOHpXWVZZdGJYYw?oc=5"
+              "source": "Roastbrief US",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThJcVJxbmFUM2xZMk9DTElRZ3VtZlRzZzBnTlk1X1FOSEp3WVczWlR0SWVhMzd5MXVQUGx0eFgxTDc5YXBHZS1kakJjMXpwMjBxeXVaZVBDVEdhLXR3YVpKTEhlTndITTBCUEdabTVHY2VqSm1GbDBzcmVSMXNDUQ?oc=5"
             }
           ],
-          "summary": "Why EU rules could redefine Africa's agricultural competitiveness standardmedia.co.ke…",
+          "summary": "Zales taps Anomaly to redefine everyday fine jewelry Roastbrief US…",
           "status": "NEW"
         },
         {
@@ -898,7 +870,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T10:40:22.000Z",
           "snippet": "London Office Stocks Worth Watching If UK Bank Tax Pressure Grows simplywall.st",
-          "score": 30.9,
+          "score": 30.4,
           "flags": [],
           "tone": "neutral",
           "content_hash": "e461778625ab939a",
@@ -932,7 +904,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T13:07:30.000Z",
           "snippet": "Fortress Investment Group’s David Hammerman on private wealth gaining greater access to institutional-quality real estate Institutional Real Estate, Inc.",
-          "score": 30.9,
+          "score": 30.4,
           "flags": [
             {
               "id": "reit",
@@ -952,7 +924,42 @@
             }
           ],
           "summary": "Fortress Investment Group’s David Hammerman on private wealth gaining greater access to institutional-quality real estate Institutional Real Estate, Inc.",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "529d7240ff9de469",
+          "title": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFwTlpjOHJPXzNMbm1KZUtscGxkUkZ4RlVsZXVNb3Zob29tenFyTDNsZ2ludktOWlNobEhqUVRpR0l4bXk1Q2tXZHlqUjNRMlEyWkFtV3drdFhua2xDQS0yR2xQekR1WU5BWEw1b1FzMFIyS242M2o4RTdHdkkzcE9SclkxOFdhNDg0aVFEYzJOSnZpRFJ0Rl9yYWp2LXZQTmJnbVhfNWxsbXVqQzRSb1Yzd2hlYTJrWllEdU5IdklLREJxWVQ5Q1VR?oc=5",
+          "source": "Kalkine",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T01:36:46.000Z",
+          "snippet": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing Kalkine",
+          "score": 29.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "75695c36549c2ce4",
+          "cluster_id": "cf61c3c2673c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFwTlpjOHJPXzNMbm1KZUtscGxkUkZ4RlVsZXVNb3Zob29tenFyTDNsZ2ludktOWlNobEhqUVRpR0l4bXk1Q2tXZHlqUjNRMlEyWkFtV3drdFhua2xDQS0yR2xQekR1WU5BWEw1b1FzMFIyS242M2o4RTdHdkkzcE9SclkxOFdhNDg0aVFEYzJOSnZpRFJ0Rl9yYWp2LXZQTmJnbVhfNWxsbXVqQzRSb1Yzd2hlYTJrWllEdU5IdklLREJxWVQ5Q1VR?oc=5"
+            }
+          ],
+          "summary": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing Kalkine…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
           "id": "119e8639b1d4832f",
@@ -965,7 +972,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T05:34:30.000Z",
           "snippet": "Will Teleflex’s (TFX) Lowered 2026 Earnings Guidance and Margin Pressures Redefine Its Portfolio Story? simplywall.st",
-          "score": 30.2,
+          "score": 29.8,
           "flags": [
             {
               "id": "reit",
@@ -989,79 +996,6 @@
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
-          "id": "529d7240ff9de469",
-          "title": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFwTlpjOHJPXzNMbm1KZUtscGxkUkZ4RlVsZXVNb3Zob29tenFyTDNsZ2ludktOWlNobEhqUVRpR0l4bXk1Q2tXZHlqUjNRMlEyWkFtV3drdFhua2xDQS0yR2xQekR1WU5BWEw1b1FzMFIyS242M2o4RTdHdkkzcE9SclkxOFdhNDg0aVFEYzJOSnZpRFJ0Rl9yYWp2LXZQTmJnbVhfNWxsbXVqQzRSb1Yzd2hlYTJrWllEdU5IdklLREJxWVQ5Q1VR?oc=5",
-          "source": "kalkine.com.au",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T01:36:46.000Z",
-          "snippet": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing kalkine.com.au",
-          "score": 30.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "d0fe2154a112792e",
-          "cluster_id": "cf61c3c2673c",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "kalkine.com.au",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFwTlpjOHJPXzNMbm1KZUtscGxkUkZ4RlVsZXVNb3Zob29tenFyTDNsZ2ludktOWlNobEhqUVRpR0l4bXk1Q2tXZHlqUjNRMlEyWkFtV3drdFhua2xDQS0yR2xQekR1WU5BWEw1b1FzMFIyS242M2o4RTdHdkkzcE9SclkxOFdhNDg0aVFEYzJOSnZpRFJ0Rl9yYWp2LXZQTmJnbVhfNWxsbXVqQzRSb1Yzd2hlYTJrWllEdU5IdklLREJxWVQ5Q1VR?oc=5"
-            }
-          ],
-          "summary": "Growthpoint Properties Australia Reports FY26 FFO of $177.6 Million, Records Office Leasing kalkine.com.au…",
-          "status": "UPDATED",
-          "first_seen": "2026-08-17T05:40:21.753Z"
-        },
-        {
-          "id": "f227eacefc3d61a8",
-          "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXAyUXdReDE1SGlSN0tJS0M0NkstdF9kaENmTXpXQ095NTRnVkdsZDVGdW94clg4MzZFVEhZUjdja3hWVUNXZHFtc3dMemkzcFhMeGMtd0ZobWRqQW5MMG5IUDU4LXdPWHExbFp1VWRGbEM5cDJzQ1FnLS1yRUxQNWZQTC0wTnFGcTVOME1PakhTX3l6T2J3TkFTZHBVaXF3eDFEOXFzVy04SThMQXROM2liR016a2lFYm1zQnBJTERKQkxSX0N4LTRKSQ?oc=5",
-          "source": "AiThority",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T14:42:00.000Z",
-          "snippet": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence AiThority",
-          "score": 30,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "e1a193a2e8042ca3",
-          "cluster_id": "1d933a6dc258",
-          "duplicate_count": 2,
-          "also_in": [
-            "The Spec"
-          ],
-          "all_links": [
-            {
-              "source": "AiThority",
-              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXAyUXdReDE1SGlSN0tJS0M0NkstdF9kaENmTXpXQ095NTRnVkdsZDVGdW94clg4MzZFVEhZUjdja3hWVUNXZHFtc3dMemkzcFhMeGMtd0ZobWRqQW5MMG5IUDU4LXdPWHExbFp1VWRGbEM5cDJzQ1FnLS1yRUxQNWZQTC0wTnFGcTVOME1PakhTX3l6T2J3TkFTZHBVaXF3eDFEOXFzVy04SThMQXROM2liR016a2lFYm1zQnBJTERKQkxSX0N4LTRKSQ?oc=5"
-            },
-            {
-              "source": "The Spec",
-              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQjFOdHYyU1R4SDVHVlFLRWVOSnhCeW41RXU5SGRUUV9reVpHckxKUkpxNnFoRVJ0VUN6a0RHZnRpa0ZCSFdhUHRtdV82TEU3LUFrZEFQTXJCdkt3NkZvZVNTMnloaU5YSkZfRFBXQVU2c0JJaldxN3dvTUNmckZGSzhSVFBMbDEwT0xtU0VRWFlNWkFjSjI2MFY5cjN2b1hadXh4MmdQREw0cUh3V2JDSV92V2JLdzV3d212Tk1KSXVuQjhzdVJrbGpmdGMtVk1QQjVsZk5nNnpPQ3V6V2Qxdks4VzdBOTlvV1dGOGRPdVdQWGRxUkRBdnFJeDBaeS12eUVSeU9R?oc=5"
-            }
-          ],
-          "summary": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence AiThority…",
-          "status": "NEW"
-        },
-        {
           "id": "5a7c8430013e45a6",
           "title": "Growthpoint delivers record office leasing and FY26 earnings near the top of guidance",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXBnT0F4ZkwzUEVlZ1k2clpicDJMaUhfT2pfbTd3Q1NTV3podDdtSXRHamlkQ3lEUXNuOXh3OWpzLVhlNmdaVkdUVjBpam1tWG5kOWljUWF2ZHB5cFQ0eFNZV3JiLVZhSndpeWpUYjVFcHZraUpNUmRKNDJMTmRmWVNicDcwRV9MNjhWLWZKMm02OVFyalhmcG9PTnd5OFhHemItOXc0bllLS2M4M2JNTm5wejBXbFo3TEZJ?oc=5",
@@ -1072,7 +1006,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T01:07:28.000Z",
           "snippet": "Growthpoint delivers record office leasing and FY26 earnings near the top of guidance commo.com.au",
-          "score": 30,
+          "score": 29.8,
           "flags": [
             {
               "id": "reit",
@@ -1105,14 +1039,14 @@
           "id": "0d7715b78b864d7f",
           "title": "Growthpoint Properties Australia (ASX: GOZ) Delivers Record Office Leasing as FY26 FFO Nears Guidance Peak",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdEUxYWQ5Q19ZcW90ZWpXRWtyNmdTTGhlUUp3RTQzRVAtczJVekJKM2hsUkFKUndYaU9PU0ZPcEtNWlZqNmJfNlJwdjQ2c25nR1ZhdVg0dllyQWItc0llUGx2VExmN09oQl9OTlRJWUM0ZEpSMXpGand1dmpYSW9BOGpQNUpvTVZLSkdCczRaVUN4TGtub1AwcjIzR09UcXFseG0xbW5rVEJONFY1WHhDRklaZWR1VTJTZTE3N0FrX3poTnZvVkpYZlQ1clE2Q1NiSXRvX3NSNUFZT28?oc=5",
-          "source": "kalkine.com.au",
+          "source": "Kalkine",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T00:38:00.000Z",
-          "snippet": "Growthpoint Properties Australia (ASX: GOZ) Delivers Record Office Leasing as FY26 FFO Nears Guidance Peak kalkine.com.au",
-          "score": 29.9,
+          "snippet": "Growthpoint Properties Australia (ASX: GOZ) Delivers Record Office Leasing as FY26 FFO Nears Guidance Peak Kalkine",
+          "score": 29.7,
           "flags": [
             {
               "id": "reit",
@@ -1121,32 +1055,106 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "18a4515f33d5557e",
+          "content_hash": "eb280f9729616ccc",
           "cluster_id": "8f336555cc1b",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "kalkine.com.au",
+              "source": "Kalkine",
               "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdEUxYWQ5Q19ZcW90ZWpXRWtyNmdTTGhlUUp3RTQzRVAtczJVekJKM2hsUkFKUndYaU9PU0ZPcEtNWlZqNmJfNlJwdjQ2c25nR1ZhdVg0dllyQWItc0llUGx2VExmN09oQl9OTlRJWUM0ZEpSMXpGand1dmpYSW9BOGpQNUpvTVZLSkdCczRaVUN4TGtub1AwcjIzR09UcXFseG0xbW5rVEJONFY1WHhDRklaZWR1VTJTZTE3N0FrX3poTnZvVkpYZlQ1clE2Q1NiSXRvX3NSNUFZT28?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia (ASX: GOZ) Delivers Record Office Leasing as FY26 FFO Nears Guidance Peak kalkine.com.au…",
+          "summary": "Growthpoint Properties Australia (ASX: GOZ) Delivers Record Office Leasing as FY26 FFO Nears Guidance Peak Kalkine…",
           "status": "UPDATED",
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
-          "id": "e011e995b2961e1a",
-          "title": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdZWkxtczg5NER0TW1KNTVwdU1UazBVV1JFWEhqZmViSGNVdUpxMXUwcDBuUDZiNUdRWWJVRlU5RTNNdE13SHREOVZKYVZ4LThJc3dnenNUbmtiaGhfOVZ5bU9tZWVXQUdfY3c0WEFFWldVUm4wODFlTEktRXQ5eS1ubFB6UmJHTFU3Qk42SHIzbGRlWVdzb2NYQW9HTVBGdklrN3pMQS0zNXpMNVFQZjZ0SFQ?oc=5",
-          "source": "theherald.co.za",
+          "id": "209cf5f56c34f0bd",
+          "title": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5",
+          "source": "CSP Daily News",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-17T14:00:00.000Z",
-          "snippet": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals theherald.co.za",
-          "score": 29.3,
+          "published_at": "2026-08-17T14:57:06.000Z",
+          "snippet": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says CSP Daily News",
+          "score": 29.2,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "d72cc9e56feb532a",
+          "cluster_id": "6af77c5fb7c2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "CSP Daily News",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5"
+            }
+          ],
+          "summary": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says CSP Daily News…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "e869f16aabd62456",
+          "title": "Why EU rules could redefine Africa's agricultural competitiveness",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWdEaEhaM2tTenI4OUxCYjBBaDBRN2hkRFlGNE94dlYxcVhaOGp0ZFF5X0Ewd3dNS19PaFJ3NUx0WWstZVFVQy1VX1JSQVlYbi1TZkxTcTk4clpyS1FIMlFrTWhzNVZCa2JMNHo2aTdMbmw3SUNhQkNUaWZKREFfX2hFTGVBV3o3bThjNHd3NjViZ1BZR3hLN1A3N3JZQ3A1Tmg2WmNHcDYxcTlGdjNnUXNMUS01V0RyWVQ1TDFfcVBYVGlkU1ptT1ZqM2Y?oc=5",
+          "source": "standardmedia.co.ke",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T14:50:35.000Z",
+          "snippet": "Why EU rules could redefine Africa's agricultural competitiveness standardmedia.co.ke",
+          "score": 29.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "18be89d60ca8cca4",
+          "cluster_id": "6f570b6433d7",
+          "duplicate_count": 2,
+          "also_in": [
+            "standardmedia.co.ke"
+          ],
+          "all_links": [
+            {
+              "source": "standardmedia.co.ke",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWdEaEhaM2tTenI4OUxCYjBBaDBRN2hkRFlGNE94dlYxcVhaOGp0ZFF5X0Ewd3dNS19PaFJ3NUx0WWstZVFVQy1VX1JSQVlYbi1TZkxTcTk4clpyS1FIMlFrTWhzNVZCa2JMNHo2aTdMbmw3SUNhQkNUaWZKREFfX2hFTGVBV3o3bThjNHd3NjViZ1BZR3hLN1A3N3JZQ3A1Tmg2WmNHcDYxcTlGdjNnUXNMUS01V0RyWVQ1TDFfcVBYVGlkU1ptT1ZqM2Y?oc=5"
+            },
+            {
+              "source": "standardmedia.co.ke",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2YzY0k0UE1lOWh4Zl9jeHk2dWJLN0hsYUNTVHAwX25oNFVtTVczZlpWU3ZVUUR6SFJMT0Q4RVJSYy1HZDFIcEN5ZFl5VTdfRk9qV2JTRXliVE93MXU4V3NKSnc4WHZVTEdxNTVPQjREdFR1YV9JZXY0Ukcza2xNSXF4VlowbnEwX2d5ZzhUbGRLbzNmN2Y5X1lMeDJCYnBsdk5DRjhaZkxfaEU5NndpUWM0ZWlCQnhLZUpXRVotOHpXWVZZdGJYYw?oc=5"
+            }
+          ],
+          "summary": "Why EU rules could redefine Africa's agricultural competitiveness standardmedia.co.ke…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "948d33666b0bb47f",
+          "title": "Great Portland stock holds its YTD gain as fresh holding disclosure lands",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcERma3FndkhyLWJ6T0xmQzBKcWh2a2tOZE5sZFczT2E3SnNpRHpUYUY1bkprT3o3TEFkb01jWVhqeVRldGw1Tm5GQWhpMG1IaGR5bkZqdWg2QmlsdWFyajNEcU9XWWtrbGswOHZlcHBRX3oyT3RVcXE0czMxSS16VDdxV3VhZUNJZFpsSFhxTk9KblVkUTNfenJxa0xYeEJmNnV4cklVRF9tTlBwamI0MkpWWVJRTVBTdVc5UDRXMlBPT3NlajdGbW1FTFYweWUwSXc?oc=5",
+          "source": "AD HOC NEWS",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T18:13:39.000Z",
+          "snippet": "Great Portland stock holds its YTD gain as fresh holding disclosure lands AD HOC NEWS",
+          "score": 29,
           "flags": [
             {
               "id": "reit",
@@ -1155,18 +1163,52 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "7c10f9d60cf6b7ee",
-          "cluster_id": "8d2c51781b9a",
+          "content_hash": "6ae9c98884993443",
+          "cluster_id": "7d9c1fafba8a",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "theherald.co.za",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdZWkxtczg5NER0TW1KNTVwdU1UazBVV1JFWEhqZmViSGNVdUpxMXUwcDBuUDZiNUdRWWJVRlU5RTNNdE13SHREOVZKYVZ4LThJc3dnenNUbmtiaGhfOVZ5bU9tZWVXQUdfY3c0WEFFWldVUm4wODFlTEktRXQ5eS1ubFB6UmJHTFU3Qk42SHIzbGRlWVdzb2NYQW9HTVBGdklrN3pMQS0zNXpMNVFQZjZ0SFQ?oc=5"
+              "source": "AD HOC NEWS",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcERma3FndkhyLWJ6T0xmQzBKcWh2a2tOZE5sZFczT2E3SnNpRHpUYUY1bkprT3o3TEFkb01jWVhqeVRldGw1Tm5GQWhpMG1IaGR5bkZqdWg2QmlsdWFyajNEcU9XWWtrbGswOHZlcHBRX3oyT3RVcXE0czMxSS16VDdxV3VhZUNJZFpsSFhxTk9KblVkUTNfenJxa0xYeEJmNnV4cklVRF9tTlBwamI0MkpWWVJRTVBTdVc5UDRXMlBPT3NlajdGbW1FTFYweWUwSXc?oc=5"
             }
           ],
-          "summary": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals theherald.co.za…",
+          "summary": "Great Portland stock holds its YTD gain as fresh holding disclosure lands AD HOC NEWS…",
           "status": "NEW"
+        },
+        {
+          "id": "8f3f56f6f6d5797c",
+          "title": "Japan weighs AI inventorship as courts redefine patent reach",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEJ3S2RWekhIZnBFa3FRVVpKRlRMTlY2THZ4NG5aNENZYV8zM0JxSnI0eEQxSm1JVVE3NVF3M1JiMldyOHpYaU1jTGZETTBDdFQzSXRxMWZWUE9RSzRJb1FEaDlDVzVydy1TRg?oc=5",
+          "source": "Digital Watch Observatory",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T14:27:31.000Z",
+          "snippet": "Japan weighs AI inventorship as courts redefine patent reach Digital Watch Observatory",
+          "score": 28.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "c843fa3f5c6bf82e",
+          "cluster_id": "b65d17997058",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Digital Watch Observatory",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEJ3S2RWekhIZnBFa3FRVVpKRlRMTlY2THZ4NG5aNENZYV8zM0JxSnI0eEQxSm1JVVE3NVF3M1JiMldyOHpYaU1jTGZETTBDdFQzSXRxMWZWUE9RSzRJb1FEaDlDVzVydy1TRg?oc=5"
+            }
+          ],
+          "summary": "Japan weighs AI inventorship as courts redefine patent reach Digital Watch Observatory…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "c1a0942f97b64753",
@@ -1179,7 +1221,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T14:03:57.000Z",
           "snippet": "How Black Bear Pursuit's Seth Watts Uses UTVs to Redefine Bear Hunting in California RideApart.com",
-          "score": 29.3,
+          "score": 28.8,
           "flags": [
             {
               "id": "reit",
@@ -1199,8 +1241,42 @@
             }
           ],
           "summary": "How Black Bear Pursuit's Seth Watts Uses UTVs to Redefine Bear Hunting in California RideApart.com…",
-          "status": "UPDATED",
+          "status": "ONGOING",
           "first_seen": "2026-08-17T11:19:16.042Z"
+        },
+        {
+          "id": "e011e995b2961e1a",
+          "title": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdZWkxtczg5NER0TW1KNTVwdU1UazBVV1JFWEhqZmViSGNVdUpxMXUwcDBuUDZiNUdRWWJVRlU5RTNNdE13SHREOVZKYVZ4LThJc3dnenNUbmtiaGhfOVZ5bU9tZWVXQUdfY3c0WEFFWldVUm4wODFlTEktRXQ5eS1ubFB6UmJHTFU3Qk42SHIzbGRlWVdzb2NYQW9HTVBGdklrN3pMQS0zNXpMNVFQZjZ0SFQ?oc=5",
+          "source": "theherald.co.za",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T14:00:00.000Z",
+          "snippet": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals theherald.co.za",
+          "score": 28.7,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "7c10f9d60cf6b7ee",
+          "cluster_id": "8d2c51781b9a",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "theherald.co.za",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdZWkxtczg5NER0TW1KNTVwdU1UazBVV1JFWEhqZmViSGNVdUpxMXUwcDBuUDZiNUdRWWJVRlU5RTNNdE13SHREOVZKYVZ4LThJc3dnenNUbmtiaGhfOVZ5bU9tZWVXQUdfY3c0WEFFWldVUm4wODFlTEktRXQ5eS1ubFB6UmJHTFU3Qk42SHIzbGRlWVdzb2NYQW9HTVBGdklrN3pMQS0zNXpMNVFQZjZ0SFQ?oc=5"
+            }
+          ],
+          "summary": "Robinson, Brand crowned U19 champions at Growthpoint Squash Nationals theherald.co.za…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "f264beb1f646a8ce",
@@ -1213,7 +1289,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T13:48:57.000Z",
           "snippet": "Telr And Jet Application Join Forces To Redefine Quick-Commerce Payments In Jordan بوابة التكنولوجيا المالية",
-          "score": 29.2,
+          "score": 28.7,
           "flags": [
             {
               "id": "reit",
@@ -1233,7 +1309,8 @@
             }
           ],
           "summary": "Telr And Jet Application Join Forces To Redefine Quick-Commerce Payments In Jordan بوابة التكنولوجيا المالية…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "9234b0c44657e3bd",
@@ -1246,7 +1323,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T13:32:27.000Z",
           "snippet": "News | City and Canary Wharf taking lead in central London office rent gains CoStar",
-          "score": 29.1,
+          "score": 28.5,
           "flags": [],
           "tone": "positive",
           "content_hash": "103f43c40338b54c",
@@ -1266,7 +1343,8 @@
             }
           ],
           "summary": "News | City and Canary Wharf taking lead in central London office rent gains CoStar…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "a7dcf99abc005176",
@@ -1279,7 +1357,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T13:18:23.000Z",
           "snippet": "Coastal Source and Lutron Redefine the Indoor-Outdoor Lighting Experience at CEDIA Expo 2026 rAVe [PUBS]",
-          "score": 29,
+          "score": 28.4,
           "flags": [
             {
               "id": "reit",
@@ -1299,7 +1377,8 @@
             }
           ],
           "summary": "Coastal Source and Lutron Redefine the Indoor-Outdoor Lighting Experience at CEDIA Expo 2026 rAVe [PUBS]…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "bb2a4e3d20cdccea",
@@ -1312,7 +1391,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T13:00:00.000Z",
           "snippet": "REDEFINE PROPERTIES LIMITED – Change to the board and board committees Moneyweb",
-          "score": 28.8,
+          "score": 28.3,
           "flags": [
             {
               "id": "reit",
@@ -1332,20 +1411,54 @@
             }
           ],
           "summary": "REDEFINE PROPERTIES LIMITED – Change to the board and board committees Moneyweb…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "542b7a5d02181631",
+          "title": "Vivmark Details Merged Entity, Becomes Largest U.S. Apartment REIT By Far",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzQzM0hZSmotLXhabXBoc3ZpTHlrZERCVG9iS0J1YlhkZHJHZy1ZaGNwZmJFMHVMb0NKRlVYanUtU2hoU1BoUnZDOGx6YVd4QkZQNVVSRi0xVGx6OGFueGtiR3pEYW1NZGt3Mk1GamxNc1NOalVMdm1MRjM2ZnZ0VlhRelBTaVFCQVpaaWtsTnF6aEU1R3NTS3lDR1h5RXVlWE5CSVJtRHd5TUlIX2p4cUY5Rnp3T3ZsWE1PaHpn?oc=5",
+          "source": "Bisnow",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 6,
+          "published_at": "2026-08-17T17:24:13.000Z",
+          "snippet": "Vivmark Details Merged Entity, Becomes Largest U.S. Apartment REIT By Far Bisnow",
+          "score": 28,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "79c99817d5007ced",
+          "cluster_id": "866fe7a87b63",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Bisnow",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzQzM0hZSmotLXhabXBoc3ZpTHlrZERCVG9iS0J1YlhkZHJHZy1ZaGNwZmJFMHVMb0NKRlVYanUtU2hoU1BoUnZDOGx6YVd4QkZQNVVSRi0xVGx6OGFueGtiR3pEYW1NZGt3Mk1GamxNc1NOalVMdm1MRjM2ZnZ0VlhRelBTaVFCQVpaaWtsTnF6aEU1R3NTS3lDR1h5RXVlWE5CSVJtRHd5TUlIX2p4cUY5Rnp3T3ZsWE1PaHpn?oc=5"
+            }
+          ],
+          "summary": "Vivmark Details Merged Entity, Becomes Largest U.S.",
           "status": "NEW"
         },
         {
-          "id": "a1c3e8d4b65fefc0",
-          "title": "Growthpoint Properties Australia FY26 profit rebounds as portfolio occupancy rises",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1JpRldJZ3Zjb1ctcjZENVoyOXZPNzRlSEFpNjFTcjBnTUUwNDFpY1RTVnVEN05pVG5MTkM5ODg0OHVRSlg1bHV1STJRYzc1R1FrRFhiSHFFeTZSb0VpeHBUa1RXbzVtMXJOcHd5RGxmYWE0X1kxa0ZqcGsyY09sUW90V3RZb2tsS3JyakEydzJzbklXUldSVGpaTWFydjNFTGF0RTFrSk9kcW45WUg0SFZna1FmUVJZQ2c?oc=5",
-          "source": "The Motley Fool Australia",
+          "id": "f227eacefc3d61a8",
+          "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXAyUXdReDE1SGlSN0tJS0M0NkstdF9kaENmTXpXQ095NTRnVkdsZDVGdW94clg4MzZFVEhZUjdja3hWVUNXZHFtc3dMemkzcFhMeGMtd0ZobWRqQW5MMG5IUDU4LXdPWHExbFp1VWRGbEM5cDJzQ1FnLS1yRUxQNWZQTC0wTnFGcTVOME1PakhTX3l6T2J3TkFTZHBVaXF3eDFEOXFzVy04SThMQXROM2liR016a2lFYm1zQnBJTERKQkxSX0N4LTRKSQ?oc=5",
+          "source": "AiThority",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-16T23:08:40.000Z",
-          "snippet": "Growthpoint Properties Australia FY26 profit rebounds as portfolio occupancy rises The Motley Fool Australia",
-          "score": 28.6,
+          "published_at": "2026-08-17T14:42:00.000Z",
+          "snippet": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence AiThority",
+          "score": 28,
           "flags": [
             {
               "id": "reit",
@@ -1354,19 +1467,19 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "0b5a7d9aa924eea8",
-          "cluster_id": "ed90624a5914",
+          "content_hash": "e1a193a2e8042ca3",
+          "cluster_id": "1d933a6dc258",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "The Motley Fool Australia",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1JpRldJZ3Zjb1ctcjZENVoyOXZPNzRlSEFpNjFTcjBnTUUwNDFpY1RTVnVEN05pVG5MTkM5ODg0OHVRSlg1bHV1STJRYzc1R1FrRFhiSHFFeTZSb0VpeHBUa1RXbzVtMXJOcHd5RGxmYWE0X1kxa0ZqcGsyY09sUW90V3RZb2tsS3JyakEydzJzbklXUldSVGpaTWFydjNFTGF0RTFrSk9kcW45WUg0SFZna1FmUVJZQ2c?oc=5"
+              "source": "AiThority",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXAyUXdReDE1SGlSN0tJS0M0NkstdF9kaENmTXpXQ095NTRnVkdsZDVGdW94clg4MzZFVEhZUjdja3hWVUNXZHFtc3dMemkzcFhMeGMtd0ZobWRqQW5MMG5IUDU4LXdPWHExbFp1VWRGbEM5cDJzQ1FnLS1yRUxQNWZQTC0wTnFGcTVOME1PakhTX3l6T2J3TkFTZHBVaXF3eDFEOXFzVy04SThMQXROM2liR016a2lFYm1zQnBJTERKQkxSX0N4LTRKSQ?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia FY26 profit rebounds as portfolio occupancy rises The Motley Fool Australia…",
+          "summary": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence AiThority…",
           "status": "ONGOING",
-          "first_seen": "2026-08-17T05:40:21.753Z"
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "f500ee5b23c9e829",
@@ -1379,7 +1492,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T02:07:01.000Z",
           "snippet": "Earnings call transcript: Growthpoint Properties Australia posts steady FY 2026 results Investing.com",
-          "score": 28.3,
+          "score": 28,
           "flags": [
             {
               "id": "reit",
@@ -1390,150 +1503,23 @@
           "tone": "positive",
           "content_hash": "f3214c1d070565d8",
           "cluster_id": "2d0159772d0b",
-          "duplicate_count": 1,
-          "also_in": [],
+          "duplicate_count": 2,
+          "also_in": [
+            "Investing.com South Africa"
+          ],
           "all_links": [
             {
               "source": "Investing.com",
               "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON3R2bWJfTE5weFFUUUtZTTF1S0hyakZZMzV0eEVaZ254MTRsQXZMQnFmT1BVMjQ0UnUzYTBHZkJIT0JxT2dFMHcxQTVETGlxUnFDU3ZpLWUtU3ZwVkRqenJmT1JrU3I0VUhUQkhUUzJiWlYxWHlmM043Wm1uY0wxVHFzeGZkYjVGalBETUZBbU5POGdnSjJpQlBlRUFEQWtCMF9pSUltcFI1RGdmR0hudzU0cEZ1NXhhU1RSb3Boc1N5azdGRDFkNGQyYkN5S3I1ajI4b1hnc2lnZw?oc=5"
+            },
+            {
+              "source": "Investing.com South Africa",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHp1V1ZSU0xaaWJjNl90WS1uaTZXTXlmaEQ0XzZodGNVUkxUVndWdmhqeFdJejI1S3RpNUJQTWZ6d2szZEhqeHdtcERfM29zNGYtU3Q5ZEE4c1RHZHBPY0haOF90SHdTMnVjVU03RHY3Z2JZREFUMHFYWVNFOVFBcXpSWmlRM3E5Yl93Z3JxRG5QX0c4SDNyay1TQ0ZBX0lrYlptblVmZmZnUmQ2YkU5QllXQWRwQUZtTVJTUkhpNHpPbkQtZlotekdWNW02S3VEcHZDbUFIWXBZbENOT1FOY3pDbGNpNEt2?oc=5"
             }
           ],
           "summary": "Earnings call transcript: Growthpoint Properties Australia posts steady FY 2026 results Investing.com…",
-          "status": "NEW"
-        },
-        {
-          "id": "393e277fad92b1f2",
-          "title": "Fortress prints third new issue euro CLO",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTNXaXQ4ZmJJZ1Uta0FtMWhtd2RfOWdYMEJ6c2FMVWlYMllnSVY0b1JfM0tDMjJrV0tyVFdKLTZpRXVQUE1XUjNpZW5nc2o4Y3NuY2NkdkZoNUxYM242bzlFZlVhdnlaMnNJZlU3czQ3TVFFbFpuOXRkV1VMTjJQeV8yaTk4ZUtlVmxVa3hlcHVfSVhXMTM0VFZScU9kY3JYTXY4S2lRTGZGaHFQbGE5SnN4eWlhM1NFUE1tUmNWc3NDTC01S09INU5vTTgzWUNySzlWcHg2aEJOZw?oc=5",
-          "source": "Global Capital",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T13:53:29.000Z",
-          "snippet": "Fortress prints third new issue euro CLO Global Capital",
-          "score": 28.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "dee6dc913608807d",
-          "cluster_id": "42f5a83edb94",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Global Capital",
-              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTNXaXQ4ZmJJZ1Uta0FtMWhtd2RfOWdYMEJ6c2FMVWlYMllnSVY0b1JfM0tDMjJrV0tyVFdKLTZpRXVQUE1XUjNpZW5nc2o4Y3NuY2NkdkZoNUxYM242bzlFZlVhdnlaMnNJZlU3czQ3TVFFbFpuOXRkV1VMTjJQeV8yaTk4ZUtlVmxVa3hlcHVfSVhXMTM0VFZScU9kY3JYTXY4S2lRTGZGaHFQbGE5SnN4eWlhM1NFUE1tUmNWc3NDTC01S09INU5vTTgzWUNySzlWcHg2aEJOZw?oc=5"
-            }
-          ],
-          "summary": "Fortress prints third new issue euro CLO Global Capital…",
-          "status": "NEW"
-        },
-        {
-          "id": "d038c8c261bc38fc",
-          "title": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckoyeGhIbGJYMmlRSWM0V2w2dGR3Zk80N0N2RkVqYmw5QTg5WXBleDB6Y2xuLVNud3JfN0ZPRnlLekg2SkVDMlM5alpBWm9JZFdwc2ZIN3JLZDFtcm5vdjVjc0h3SUI3c0F1U0ItQW5qT2N3enliQnU2T29zZVdOWVdVZkN3UnFMU01IRTAwMVVSM01aaDQxS2lJeFVqMEUwUWdTLVhPSmFFV1JNWVlldFBFdUkzbWVSRzNfY2VmQWFadTdSOGNoVmd6elkxWml4SlE?oc=5",
-          "source": "kalkine.com.au",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T01:36:46.000Z",
-          "snippet": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million kalkine.com.au",
-          "score": 28.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "2cc7af4c72b52f18",
-          "cluster_id": "ce48e3c70466",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "kalkine.com.au",
-              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckoyeGhIbGJYMmlRSWM0V2w2dGR3Zk80N0N2RkVqYmw5QTg5WXBleDB6Y2xuLVNud3JfN0ZPRnlLekg2SkVDMlM5alpBWm9JZFdwc2ZIN3JLZDFtcm5vdjVjc0h3SUI3c0F1U0ItQW5qT2N3enliQnU2T29zZVdOWVdVZkN3UnFMU01IRTAwMVVSM01aaDQxS2lJeFVqMEUwUWdTLVhPSmFFV1JNWVlldFBFdUkzbWVSRzNfY2VmQWFadTdSOGNoVmd6elkxWml4SlE?oc=5"
-            }
-          ],
-          "summary": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million kalkine.com.au…",
-          "status": "UPDATED",
-          "first_seen": "2026-08-17T05:40:21.753Z"
-        },
-        {
-          "id": "c8348b78956dcd65",
-          "title": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeFVEZXEzUzFqN0dqY1N2djZSTy01Rk5jLVpDd043NU0ydExtTkhOeWxYVGFlSWw4UHdsNnZONnRBbmtDNlEwZmo3U0JncTdIdVVBMVRYN0xoWDZhbmlIYkxuaDRCQnlVb0Z1Uy1LSXBEcWRTOUlIc0ZxQTdobHpXdmJoVWJYVk1SMHBiSmFtQUdHU2ZfQkRBaktDWmRyV3lYd1gxUWJweWtzMnFuTnFkN2ZmN1JRMTlUQjZPYVQzLUx6NHc0dHlubUcxcU1rSnluUldLTDhaUU84QkdYT29pMg?oc=5",
-          "source": "marketscreener.com",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T01:50:30.000Z",
-          "snippet": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026 marketscreener.com",
-          "score": 28.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "d6d614b2264c30ba",
-          "cluster_id": "ae1d8a335118",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "marketscreener.com",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeFVEZXEzUzFqN0dqY1N2djZSTy01Rk5jLVpDd043NU0ydExtTkhOeWxYVGFlSWw4UHdsNnZONnRBbmtDNlEwZmo3U0JncTdIdVVBMVRYN0xoWDZhbmlIYkxuaDRCQnlVb0Z1Uy1LSXBEcWRTOUlIc0ZxQTdobHpXdmJoVWJYVk1SMHBiSmFtQUdHU2ZfQkRBaktDWmRyV3lYd1gxUWJweWtzMnFuTnFkN2ZmN1JRMTlUQjZPYVQzLUx6NHc0dHlubUcxcU1rSnluUldLTDhaUU84QkdYT29pMg?oc=5"
-            }
-          ],
-          "summary": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026 marketscreener.com…",
           "status": "ONGOING",
-          "first_seen": "2026-08-17T05:40:21.753Z"
-        },
-        {
-          "id": "5265096d36ed0d90",
-          "title": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVR0emVfVmlMRVVzQkV4MER2eGpiUHM3SkpxNzNkald3VXhINm81dEdDRlMyS3pKeWlwbkhLSjdzcklCYVpIQjBmMmMycTkxWDN6QkkzdUpETjZZMHJYSS05U3hJRXVOMkdaUTV5UE42X1dxelp6cElWY0lXQ0pURDhuLXdFaS1xTWlRUHZqaHdNcVRweVVwWWowMllyT3ltZzI1WkNEcjNCMnRubXY2UERoSTdBdUNJVU1iQzdLRlZuanNCQVZUa1BjVnExbHZ0MjN1VDJ2ZldycFB5dkZQSV82RjRuQ2E2c3Rr?oc=5",
-          "source": "TradingView",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T13:23:01.000Z",
-          "snippet": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares TradingView",
-          "score": 28,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "5f007503b78722ee",
-          "cluster_id": "d015c282bbff",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "TradingView",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVR0emVfVmlMRVVzQkV4MER2eGpiUHM3SkpxNzNkald3VXhINm81dEdDRlMyS3pKeWlwbkhLSjdzcklCYVpIQjBmMmMycTkxWDN6QkkzdUpETjZZMHJYSS05U3hJRXVOMkdaUTV5UE42X1dxelp6cElWY0lXQ0pURDhuLXdFaS1xTWlRUHZqaHdNcVRweVVwWWowMllyT3ltZzI1WkNEcjNCMnRubXY2UERoSTdBdUNJVU1iQzdLRlZuanNCQVZUa1BjVnExbHZ0MjN1VDJ2ZldycFB5dkZQSV82RjRuQ2E2c3Rr?oc=5"
-            }
-          ],
-          "summary": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares TradingView…",
-          "status": "NEW"
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "3521931af0cc9be1",
@@ -1570,6 +1556,142 @@
           "first_seen": "2026-08-15T05:31:19.020Z"
         },
         {
+          "id": "d038c8c261bc38fc",
+          "title": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckoyeGhIbGJYMmlRSWM0V2w2dGR3Zk80N0N2RkVqYmw5QTg5WXBleDB6Y2xuLVNud3JfN0ZPRnlLekg2SkVDMlM5alpBWm9JZFdwc2ZIN3JLZDFtcm5vdjVjc0h3SUI3c0F1U0ItQW5qT2N3enliQnU2T29zZVdOWVdVZkN3UnFMU01IRTAwMVVSM01aaDQxS2lJeFVqMEUwUWdTLVhPSmFFV1JNWVlldFBFdUkzbWVSRzNfY2VmQWFadTdSOGNoVmd6elkxWml4SlE?oc=5",
+          "source": "Kalkine",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T01:36:46.000Z",
+          "snippet": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million Kalkine",
+          "score": 27.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "643f5e8ad046ee7d",
+          "cluster_id": "ce48e3c70466",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckoyeGhIbGJYMmlRSWM0V2w2dGR3Zk80N0N2RkVqYmw5QTg5WXBleDB6Y2xuLVNud3JfN0ZPRnlLekg2SkVDMlM5alpBWm9JZFdwc2ZIN3JLZDFtcm5vdjVjc0h3SUI3c0F1U0ItQW5qT2N3enliQnU2T29zZVdOWVdVZkN3UnFMU01IRTAwMVVSM01aaDQxS2lJeFVqMEUwUWdTLVhPSmFFV1JNWVlldFBFdUkzbWVSRzNfY2VmQWFadTdSOGNoVmd6elkxWml4SlE?oc=5"
+            }
+          ],
+          "summary": "Growthpoint Properties Australia Reports FY26 Full-Year Results with Net Profit of $90.1 Million Kalkine…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T05:40:21.753Z"
+        },
+        {
+          "id": "c8348b78956dcd65",
+          "title": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeFVEZXEzUzFqN0dqY1N2djZSTy01Rk5jLVpDd043NU0ydExtTkhOeWxYVGFlSWw4UHdsNnZONnRBbmtDNlEwZmo3U0JncTdIdVVBMVRYN0xoWDZhbmlIYkxuaDRCQnlVb0Z1Uy1LSXBEcWRTOUlIc0ZxQTdobHpXdmJoVWJYVk1SMHBiSmFtQUdHU2ZfQkRBaktDWmRyV3lYd1gxUWJweWtzMnFuTnFkN2ZmN1JRMTlUQjZPYVQzLUx6NHc0dHlubUcxcU1rSnluUldLTDhaUU84QkdYT29pMg?oc=5",
+          "source": "marketscreener.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T01:50:30.000Z",
+          "snippet": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026 marketscreener.com",
+          "score": 27.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "d6d614b2264c30ba",
+          "cluster_id": "ae1d8a335118",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "marketscreener.com",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeFVEZXEzUzFqN0dqY1N2djZSTy01Rk5jLVpDd043NU0ydExtTkhOeWxYVGFlSWw4UHdsNnZONnRBbmtDNlEwZmo3U0JncTdIdVVBMVRYN0xoWDZhbmlIYkxuaDRCQnlVb0Z1Uy1LSXBEcWRTOUlIc0ZxQTdobHpXdmJoVWJYVk1SMHBiSmFtQUdHU2ZfQkRBaktDWmRyV3lYd1gxUWJweWtzMnFuTnFkN2ZmN1JRMTlUQjZPYVQzLUx6NHc0dHlubUcxcU1rSnluUldLTDhaUU84QkdYT29pMg?oc=5"
+            }
+          ],
+          "summary": "Growthpoint Properties Australia Reports Earnings Results for the Full Year Ended June 30, 2026 marketscreener.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T05:40:21.753Z"
+        },
+        {
+          "id": "393e277fad92b1f2",
+          "title": "Fortress prints third new issue euro CLO",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTNXaXQ4ZmJJZ1Uta0FtMWhtd2RfOWdYMEJ6c2FMVWlYMllnSVY0b1JfM0tDMjJrV0tyVFdKLTZpRXVQUE1XUjNpZW5nc2o4Y3NuY2NkdkZoNUxYM242bzlFZlVhdnlaMnNJZlU3czQ3TVFFbFpuOXRkV1VMTjJQeV8yaTk4ZUtlVmxVa3hlcHVfSVhXMTM0VFZScU9kY3JYTXY4S2lRTGZGaHFQbGE5SnN4eWlhM1NFUE1tUmNWc3NDTC01S09INU5vTTgzWUNySzlWcHg2aEJOZw?oc=5",
+          "source": "Global Capital",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T13:53:29.000Z",
+          "snippet": "Fortress prints third new issue euro CLO Global Capital",
+          "score": 27.7,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "dee6dc913608807d",
+          "cluster_id": "42f5a83edb94",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Global Capital",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTNXaXQ4ZmJJZ1Uta0FtMWhtd2RfOWdYMEJ6c2FMVWlYMllnSVY0b1JfM0tDMjJrV0tyVFdKLTZpRXVQUE1XUjNpZW5nc2o4Y3NuY2NkdkZoNUxYM242bzlFZlVhdnlaMnNJZlU3czQ3TVFFbFpuOXRkV1VMTjJQeV8yaTk4ZUtlVmxVa3hlcHVfSVhXMTM0VFZScU9kY3JYTXY4S2lRTGZGaHFQbGE5SnN4eWlhM1NFUE1tUmNWc3NDTC01S09INU5vTTgzWUNySzlWcHg2aEJOZw?oc=5"
+            }
+          ],
+          "summary": "Fortress prints third new issue euro CLO Global Capital…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "5265096d36ed0d90",
+          "title": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVR0emVfVmlMRVVzQkV4MER2eGpiUHM3SkpxNzNkald3VXhINm81dEdDRlMyS3pKeWlwbkhLSjdzcklCYVpIQjBmMmMycTkxWDN6QkkzdUpETjZZMHJYSS05U3hJRXVOMkdaUTV5UE42X1dxelp6cElWY0lXQ0pURDhuLXdFaS1xTWlRUHZqaHdNcVRweVVwWWowMllyT3ltZzI1WkNEcjNCMnRubXY2UERoSTdBdUNJVU1iQzdLRlZuanNCQVZUa1BjVnExbHZ0MjN1VDJ2ZldycFB5dkZQSV82RjRuQ2E2c3Rr?oc=5",
+          "source": "tradingview.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T13:23:01.000Z",
+          "snippet": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares tradingview.com",
+          "score": 27.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "a74e18c7bd2f6bde",
+          "cluster_id": "d015c282bbff",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "tradingview.com",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVR0emVfVmlMRVVzQkV4MER2eGpiUHM3SkpxNzNkald3VXhINm81dEdDRlMyS3pKeWlwbkhLSjdzcklCYVpIQjBmMmMycTkxWDN6QkkzdUpETjZZMHJYSS05U3hJRXVOMkdaUTV5UE42X1dxelp6cElWY0lXQ0pURDhuLXdFaS1xTWlRUHZqaHdNcVRweVVwWWowMllyT3ltZzI1WkNEcjNCMnRubXY2UERoSTdBdUNJVU1iQzdLRlZuanNCQVZUa1BjVnExbHZ0MjN1VDJ2ZldycFB5dkZQSV82RjRuQ2E2c3Rr?oc=5"
+            }
+          ],
+          "summary": "Galaxy Gaming Pays $1.2 Million to Cancel Fortress-Related Warrants, Eliminating 778,320 Shares tradingview.com…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
           "id": "3cbad0e306ac3fc1",
           "title": "Did ON Semiconductor's (ON) Strong Q2 Beat, Guidance and Buybacks Just Redefine Its AI-Auto Story?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcHRudG1ZOVRDQ1lvemgtRzIxVG5FUElTVndoMk80YVN3RTkzSTBoU3NQclgwOC1sTlJVSnREalhWZXh5XzNYWjZYaGMzcHJpNzh3cFNLdUU?oc=5",
@@ -1580,7 +1702,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T10:30:37.000Z",
           "snippet": "Did ON Semiconductor's (ON) Strong Q2 Beat, Guidance and Buybacks Just Redefine Its AI-Auto Story? webull.com",
-          "score": 27.8,
+          "score": 27.4,
           "flags": [
             {
               "id": "reit",
@@ -1591,9 +1713,10 @@
           "tone": "positive",
           "content_hash": "fe54de4eb531ad10",
           "cluster_id": "da52a13fefdd",
-          "duplicate_count": 2,
+          "duplicate_count": 3,
           "also_in": [
-            "simplywall.st"
+            "simplywall.st",
+            "Sahm"
           ],
           "all_links": [
             {
@@ -1603,11 +1726,49 @@
             {
               "source": "simplywall.st",
               "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnhBS1kwSS1ZdE02bjAydjJWbjFoV2YxMFh4ZXRobDJHdVppY2VNNUlQS3FNT3h1WUFTemZUa21pRkRWUFd2N0FYRGFMbXNyMUoxaXZhNE1rcnVKOUFjaHliekVTa2F4RGIwZU9yT0ZldklLZ2NNREhCdXBCTG1ka2NkT3NVMWkyWlhwQzhaNDVmZHRzNUpGY3REN19hSkFFUmhxTm83ZEotRUVkUW5aZEhfYVBFWTg2VmRuaUlTYVV0MjdqMUxfSnJCOHRyTzhUY0VSa3RB0gHbAUFVX3lxTE9HWjFUVUtEZjh6SVJpbFBISVpJZnp1cDlpS3d5U0NuTkdTdmU0UjFPTExiZFI2SXo2ZDZoQk9iaExpRTZ0Y3RaV3pKeDRVczhEUGJITXZqMkZCcUdsZTNxeUJzSFdjYWdBNUE5QkdTRnllaWp5Vlpkd0cyZjg2YjNhbzZ0VDEybk9wb3JvZS1rdjZHU2ZPdmJFZXIyQzBFVzIyN092RWo2Zld0NTFvNF9GMWVaUlM5REtRcUJraDFYTFVhSk80S0t6SnVzRVJCY2xuZlNVeXN1M2RWMA?oc=5"
+            },
+            {
+              "source": "Sahm",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMy1IMEFDZm9iT3lnN0VNVHBUNXBjMHVOa0VjVVRzYlU0aUtuZFZHRHhjOGhWQ3A4SER0SU1iQjdEaGliM2gtalp6M1R0bTJQTzREb3VnUmdTWkR2VDdMRUhQeG42X1BHQmFkX0QzYUdKZjRfUUQyazJSd09XSzF0UmlMZ1JXekVXanRHMzluVUwtb1h3YWdQOGZBdmZYUmhxdlhWV0Q1LXd6VW90dnZZczVERmJjaXVtWEFxVzktNlB2bkNrdHdNN2tqbjBQSU9jclVDYzVQYkpPRlN3SHc?oc=5"
             }
           ],
           "summary": "Did ON Semiconductor's (ON) Strong Q2 Beat, Guidance and Buybacks Just Redefine Its AI-Auto Story?…",
           "status": "ONGOING",
           "first_seen": "2026-08-17T11:19:16.042Z"
+        },
+        {
+          "id": "e7f33ef63eaeb84a",
+          "title": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VYczVkNnAzMEp3ejZxdTRISFpmeFZyaXRfX0RBTV9fSmRsVjRiQUVRUGhZaVlHMkZZd2QwT2lkc2RkZDRFb1g5b0xVTUVpX19oUlJXaUVBMjNKN1pURklveTdxb3ZCMkxZc0ZRVm00ZjFRdUVqYmxyMzNYTFRQSXRIakZuazhaUHJIRk13S01mWW56RlJUMGdpYjdUSnB4OVEzQkQxcTk?oc=5",
+          "source": "Tech Funding News",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T12:55:31.000Z",
+          "snippet": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN Tech Funding News",
+          "score": 27.3,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "e12c7fdde5078c7a",
+          "cluster_id": "5b03817820b6",
+          "duplicate_count": 2,
+          "also_in": [
+            "TechNext.ng"
+          ],
+          "all_links": [
+            {
+              "source": "Tech Funding News",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VYczVkNnAzMEp3ejZxdTRISFpmeFZyaXRfX0RBTV9fSmRsVjRiQUVRUGhZaVlHMkZZd2QwT2lkc2RkZDRFb1g5b0xVTUVpX19oUlJXaUVBMjNKN1pURklveTdxb3ZCMkxZc0ZRVm00ZjFRdUVqYmxyMzNYTFRQSXRIakZuazhaUHJIRk13S01mWW56RlJUMGdpYjdUSnB4OVEzQkQxcTk?oc=5"
+            },
+            {
+              "source": "TechNext.ng",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53V0czTlNhblhPbnFoaHhRdnRyUmtjMHZlSHBLNzRwSXV4WkwwTUp0QlpwV3lfNUpNVXBvT0N0Z1Y0SE12RGRycUxhSWtPQnNVNFh3cDNMZkJxUVhZQ0diVlh2c3BMcXJwbGpFMlhWY3Z2Yk9sTXFPdU9GSy1xM1E?oc=5"
+            }
+          ],
+          "summary": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN Tech Funding News…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "44b214bb9ba43d6c",
@@ -1620,7 +1781,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T12:48:40.000Z",
           "snippet": "Knott's Berry Farm Relaunches Historic Montezooma's Revenge as MonteZOOMa: The Forbidden Fortress AOL.com",
-          "score": 27.7,
+          "score": 27.2,
           "flags": [
             {
               "id": "reit",
@@ -1650,39 +1811,6 @@
           "first_seen": "2026-08-16T11:34:55.324Z"
         },
         {
-          "id": "e7f33ef63eaeb84a",
-          "title": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VYczVkNnAzMEp3ejZxdTRISFpmeFZyaXRfX0RBTV9fSmRsVjRiQUVRUGhZaVlHMkZZd2QwT2lkc2RkZDRFb1g5b0xVTUVpX19oUlJXaUVBMjNKN1pURklveTdxb3ZCMkxZc0ZRVm00ZjFRdUVqYmxyMzNYTFRQSXRIakZuazhaUHJIRk13S01mWW56RlJUMGdpYjdUSnB4OVEzQkQxcTk?oc=5",
-          "source": "Tech Funding News",
-          "section": "realestate",
-          "subsection": "uk-leasing",
-          "geo": "uk",
-          "feedWeight": 7,
-          "published_at": "2026-08-17T12:35:02.000Z",
-          "snippet": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN Tech Funding News",
-          "score": 27.6,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "e12c7fdde5078c7a",
-          "cluster_id": "5b03817820b6",
-          "duplicate_count": 2,
-          "also_in": [
-            "TechNext.ng"
-          ],
-          "all_links": [
-            {
-              "source": "Tech Funding News",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VYczVkNnAzMEp3ejZxdTRISFpmeFZyaXRfX0RBTV9fSmRsVjRiQUVRUGhZaVlHMkZZd2QwT2lkc2RkZDRFb1g5b0xVTUVpX19oUlJXaUVBMjNKN1pURklveTdxb3ZCMkxZc0ZRVm00ZjFRdUVqYmxyMzNYTFRQSXRIakZuazhaUHJIRk13S01mWW56RlJUMGdpYjdUSnB4OVEzQkQxcTk?oc=5"
-            },
-            {
-              "source": "TechNext.ng",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53V0czTlNhblhPbnFoaHhRdnRyUmtjMHZlSHBLNzRwSXV4WkwwTUp0QlpwV3lfNUpNVXBvT0N0Z1Y0SE12RGRycUxhSWtPQnNVNFh3cDNMZkJxUVhZQ0diVlh2c3BMcXJwbGpFMlhWY3Z2Yk9sTXFPdU9GSy1xM1E?oc=5"
-            }
-          ],
-          "summary": "Gen Z-founded Terra Industries extends seed round to $52M, opens London office — TFN Tech Funding News…",
-          "status": "NEW"
-        },
-        {
           "id": "3ac5f6e20c15a015",
           "title": "Financial Security (FinSec) Series with Dr Philip Takyi: NASDAQ 2026: The dawn of a new capital markets era as technology, biotechnology and quantum innovation redefine Wall Street",
           "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUmJzanNnOEQzWHdncFpuMmc0ZnJ4UjdYQTViYXVwTVljbUhpVl9xdWZxclhvdnBwVXVfZ3JrbEs5MnJrcnBTVktONDNYM0FCTEdxdEpRVnI4T1hMNHdkR1lmaTh2N01UOC1aTkZHcGl6ZFdqM0Z1OHFnMGxjUzl6ekhHUEpOTFNyUFloc0FDclFvOU1HZW0tTE1Td0VzMzlkTng5bXFGaGJDc085QklQdmlMQ3JPcnV1LVMtMnJ5T1BxVnEzSnRsd2ZxdDVkd2FEQkhrb25YcEgtQzlFNXJmVVB6dDhPb01qSEY1QXpycVdWT3NZdFFBRmgwdjM4cFRSaThUMkZHY2ZwZTZ1YWFyR25tSHFPM0dRcFAzckhlUHRHVjgtVGVMVFNaT1hBdGdldmc?oc=5",
@@ -1693,7 +1821,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T10:01:45.000Z",
           "snippet": "Financial Security (FinSec) Series with Dr Philip Takyi: NASDAQ 2026: The dawn of a new capital markets era as technology, biotechnology and quantum innovation redefine Wall Street Business & Financial Times",
-          "score": 27.6,
+          "score": 27.2,
           "flags": [
             {
               "id": "reit",
@@ -1727,7 +1855,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T09:14:44.000Z",
           "snippet": "Exploring the Reventador Volcano: JETOUR G700 and Ed Stafford Redefine the Adventure Experience Macau Business",
-          "score": 27.4,
+          "score": 26.9,
           "flags": [
             {
               "id": "reit",
@@ -1747,7 +1875,7 @@
             }
           ],
           "summary": "Exploring the Reventador Volcano: JETOUR G700 and Ed Stafford Redefine the Adventure Experience Macau Business…",
-          "status": "UPDATED",
+          "status": "ONGOING",
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
@@ -1761,7 +1889,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T11:46:39.000Z",
           "snippet": "Fortress vs. ex-MANA at CCT 2026 Challengers Europe Series 5 | See time, streams, etc. Dust2.us",
-          "score": 27.3,
+          "score": 26.8,
           "flags": [
             {
               "id": "reit",
@@ -1795,7 +1923,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T07:58:52.000Z",
           "snippet": "See ReDefine’s VFX breakdown of Indian war drama Ikkis CG Channel",
-          "score": 26.9,
+          "score": 26.5,
           "flags": [
             {
               "id": "reit",
@@ -1819,17 +1947,17 @@
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
-          "id": "11c088ea1077c81c",
-          "title": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2MyZTJiamxYbldqV2NvZ2hFMHllVU1nRnhYZHc0YmdONDBCNkFjQWE2M2VRSUQ3WGFWY2dSM0VyUW5ORVBVLV9vLXQtd05ZSXROVE5tckhsV1ZObEJwUXpvRkFDUmdzc3c4dm5uaFRhUHQ4WTQwSnllZzVXY3BZTXBQRndHRDVzNGJ4QjJQdk50T0pfLTJTRFF0dDFTaVlvazRHSVFvdnhDemlRRWc?oc=5",
-          "source": "kalkine.ca",
+          "id": "f9425913f89b4bf9",
+          "title": "GoldRashers VS Fortress live score and match stats - 17.08.26 14:30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS24taV9FdjVldHg3Z1NkR1ZKWkpucllJRlB6WDJpMVdaT2xsZjdmMnV1YWtmaHhnU3pLbkl3ZWp3eWdfQ20xTTZBZ3Q1MEp3THZjMlVXaVM5RXA3cVVCSGxXVklpaXAtSldWUEUxOHhxYlBhemEtN1FaVFRSYWppN00wdHk3bWJwb0JEYkNwNHUyUQ?oc=5",
+          "source": "EGamersWorld",
           "section": "realestate",
-          "subsection": "uk-debt",
-          "geo": "uk",
+          "subsection": "sa-listed",
+          "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-17T09:50:00.000Z",
-          "snippet": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale kalkine.ca",
-          "score": 26.6,
+          "published_at": "2026-08-17T10:09:34.000Z",
+          "snippet": "GoldRashers VS Fortress live score and match stats - 17.08.26 14:30 EGamersWorld",
+          "score": 26.3,
           "flags": [
             {
               "id": "reit",
@@ -1838,53 +1966,18 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "5d9345f09c31d580",
-          "cluster_id": "ab232704085d",
+          "content_hash": "eb43435ee0c24bdf",
+          "cluster_id": "601c37cc7fd5",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "kalkine.ca",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2MyZTJiamxYbldqV2NvZ2hFMHllVU1nRnhYZHc0YmdONDBCNkFjQWE2M2VRSUQ3WGFWY2dSM0VyUW5ORVBVLV9vLXQtd05ZSXROVE5tckhsV1ZObEJwUXpvRkFDUmdzc3c4dm5uaFRhUHQ4WTQwSnllZzVXY3BZTXBQRndHRDVzNGJ4QjJQdk50T0pfLTJTRFF0dDFTaVlvazRHSVFvdnhDemlRRWc?oc=5"
+              "source": "EGamersWorld",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS24taV9FdjVldHg3Z1NkR1ZKWkpucllJRlB6WDJpMVdaT2xsZjdmMnV1YWtmaHhnU3pLbkl3ZWp3eWdfQ20xTTZBZ3Q1MEp3THZjMlVXaVM5RXA3cVVCSGxXVklpaXAtSldWUEUxOHhxYlBhemEtN1FaVFRSYWppN00wdHk3bWJwb0JEYkNwNHUyUQ?oc=5"
             }
           ],
-          "summary": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale kalkine.ca…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-17T11:19:16.042Z"
-        },
-        {
-          "id": "56f3568bcdd62e3a",
-          "title": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOW9TTzBCQnB6Q2c0VWhVYjFGbzBsZ1J0MjVWZ0FOazQtQTJnQjQzVW4ySDFNWFJKN01LWmxaM1JENngyM3otYm1aX25KRUlrNUhCQUR5VHc4NGNseWpTb3pFOUZSSEZsZC1GNzNld0ZQb010RlV6M0Nhdk5WSFM1STZLaTVYaHVQRXVhUHFrV21yRmFpVXYtUGl1NkdVYlhtUjlhWlU3UTU3SVRpNVdGQg?oc=5",
-          "source": "kalkine.ca",
-          "section": "realestate",
-          "subsection": "uk-debt",
-          "geo": "uk",
-          "feedWeight": 8,
-          "published_at": "2026-08-17T09:49:00.000Z",
-          "snippet": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs kalkine.ca",
-          "score": 26.6,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "e220a67ab42d859f",
-          "cluster_id": "d172c9c78c83",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "kalkine.ca",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOW9TTzBCQnB6Q2c0VWhVYjFGbzBsZ1J0MjVWZ0FOazQtQTJnQjQzVW4ySDFNWFJKN01LWmxaM1JENngyM3otYm1aX25KRUlrNUhCQUR5VHc4NGNseWpTb3pFOUZSSEZsZC1GNzNld0ZQb010RlV6M0Nhdk5WSFM1STZLaTVYaHVQRXVhUHFrV21yRmFpVXYtUGl1NkdVYlhtUjlhWlU3UTU3SVRpNVdGQg?oc=5"
-            }
-          ],
-          "summary": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs kalkine.ca…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-17T11:19:16.042Z"
+          "summary": "GoldRashers VS Fortress live score and match stats - 17.08.26 14:30 EGamersWorld…",
+          "status": "NEW"
         },
         {
           "id": "183b27123100d2d3",
@@ -1897,7 +1990,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T09:48:24.000Z",
           "snippet": "News | London office under offers at highest level since 2007 CoStar",
-          "score": 26.6,
+          "score": 26.1,
           "flags": [],
           "tone": "neutral",
           "content_hash": "c827043fcfced17b",
@@ -1935,17 +2028,17 @@
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
-          "id": "d9105f390721ced8",
-          "title": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ1A3NFNQckdSdENoOWl6cDNWakNkaXppUklYeTJkbHlNVkY5LXg4dXlxWnBwNTNKbElpTEp5OGEwaFFzZURIMWtXZlZ0QjJnWjFaYjdEVjVmVTRlT05tVXowcTdNZVFqamRrVkI1OE1ydVg4X1ZhdF9uZHhRSTFhMW96bWN3eFVsTmYwVFRqQzJSLUlxbGhOcTB5ZDQ5Wk51SEF4a1dFR3FVVGJ5eTdSRTFLSHVta3JSR055UlRDMklKQi1yenIzZGp3QVp2OHhNUF9IOUFrV2I5UjlWZ1RXRExiUQ?oc=5",
-          "source": "Kalkine Media",
+          "id": "11c088ea1077c81c",
+          "title": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2MyZTJiamxYbldqV2NvZ2hFMHllVU1nRnhYZHc0YmdONDBCNkFjQWE2M2VRSUQ3WGFWY2dSM0VyUW5ORVBVLV9vLXQtd05ZSXROVE5tckhsV1ZObEJwUXpvRkFDUmdzc3c4dm5uaFRhUHQ4WTQwSnllZzVXY3BZTXBQRndHRDVzNGJ4QjJQdk50T0pfLTJTRFF0dDFTaVlvazRHSVFvdnhDemlRRWc?oc=5",
+          "source": "kalkine.ca",
           "section": "realestate",
           "subsection": "uk-debt",
           "geo": "uk",
-          "feedWeight": 7,
-          "published_at": "2026-08-17T11:00:00.000Z",
-          "snippet": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight Kalkine Media",
-          "score": 26,
+          "feedWeight": 8,
+          "published_at": "2026-08-17T09:50:00.000Z",
+          "snippet": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale kalkine.ca",
+          "score": 26.1,
           "flags": [
             {
               "id": "reit",
@@ -1954,31 +2047,32 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "b27ca60d09c1e133",
-          "cluster_id": "0cc1d3a197c3",
+          "content_hash": "5d9345f09c31d580",
+          "cluster_id": "ab232704085d",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "Kalkine Media",
-              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ1A3NFNQckdSdENoOWl6cDNWakNkaXppUklYeTJkbHlNVkY5LXg4dXlxWnBwNTNKbElpTEp5OGEwaFFzZURIMWtXZlZ0QjJnWjFaYjdEVjVmVTRlT05tVXowcTdNZVFqamRrVkI1OE1ydVg4X1ZhdF9uZHhRSTFhMW96bWN3eFVsTmYwVFRqQzJSLUlxbGhOcTB5ZDQ5Wk51SEF4a1dFR3FVVGJ5eTdSRTFLSHVta3JSR055UlRDMklKQi1yenIzZGp3QVp2OHhNUF9IOUFrV2I5UjlWZ1RXRExiUQ?oc=5"
+              "source": "kalkine.ca",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2MyZTJiamxYbldqV2NvZ2hFMHllVU1nRnhYZHc0YmdONDBCNkFjQWE2M2VRSUQ3WGFWY2dSM0VyUW5ORVBVLV9vLXQtd05ZSXROVE5tckhsV1ZObEJwUXpvRkFDUmdzc3c4dm5uaFRhUHQ4WTQwSnllZzVXY3BZTXBQRndHRDVzNGJ4QjJQdk50T0pfLTJTRFF0dDFTaVlvazRHSVFvdnhDemlRRWc?oc=5"
             }
           ],
-          "summary": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight Kalkine Media…",
-          "status": "NEW"
+          "summary": "GO Residential REIT Stock: A $2.8-Billion Sunbelt Deal Doubles Down on Scale kalkine.ca…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
-          "id": "ac5fd4b5d1f4c9f1",
-          "title": "Mizuho names the top 2 REITs worth owning in 2026",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHNfenZmZzg1TWdoX0VaVUIxX0FrRnNaZ2FxcnBERjEzWUVTRGNXaDV4VmQ1M1ptV2VhRWktZjBSeWFiZ1J0eWRobmY2Nk56dzZLalZiR2lGT2FJZmhZUHV3YnlvM05tT3FhZmtZNFJKdHZwWnJJYm95bW95aGMya0JpdVBNOHBYOEJHekJnVWUxZw?oc=5",
-          "source": "Invezz",
+          "id": "56f3568bcdd62e3a",
+          "title": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOW9TTzBCQnB6Q2c0VWhVYjFGbzBsZ1J0MjVWZ0FOazQtQTJnQjQzVW4ySDFNWFJKN01LWmxaM1JENngyM3otYm1aX25KRUlrNUhCQUR5VHc4NGNseWpTb3pFOUZSSEZsZC1GNzNld0ZQb010RlV6M0Nhdk5WSFM1STZLaTVYaHVQRXVhUHFrV21yRmFpVXYtUGl1NkdVYlhtUjlhWlU3UTU3SVRpNVdGQg?oc=5",
+          "source": "kalkine.ca",
           "section": "realestate",
-          "subsection": "sa-cre",
-          "geo": "sa",
-          "feedWeight": 6,
-          "published_at": "2026-08-17T13:28:43.000Z",
-          "snippet": "Mizuho names the top 2 REITs worth owning in 2026 Invezz",
-          "score": 26,
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-17T09:49:00.000Z",
+          "snippet": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs kalkine.ca",
+          "score": 26.1,
           "flags": [
             {
               "id": "reit",
@@ -1987,17 +2081,45 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "3b4cfc506c41a74d",
-          "cluster_id": "a2366a991a93",
+          "content_hash": "e220a67ab42d859f",
+          "cluster_id": "d172c9c78c83",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "Invezz",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHNfenZmZzg1TWdoX0VaVUIxX0FrRnNaZ2FxcnBERjEzWUVTRGNXaDV4VmQ1M1ptV2VhRWktZjBSeWFiZ1J0eWRobmY2Nk56dzZLalZiR2lGT2FJZmhZUHV3YnlvM05tT3FhZmtZNFJKdHZwWnJJYm95bW95aGMya0JpdVBNOHBYOEJHekJnVWUxZw?oc=5"
+              "source": "kalkine.ca",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOW9TTzBCQnB6Q2c0VWhVYjFGbzBsZ1J0MjVWZ0FOazQtQTJnQjQzVW4ySDFNWFJKN01LWmxaM1JENngyM3otYm1aX25KRUlrNUhCQUR5VHc4NGNseWpTb3pFOUZSSEZsZC1GNzNld0ZQb010RlV6M0Nhdk5WSFM1STZLaTVYaHVQRXVhUHFrV21yRmFpVXYtUGl1NkdVYlhtUjlhWlU3UTU3SVRpNVdGQg?oc=5"
             }
           ],
-          "summary": "Mizuho names the top 2 REITs worth owning in 2026 Invezz…",
+          "summary": "Crombie REIT Stock: Grocery-Anchored Stability Pushes Occupancy to New Highs kalkine.ca…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T11:19:16.042Z"
+        },
+        {
+          "id": "e6f5031ae5415851",
+          "title": "News | Oregon accounting firm signs sublease at Lake Oswego office building",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmFwTW9YbXN4MkVXMVpsbXNXeTZpNjdSdGFTdHNjUUtFVkNVVVlmMHhsY1lmZGJ5b3Q2R3R2SVhpcjE4LVEwSWt0cW9mclNFX09KbklYUnJldGJ3SjZNVTF4cVZGRTRJbmhVWE5XZ3UtR2h1c1FuYkkxUy1rT055a2dOR2g3dl8weEpiV1BwVmxHdVctMUs2MFpPM0pPZkxQUUxRVnlLSVpjSHVJdk4w?oc=5",
+          "source": "CoStar",
+          "section": "realestate",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T18:26:38.000Z",
+          "snippet": "News | Oregon accounting firm signs sublease at Lake Oswego office building CoStar",
+          "score": 26,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "cc9f21fdba4f8478",
+          "cluster_id": "5fc1abaa28e2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "CoStar",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmFwTW9YbXN4MkVXMVpsbXNXeTZpNjdSdGFTdHNjUUtFVkNVVVlmMHhsY1lmZGJ5b3Q2R3R2SVhpcjE4LVEwSWt0cW9mclNFX09KbklYUnJldGJ3SjZNVTF4cVZGRTRJbmhVWE5XZ3UtR2h1c1FuYkkxUy1rT055a2dOR2g3dl8weEpiV1BwVmxHdVctMUs2MFpPM0pPZkxQUUxRVnlLSVpjSHVJdk4w?oc=5"
+            }
+          ],
+          "summary": "News | Oregon accounting firm signs sublease at Lake Oswego office building CoStar…",
           "status": "NEW"
         },
         {
@@ -2035,6 +2157,40 @@
           "first_seen": "2026-08-15T05:31:19.020Z"
         },
         {
+          "id": "d9105f390721ced8",
+          "title": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ1A3NFNQckdSdENoOWl6cDNWakNkaXppUklYeTJkbHlNVkY5LXg4dXlxWnBwNTNKbElpTEp5OGEwaFFzZURIMWtXZlZ0QjJnWjFaYjdEVjVmVTRlT05tVXowcTdNZVFqamRrVkI1OE1ydVg4X1ZhdF9uZHhRSTFhMW96bWN3eFVsTmYwVFRqQzJSLUlxbGhOcTB5ZDQ5Wk51SEF4a1dFR3FVVGJ5eTdSRTFLSHVta3JSR055UlRDMklKQi1yenIzZGp3QVp2OHhNUF9IOUFrV2I5UjlWZ1RXRExiUQ?oc=5",
+          "source": "Kalkine Media",
+          "section": "realestate",
+          "subsection": "uk-debt",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T11:00:00.000Z",
+          "snippet": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight Kalkine Media",
+          "score": 25.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "b27ca60d09c1e133",
+          "cluster_id": "0cc1d3a197c3",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Kalkine Media",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ1A3NFNQckdSdENoOWl6cDNWakNkaXppUklYeTJkbHlNVkY5LXg4dXlxWnBwNTNKbElpTEp5OGEwaFFzZURIMWtXZlZ0QjJnWjFaYjdEVjVmVTRlT05tVXowcTdNZVFqamRrVkI1OE1ydVg4X1ZhdF9uZHhRSTFhMW96bWN3eFVsTmYwVFRqQzJSLUlxbGhOcTB5ZDQ5Wk51SEF4a1dFR3FVVGJ5eTdSRTFLSHVta3JSR055UlRDMklKQi1yenIzZGp3QVp2OHhNUF9IOUFrV2I5UjlWZ1RXRExiUQ?oc=5"
+            }
+          ],
+          "summary": "SEGRO (LSE:SGRO) Puts Infra and Real Estate Stocks Under An Earnings-Quality Spotlight Kalkine Media…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
           "id": "55c52d87a8e3c55e",
           "title": "Finance Tower trial concludes after battle about lender influence over valuation",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUxlQ211YXBTaHJGaV9tamFaUktIdW0zZnVuT29fNFhsTTExMVd0cnh0UmROVy1DSHpnX3BaQXFlbGpyblZ0emxvN2MzSld1QmthM1VOSFk0WDhxTG1lYzRRaVUyeHZmc1FaeXlnODUyTVd5SW9BYWhiQ2tBMjZMelRURFBqUHFtWjhVNjBtTVRNaVNGTGNwWk5FSTVsQUtmQ3IySUc4dXE2eklFVTBiQWJ1S0Z1VVZic01QcW1vYTllS28x?oc=5",
@@ -2043,9 +2199,9 @@
           "subsection": "uk-debt",
           "geo": "uk",
           "feedWeight": 8,
-          "published_at": "2026-08-17T13:00:26.000Z",
+          "published_at": "2026-08-17T13:26:11.000Z",
           "snippet": "Finance Tower trial concludes after battle about lender influence over valuation pei-privaterealestate.com",
-          "score": 25.8,
+          "score": 25.5,
           "flags": [],
           "tone": "neutral",
           "content_hash": "c4b51cee6acb1981",
@@ -2059,7 +2215,42 @@
             }
           ],
           "summary": "Finance Tower trial concludes after battle about lender influence over valuation pei-privaterealestate.com…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
+          "id": "ac5fd4b5d1f4c9f1",
+          "title": "Mizuho names the top 2 REITs worth owning in 2026",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHNfenZmZzg1TWdoX0VaVUIxX0FrRnNaZ2FxcnBERjEzWUVTRGNXaDV4VmQ1M1ptV2VhRWktZjBSeWFiZ1J0eWRobmY2Nk56dzZLalZiR2lGT2FJZmhZUHV3YnlvM05tT3FhZmtZNFJKdHZwWnJJYm95bW95aGMya0JpdVBNOHBYOEJHekJnVWUxZw?oc=5",
+          "source": "Invezz",
+          "section": "realestate",
+          "subsection": "sa-cre",
+          "geo": "sa",
+          "feedWeight": 6,
+          "published_at": "2026-08-17T13:28:43.000Z",
+          "snippet": "Mizuho names the top 2 REITs worth owning in 2026 Invezz",
+          "score": 25.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "3b4cfc506c41a74d",
+          "cluster_id": "a2366a991a93",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Invezz",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHNfenZmZzg1TWdoX0VaVUIxX0FrRnNaZ2FxcnBERjEzWUVTRGNXaDV4VmQ1M1ptV2VhRWktZjBSeWFiZ1J0eWRobmY2Nk56dzZLalZiR2lGT2FJZmhZUHV3YnlvM05tT3FhZmtZNFJKdHZwWnJJYm95bW95aGMya0JpdVBNOHBYOEJHekJnVWUxZw?oc=5"
+            }
+          ],
+          "summary": "Mizuho names the top 2 REITs worth owning in 2026 Invezz…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "7124db051c35a996",
@@ -2072,7 +2263,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T10:14:35.000Z",
           "snippet": "Dimensional Fund Advisors Ltd. : Form 8.3 - SEGRO PLC - Ordinary Shares The Manila Times",
-          "score": 25.7,
+          "score": 25.3,
           "flags": [
             {
               "id": "reit",
@@ -2099,14 +2290,14 @@
           "id": "f10162d9f8e7755d",
           "title": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlhrX0FEWGxaZ2pJMUNacTZrTDJHa3RPelFSUjJ1TUdwd19MQTk2NWIyR1BFcHJJaGhxSGlGWjJWSDdCY2h3MnBoWDZ1WHR0Rlo4LUNqMFdmSGQ3Skd6Q1hpeDdxTVFiM0JkU2FzaHpPRUg1ZDhZWTF5UGtJcTE0Y2VpcXJ0MGhaSXZHa3N2Ynh3TmJkTDZ5TkQtRVNhYXBGYnJ4bkU3NGVWbXlNREF0SzdzbElWRGljaktyNlo5WlA2VXJBdDlsZUZINGhfOWFXMmF3?oc=5",
-          "source": "kalkine.com.au",
+          "source": "Kalkine",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T02:51:00.000Z",
-          "snippet": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient kalkine.com.au",
-          "score": 25.5,
+          "snippet": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient Kalkine",
+          "score": 25.2,
           "flags": [
             {
               "id": "reit",
@@ -2115,17 +2306,17 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "d450a9f6bc043f95",
+          "content_hash": "9611939659ec1ef2",
           "cluster_id": "9267d5cf6879",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "kalkine.com.au",
+              "source": "Kalkine",
               "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlhrX0FEWGxaZ2pJMUNacTZrTDJHa3RPelFSUjJ1TUdwd19MQTk2NWIyR1BFcHJJaGhxSGlGWjJWSDdCY2h3MnBoWDZ1WHR0Rlo4LUNqMFdmSGQ3Skd6Q1hpeDdxTVFiM0JkU2FzaHpPRUg1ZDhZWTF5UGtJcTE0Y2VpcXJ0MGhaSXZHa3N2Ynh3TmJkTDZ5TkQtRVNhYXBGYnJ4bkU3NGVWbXlNREF0SzdzbElWRGljaktyNlo5WlA2VXJBdDlsZUZINGhfOWFXMmF3?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient kalkine.com.au…",
+          "summary": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient Kalkine…",
           "status": "UPDATED",
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
@@ -2140,7 +2331,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T06:26:06.000Z",
           "snippet": "Record rents for London offices as supply is squeezed This is Money",
-          "score": 25.4,
+          "score": 25.1,
           "flags": [],
           "tone": "neutral",
           "content_hash": "fbfb9ab2fe41d696",
@@ -2161,14 +2352,14 @@
           "id": "bba0e608888c4640",
           "title": "ASH Wants to Redefine What Egyptian Menswear Can Look Like",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUk9Bc08xNzU1aXpHdmtRVW1zZWRCZUJBbS1nX29GMkZMUHBzTVFkT2kzS28yc2thTTBHZlFwSndwdnRZTHdpS3dzaWVwUmxGV2ZhZXFYN3c1b3k3VkZCMk9zUkNFaXQtOWN5aktWTXl2SjZLcW9rVjZiV3QzRkxSaFRNQTc1LUdkYWhHX0NKVERpZw?oc=5",
-          "source": "cairoscene.com",
+          "source": "CairoScene",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T02:35:47.000Z",
-          "snippet": "ASH Wants to Redefine What Egyptian Menswear Can Look Like cairoscene.com",
-          "score": 25.4,
+          "snippet": "ASH Wants to Redefine What Egyptian Menswear Can Look Like CairoScene",
+          "score": 25.1,
           "flags": [
             {
               "id": "reit",
@@ -2177,17 +2368,17 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "1e353fa628f32659",
+          "content_hash": "9327d3805fcf2f9d",
           "cluster_id": "5ad94a3735ec",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "cairoscene.com",
+              "source": "CairoScene",
               "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUk9Bc08xNzU1aXpHdmtRVW1zZWRCZUJBbS1nX29GMkZMUHBzTVFkT2kzS28yc2thTTBHZlFwSndwdnRZTHdpS3dzaWVwUmxGV2ZhZXFYN3c1b3k3VkZCMk9zUkNFaXQtOWN5aktWTXl2SjZLcW9rVjZiV3QzRkxSaFRNQTc1LUdkYWhHX0NKVERpZw?oc=5"
             }
           ],
-          "summary": "ASH Wants to Redefine What Egyptian Menswear Can Look Like cairoscene.com…",
+          "summary": "ASH Wants to Redefine What Egyptian Menswear Can Look Like CairoScene…",
           "status": "UPDATED",
           "first_seen": "2026-08-11T05:57:33.207Z"
         },
@@ -2202,7 +2393,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T02:02:00.000Z",
           "snippet": "Growthpoint FY26 slides: record leasing lifts FFO to guidance peak By Investing.com Investing.com UK",
-          "score": 25.3,
+          "score": 25,
           "flags": [
             {
               "id": "reit",
@@ -2236,7 +2427,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T02:09:37.000Z",
           "snippet": "Growthpoint FY26 slides: occupancy hits 96% on record leasing Investing.com",
-          "score": 25.3,
+          "score": 25,
           "flags": [
             {
               "id": "reit",
@@ -2263,14 +2454,14 @@
           "id": "f8e8fa5a74092904",
           "title": "Growthpoint Properties Australia Reports FY26 FFO of 23.5 cps, Guides 22.6–23.5 cps for FY27",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1V6VC15b1k4dG9fZmpPdTQtNnpJYW9UMXFNZ2FTWWctbzRuUzh2Q20wYXZwYjJQNE5nV3UtOTVpVXFuVjhHSW12MFZ2c2d2alpoS00tSHo3aHIwTnNxMDg1SVhLZ0l3NjUtOTJPdzl5NnYwUjNUb2FDUHZ1RlBFdVNIczRsYkNQOFBQMHBGdWlidlNkZ2xoWEczLTV5WW5iNENKbjQ2ZGJsNGllUVZzZ01pckdRR19ORTV4eUNPSjJUUGY4VXYzTA?oc=5",
-          "source": "kalkine.com.au",
+          "source": "Kalkine",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T01:36:46.000Z",
-          "snippet": "Growthpoint Properties Australia Reports FY26 FFO of 23.5 cps, Guides 22.6–23.5 cps for FY27 kalkine.com.au",
-          "score": 25.2,
+          "snippet": "Growthpoint Properties Australia Reports FY26 FFO of 23.5 cps, Guides 22.6–23.5 cps for FY27 Kalkine",
+          "score": 24.9,
           "flags": [
             {
               "id": "reit",
@@ -2279,17 +2470,17 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "a102e617f0844c7c",
+          "content_hash": "55edb8ed7e432eee",
           "cluster_id": "48631b957302",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "kalkine.com.au",
+              "source": "Kalkine",
               "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1V6VC15b1k4dG9fZmpPdTQtNnpJYW9UMXFNZ2FTWWctbzRuUzh2Q20wYXZwYjJQNE5nV3UtOTVpVXFuVjhHSW12MFZ2c2d2alpoS00tSHo3aHIwTnNxMDg1SVhLZ0l3NjUtOTJPdzl5NnYwUjNUb2FDUHZ1RlBFdVNIczRsYkNQOFBQMHBGdWlidlNkZ2xoWEczLTV5WW5iNENKbjQ2ZGJsNGllUVZzZ01pckdRR19ORTV4eUNPSjJUUGY4VXYzTA?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia Reports FY26 FFO of 23.5 cps, Guides 22.6–23.5 cps for FY27 kalkine.com.au…",
+          "summary": "Growthpoint Properties Australia Reports FY26 FFO of 23.5 cps, Guides 22.6–23.5 cps for FY27 Kalkine…",
           "status": "UPDATED",
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
@@ -2297,14 +2488,14 @@
           "id": "50fd879cabd2dc77",
           "title": "Growthpoint Properties Australia Lodges Appendix 4G Corporate Governance Key for FY2026",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmNzWWNaZkc5ZHVvZ3JVOEprRWptOW5mdFJldDBTNnFEMmtnalBid2tHc3lVSks3V2wzbUgzSjFEakx2NlBYNmZrdkFLMDUtNUd1WjI1ZnI2aEN4MWNZdjB3bTZLZkp2TmU5b1FNVEMxQTBBVWg4NmVmT0VWc0Jud2kxVzFTclBMTC13c0QzNFlFb0xWekJITDlPWXF6OGxOdTdaYXpENEMwX20zWUtFdkhFandpT29iRHg3S3RFNHBOODJBaHFhbg?oc=5",
-          "source": "kalkine.com.au",
+          "source": "Kalkine",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T01:36:46.000Z",
-          "snippet": "Growthpoint Properties Australia Lodges Appendix 4G Corporate Governance Key for FY2026 kalkine.com.au",
-          "score": 25.2,
+          "snippet": "Growthpoint Properties Australia Lodges Appendix 4G Corporate Governance Key for FY2026 Kalkine",
+          "score": 24.9,
           "flags": [
             {
               "id": "reit",
@@ -2313,17 +2504,17 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "90bf11488a5a89c7",
+          "content_hash": "8f079b7b6d34f0da",
           "cluster_id": "b55c5c9bca5e",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "kalkine.com.au",
+              "source": "Kalkine",
               "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmNzWWNaZkc5ZHVvZ3JVOEprRWptOW5mdFJldDBTNnFEMmtnalBid2tHc3lVSks3V2wzbUgzSjFEakx2NlBYNmZrdkFLMDUtNUd1WjI1ZnI2aEN4MWNZdjB3bTZLZkp2TmU5b1FNVEMxQTBBVWg4NmVmT0VWc0Jud2kxVzFTclBMTC13c0QzNFlFb0xWekJITDlPWXF6OGxOdTdaYXpENEMwX20zWUtFdkhFandpT29iRHg3S3RFNHBOODJBaHFhbg?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia Lodges Appendix 4G Corporate Governance Key for FY2026 kalkine.com.au…",
+          "summary": "Growthpoint Properties Australia Lodges Appendix 4G Corporate Governance Key for FY2026 Kalkine…",
           "status": "UPDATED",
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
@@ -2338,7 +2529,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T08:22:11.000Z",
           "snippet": "News | Oval completes £90.75 million Mayfair office acquisition CoStar",
-          "score": 25,
+          "score": 24.7,
           "flags": [],
           "tone": "neutral",
           "content_hash": "d88d655b3251d4a3",
@@ -2362,44 +2553,17 @@
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
-          "id": "7020dbdf7aebc235",
-          "title": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGppdmhiWkp4YWFHNzNpeE9WdDZadU8xZGU5aWtCckNOaHJuQ0hGeDkySnJoQUpYUzFfaXdPOG0zZGY1aVdHYzNQN3ZETlJhWGEweWQ5NmlaSEttMmZwQUh4ODMxcUpFMllsb3A4TU5FU0VZdUFVZ0tQRE1yVEItYlFnSEtROFRueURNMFFtUXdJOWtfWFh4bFl0WkRPaWhiV0loUWVReW5YSE5DLWRHNzRpblROWjhramZnek56cDVrNmN1NWZjRzdQcndwMXJlclVCOFNiTE8?oc=5",
-          "source": "CoStar",
-          "section": "realestate",
-          "subsection": "uk-transactions",
-          "geo": "uk",
-          "feedWeight": 7,
-          "published_at": "2026-08-17T15:20:27.000Z",
-          "snippet": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026 CoStar",
-          "score": 25,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "b7e7733a1bf013af",
-          "cluster_id": "27c6ad89d065",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "CoStar",
-              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGppdmhiWkp4YWFHNzNpeE9WdDZadU8xZGU5aWtCckNOaHJuQ0hGeDkySnJoQUpYUzFfaXdPOG0zZGY1aVdHYzNQN3ZETlJhWGEweWQ5NmlaSEttMmZwQUh4ODMxcUpFMllsb3A4TU5FU0VZdUFVZ0tQRE1yVEItYlFnSEtROFRueURNMFFtUXdJOWtfWFh4bFl0WkRPaWhiV0loUWVReW5YSE5DLWRHNzRpblROWjhramZnek56cDVrNmN1NWZjRzdQcndwMXJlclVCOFNiTE8?oc=5"
-            }
-          ],
-          "summary": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026 CoStar…",
-          "status": "NEW"
-        },
-        {
           "id": "afc9e34eda3be1ad",
           "title": "Growthpoint Properties Australia Says It Expects FY27 FFO Guidance Of 22.6-23.5 AU Cents Per Share",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa1F5NmJ0TEh1TThWLWR2eElpaVF4dTg1X2swZHJ1TFYwUm5ER0I5STVNX1lRMjlIOThkTmszbzlVNVpaVzF2OWVGQzJ4dGZPRnEzZDI0ZjVWdTk5Zi1HcHJybTRzVFh1REs5Q0NYWEFQSUxxbGMybThiOE9uLWoyanZ5RXRFNk9zM1ZfcTJXNUIweFg1THc4eTBDVVJLd0lwRHN1czBtV21XTmZ4T0szS0lId21PbTFHejkwWDRNNXRoM19ROVByYjByM2xPYlV2VEVFZWlYRnQtYlV2Ui1CWUdQNUZxRjB6Um1ndm1PSVplUDFkVndLbWJuVVA?oc=5",
-          "source": "TradingView",
+          "source": "tradingview.com",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T00:52:00.000Z",
-          "snippet": "Growthpoint Properties Australia Says It Expects FY27 FFO Guidance Of 22.6-23.5 AU Cents Per Share TradingView",
-          "score": 25,
+          "snippet": "Growthpoint Properties Australia Says It Expects FY27 FFO Guidance Of 22.6-23.5 AU Cents Per Share tradingview.com",
+          "score": 24.7,
           "flags": [
             {
               "id": "reit",
@@ -2408,18 +2572,18 @@
             }
           ],
           "tone": "positive",
-          "content_hash": "7e19215762ab2062",
+          "content_hash": "7e070357f4cf2fa9",
           "cluster_id": "b8faa269d5e3",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "TradingView",
+              "source": "tradingview.com",
               "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa1F5NmJ0TEh1TThWLWR2eElpaVF4dTg1X2swZHJ1TFYwUm5ER0I5STVNX1lRMjlIOThkTmszbzlVNVpaVzF2OWVGQzJ4dGZPRnEzZDI0ZjVWdTk5Zi1HcHJybTRzVFh1REs5Q0NYWEFQSUxxbGMybThiOE9uLWoyanZ5RXRFNk9zM1ZfcTJXNUIweFg1THc4eTBDVVJLd0lwRHN1czBtV21XTmZ4T0szS0lId21PbTFHejkwWDRNNXRoM19ROVByYjByM2xPYlV2VEVFZWlYRnQtYlV2Ui1CWUdQNUZxRjB6Um1ndm1PSVplUDFkVndLbWJuVVA?oc=5"
             }
           ],
-          "summary": "Growthpoint Properties Australia Says It Expects FY27 FFO Guidance Of 22.6-23.5 AU Cents Per Share TradingView…",
-          "status": "ONGOING",
+          "summary": "Growthpoint Properties Australia Says It Expects FY27 FFO Guidance Of 22.6-23.5 AU Cents Per Share tradingview.com…",
+          "status": "UPDATED",
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
@@ -2433,7 +2597,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T23:46:18.000Z",
           "snippet": "Growthpoint Properties Australia Fiscal 2026 Funds From Operations, Property Revenue Up marketscreener.com",
-          "score": 24.8,
+          "score": 24.5,
           "flags": [
             {
               "id": "reit",
@@ -2467,7 +2631,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T23:14:00.000Z",
           "snippet": "Growthpoint Properties swings to full-year profit of $90.1m Capital Brief",
-          "score": 24.6,
+          "score": 24.4,
           "flags": [
             {
               "id": "reit",
@@ -2501,7 +2665,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T03:30:46.000Z",
           "snippet": "India’s data fortress is a maze of conflicts LinkedIn",
-          "score": 24.6,
+          "score": 24.3,
           "flags": [
             {
               "id": "reit",
@@ -2531,17 +2695,51 @@
           "first_seen": "2026-08-17T05:40:21.753Z"
         },
         {
-          "id": "896fe4620a5ea7ca",
-          "title": "A colossal drama and flag-raising at Surosowan Fortress",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2xQNkxJVm1CQ25VQ0xHRmxJYll3UGdsTFNMejczY3JQVWs1SFJLamFGXzVUclFyeUNqTENGLWZEYWw0bzFLbFNGX01zZm05dktKN2J0dFZ0S1JfZDhsMXMxQmZSekg1YjZhWi0yN29IMTZKVWZ1SXVha3N5MmFaVjlkNnFUblh0UTFiNUU4QjVaLUpLRF9QZ1pjRdIBoAFBVV95cUxPVVlxQjhSNnJNLTVSRUp0TV8wSU9yNk5jZnpGSTZhTzZadVZ5Y0hpdldFZHlmdTJnWXVhQlZSV3l4Y1hKU0Z0Q0x5R3lkUjJBSmlBOFJhdGdJNEs0Q1RXQUtnU18wbi1oTThZaGwwY3pVOU9aOVFZYjhpV3hTbDBtVE96cEZCRGtoRjRYSk4tSzZhbVRha2o3elB3VWo5TmU4?oc=5",
-          "source": "antarafoto.com",
+          "id": "3ca7f86941430c70",
+          "title": "NIKE: Redefine Your Impossible (2019)",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUEJGZHR2aVg1MkZ1MC0xT19ZTEFCZU1LSGZJYUdURUJ2ZlZKNkxJSVgxY1lYZ0JCa0RaNHY4dUZUU24yZ25ka1VFaWxmSVBLTDdLQ0tZcmhPUE5KTlVIUm1qREdZVzlicVhzVFJLdE8?oc=5",
+          "source": "IMDb",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-16T22:23:49.000Z",
+          "snippet": "NIKE: Redefine Your Impossible (2019) IMDb",
+          "score": 24.3,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "950f14b46a5f2108",
+          "cluster_id": "9e1aab403b44",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "IMDb",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUEJGZHR2aVg1MkZ1MC0xT19ZTEFCZU1LSGZJYUdURUJ2ZlZKNkxJSVgxY1lYZ0JCa0RaNHY4dUZUU24yZ25ka1VFaWxmSVBLTDdLQ0tZcmhPUE5KTlVIUm1qREdZVzlicVhzVFJLdE8?oc=5"
+            }
+          ],
+          "summary": "NIKE: Redefine Your Impossible (2019) IMDb…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T11:19:16.042Z"
+        },
+        {
+          "id": "4bd1d854c509b783",
+          "title": "Colossal drama and flag raising at Surosowan Fortress",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUi1hWDNEbnhPVWR4T3RxOWJrb3hTbW9nYUUtdkEzOVdtOE5SVU1HMk5VNldZNXV1eUxTYURtMXNhYTAzTWtoM0EwaEdMa25BUW1GVmlESjhDSWZSTGhWODhXUng5S2xvRjlvSFI5ZjJrT21CUmJ5aTBSX1FrUG9HSGVHZDJ4cWVvYnY4RkxjMTNaaTNJazZwWtIBngFBVV95cUxPa25TcTJaWmhpSko5Q296MktvSUVyTWdvRU81SW0zamE3cEs1bVAwSDY4djNlcExkUXN1N0E4ajEzMjJyZm11V1ltZkZYU1lYaV9UTE5XWi1KX1c2dUFIUkc5S2U3TVNJUjlaQ1B3MnRQUGs2cWVwNzVoYjBmRUhUUXdqLU9ManhfZS1uVmJVVnF6Q0hSWkcwNTJkbmZLUQ?oc=5",
+          "source": "ANTARA Foto",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
           "published_at": "2026-08-17T01:40:00.000Z",
-          "snippet": "A colossal drama and flag-raising at Surosowan Fortress antarafoto.com",
-          "score": 24.2,
+          "snippet": "Colossal drama and flag raising at Surosowan Fortress ANTARA Foto",
+          "score": 23.9,
           "flags": [
             {
               "id": "reit",
@@ -2550,19 +2748,25 @@
             }
           ],
           "tone": "negative",
-          "content_hash": "afb55fadd8a27873",
-          "cluster_id": "4fbe2b605f04",
-          "duplicate_count": 1,
-          "also_in": [],
+          "content_hash": "df8cec69d1eba7b5",
+          "cluster_id": "c4c7dc9f4866",
+          "duplicate_count": 2,
+          "also_in": [
+            "ANTARA Foto"
+          ],
           "all_links": [
             {
-              "source": "antarafoto.com",
+              "source": "ANTARA Foto",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUi1hWDNEbnhPVWR4T3RxOWJrb3hTbW9nYUUtdkEzOVdtOE5SVU1HMk5VNldZNXV1eUxTYURtMXNhYTAzTWtoM0EwaEdMa25BUW1GVmlESjhDSWZSTGhWODhXUng5S2xvRjlvSFI5ZjJrT21CUmJ5aTBSX1FrUG9HSGVHZDJ4cWVvYnY4RkxjMTNaaTNJazZwWtIBngFBVV95cUxPa25TcTJaWmhpSko5Q296MktvSUVyTWdvRU81SW0zamE3cEs1bVAwSDY4djNlcExkUXN1N0E4ajEzMjJyZm11V1ltZkZYU1lYaV9UTE5XWi1KX1c2dUFIUkc5S2U3TVNJUjlaQ1B3MnRQUGs2cWVwNzVoYjBmRUhUUXdqLU9ManhfZS1uVmJVVnF6Q0hSWkcwNTJkbmZLUQ?oc=5"
+            },
+            {
+              "source": "ANTARA Foto",
               "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2xQNkxJVm1CQ25VQ0xHRmxJYll3UGdsTFNMejczY3JQVWs1SFJLamFGXzVUclFyeUNqTENGLWZEYWw0bzFLbFNGX01zZm05dktKN2J0dFZ0S1JfZDhsMXMxQmZSekg1YjZhWi0yN29IMTZKVWZ1SXVha3N5MmFaVjlkNnFUblh0UTFiNUU4QjVaLUpLRF9QZ1pjRdIBoAFBVV95cUxPVVlxQjhSNnJNLTVSRUp0TV8wSU9yNk5jZnpGSTZhTzZadVZ5Y0hpdldFZHlmdTJnWXVhQlZSV3l4Y1hKU0Z0Q0x5R3lkUjJBSmlBOFJhdGdJNEs0Q1RXQUtnU18wbi1oTThZaGwwY3pVOU9aOVFZYjhpV3hTbDBtVE96cEZCRGtoRjRYSk4tSzZhbVRha2o3elB3VWo5TmU4?oc=5"
             }
           ],
-          "summary": "A colossal drama and flag-raising at Surosowan Fortress antarafoto.com…",
-          "status": "UPDATED",
-          "first_seen": "2026-08-17T07:08:56.261Z"
+          "summary": "Colossal drama and flag raising at Surosowan Fortress ANTARA Foto…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
           "id": "36a4d0170b64a4eb",
@@ -2575,7 +2779,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T19:02:57.000Z",
           "snippet": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap Forbes",
-          "score": 23.9,
+          "score": 23.7,
           "flags": [
             {
               "id": "reit",
@@ -2599,6 +2803,40 @@
           "first_seen": "2026-08-16T23:17:08.242Z"
         },
         {
+          "id": "c22008dd8e77992f",
+          "title": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMU1JSzdDc1VvZ0NRR3pGdW12VmxrVXRua000d2ZVNXhWTEo3S3RHR1FITXhKOVk2SlVHSTRwNThBb0QtY2hBakgzZ3NmTmZSc240WV9kUTNneXB5MUVCaEFXWmZCS1dXYnhxZmJUa3M1TjJYT1FQdl9oUmlvaTkyMHd1M1BsT1czRGx4ZzdsXzM4Y2dXRVJnY1NQNlotZGxHMGtyMzhjZVZ0YTNZV0V0NnIxd3phRHFTQkxMaldvd1hWQ3FfZVo2LTc0NXpaZWxueEpvaQ?oc=5",
+          "source": "Daily Maverick",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-16T17:58:27.000Z",
+          "snippet": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine Daily Maverick",
+          "score": 23.5,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "5858463ddb0f08f5",
+          "cluster_id": "535e735c120c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Daily Maverick",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMU1JSzdDc1VvZ0NRR3pGdW12VmxrVXRua000d2ZVNXhWTEo3S3RHR1FITXhKOVk2SlVHSTRwNThBb0QtY2hBakgzZ3NmTmZSc240WV9kUTNneXB5MUVCaEFXWmZCS1dXYnhxZmJUa3M1TjJYT1FQdl9oUmlvaTkyMHd1M1BsT1czRGx4ZzdsXzM4Y2dXRVJnY1NQNlotZGxHMGtyMzhjZVZ0YTNZV0V0NnIxd3phRHFTQkxMaldvd1hWQ3FfZVo2LTc0NXpaZWxueEpvaQ?oc=5"
+            }
+          ],
+          "summary": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine Daily Maverick…",
+          "status": "UPDATED",
+          "first_seen": "2026-08-17T17:24:56.021Z"
+        },
+        {
           "id": "f803ab71c35419ad",
           "title": "£55m deal to take Time Finance private after 20 years",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUR4aXg5RDY0MTJBV1Y4bDBqRnpFQ2pxNWJqcUd5X1hPTWF6Rlg5Yk8tUlU1VWR1WVFyNGQza0ZEaVpXbjE2MkpRVjdHX1J1b3kwal9oc0UycUhHZ010V0xLTk9NbTdLQ0JhRy1tTEJGQ0tGUFBFSlZyU1o1VGhNMHlXc2VyQnVCMFg0SndHaw?oc=5",
@@ -2609,7 +2847,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-17T07:32:31.000Z",
           "snippet": "£55m deal to take Time Finance private after 20 years businesscloud.co.uk",
-          "score": 23.8,
+          "score": 23.4,
           "flags": [
             {
               "id": "big-deal",
@@ -2643,7 +2881,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-17T10:10:34.000Z",
           "snippet": "Harworth secures automotive industry pre-let for Staffordshire development Property Week",
-          "score": 23.7,
+          "score": 23.3,
           "flags": [],
           "tone": "neutral",
           "content_hash": "62d86e4f89ed7b70",
@@ -2657,41 +2895,36 @@
             }
           ],
           "summary": "Harworth secures automotive industry pre-let for Staffordshire development Property Week…",
-          "status": "UPDATED",
+          "status": "ONGOING",
           "first_seen": "2026-08-17T11:19:16.042Z"
         },
         {
-          "id": "c22008dd8e77992f",
-          "title": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMU1JSzdDc1VvZ0NRR3pGdW12VmxrVXRua000d2ZVNXhWTEo3S3RHR1FITXhKOVk2SlVHSTRwNThBb0QtY2hBakgzZ3NmTmZSc240WV9kUTNneXB5MUVCaEFXWmZCS1dXYnhxZmJUa3M1TjJYT1FQdl9oUmlvaTkyMHd1M1BsT1czRGx4ZzdsXzM4Y2dXRVJnY1NQNlotZGxHMGtyMzhjZVZ0YTNZV0V0NnIxd3phRHFTQkxMaldvd1hWQ3FfZVo2LTc0NXpaZWxueEpvaQ?oc=5",
-          "source": "dailymaverick.co.za",
+          "id": "7020dbdf7aebc235",
+          "title": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGppdmhiWkp4YWFHNzNpeE9WdDZadU8xZGU5aWtCckNOaHJuQ0hGeDkySnJoQUpYUzFfaXdPOG0zZGY1aVdHYzNQN3ZETlJhWGEweWQ5NmlaSEttMmZwQUh4ODMxcUpFMllsb3A4TU5FU0VZdUFVZ0tQRE1yVEItYlFnSEtROFRueURNMFFtUXdJOWtfWFh4bFl0WkRPaWhiV0loUWVReW5YSE5DLWRHNzRpblROWjhramZnek56cDVrNmN1NWZjRzdQcndwMXJlclVCOFNiTE8?oc=5",
+          "source": "CoStar",
           "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T17:58:27.000Z",
-          "snippet": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine dailymaverick.co.za",
-          "score": 23.7,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "787d4b3745d0ee6b",
-          "cluster_id": "535e735c120c",
+          "subsection": "uk-transactions",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-17T15:20:27.000Z",
+          "snippet": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026 CoStar",
+          "score": 23.3,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "b7e7733a1bf013af",
+          "cluster_id": "27c6ad89d065",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "dailymaverick.co.za",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMU1JSzdDc1VvZ0NRR3pGdW12VmxrVXRua000d2ZVNXhWTEo3S3RHR1FITXhKOVk2SlVHSTRwNThBb0QtY2hBakgzZ3NmTmZSc240WV9kUTNneXB5MUVCaEFXWmZCS1dXYnhxZmJUa3M1TjJYT1FQdl9oUmlvaTkyMHd1M1BsT1czRGx4ZzdsXzM4Y2dXRVJnY1NQNlotZGxHMGtyMzhjZVZ0YTNZV0V0NnIxd3phRHFTQkxMaldvd1hWQ3FfZVo2LTc0NXpaZWxueEpvaQ?oc=5"
+              "source": "CoStar",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGppdmhiWkp4YWFHNzNpeE9WdDZadU8xZGU5aWtCckNOaHJuQ0hGeDkySnJoQUpYUzFfaXdPOG0zZGY1aVdHYzNQN3ZETlJhWGEweWQ5NmlaSEttMmZwQUh4ODMxcUpFMllsb3A4TU5FU0VZdUFVZ0tQRE1yVEItYlFnSEtROFRueURNMFFtUXdJOWtfWFh4bFl0WkRPaWhiV0loUWVReW5YSE5DLWRHNzRpblROWjhramZnek56cDVrNmN1NWZjRzdQcndwMXJlclVCOFNiTE8?oc=5"
             }
           ],
-          "summary": "Resilient posts double-digit growth, and Nepi Rockcastle heads for the Spanish sunshine dailymaverick.co.za…",
-          "status": "NEW"
+          "summary": "News | San Francisco office investment momentum cooled in second quarter after a blockbuster start to 2026 CoStar…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "ba7bdb74ef41dae1",
@@ -2704,7 +2937,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T22:52:16.000Z",
           "snippet": "Rhythm Fortress - Bonk Remix YouTube",
-          "score": 23.6,
+          "score": 23.3,
           "flags": [
             {
               "id": "reit",
@@ -2752,7 +2985,8 @@
             }
           ],
           "summary": "Bisnow's Space Coast State of the Market to Spotlight the Development, Infrastructure and Investment Driving Florida's Fastest-Evolving Growth Corridor - Biswire Bisnow…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-17T17:24:56.021Z"
         },
         {
           "id": "ccf6d2ac86b900fc",
@@ -2765,7 +2999,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T11:33:32.000Z",
           "snippet": "Black People Defined Woke. Others Want to Redefine It LEVEL Man",
-          "score": 22.9,
+          "score": 22.8,
           "flags": [
             {
               "id": "reit",
@@ -2799,7 +3033,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T11:15:16.000Z",
           "snippet": "How modern GSSA redefine airline revenue strategy The STAT Trade Times",
-          "score": 22.9,
+          "score": 22.8,
           "flags": [
             {
               "id": "reit",
@@ -2833,7 +3067,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T11:27:44.000Z",
           "snippet": "Is Nabors Industries (NBR) Using Its New Shelf Registration To Quietly Redefine Capital Strategy? simplywall.st",
-          "score": 22.9,
+          "score": 22.8,
           "flags": [
             {
               "id": "reit",
@@ -2857,6 +3091,40 @@
           "first_seen": "2026-08-16T11:34:55.324Z"
         },
         {
+          "id": "9a25a94ef6f9a8a8",
+          "title": "From fortress to academy",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxySjhYcUR4MXc2VkZqemJnSWpVcS1yaXB4M3F1VDZyTEpwcEJjNFNRQ05oRzFibF9ZdEVlUGFUYzZYMU94a2NBVkw4WWhjRVpCQXlLOTl4dlUzMUtmeGF6c3NBYV9naV9FaXU0aXprUzlSTEpNVHdvdnluVlI4ZEtpaEIyUzN6?oc=5",
+          "source": "Trinidad Guardian",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-16T18:24:31.000Z",
+          "snippet": "From fortress to academy Trinidad Guardian",
+          "score": 22.6,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "219372e162f143b9",
+          "cluster_id": "4dbc179db9de",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Trinidad Guardian",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxySjhYcUR4MXc2VkZqemJnSWpVcS1yaXB4M3F1VDZyTEpwcEJjNFNRQ05oRzFibF9ZdEVlUGFUYzZYMU94a2NBVkw4WWhjRVpCQXlLOTl4dlUzMUtmeGF6c3NBYV9naV9FaXU0aXprUzlSTEpNVHdvdnluVlI4ZEtpaEIyUzN6?oc=5"
+            }
+          ],
+          "summary": "From fortress to academy Trinidad Guardian…",
+          "status": "UPDATED",
+          "first_seen": "2026-06-15T19:34:40.935Z"
+        },
+        {
           "id": "52b93373ad8bc519",
           "title": "Age, ambition, reinvention: Two women redefine what strength means | The Sunday Guardian - newspaper",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGJ2c2M4QlR4RXU2WlNiQmliNjJvcm9oYmE1WVlVSDFDaTJzQVRDTGJjQ0hPQWVaMnA4NjF3WGJmUEI5Mnh1OUxyWHdVLUJvRS1HMnJ6ZmNGb2tubzNpM0tnZ2FMblE3R09QRzNlR1ZyS1EwN1NtNDBNMGxRQ3FNcGVBMEJxZnhfYzNsRUo4VWJtbUQtdmZrVUYtdkhpaTlUZ1FoaWNteWgtRVJGXzVxQjNXSThwVGhndThZakZOUkZwS28?oc=5",
@@ -2867,7 +3135,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T08:35:21.000Z",
           "snippet": "Age, ambition, reinvention: Two women redefine what strength means | The Sunday Guardian - newspaper Magzter",
-          "score": 22.6,
+          "score": 22.5,
           "flags": [
             {
               "id": "reit",
@@ -2901,7 +3169,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-16T17:10:45.000Z",
           "snippet": "\"Burn Her!\": Thousands of Kingdom Come Fans Flock to a Fortress Near Kutná Hora Around Prague",
-          "score": 22.6,
+          "score": 22.4,
           "flags": [
             {
               "id": "reit",
@@ -2923,238 +3191,6 @@
           "summary": "\"Burn Her!\": Thousands of Kingdom Come Fans Flock to a Fortress Near Kutná Hora Around Prague…",
           "status": "ONGOING",
           "first_seen": "2026-08-16T23:17:08.242Z"
-        },
-        {
-          "id": "ebaba2ca3956004f",
-          "title": "LG introduces smarter washing solutions to redefine laundry care",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDBiVXY2TXhMd3VKdGVsV0xvU3FiOEl3RGJ1eHd5RlBaY2N3UmhuZlBqVmtPTTZfM2g2VkJsZ2ljZHJsMDd4RlRQLVYwWWY1SUc2aTVlV25RQ1lEcWVDdXdIQ2dhZS12cjI5aHhldUJad0hTN3dsS29CYS1Jd2hWWHdRaDYwZkJhSVNucjRoQ09uRkV5cTV2Zlg1RTFwV3Y5M0RR?oc=5",
-          "source": "Business News Nigeria",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T05:46:22.000Z",
-          "snippet": "LG introduces smarter washing solutions to redefine laundry care Business News Nigeria",
-          "score": 22.4,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "f9fb2bd8b229e200",
-          "cluster_id": "7b255b958854",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Business News Nigeria",
-              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDBiVXY2TXhMd3VKdGVsV0xvU3FiOEl3RGJ1eHd5RlBaY2N3UmhuZlBqVmtPTTZfM2g2VkJsZ2ljZHJsMDd4RlRQLVYwWWY1SUc2aTVlV25RQ1lEcWVDdXdIQ2dhZS12cjI5aHhldUJad0hTN3dsS29CYS1Jd2hWWHdRaDYwZkJhSVNucjRoQ09uRkV5cTV2Zlg1RTFwV3Y5M0RR?oc=5"
-            }
-          ],
-          "summary": "LG introduces smarter washing solutions to redefine laundry care Business News Nigeria…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-16T11:34:55.324Z"
-        },
-        {
-          "id": "495a3caa6b71e89c",
-          "title": "Concrete luxury fortress sited on 3.44 acres in the city",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDFLZHhYOUVucE11ZUlHMkpLYXBIMnVsNVNhaHN2WjhzRy1EN0pid05ZX0owbTI2R0dGMTlmNlpBTTRrRjlCOTViQW5JelltQnNiWFljT0syU3hxZ1NJZU95ZEdWYktfRTBZemRTU0tsdzY5N19OSkVmX2YxVnY4Ylo5QmtWRlB2WHJQTldnUzI4YmtaSHgtTGFCYlJ2aTlvZ3NwVktpXzhRT0FYSllJUw?oc=5",
-          "source": "SiouxFalls.Business",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T15:55:29.000Z",
-          "snippet": "Concrete luxury fortress sited on 3.44 acres in the city SiouxFalls.Business",
-          "score": 22.4,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "negative",
-          "content_hash": "b52d8090150f849e",
-          "cluster_id": "eac98081fc98",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "SiouxFalls.Business",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDFLZHhYOUVucE11ZUlHMkpLYXBIMnVsNVNhaHN2WjhzRy1EN0pid05ZX0owbTI2R0dGMTlmNlpBTTRrRjlCOTViQW5JelltQnNiWFljT0syU3hxZ1NJZU95ZEdWYktfRTBZemRTU0tsdzY5N19OSkVmX2YxVnY4Ylo5QmtWRlB2WHJQTldnUzI4YmtaSHgtTGFCYlJ2aTlvZ3NwVktpXzhRT0FYSllJUw?oc=5"
-            }
-          ],
-          "summary": "Concrete luxury fortress sited on 3.44 acres in the city SiouxFalls.Business…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-17T07:08:56.261Z"
-        },
-        {
-          "id": "02a41bc21c8f109a",
-          "title": "Did Dutch Bros' (BROS) Earnings Beat and Real Estate Push Just Redefine Its Growth Narrative?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTG5GR1FETnJPRThhVXp1WVFXOGlDWWcyMHE0cHluakJjQ0FfNU9tVG1OOHhOeDRqTW5taFluWUwwTWNTX01XOUVZZ1FrZnVYYzhHSEloN2RfU3NjT2dHTUItNm9uVno2U3Y1MFVTNjUzMGhnTkwtS1Q1RERMY0RPMlQ1Y1J1cWdXbUlHaktuR0gtY1J0MXhzNElVcTJkUUlQWWpOYi1IbW0zRHpXdlUxTVNjdUxYSnZWSW9WRy1pVkpuZGdxU0ttUjhNQy1yd2JMMmpOUnN30gHWAUFVX3lxTE1MbkZHUUROck9FOGFVenVZUVc4aUNZZzIwcTRweW5qQmNDQV81T21UbU44eE54NGpNbm1oWW5ZTDBNY1NfTVc5RVlnUWtmdVhjOEdISWg3ZF9Tc2NPZ0dNQi02b25WejZTdjUwVVM2NTMwaGdOTC1LVDVERExjRE8yVDVjUnVxZ1dtSUdqS25HSC1jUnQxeHM0SVVxMmRRSVBZak5iLUhtbTNEeld2VTFNU2N1TFhKdlZJb1ZHLWlWSm5kZ3FTS21SOE1DLXJ3Ykwyak5Sc3c?oc=5",
-          "source": "simplywall.st",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T05:40:57.000Z",
-          "snippet": "Did Dutch Bros' (BROS) Earnings Beat and Real Estate Push Just Redefine Its Growth Narrative? simplywall.st",
-          "score": 22.4,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "25381f81f6268a2d",
-          "cluster_id": "219133e5ff84",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "simplywall.st",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTG5GR1FETnJPRThhVXp1WVFXOGlDWWcyMHE0cHluakJjQ0FfNU9tVG1OOHhOeDRqTW5taFluWUwwTWNTX01XOUVZZ1FrZnVYYzhHSEloN2RfU3NjT2dHTUItNm9uVno2U3Y1MFVTNjUzMGhnTkwtS1Q1RERMY0RPMlQ1Y1J1cWdXbUlHaktuR0gtY1J0MXhzNElVcTJkUUlQWWpOYi1IbW0zRHpXdlUxTVNjdUxYSnZWSW9WRy1pVkpuZGdxU0ttUjhNQy1yd2JMMmpOUnN30gHWAUFVX3lxTE1MbkZHUUROck9FOGFVenVZUVc4aUNZZzIwcTRweW5qQmNDQV81T21UbU44eE54NGpNbm1oWW5ZTDBNY1NfTVc5RVlnUWtmdVhjOEdISWg3ZF9Tc2NPZ0dNQi02b25WejZTdjUwVVM2NTMwaGdOTC1LVDVERExjRE8yVDVjUnVxZ1dtSUdqS25HSC1jUnQxeHM0SVVxMmRRSVBZak5iLUhtbTNEeld2VTFNU2N1TFhKdlZJb1ZHLWlWSm5kZ3FTS21SOE1DLXJ3Ykwyak5Sc3c?oc=5"
-            }
-          ],
-          "summary": "Did Dutch Bros' (BROS) Earnings Beat and Real Estate Push Just Redefine Its Growth Narrative?…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-16T11:34:55.324Z"
-        },
-        {
-          "id": "60680aee6527d563",
-          "title": "News | Plans lodged for landmark Edinburgh office-to-hotel development",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREI3cTBDZFpKbmNOS1ljdmdmbUVnVzV1anhfRXVzOFJwZEk3VUJGSzZYMnY0XzZndUZqb20tNXpEWm9GaVRDOGpIUV8yYjdXakZ3Q0FIV19ITmxkLUp1Slg2ZFJZbklEdm51UXlka2d6TGV1M0dtMnQ2aXMwbTFKd2RhbVJob2dYTThPQ2x1c29KNTR3ZG1JN1pzTGxhVzQ3WWNvX3RNV2I?oc=5",
-          "source": "CoStar",
-          "section": "realestate",
-          "subsection": "uk-transactions",
-          "geo": "uk",
-          "feedWeight": 7,
-          "published_at": "2026-08-17T09:14:24.000Z",
-          "snippet": "News | Plans lodged for landmark Edinburgh office-to-hotel development CoStar",
-          "score": 22.3,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "2eab1613cf8aecba",
-          "cluster_id": "9f3a91244297",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "CoStar",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREI3cTBDZFpKbmNOS1ljdmdmbUVnVzV1anhfRXVzOFJwZEk3VUJGSzZYMnY0XzZndUZqb20tNXpEWm9GaVRDOGpIUV8yYjdXakZ3Q0FIV19ITmxkLUp1Slg2ZFJZbklEdm51UXlka2d6TGV1M0dtMnQ2aXMwbTFKd2RhbVJob2dYTThPQ2x1c29KNTR3ZG1JN1pzTGxhVzQ3WWNvX3RNV2I?oc=5"
-            }
-          ],
-          "summary": "News | Plans lodged for landmark Edinburgh office-to-hotel development CoStar…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-17T11:19:16.042Z"
-        },
-        {
-          "id": "9c6a881024dd48ad",
-          "title": "Declan Caddell wants home ground to be a fortress after first victory of the campaign",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUm5jYkpLRFNPODlqczZ4aFZzQUVvSUM0NTJiaWJzcXliZnlPWlBLc1ZiSnBCb3lUNUdFcGl4V0p0d2Rrd0xyU3M1WXMtbGJNV2VzNlRUcy0td2F6Mm5XT3p1eGVZN2h3T1pPbzNXXzU2Zkl6UGZtdC1OUHl4bXJoaW5Sb2RmMmlDRWJfZGM4aXNIOVp6QVdxQTJCa1dkVUkxY0g5TUNfTWhJdnNiWXczTWNqaEtGVHNER1JiNVB1VVRSYXBjR3JZaVdBbHFCMnBzdlZFZWhrN25VN2ROcUE?oc=5",
-          "source": "newsletter.co.uk",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T14:45:00.000Z",
-          "snippet": "Declan Caddell wants home ground to be a fortress after first victory of the campaign newsletter.co.uk",
-          "score": 22.3,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "ea93eb7a8de39564",
-          "cluster_id": "d7046cd4e1c4",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "newsletter.co.uk",
-              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUm5jYkpLRFNPODlqczZ4aFZzQUVvSUM0NTJiaWJzcXliZnlPWlBLc1ZiSnBCb3lUNUdFcGl4V0p0d2Rrd0xyU3M1WXMtbGJNV2VzNlRUcy0td2F6Mm5XT3p1eGVZN2h3T1pPbzNXXzU2Zkl6UGZtdC1OUHl4bXJoaW5Sb2RmMmlDRWJfZGM4aXNIOVp6QVdxQTJCa1dkVUkxY0g5TUNfTWhJdnNiWXczTWNqaEtGVHNER1JiNVB1VVRSYXBjR3JZaVdBbHFCMnBzdlZFZWhrN25VN2ROcUE?oc=5"
-            }
-          ],
-          "summary": "Declan Caddell wants home ground to be a fortress after first victory of the campaign newsletter.co.uk…",
-          "status": "UPDATED",
-          "first_seen": "2026-08-16T23:17:08.242Z"
-        },
-        {
-          "id": "f396313249c17366",
-          "title": "Bitcoin ETFs Redefine Risk and Reward for Crypto: Shall We Ever Regret It?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckx2ZnlwbjNvVHhUYnM2NWpJZVdRWUJpa2J6Z09XLVRLc2REZG5KVHdEeXBDSmZ6V3VOdHNzZllqLTZEaERHUnNuMlowWGliUzdOMjRaMU51OEk0dnlsdW1OaDVCV1F4YXM2RU90RzlXdHM5bHk2ZnNjaGVJdkxhRjk0MXpaYlNZU05aUGZRa0hvZTJ0VzZvelg4R0NzYUpGWXprelJYOUtTaGkteVJj?oc=5",
-          "source": "Yellow.com",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T03:45:49.000Z",
-          "snippet": "Bitcoin ETFs Redefine Risk and Reward for Crypto: Shall We Ever Regret It? Yellow.com",
-          "score": 22.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "83c188bd4e7cc339",
-          "cluster_id": "d2f136b3f686",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Yellow.com",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckx2ZnlwbjNvVHhUYnM2NWpJZVdRWUJpa2J6Z09XLVRLc2REZG5KVHdEeXBDSmZ6V3VOdHNzZllqLTZEaERHUnNuMlowWGliUzdOMjRaMU51OEk0dnlsdW1OaDVCV1F4YXM2RU90RzlXdHM5bHk2ZnNjaGVJdkxhRjk0MXpaYlNZU05aUGZRa0hvZTJ0VzZvelg4R0NzYUpGWXprelJYOUtTaGkteVJj?oc=5"
-            }
-          ],
-          "summary": "Bitcoin ETFs Redefine Risk and Reward for Crypto: Shall We Ever Regret It?…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-13T06:21:23.936Z"
-        },
-        {
-          "id": "9a25a94ef6f9a8a8",
-          "title": "From fortress to academy",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxySjhYcUR4MXc2VkZqemJnSWpVcS1yaXB4M3F1VDZyTEpwcEJjNFNRQ05oRzFibF9ZdEVlUGFUYzZYMU94a2NBVkw4WWhjRVpCQXlLOTl4dlUzMUtmeGF6c3NBYV9naV9FaXU0aXprUzlSTEpNVHdvdnluVlI4ZEtpaEIyUzN6?oc=5",
-          "source": "guardian.co.tt",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-16T13:51:49.000Z",
-          "snippet": "From fortress to academy guardian.co.tt",
-          "score": 22.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "174226e6a6c757fc",
-          "cluster_id": "4dbc179db9de",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "guardian.co.tt",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWxySjhYcUR4MXc2VkZqemJnSWpVcS1yaXB4M3F1VDZyTEpwcEJjNFNRQ05oRzFibF9ZdEVlUGFUYzZYMU94a2NBVkw4WWhjRVpCQXlLOTl4dlUzMUtmeGF6c3NBYV9naV9FaXU0aXprUzlSTEpNVHdvdnluVlI4ZEtpaEIyUzN6?oc=5"
-            }
-          ],
-          "summary": "From fortress to academy guardian.co.tt…",
-          "status": "UPDATED",
-          "first_seen": "2026-06-15T19:34:40.935Z"
         }
       ]
     }
@@ -3191,12 +3227,12 @@
       "label": "S&P 500",
       "symbol": "^GSPC",
       "group": "index",
-      "price": 7758.34,
+      "price": 7754.91,
       "prevClose": 7753.11,
-      "change": 5.230000000000473,
-      "pct": 0.07,
+      "change": 1.800000000000182,
+      "pct": 0.02,
       "currency": "USD",
-      "asof": "2026-08-17T17:24:57.000Z",
+      "asof": "2026-08-17T18:36:25.000Z",
       "ok": true
     },
     {
@@ -3204,12 +3240,12 @@
       "label": "Nasdaq Comp.",
       "symbol": "^IXIC",
       "group": "index",
-      "price": 26657.305,
+      "price": 26655.916,
       "prevClose": 26605.36,
-      "change": 51.94499999999971,
-      "pct": 0.2,
+      "change": 50.556000000000495,
+      "pct": 0.19,
       "currency": "USD",
-      "asof": "2026-08-17T17:24:55.000Z",
+      "asof": "2026-08-17T18:36:25.000Z",
       "ok": true
     },
     {
@@ -3217,12 +3253,12 @@
       "label": "Dow Jones",
       "symbol": "^DJI",
       "group": "index",
-      "price": 53492.45,
+      "price": 53482.72,
       "prevClose": 53975.98,
-      "change": -483.5300000000061,
-      "pct": -0.9,
+      "change": -493.26000000000204,
+      "pct": -0.91,
       "currency": "USD",
-      "asof": "2026-08-17T17:24:59.000Z",
+      "asof": "2026-08-17T18:36:26.000Z",
       "ok": true
     },
     {
@@ -3231,9 +3267,9 @@
       "symbol": "^J203.JO",
       "group": "index",
       "price": 114672.93,
-      "prevClose": 115942.7,
-      "change": -1269.770000000004,
-      "pct": -1.1,
+      "prevClose": 114980.9,
+      "change": -307.97000000000116,
+      "pct": -0.27,
       "currency": "ZAR",
       "asof": "2026-08-17T15:06:22.000Z",
       "ok": true
@@ -3253,12 +3289,12 @@
       "label": "US 10y Treasury",
       "symbol": "^TNX",
       "group": "rate",
-      "price": 4.712,
+      "price": 4.728,
       "prevClose": 4.684,
-      "change": 0.02799999999999958,
-      "pct": 0.6,
+      "change": 0.043999999999999595,
+      "pct": 0.94,
       "currency": "USD",
-      "asof": "2026-08-17T17:09:52.000Z",
+      "asof": "2026-08-17T18:21:22.000Z",
       "ok": true
     },
     {
@@ -3266,12 +3302,12 @@
       "label": "GBP/USD",
       "symbol": "GBPUSD=X",
       "group": "fx",
-      "price": 1.3554,
+      "price": 1.3539,
       "prevClose": 1.3511,
-      "change": 0.0042999999999999705,
-      "pct": 0.32,
+      "change": 0.0028000000000001357,
+      "pct": 0.21,
       "currency": "USD",
-      "asof": "2026-08-17T17:24:53.000Z",
+      "asof": "2026-08-17T18:35:55.000Z",
       "ok": true
     },
     {
@@ -3279,12 +3315,12 @@
       "label": "GBP/ZAR",
       "symbol": "GBPZAR=X",
       "group": "fx",
-      "price": 21.952,
+      "price": 21.9857,
       "prevClose": 21.8674,
-      "change": 0.08460000000000178,
-      "pct": 0.39,
+      "change": 0.1183000000000014,
+      "pct": 0.54,
       "currency": "ZAR",
-      "asof": "2026-08-17T17:25:00.000Z",
+      "asof": "2026-08-17T18:36:27.000Z",
       "ok": true
     },
     {
@@ -3292,12 +3328,12 @@
       "label": "USD/ZAR",
       "symbol": "USDZAR=X",
       "group": "fx",
-      "price": 16.2004,
+      "price": 16.2421,
       "prevClose": 16.1855,
-      "change": 0.014899999999997249,
-      "pct": 0.09,
+      "change": 0.05659999999999954,
+      "pct": 0.35,
       "currency": "ZAR",
-      "asof": "2026-08-17T17:25:00.000Z",
+      "asof": "2026-08-17T18:36:28.000Z",
       "ok": true
     },
     {
@@ -3305,12 +3341,12 @@
       "label": "EUR/GBP",
       "symbol": "EURGBP=X",
       "group": "fx",
-      "price": 0.8546,
+      "price": 0.8547,
       "prevClose": 0.8545,
-      "change": 0.00009999999999998899,
-      "pct": 0.01,
+      "change": 0.00019999999999997797,
+      "pct": 0.02,
       "currency": "GBP",
-      "asof": "2026-08-17T17:25:01.000Z",
+      "asof": "2026-08-17T18:36:28.000Z",
       "ok": true
     },
     {
@@ -3318,12 +3354,12 @@
       "label": "Brent Crude",
       "symbol": "BZ=F",
       "group": "commodity",
-      "price": 89.79,
+      "price": 90.98,
       "prevClose": 88.98,
-      "change": 0.8100000000000023,
-      "pct": 0.91,
+      "change": 2,
+      "pct": 2.25,
       "currency": "USD",
-      "asof": "2026-08-17T17:15:00.000Z",
+      "asof": "2026-08-17T18:26:26.000Z",
       "ok": true
     },
     {
@@ -3331,12 +3367,12 @@
       "label": "Gold",
       "symbol": "GC=F",
       "group": "commodity",
-      "price": 4480.6,
+      "price": 4466.3,
       "prevClose": 4408.9,
-      "change": 71.70000000000073,
-      "pct": 1.63,
+      "change": 57.400000000000546,
+      "pct": 1.3,
       "currency": "USD",
-      "asof": "2026-08-17T17:14:55.000Z",
+      "asof": "2026-08-17T18:26:27.000Z",
       "ok": true
     },
     {
@@ -3344,12 +3380,12 @@
       "label": "Bitcoin",
       "symbol": "BTC-USD",
       "group": "crypto",
-      "price": 64267.94,
+      "price": 64423.32,
       "prevClose": 63402.17,
-      "change": 865.7700000000041,
-      "pct": 1.37,
+      "change": 1021.1500000000015,
+      "pct": 1.61,
       "currency": "USD",
-      "asof": "2026-08-17T17:24:58.000Z",
+      "asof": "2026-08-17T18:36:27.000Z",
       "ok": true
     }
   ],
@@ -3373,10 +3409,10 @@
             "tone": "neutral"
           }
         ],
-        "status": "UPDATED",
+        "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-17T10:20:36.000Z",
-        "score": 47.8,
+        "score": 47.3,
         "also_in": []
       },
       {
@@ -3397,10 +3433,10 @@
             "tone": "neutral"
           }
         ],
-        "status": "NEW",
+        "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-17T08:30:39.000Z",
-        "score": 42.1,
+        "score": 41.7,
         "also_in": []
       },
       {
@@ -3435,10 +3471,10 @@
             "tone": "negative"
           }
         ],
-        "status": "NEW",
+        "status": "ONGOING",
         "section": "uk",
         "published_at": "2026-08-17T11:31:10.000Z",
-        "score": 35.2,
+        "score": 34.7,
         "also_in": []
       },
       {
@@ -3462,7 +3498,7 @@
         "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-17T06:20:56.000Z",
-        "score": 34.4,
+        "score": 34.1,
         "also_in": []
       }
     ],
@@ -3485,10 +3521,10 @@
             "tone": "neutral"
           }
         ],
-        "status": "UPDATED",
+        "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-17T10:20:36.000Z",
-        "score": 47.8,
+        "score": 47.3,
         "also_in": []
       },
       {
@@ -3509,10 +3545,10 @@
             "tone": "neutral"
           }
         ],
-        "status": "NEW",
+        "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-17T08:30:39.000Z",
-        "score": 42.1,
+        "score": 41.7,
         "also_in": []
       },
       {
@@ -3536,18 +3572,18 @@
       }
     ],
     "implications": [
-      "US 10y treasury at 4.712 sets the global rate backdrop influencing cross-border capital into London offices.",
+      "US 10y treasury at 4.728 sets the global rate backdrop influencing cross-border capital into London offices.",
       "7 refinancing/distress item(s) flagged today — watch for read-across to debt availability and office valuations.",
-      "5 sizeable transaction(s) flagged (£20m+) — pricing evidence for the investment market.",
+      "6 sizeable transaction(s) flagged (£20m+) — pricing evidence for the investment market.",
       "FTSE 100 down 1.31% — broad risk sentiment proxy for listed property.",
-      "GBP/USD at 1.3554 affects overseas-buyer appetite for London assets."
+      "GBP/USD at 1.3539 affects overseas-buyer appetite for London assets."
     ],
     "oneLiner": "Rates and refinancing remain the dominant swing factors for UK office values and debt availability."
   },
   "changes": {
     "previousId": "2026-08-17-midday",
-    "addedCount": 33,
-    "carriedCount": 57,
+    "addedCount": 39,
+    "carriedCount": 51,
     "newHeadlines": [
       {
         "title": "Will Northern Trust's Expanded Singapore Fund Administration Role Redefine Its Cross-Border Moat (NTRS)?",
@@ -3579,21 +3615,9 @@
         ]
       },
       {
-        "title": "Japan weighs AI inventorship as courts redefine patent reach",
-        "source": "Digital Watch Observatory",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEJ3S2RWekhIZnBFa3FRVVpKRlRMTlY2THZ4NG5aNENZYV8zM0JxSnI0eEQxSm1JVVE3NVF3M1JiMldyOHpYaU1jTGZETTBDdFQzSXRxMWZWUE9RSzRJb1FEaDlDVzVydy1TRg?oc=5",
-        "flags": [
-          {
-            "id": "reit",
-            "label": "REIT UPDATE",
-            "tone": "neutral"
-          }
-        ]
-      },
-      {
-        "title": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says",
-        "source": "cspdailynews.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5",
+        "title": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO",
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0lOeUNtTU5nQ08yOFUxOXpWR0JXdlFLNC1QLUQ3TS1yS2JrQjA5dzJhakFTWHptTzBDMWxTUUhzQTZxSmJlLVB4YnlOeUtMZUIzbzVGSU9sT0FyTEhpQ093T3J1cVNjZ2ZUdnR3bjFsRUx1cWhNSWRuS3AwNkxXMnJzVjF0NzhUYlFHVi05cHBmeUN0ZHhnSEFEVGJtWloybENidVdmWFVQeTdZLWt0MFhHUHU3LVV3dFFNQUZVTEFuSFdLT3ZzX0JWMmJuR0FVVExHaldpdTc3cjRwbFFNQU16V1ZYZ3RQWmwzZ21n0gHzAUFVX3lxTFB4TmUzUWRFR0tqMXZ0SHM3ai1oaW5MUkI3LVp2VXMtbXo3QVhRUU1sNmUzeWpibHdpc3lrVGV5bVI1VEtYa2RqWUEyTnNGM3pYVl9zbmFJakw3WEdHS1l2el96cXRwYVJjb014ZkZoSkVIdlZoZ1hNczlrNVNDVFBpTnlqa3U0SnNUdEtsN2R1M2NKSFphWDVSRGtpTVlpRU5YbkdBSXVmMUQ1TXg0ZTNWcHhrY2NDT0ZRbHA3eThYYl9wVzk1NlREeXZaYnBQc3ZIMVkwYUtvcFVPZ0FWM2tXejJNaExWYms0LXZfakdGbzFFdw?oc=5",
         "flags": [
           {
             "id": "reit",
@@ -3615,9 +3639,9 @@
         ]
       },
       {
-        "title": "Why EU rules could redefine Africa's agricultural competitiveness",
-        "source": "standardmedia.co.ke",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWdEaEhaM2tTenI4OUxCYjBBaDBRN2hkRFlGNE94dlYxcVhaOGp0ZFF5X0Ewd3dNS19PaFJ3NUx0WWstZVFVQy1VX1JSQVlYbi1TZkxTcTk4clpyS1FIMlFrTWhzNVZCa2JMNHo2aTdMbmw3SUNhQkNUaWZKREFfX2hFTGVBV3o3bThjNHd3NjViZ1BZR3hLN1A3N3JZQ3A1Tmg2WmNHcDYxcTlGdjNnUXNMUS01V0RyWVQ1TDFfcVBYVGlkU1ptT1ZqM2Y?oc=5",
+        "title": "Zales taps Anomaly to redefine everyday fine jewelry",
+        "source": "Roastbrief US",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThJcVJxbmFUM2xZMk9DTElRZ3VtZlRzZzBnTlk1X1FOSEp3WVczWlR0SWVhMzd5MXVQUGx0eFgxTDc5YXBHZS1kakJjMXpwMjBxeXVaZVBDVEdhLXR3YVpKTEhlTndITTBCUEdabTVHY2VqSm1GbDBzcmVSMXNDUQ?oc=5",
         "flags": [
           {
             "id": "reit",
@@ -3639,9 +3663,21 @@
         ]
       },
       {
-        "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence",
-        "source": "AiThority",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXAyUXdReDE1SGlSN0tJS0M0NkstdF9kaENmTXpXQ095NTRnVkdsZDVGdW94clg4MzZFVEhZUjdja3hWVUNXZHFtc3dMemkzcFhMeGMtd0ZobWRqQW5MMG5IUDU4LXdPWHExbFp1VWRGbEM5cDJzQ1FnLS1yRUxQNWZQTC0wTnFGcTVOME1PakhTX3l6T2J3TkFTZHBVaXF3eDFEOXFzVy04SThMQXROM2liR016a2lFYm1zQnBJTERKQkxSX0N4LTRKSQ?oc=5",
+        "title": "Russian company asks Putin to place Nestle assets under temporary administration, Kommersant reports",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZHBSMENzZm5wbTR6dGpZbWxkVGdrU3kzNEJkUnRwa250Mkp6NzRIQ2xyRkZsYU1vTU5PWnRVSXBSaTdNeFRpWFM0SFNzRkdlZ1dCYmkzdmxqMW5SQWJlbWwwRHBDU1dDRElRQmROMHJBSkEyanF1bXpzdW5MRGxzUmtPUW5PTlhjQ0otVGZvam9VWVlFdkwwdzhRemZLZ3lBcEdoZ3c1bVJnanlidVVCQTdTTW1ZcXhTRl95bVlxYmp2MWkyTVhtcTE2UWNWODkzb0NkZg?oc=5",
+        "flags": [
+          {
+            "id": "distress",
+            "label": "DISTRESS",
+            "tone": "negative"
+          }
+        ]
+      },
+      {
+        "title": "7-Eleven is ready to ‘redefine convenience,' new CEO Mauricio Leyva says",
+        "source": "CSP Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNEUlZLcDFENWE1SUtCb2xnaHE3V1N6emdMWi1GRk1zbS1XOXl2SDJlQ3dpcG4zbVFyMDJ1cmZBMG15VENvUkw3bjB4cWFYS21YRklHSkZEenBQczZBZzRXbzllcVVWSTRHSmQ1cm91ME5LSkw3MHA0R3IwSzdlSXAweExhYUR5YUl3bC1ZQ3czTkR4cDF0NjVyZ1U1M2pET09GYlpGcVE?oc=5",
         "flags": [
           {
             "id": "reit",
@@ -3660,88 +3696,88 @@
     "72fed6e7c4809afc",
     "197ac9ed7976cb71",
     "e5fb6dfe39d186ae",
-    "8f3f56f6f6d5797c",
-    "209cf5f56c34f0bd",
+    "f40e349855218682",
     "19a2e90bb232cc09",
-    "e869f16aabd62456",
+    "33b2799765b6b005",
     "9928c20e857194a0",
     "0b02ac1bfb920743",
-    "119e8639b1d4832f",
     "529d7240ff9de469",
-    "f227eacefc3d61a8",
+    "119e8639b1d4832f",
     "5a7c8430013e45a6",
     "0d7715b78b864d7f",
     "24c143cf486ec19a",
-    "e011e995b2961e1a",
+    "209cf5f56c34f0bd",
+    "e869f16aabd62456",
+    "948d33666b0bb47f",
+    "8f3f56f6f6d5797c",
     "c1a0942f97b64753",
+    "e011e995b2961e1a",
     "f264beb1f646a8ce",
     "9234b0c44657e3bd",
     "a7dcf99abc005176",
     "bb2a4e3d20cdccea",
-    "a1c3e8d4b65fefc0",
+    "542b7a5d02181631",
+    "f227eacefc3d61a8",
     "f500ee5b23c9e829",
-    "393e277fad92b1f2",
+    "3521931af0cc9be1",
     "d038c8c261bc38fc",
     "c8348b78956dcd65",
+    "393e277fad92b1f2",
     "5265096d36ed0d90",
-    "3521931af0cc9be1",
     "3cbad0e306ac3fc1",
-    "44b214bb9ba43d6c",
     "e7f33ef63eaeb84a",
+    "44b214bb9ba43d6c",
     "3ac5f6e20c15a015",
     "b9c64b68f45ce726",
     "f036c3c48b80aa9f",
     "a95711d835072250",
+    "f9425913f89b4bf9",
+    "183b27123100d2d3",
     "11c088ea1077c81c",
     "56f3568bcdd62e3a",
-    "183b27123100d2d3",
-    "d9105f390721ced8",
-    "ac5fd4b5d1f4c9f1",
+    "d340dabcbc2c51aa",
+    "e6f5031ae5415851",
     "ec85020af08a3c66",
+    "d9105f390721ced8",
     "55c52d87a8e3c55e",
-    "c7ef15ab85306d3d",
+    "ac5fd4b5d1f4c9f1",
     "a6678a966347f818",
-    "bb7294a6e2a8c1d6",
     "7124db051c35a996",
+    "c7ef15ab85306d3d",
+    "bb7294a6e2a8c1d6",
     "f10162d9f8e7755d",
     "44d5237307e558cc",
     "bba0e608888c4640",
+    "dc86c314717c5de5",
     "18388f87861b9c8f",
     "810244bca47404ac",
     "f8e8fa5a74092904",
     "50fd879cabd2dc77",
-    "c2ca3a25da12d800",
     "a89d62f656320b56",
-    "7020dbdf7aebc235",
     "afc9e34eda3be1ad",
     "3e0834a8e91a2908",
     "3dca461edeea0923",
     "8d3051e1989e5529",
+    "3ca7f86941430c70",
     "d67e1655fee73960",
-    "896fe4620a5ea7ca",
+    "4bd1d854c509b783",
     "36a4d0170b64a4eb",
-    "f803ab71c35419ad",
-    "d212707b6ac90c22",
-    "2185171ae30b9afb",
     "c22008dd8e77992f",
-    "bf6ad657e34dc41e",
+    "f803ab71c35419ad",
+    "2185171ae30b9afb",
+    "7020dbdf7aebc235",
     "ba7bdb74ef41dae1",
+    "d212707b6ac90c22",
+    "bf6ad657e34dc41e",
     "b86063b269f8c1c7",
-    "60f9a790d120c365",
+    "c2ca3a25da12d800",
     "c883ffc755dd5bed",
     "ccf6d2ac86b900fc",
     "aa465604423ff957",
     "2b76ba150ea3722e",
-    "52b93373ad8bc519",
-    "b248e31ec0725056",
-    "ebaba2ca3956004f",
-    "495a3caa6b71e89c",
-    "02a41bc21c8f109a",
-    "2108648ba20042bf",
-    "60680aee6527d563",
-    "9c6a881024dd48ad",
-    "f396313249c17366",
+    "60f9a790d120c365",
     "9a25a94ef6f9a8a8",
-    "4c52931509cbb435"
+    "52b93373ad8bc519",
+    "b248e31ec0725056"
   ]
 }
