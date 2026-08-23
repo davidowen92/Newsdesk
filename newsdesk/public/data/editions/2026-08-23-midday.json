@@ -1,7 +1,7 @@
 {
   "id": "2026-08-23-midday",
   "label": "Midday",
-  "created_at": "2026-08-23T11:15:20.060Z",
+  "created_at": "2026-08-23T12:26:12.633Z",
   "ukDate": "2026-08-23",
   "story_count": 90,
   "executiveSummary": [
@@ -86,8 +86,8 @@
       "url": "https://www.moneyweb.co.za/moneyweb-opinion/soapbox/the-spreadsheet-trap-why-zaronia-is-really-a-governance-challenge/"
     },
     {
-      "title": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?",
-      "source": "simplywall.st",
+      "title": "Education Minister Dharmendra Pradhan calls upon corporate world to redefine Corporate Social Responsibility",
+      "source": "News On AIR",
       "tone": "neutral",
       "flags": [
         {
@@ -96,8 +96,8 @@
           "tone": "neutral"
         }
       ],
-      "status": "NEW",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZ9IBzgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZw?oc=5"
+      "status": "ONGOING",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUZWOWtzODdIb0lONXBoLWhYdUU2VmRUeEhSUTlTZGtqR0xheWpvYkZkVTRseTA4ZkJIVWN0TmRJMDU3S3FtNGsyeTNMR0RXTVJzTUhEUHZBVmpJRVRQcFZDc05PYmJYM2pPZC1yOTR6emM4QVZDSzFxSDlxREVsdnQ0WTl4dlNmeVlYb2lxb2xOQlR4VkFYaXlMT3lzQXIzeDdDUm1JcGc1NVZ1TFRnV0FfaTNqVjBVMy0yRDd4ZG9PS1FOalhRVzBIRU1OdkE?oc=5"
     }
   ],
   "sections": {
@@ -129,7 +129,8 @@
             }
           ],
           "summary": "Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
         },
         {
           "id": "d8bcef86e28261f1",
@@ -226,6 +227,33 @@
           "summary": "Two major providers of NHS patient data to the pharmaceuticals industry are to merge in a £140m deal to give them greater scale in their battle with the American giant Palantir Technologies.",
           "status": "ONGOING",
           "first_seen": "2026-08-21T12:59:07.630Z"
+        },
+        {
+          "id": "9e4f669af4ad1471",
+          "title": "Oil major Eni bets on nuclear fusion becoming its ‘next refinery’",
+          "url": "https://www.ft.com/content/e6a069b6-69f8-4a21-9873-3cc0736d27e2?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "section": "uk",
+          "subsection": "business",
+          "geo": "uk",
+          "feedWeight": 8,
+          "published_at": "2026-08-23T10:00:08.000Z",
+          "snippet": "Italian group widening investments in technology that promises much but is yet to be commercially proven",
+          "score": 21,
+          "flags": [],
+          "tone": "neutral",
+          "content_hash": "ee46e303d87ece2e",
+          "cluster_id": "fa93c084f5fb",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/e6a069b6-69f8-4a21-9873-3cc0736d27e2?syn-25a6b1a6=1"
+            }
+          ],
+          "summary": "Italian group widening investments in technology that promises much but is yet to be commercially proven…",
+          "status": "NEW"
         }
       ]
     },
@@ -243,7 +271,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-23T02:00:30.000Z",
           "snippet": "It will expose organisations still relying on spreadsheets, inboxes and a few trusted people to run the debt administration – a system that can't hold under tighter scrutiny and compounded overnight rates.",
-          "score": 33,
+          "score": 32.6,
           "flags": [
             {
               "id": "distress",
@@ -272,33 +300,6 @@
       "title": "Global News",
       "stories": [
         {
-          "id": "ed5a9b289f018ba0",
-          "title": "Mansueto Office Inc",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxWm0xakwxd0liT3phbVpGWWN1TEU3RnRwZi1yOWx2Vl9tU3EwNFkzTjVQOEliTGZhTkNlaHo3MkxJWDJYR1BuY2RFRXJEOTkzQUptRG9xTTEtQXkyeXFtbTFoUQ?oc=5",
-          "source": "Bloomberg.com",
-          "section": "global",
-          "subsection": "markets",
-          "geo": "global",
-          "feedWeight": 7,
-          "published_at": "2026-08-23T08:36:31.000Z",
-          "snippet": "Mansueto Office Inc Bloomberg.com",
-          "score": 22,
-          "flags": [],
-          "tone": "neutral",
-          "content_hash": "857b26b60200674c",
-          "cluster_id": "26c9dc7f6ff1",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxWm0xakwxd0liT3phbVpGWWN1TEU3RnRwZi1yOWx2Vl9tU3EwNFkzTjVQOEliTGZhTkNlaHo3MkxJWDJYR1BuY2RFRXJEOTkzQUptRG9xTTEtQXkyeXFtbTFoUQ?oc=5"
-            }
-          ],
-          "summary": "Mansueto Office Inc Bloomberg.com…",
-          "status": "NEW"
-        },
-        {
           "id": "962cf6922752d731",
           "title": "CaixaBank boosts tourism with 2.5 billion in loans in the first half",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnY2a3lzQ055eWt1SlBoMFJuUEJ2YnBVTmVKSkpwNXVYV09BT2huTDhuckdWdWl3ekczeVRib3ptdnMxMnZ0eXdPSmxKUXZNWFZvdENvaFQ1bEE4bzI0MDJ2QTZ6bGZ4WTVseTUxQmlTVHZSRXJtUzNodGJVYnFJSUJXWVd4ZGdPaE9kWm9aMFdFMllZNDNmbEo5SC1JQkd4MXZvbnhIYnrSAa4BQVVfeXFMTnNfV1I2TXlEMTNzMkVpTlhvNGhIZzB6dEtjWURlOUVtOUYxalozREZkdWluWG5NVzF5bUNjZlZRUi1tNklmc1VZcHZpTk9RWU1MRXdlYWxOVnI5NUZSaEpVOVlyWHpEVnQ2VlA2czlMYUxkVWllNjZQQnVjbEdfcWNkNERLdjdCTm1palVxanRUWGw3Ni1CTnloaHRlYTVxZHZ0U3F1TmxZVFBQVUZ3?oc=5",
@@ -323,7 +324,8 @@
             }
           ],
           "summary": "CaixaBank boosts tourism with 2.5 billion in loans in the first half Demócrata…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
         }
       ]
     },
@@ -425,7 +427,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T18:19:06.000Z",
           "snippet": "Medical Properties Trust faces refinancing equal to its market cap as 8.7% yield draws attention TechStock²",
-          "score": 35.9,
+          "score": 35.7,
           "flags": [
             {
               "id": "refi",
@@ -459,7 +461,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T04:17:00.000Z",
           "snippet": "British Land Shares and Dividends: Can London Offices and Retail Parks Support Future Payouts? Kalkine",
-          "score": 34.8,
+          "score": 34.7,
           "flags": [
             {
               "id": "reit",
@@ -491,39 +493,6 @@
           "summary": "British Land Shares and Dividends: Can London Offices and Retail Parks Support Future Payouts?…",
           "status": "ONGOING",
           "first_seen": "2026-08-22T11:34:16.231Z"
-        },
-        {
-          "id": "f4b69d6fefd66fee",
-          "title": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZ9IBzgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZw?oc=5",
-          "source": "simplywall.st",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-23T08:16:51.000Z",
-          "snippet": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge? simplywall.st",
-          "score": 31,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "8bfa6f335f0c4f1e",
-          "cluster_id": "3aaec6465f11",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "simplywall.st",
-              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZ9IBzgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZw?oc=5"
-            }
-          ],
-          "summary": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?…",
-          "status": "NEW"
         },
         {
           "id": "be209e1fe5ad1f9f",
@@ -560,17 +529,17 @@
           "first_seen": "2026-06-07T20:54:41.974Z"
         },
         {
-          "id": "8a8557c943297be7",
-          "title": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan? | Videos",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJGM3YxMkJpNTFDcmtNQ1F1cWg0aVVLeWsxV3NPZmxrbmM4YVpJQVc2ZHRYdnJhMWduYm9SZHlJeUFsSjF6NTZiX0EzVHFnZEJiLTZ1YkxqN094RE45R3BZV0lqdFdvT0cwbWhQaXJWM3VpajlTeTRqWUZjV1BoT0tkWU1SWENwd0Rxb0hEU3JxbF9pVnFzc2VpOHQyczdxX3p6OWNRVmZyZFN1UUdnSEZZT0FQWXY5VlpBU2oyam14QWNUQ2FzQnJrZ3FPdWw3OWfSAdcBQVVfeXFMT1BtR3NCSkJNYTVPcTAwTS1ydXJ1R3ZNamUzYnprdWVxaDlDRUExM29EdHZMY0RNZWtURm1HbzdoY0JhbUI5alVzWERROHVqc3h5UzVscDZIblNjWTlqRnkycU95SllqM2NkZ1J3TmRJdnowU0VCVklvRV95Wmt3Z2xSdFI5RHpDNEs2a2NIbngyODIxSmRrSElfZWZlVjQzYVFpX3BldGx3NXlvTXB1X0gwa0R1NnFxUlB0VXAxRThtZkpyb2VBWEpOaTR3RDNzUlZCS2hTZlU?oc=5",
-          "source": "Hindustan Times",
+          "id": "f4b69d6fefd66fee",
+          "title": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZ9IBzgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZw?oc=5",
+          "source": "simplywall.st",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-23T08:43:34.000Z",
-          "snippet": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan? | Videos Hindustan Times",
-          "score": 30,
+          "published_at": "2026-08-23T08:16:51.000Z",
+          "snippet": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge? simplywall.st",
+          "score": 28.9,
           "flags": [
             {
               "id": "reit",
@@ -579,51 +548,19 @@
             }
           ],
           "tone": "neutral",
-          "content_hash": "671158eb73ed18f7",
-          "cluster_id": "ff7865afe28f",
+          "content_hash": "8bfa6f335f0c4f1e",
+          "cluster_id": "3aaec6465f11",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "Hindustan Times",
-              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJGM3YxMkJpNTFDcmtNQ1F1cWg0aVVLeWsxV3NPZmxrbmM4YVpJQVc2ZHRYdnJhMWduYm9SZHlJeUFsSjF6NTZiX0EzVHFnZEJiLTZ1YkxqN094RE45R3BZV0lqdFdvT0cwbWhQaXJWM3VpajlTeTRqWUZjV1BoT0tkWU1SWENwd0Rxb0hEU3JxbF9pVnFzc2VpOHQyczdxX3p6OWNRVmZyZFN1UUdnSEZZT0FQWXY5VlpBU2oyam14QWNUQ2FzQnJrZ3FPdWw3OWfSAdcBQVVfeXFMT1BtR3NCSkJNYTVPcTAwTS1ydXJ1R3ZNamUzYnprdWVxaDlDRUExM29EdHZMY0RNZWtURm1HbzdoY0JhbUI5alVzWERROHVqc3h5UzVscDZIblNjWTlqRnkycU95SllqM2NkZ1J3TmRJdnowU0VCVklvRV95Wmt3Z2xSdFI5RHpDNEs2a2NIbngyODIxSmRrSElfZWZlVjQzYVFpX3BldGx3NXlvTXB1X0gwa0R1NnFxUlB0VXAxRThtZkpyb2VBWEpOaTR3RDNzUlZCS2hTZlU?oc=5"
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZ9IBzgFBVV95cUxNbVppZzlmaDk1cmZUYTFIcEZUMlFScDNGdEhmMm5iejdCT2dBbmp2dlpkUHpkSm1TODdUZGJLR003NHJEaXQwOUFMQnlLX01teC1zZDNHSGFFaWVDUG5ELXg2RVRlSjZnQ1dMand5QlRBdUJucm1ISWQ1T3FDZ2ZGUGw5ZC1lRW40YXFpSlJXeHh0ZkQtaGdvTFFVSkQ0SEtfRzhqZmZCUVJEWXViZml2elNVdlgwWnktZlFRYlk0NXE4VFR0M0lzZHRNUHZqZw?oc=5"
             }
           ],
-          "summary": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan?…",
-          "status": "NEW"
-        },
-        {
-          "id": "6d3da65f6e0810a1",
-          "title": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOG0tRGtrME1oVzZWUWVJM3lJaFNIckFaMmg5UGJaVExrZ1NqZlB1OTlaUDgyaWxBS2xJSlpjMFZham1VVmZxMENScWVsbUNEam9SVHFjWVd1QXM3QXJIREtSYTUySTNSQTgtX3BkSGJ2cnhHWFBwMEU2Y1lVTUFqN2VEcWJ0bHFobHJBcno3NXhZZUd2QkNJVlJmcF81d0psZXVaQnI0dTZNR1hvcFRzS1dCZVFGbGdXYTF3SW5wcHBGdVpTUDBlRkgxcTQ2M1c2Vzc1cHh0ZjYwcWRXcGdYRmRuOFVqcUp5NnfSAdsBQVVfeXFMTVZESTlOSjZYaTNQbEcybTVmWkJuanY2eFZpZjRicDlvbEJNVDIwb1R4cDFpbUhwR0V0QTBxeEJxRVJRTkQtaldYMll5WU1YakJFWE1IeWVhZmJ1U1p3Q3RTMXVoUmROam5NeHl2eHZfSE1nUjZaSGw1ckZpeTMtZWFnYnVhR1ZVVUUyMW9kWlF0ZjQ2VmtVODExejVUR2NBX3MweGJMazZjNVFTbFJ2Tm52bnhCSy1lZ0FKNGg5TEpOY2Q3WHplV1A2LVF6alRKb3ZYcDMxQlVjbnhn?oc=5",
-          "source": "vijesti.me",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-23T08:40:36.000Z",
-          "snippet": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić vijesti.me",
-          "score": 30,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "931c88ddcf449554",
-          "cluster_id": "fb21b0e27fc4",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "vijesti.me",
-              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOG0tRGtrME1oVzZWUWVJM3lJaFNIckFaMmg5UGJaVExrZ1NqZlB1OTlaUDgyaWxBS2xJSlpjMFZham1VVmZxMENScWVsbUNEam9SVHFjWVd1QXM3QXJIREtSYTUySTNSQTgtX3BkSGJ2cnhHWFBwMEU2Y1lVTUFqN2VEcWJ0bHFobHJBcno3NXhZZUd2QkNJVlJmcF81d0psZXVaQnI0dTZNR1hvcFRzS1dCZVFGbGdXYTF3SW5wcHBGdVpTUDBlRkgxcTQ2M1c2Vzc1cHh0ZjYwcWRXcGdYRmRuOFVqcUp5NnfSAdsBQVVfeXFMTVZESTlOSjZYaTNQbEcybTVmWkJuanY2eFZpZjRicDlvbEJNVDIwb1R4cDFpbUhwR0V0QTBxeEJxRVJRTkQtaldYMll5WU1YakJFWE1IeWVhZmJ1U1p3Q3RTMXVoUmROam5NeHl2eHZfSE1nUjZaSGw1ckZpeTMtZWFnYnVhR1ZVVUUyMW9kWlF0ZjQ2VmtVODExejVUR2NBX3MweGJMazZjNVFTbFJ2Tm52bnhCSy1lZ0FKNGg5TEpOY2Q3WHplV1A2LVF6alRKb3ZYcDMxQlVjbnhn?oc=5"
-            }
-          ],
-          "summary": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić vijesti.me…",
-          "status": "NEW"
+          "summary": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
         },
         {
           "id": "1697a75a75fc8c1e",
@@ -636,7 +573,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-23T07:11:14.000Z",
           "snippet": "I Drove The Lexus LM Luxury Van In Japan—It Redefines Executive Cars Motor1.com",
-          "score": 29,
+          "score": 28.5,
           "flags": [
             {
               "id": "reit",
@@ -670,7 +607,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-23T06:29:57.000Z",
           "snippet": "Is Lucid (LCID) Using Dutch Retail Partners to Quietly Redefine Its European Premium EV Strategy? simplywall.st",
-          "score": 28.7,
+          "score": 28.2,
           "flags": [
             {
               "id": "reit",
@@ -694,6 +631,74 @@
           "first_seen": "2026-08-23T06:53:01.538Z"
         },
         {
+          "id": "8a8557c943297be7",
+          "title": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan? | Videos",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJGM3YxMkJpNTFDcmtNQ1F1cWg0aVVLeWsxV3NPZmxrbmM4YVpJQVc2ZHRYdnJhMWduYm9SZHlJeUFsSjF6NTZiX0EzVHFnZEJiLTZ1YkxqN094RE45R3BZV0lqdFdvT0cwbWhQaXJWM3VpajlTeTRqWUZjV1BoT0tkWU1SWENwd0Rxb0hEU3JxbF9pVnFzc2VpOHQyczdxX3p6OWNRVmZyZFN1UUdnSEZZT0FQWXY5VlpBU2oyam14QWNUQ2FzQnJrZ3FPdWw3OWfSAdcBQVVfeXFMT1BtR3NCSkJNYTVPcTAwTS1ydXJ1R3ZNamUzYnprdWVxaDlDRUExM29EdHZMY0RNZWtURm1HbzdoY0JhbUI5alVzWERROHVqc3h5UzVscDZIblNjWTlqRnkycU95SllqM2NkZ1J3TmRJdnowU0VCVklvRV95Wmt3Z2xSdFI5RHpDNEs2a2NIbngyODIxSmRrSElfZWZlVjQzYVFpX3BldGx3NXlvTXB1X0gwa0R1NnFxUlB0VXAxRThtZkpyb2VBWEpOaTR3RDNzUlZCS2hTZlU?oc=5",
+          "source": "Hindustan Times",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-23T08:43:34.000Z",
+          "snippet": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan? | Videos Hindustan Times",
+          "score": 28.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "671158eb73ed18f7",
+          "cluster_id": "ff7865afe28f",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJGM3YxMkJpNTFDcmtNQ1F1cWg0aVVLeWsxV3NPZmxrbmM4YVpJQVc2ZHRYdnJhMWduYm9SZHlJeUFsSjF6NTZiX0EzVHFnZEJiLTZ1YkxqN094RE45R3BZV0lqdFdvT0cwbWhQaXJWM3VpajlTeTRqWUZjV1BoT0tkWU1SWENwd0Rxb0hEU3JxbF9pVnFzc2VpOHQyczdxX3p6OWNRVmZyZFN1UUdnSEZZT0FQWXY5VlpBU2oyam14QWNUQ2FzQnJrZ3FPdWw3OWfSAdcBQVVfeXFMT1BtR3NCSkJNYTVPcTAwTS1ydXJ1R3ZNamUzYnprdWVxaDlDRUExM29EdHZMY0RNZWtURm1HbzdoY0JhbUI5alVzWERROHVqc3h5UzVscDZIblNjWTlqRnkycU95SllqM2NkZ1J3TmRJdnowU0VCVklvRV95Wmt3Z2xSdFI5RHpDNEs2a2NIbngyODIxSmRrSElfZWZlVjQzYVFpX3BldGx3NXlvTXB1X0gwa0R1NnFxUlB0VXAxRThtZkpyb2VBWEpOaTR3RDNzUlZCS2hTZlU?oc=5"
+            }
+          ],
+          "summary": "China builds 1,500-acre sea fortress: Is Xi preparing new launchpad for Taiwan?…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
+        },
+        {
+          "id": "6d3da65f6e0810a1",
+          "title": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOG0tRGtrME1oVzZWUWVJM3lJaFNIckFaMmg5UGJaVExrZ1NqZlB1OTlaUDgyaWxBS2xJSlpjMFZham1VVmZxMENScWVsbUNEam9SVHFjWVd1QXM3QXJIREtSYTUySTNSQTgtX3BkSGJ2cnhHWFBwMEU2Y1lVTUFqN2VEcWJ0bHFobHJBcno3NXhZZUd2QkNJVlJmcF81d0psZXVaQnI0dTZNR1hvcFRzS1dCZVFGbGdXYTF3SW5wcHBGdVpTUDBlRkgxcTQ2M1c2Vzc1cHh0ZjYwcWRXcGdYRmRuOFVqcUp5NnfSAdsBQVVfeXFMTVZESTlOSjZYaTNQbEcybTVmWkJuanY2eFZpZjRicDlvbEJNVDIwb1R4cDFpbUhwR0V0QTBxeEJxRVJRTkQtaldYMll5WU1YakJFWE1IeWVhZmJ1U1p3Q3RTMXVoUmROam5NeHl2eHZfSE1nUjZaSGw1ckZpeTMtZWFnYnVhR1ZVVUUyMW9kWlF0ZjQ2VmtVODExejVUR2NBX3MweGJMazZjNVFTbFJ2Tm52bnhCSy1lZ0FKNGg5TEpOY2Q3WHplV1A2LVF6alRKb3ZYcDMxQlVjbnhn?oc=5",
+          "source": "vijesti.me",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-23T08:40:36.000Z",
+          "snippet": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić vijesti.me",
+          "score": 28.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "931c88ddcf449554",
+          "cluster_id": "fb21b0e27fc4",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "vijesti.me",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOG0tRGtrME1oVzZWUWVJM3lJaFNIckFaMmg5UGJaVExrZ1NqZlB1OTlaUDgyaWxBS2xJSlpjMFZham1VVmZxMENScWVsbUNEam9SVHFjWVd1QXM3QXJIREtSYTUySTNSQTgtX3BkSGJ2cnhHWFBwMEU2Y1lVTUFqN2VEcWJ0bHFobHJBcno3NXhZZUd2QkNJVlJmcF81d0psZXVaQnI0dTZNR1hvcFRzS1dCZVFGbGdXYTF3SW5wcHBGdVpTUDBlRkgxcTQ2M1c2Vzc1cHh0ZjYwcWRXcGdYRmRuOFVqcUp5NnfSAdsBQVVfeXFMTVZESTlOSjZYaTNQbEcybTVmWkJuanY2eFZpZjRicDlvbEJNVDIwb1R4cDFpbUhwR0V0QTBxeEJxRVJRTkQtaldYMll5WU1YakJFWE1IeWVhZmJ1U1p3Q3RTMXVoUmROam5NeHl2eHZfSE1nUjZaSGw1ckZpeTMtZWFnYnVhR1ZVVUUyMW9kWlF0ZjQ2VmtVODExejVUR2NBX3MweGJMazZjNVFTbFJ2Tm52bnhCSy1lZ0FKNGg5TEpOY2Q3WHplV1A2LVF6alRKb3ZYcDMxQlVjbnhn?oc=5"
+            }
+          ],
+          "summary": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić vijesti.me…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
+        },
+        {
           "id": "0739e55c2dee6d15",
           "title": "Fortress Financial Group LLC Invests $2.06 Million in Alerus Financial $ALRS",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZklFS3U0ZTF1ZENjbHBGN1FIX3hSVVQydGxOWDdqRFJrM2o3Z3kyc1dYSDk0MTA3RWZ5bWliNXcyVHI2VFJPdDdVUXpZdjJDY2Jsd0ppN2NIdTVjTmlEM3VkNU5PSDYzWGZwM2FJcXh5NXFBZVlsUUt1UzYzQW5iZmRuaEpyODVHTll3eDR5MFpuVG5hUExZR0cxeFRISVBQWThsbkRpblBHa1MwN1N4RlVhTXo3VjVIaXpQWTUwR0FaZlJGQmxKRUNDZzFxVk0?oc=5",
@@ -704,7 +709,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-23T08:09:46.000Z",
           "snippet": "Fortress Financial Group LLC Invests $2.06 Million in Alerus Financial $ALRS MarketBeat",
-          "score": 28.4,
+          "score": 27.9,
           "flags": [
             {
               "id": "reit",
@@ -724,7 +729,8 @@
             }
           ],
           "summary": "Fortress Financial Group LLC Invests $2.06 Million in Alerus Financial $ALRS MarketBeat…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
         },
         {
           "id": "7a2a3c437a932ca3",
@@ -737,7 +743,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-23T08:09:43.000Z",
           "snippet": "Fortress Financial Group LLC Takes $1.28 Million Position in Fastenal Company $FAST MarketBeat",
-          "score": 28.4,
+          "score": 27.9,
           "flags": [
             {
               "id": "reit",
@@ -757,7 +763,8 @@
             }
           ],
           "summary": "Fortress Financial Group LLC Takes $1.28 Million Position in Fastenal Company $FAST MarketBeat…",
-          "status": "NEW"
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
         },
         {
           "id": "06cefc0d4e7dae82",
@@ -770,7 +777,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-23T03:21:46.000Z",
           "snippet": "Damian Groenewald And Hayley Ward Crowned New Growthpoint Squash Champions The Bulrushes",
-          "score": 27.4,
+          "score": 27,
           "flags": [
             {
               "id": "reit",
@@ -792,39 +799,6 @@
           "summary": "Damian Groenewald And Hayley Ward Crowned New Growthpoint Squash Champions The Bulrushes…",
           "status": "ONGOING",
           "first_seen": "2026-08-23T05:36:09.960Z"
-        },
-        {
-          "id": "086dcb64ed48c4c1",
-          "title": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUtGaFFyVThnbDF2TVdtWElaTVN4anFNY3hjX3RMMHRTMTBwU01mdWh0VTM3ZHlXOXc4bEdpT2RmVXZRWjFNSHlIb1VLUVYxWWQzRk1OeTBtdGJHc3A4X2RyX1NzLXNuVnd1RjVxaDJieTROa1RqOEh1QzVHczB1Q2N0VHFLUQ?oc=5",
-          "source": "Defence Security Asia",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-23T05:46:19.000Z",
-          "snippet": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare Defence Security Asia",
-          "score": 27.4,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "1b7d33fa3d0fe9b1",
-          "cluster_id": "230a3789abf8",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Defence Security Asia",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUtGaFFyVThnbDF2TVdtWElaTVN4anFNY3hjX3RMMHRTMTBwU01mdWh0VTM3ZHlXOXc4bEdpT2RmVXZRWjFNSHlIb1VLUVYxWWQzRk1OeTBtdGJHc3A4X2RyX1NzLXNuVnd1RjVxaDJieTROa1RqOEh1QzVHczB1Q2N0VHFLUQ?oc=5"
-            }
-          ],
-          "summary": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare Defence Security Asia…",
-          "status": "NEW"
         },
         {
           "id": "4665ef111ed70308",
@@ -861,6 +835,40 @@
           "first_seen": "2026-08-21T05:38:57.494Z"
         },
         {
+          "id": "086dcb64ed48c4c1",
+          "title": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUtGaFFyVThnbDF2TVdtWElaTVN4anFNY3hjX3RMMHRTMTBwU01mdWh0VTM3ZHlXOXc4bEdpT2RmVXZRWjFNSHlIb1VLUVYxWWQzRk1OeTBtdGJHc3A4X2RyX1NzLXNuVnd1RjVxaDJieTROa1RqOEh1QzVHczB1Q2N0VHFLUQ?oc=5",
+          "source": "Defence Security Asia",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-23T05:46:19.000Z",
+          "snippet": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare Defence Security Asia",
+          "score": 26.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "1b7d33fa3d0fe9b1",
+          "cluster_id": "230a3789abf8",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Defence Security Asia",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUtGaFFyVThnbDF2TVdtWElaTVN4anFNY3hjX3RMMHRTMTBwU01mdWh0VTM3ZHlXOXc4bEdpT2RmVXZRWjFNSHlIb1VLUVYxWWQzRk1OeTBtdGJHc3A4X2RyX1NzLXNuVnd1RjVxaDJieTROa1RqOEh1QzVHczB1Q2N0VHFLUQ?oc=5"
+            }
+          ],
+          "summary": "China’s AI ‘Robotic Fortresses’ Could Transform South China Sea Warfare Defence Security Asia…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
+        },
+        {
           "id": "d88549513f442071",
           "title": "The Colțești Fortress and the Thorotzkay-Rudnyanszky Manor in Rimetea have been restored with an investment of approximately two million euros.",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDByMmo0MU1tSWctTzR6SDYya0RmZEtJbkFhQWhpSmRsam93Z0hmMHV0SnZZOE96NzF1ZW5hS3EyZ0xvSmFvR0hUOUdBVTl0Mk5hRmVfb1JwZS1lQWp3VDJqZEQ3NFVxcnJKWXdwYmJjWGhaMHlyZlJTdUZSTjZoQmhhdUJVR2xrS3Z3ckNpS3Y2Ty1VdVllR3h3aG1FcEk4M1lfckNRRGw3M3Q2eVFMUklhZUE3VC1iLUJfLWZwcE16Tm80NU5xVmRzdHM?oc=5",
@@ -871,7 +879,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T17:04:12.000Z",
           "snippet": "The Colțești Fortress and the Thorotzkay-Rudnyanszky Manor in Rimetea have been restored with an investment of approximately two million euros. Informat.ro",
-          "score": 26.6,
+          "score": 26.4,
           "flags": [
             {
               "id": "reit",
@@ -895,39 +903,6 @@
           "first_seen": "2026-08-22T18:26:38.361Z"
         },
         {
-          "id": "522773e6b9d1ab16",
-          "title": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative?",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmVfZ0swS0hvcTU0RmhCQnVsUVBLakMzT05sOU5fUk9OVVh0b1ZkWm1oVkZzcFFqMWFINE9rMmF0VlhFSEc0cEZJS0dONUVKOEl2MnM5X1ItdnBfWHFmNVNzamhxNTV4b2w5RFphN1ViVngxcnJtVlhRSlhVWG42ZXJKQWxZOU1QM3M2OFg3MktEX0lJY3lVcDVBWHlmMUtjRUR6aWZGeWk0V09wNC1yajRoOVlpeE42YkNqWFdtYVpnMGEtbVFQQVVBdHlHOWh1dDFGSjhneGN3NUpBNW5jSFR3?oc=5",
-          "source": "Sahm",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-23T00:27:51.000Z",
-          "snippet": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative? Sahm",
-          "score": 26.5,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "30ee49272080e138",
-          "cluster_id": "8c02f97fbef2",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Sahm",
-              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmVfZ0swS0hvcTU0RmhCQnVsUVBLakMzT05sOU5fUk9OVVh0b1ZkWm1oVkZzcFFqMWFINE9rMmF0VlhFSEc0cEZJS0dONUVKOEl2MnM5X1ItdnBfWHFmNVNzamhxNTV4b2w5RFphN1ViVngxcnJtVlhRSlhVWG42ZXJKQWxZOU1QM3M2OFg3MktEX0lJY3lVcDVBWHlmMUtjRUR6aWZGeWk0V09wNC1yajRoOVlpeE42YkNqWFdtYVpnMGEtbVFQQVVBdHlHOWh1dDFGSjhneGN3NUpBNW5jSFR3?oc=5"
-            }
-          ],
-          "summary": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative?…",
-          "status": "NEW"
-        },
-        {
           "id": "7db98674d7f6cb91",
           "title": "Great Portland stock holds at 340 pence as latest valuation metrics frame the outlook",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMjlEcHJobjFDM0JELW5mZm9ZRUxXUmZCenVGYnVPZEJ5MmhkeHdZWGluLWIzZGNpRmJ2REFVR3pyeXVkd0s0Zkc2U25NRHBUdF9nR1RfbTlzeXFYZDZxaDBOS1UxU1o1Vm1NNkxWTjhTbERHSUh1RGU1MXNvRW1SaXdTdVVSbTFScWZMcjdSaXo1eGt1ZXhicW1OV1BNVnRLU1hrMXY0Vlc5S19MMk5JSGlTdDJ6R3BjTTVaRDZiQkp1VzNuMFo0bzZwbjJPOXByVlE?oc=5",
@@ -938,7 +913,7 @@
           "feedWeight": 7,
           "published_at": "2026-08-22T09:17:10.000Z",
           "snippet": "Great Portland stock holds at 340 pence as latest valuation metrics frame the outlook Ad-hoc-news.de",
-          "score": 26.4,
+          "score": 26.2,
           "flags": [
             {
               "id": "reit",
@@ -962,6 +937,40 @@
           "first_seen": "2026-08-22T11:34:16.231Z"
         },
         {
+          "id": "522773e6b9d1ab16",
+          "title": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative?",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmVfZ0swS0hvcTU0RmhCQnVsUVBLakMzT05sOU5fUk9OVVh0b1ZkWm1oVkZzcFFqMWFINE9rMmF0VlhFSEc0cEZJS0dONUVKOEl2MnM5X1ItdnBfWHFmNVNzamhxNTV4b2w5RFphN1ViVngxcnJtVlhRSlhVWG42ZXJKQWxZOU1QM3M2OFg3MktEX0lJY3lVcDVBWHlmMUtjRUR6aWZGeWk0V09wNC1yajRoOVlpeE42YkNqWFdtYVpnMGEtbVFQQVVBdHlHOWh1dDFGSjhneGN3NUpBNW5jSFR3?oc=5",
+          "source": "Sahm",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-23T00:27:51.000Z",
+          "snippet": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative? Sahm",
+          "score": 26.1,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "30ee49272080e138",
+          "cluster_id": "8c02f97fbef2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Sahm",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmVfZ0swS0hvcTU0RmhCQnVsUVBLakMzT05sOU5fUk9OVVh0b1ZkWm1oVkZzcFFqMWFINE9rMmF0VlhFSEc0cEZJS0dONUVKOEl2MnM5X1ItdnBfWHFmNVNzamhxNTV4b2w5RFphN1ViVngxcnJtVlhRSlhVWG42ZXJKQWxZOU1QM3M2OFg3MktEX0lJY3lVcDVBWHlmMUtjRUR6aWZGeWk0V09wNC1yajRoOVlpeE42YkNqWFdtYVpnMGEtbVFQQVVBdHlHOWh1dDFGSjhneGN3NUpBNW5jSFR3?oc=5"
+            }
+          ],
+          "summary": "Will FDA-Backed Registrational Phase 2 for CLN-049 Redefine Cullinan Therapeutics' (CGEM) Narrative?…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T11:15:20.060Z"
+        },
+        {
           "id": "e8a4dbf90c23281f",
           "title": "Russian groups keep trying—and failing—to reach Lyman, gateway to Donbas' fortress belt, officer says",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFhtWVptbl9QVU1vSnZReWp3UHFvSDQ2ODFENjFBQ3FRTndSQnhHVGg4WEFwQ3N5UTFGOTgtT3pqT19OZGhlOEQ4QWNBODJBR0lISkQ2MDVOOVJHUVZyaU5iVXltVHZ6MmpOcnByX2l2VGpPc2NTbzZYc2FIWGFBaXR6MW9lNS1McUh0Z0RIa004TFRZVy04QUdsU2dVeTYydU9nUFRGSjlLSFJPelJSUW9IOFNvRWhPdHpoWHpueGtGcmM2VGNxaEVBSFlOTHNxQThGdw?oc=5",
@@ -972,7 +981,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T20:58:35.000Z",
           "snippet": "Russian groups keep trying—and failing—to reach Lyman, gateway to Donbas' fortress belt, officer says Euromaidan Press",
-          "score": 26.2,
+          "score": 26.1,
           "flags": [
             {
               "id": "reit",
@@ -1006,7 +1015,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T21:00:00.000Z",
           "snippet": "New Fortress Energy Inc. Announces Resignation of Christopher S. Guinta from Chief Financial Officer, Effective August 21, 2026 marketscreener.com",
-          "score": 26.2,
+          "score": 26.1,
           "flags": [
             {
               "id": "reit",
@@ -1028,40 +1037,6 @@
           "summary": "New Fortress Energy Inc. Announces Resignation of Christopher S. Guinta from Chief Financial Officer, Effective August 21, 2026 marketscreener.com…",
           "status": "ONGOING",
           "first_seen": "2026-08-22T11:34:16.231Z"
-        },
-        {
-          "id": "808c0cc3bc979440",
-          "title": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B)",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UER2U2pXM2pNTTZYa3lmc1FaSU85MC02MlhnM052ZHF6N0szNnNlWFpKbk1oc2NEcTNqSk83RklBeE56TjNqMjhUbENWenAyeHc2Mi1hWEQ1ME0?oc=5",
-          "source": "Mshale",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-22T23:05:05.000Z",
-          "snippet": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B) Mshale",
-          "score": 26.1,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "0bdd013ead551c96",
-          "cluster_id": "1d77a6d9127c",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Mshale",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UER2U2pXM2pNTTZYa3lmc1FaSU85MC02MlhnM052ZHF6N0szNnNlWFpKbk1oc2NEcTNqSk83RklBeE56TjNqMjhUbENWenAyeHc2Mi1hWEQ1ME0?oc=5"
-            }
-          ],
-          "summary": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B) Mshale…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-23T05:36:09.960Z"
         },
         {
           "id": "e35b8ea663ec8df4",
@@ -1234,6 +1209,40 @@
           "first_seen": "2026-08-21T05:38:57.494Z"
         },
         {
+          "id": "808c0cc3bc979440",
+          "title": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UER2U2pXM2pNTTZYa3lmc1FaSU85MC02MlhnM052ZHF6N0szNnNlWFpKbk1oc2NEcTNqSk83RklBeE56TjNqMjhUbENWenAyeHc2Mi1hWEQ1ME0?oc=5",
+          "source": "Mshale",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-22T23:05:05.000Z",
+          "snippet": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B) Mshale",
+          "score": 25.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "0bdd013ead551c96",
+          "cluster_id": "1d77a6d9127c",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Mshale",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UER2U2pXM2pNTTZYa3lmc1FaSU85MC02MlhnM052ZHF6N0szNnNlWFpKbk1oc2NEcTNqSk83RklBeE56TjNqMjhUbENWenAyeHc2Mi1hWEQ1ME0?oc=5"
+            }
+          ],
+          "summary": "$7 Billion, One Tunnel: The Fehmarnbelt Project That Could Redefine European Travel Norvegia (YNH5f2zU5B) Mshale…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T05:36:09.960Z"
+        },
+        {
           "id": "4564d8b9219e5b05",
           "title": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg?oc=5",
@@ -1244,7 +1253,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T21:17:11.000Z",
           "snippet": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches StreetInsider",
-          "score": 25.6,
+          "score": 25.3,
           "flags": [
             {
               "id": "reit",
@@ -1264,40 +1273,6 @@
             }
           ],
           "summary": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches StreetInsider…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-23T05:36:09.960Z"
-        },
-        {
-          "id": "26bf543e65fab2cd",
-          "title": "Young Americans redefine the American dream as costs rise and priorities shift",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTZJRlBVUV9vQjA1MWRMV09KSXl5bnFXTEZ2QTUyUG5PejM5ektqX0h2UTdZNG9HaWpjc1p4LVg5M0tSU3hSOW42NmxwS0p2b0VjTHJOODRLVDVvRDJQdC1UWTNGcVZ5TGlVQ3ZmdDVFZDU2NUgyT2dGZ0l0M1dxTkJWV0JNMHprX3R3?oc=5",
-          "source": "AOL.com",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-22T19:29:28.000Z",
-          "snippet": "Young Americans redefine the American dream as costs rise and priorities shift AOL.com",
-          "score": 25.2,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "f634bc4c5a3e5804",
-          "cluster_id": "4430d47f882d",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "AOL.com",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTZJRlBVUV9vQjA1MWRMV09KSXl5bnFXTEZ2QTUyUG5PejM5ektqX0h2UTdZNG9HaWpjc1p4LVg5M0tSU3hSOW42NmxwS0p2b0VjTHJOODRLVDVvRDJQdC1UWTNGcVZ5TGlVQ3ZmdDVFZDU2NUgyT2dGZ0l0M1dxTkJWV0JNMHprX3R3?oc=5"
-            }
-          ],
-          "summary": "Young Americans redefine the American dream as costs rise and priorities shift AOL.com…",
           "status": "ONGOING",
           "first_seen": "2026-08-23T05:36:09.960Z"
         },
@@ -1370,6 +1345,40 @@
           "first_seen": "2026-08-22T11:34:16.231Z"
         },
         {
+          "id": "ce04b9ed7866ce2f",
+          "title": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3lXNmhkR1RxMFlMT0xuZFNCZFZvSkhkb0RmZTV1NlQtTWtvaklqNVFxZHE2QUlpTnBUdF8xUlVQM1ZLMnoyOE9OSWh0XzFOajBPTC1VV01qR1NsVXFuclRCZ0o1ZkIyZXB6Q3M2dHpoOTkyZDNzc0FFazk0MkNxMVBpSXl6cEoyVnd5VTVaUWlfMTRfN3pmV0ZlN2tuNENRWXF1T1dWZnJqU1ZQOWpNM3psQ1h6MG9ILWRPWjVqdlc1ZXpMc0RGM2g1S0d4ZDZQbFVQYWloZzR5MjNOcGc?oc=5",
+          "source": "Business Review",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-20T16:41:02.000Z",
+          "snippet": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income Business Review",
+          "score": 25,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "566250543222280d",
+          "cluster_id": "329d25091644",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Business Review",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3lXNmhkR1RxMFlMT0xuZFNCZFZvSkhkb0RmZTV1NlQtTWtvaklqNVFxZHE2QUlpTnBUdF8xUlVQM1ZLMnoyOE9OSWh0XzFOajBPTC1VV01qR1NsVXFuclRCZ0o1ZkIyZXB6Q3M2dHpoOTkyZDNzc0FFazk0MkNxMVBpSXl6cEoyVnd5VTVaUWlfMTRfN3pmV0ZlN2tuNENRWXF1T1dWZnJqU1ZQOWpNM3psQ1h6MG9ILWRPWjVqdlc1ZXpMc0RGM2g1S0d4ZDZQbFVQYWloZzR5MjNOcGc?oc=5"
+            }
+          ],
+          "summary": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income Business Review…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-20T23:26:32.295Z"
+        },
+        {
           "id": "47836e94f32406fd",
           "title": "Can Zscaler’s (ZS) Carahsoft SMB Push Quietly Redefine Its Core Zero Trust Investment Story?",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFk3YkFNdVRGS3ZOWUZfY3dLSU5obGVyMWtsYUctTXdxZkZneklPY0QzbVhRT3FTbHRPSFVscmFXdV9BdC01S1BTSG5EN0pyTWFDQ2o0TGJVQ1dhUUFzSG1MUjdXZ0hpMTRZbGJLY3hneExpQktDeE9SYlFURzlLMV93RWI?oc=5",
@@ -1410,40 +1419,6 @@
           "first_seen": "2026-08-21T05:38:57.494Z"
         },
         {
-          "id": "ce04b9ed7866ce2f",
-          "title": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3lXNmhkR1RxMFlMT0xuZFNCZFZvSkhkb0RmZTV1NlQtTWtvaklqNVFxZHE2QUlpTnBUdF8xUlVQM1ZLMnoyOE9OSWh0XzFOajBPTC1VV01qR1NsVXFuclRCZ0o1ZkIyZXB6Q3M2dHpoOTkyZDNzc0FFazk0MkNxMVBpSXl6cEoyVnd5VTVaUWlfMTRfN3pmV0ZlN2tuNENRWXF1T1dWZnJqU1ZQOWpNM3psQ1h6MG9ILWRPWjVqdlc1ZXpMc0RGM2g1S0d4ZDZQbFVQYWloZzR5MjNOcGc?oc=5",
-          "source": "Business Review",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-20T16:41:02.000Z",
-          "snippet": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income Business Review",
-          "score": 25,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "566250543222280d",
-          "cluster_id": "329d25091644",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Business Review",
-              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3lXNmhkR1RxMFlMT0xuZFNCZFZvSkhkb0RmZTV1NlQtTWtvaklqNVFxZHE2QUlpTnBUdF8xUlVQM1ZLMnoyOE9OSWh0XzFOajBPTC1VV01qR1NsVXFuclRCZ0o1ZkIyZXB6Q3M2dHpoOTkyZDNzc0FFazk0MkNxMVBpSXl6cEoyVnd5VTVaUWlfMTRfN3pmV0ZlN2tuNENRWXF1T1dWZnJqU1ZQOWpNM3psQ1h6MG9ILWRPWjVqdlc1ZXpMc0RGM2g1S0d4ZDZQbFVQYWloZzR5MjNOcGc?oc=5"
-            }
-          ],
-          "summary": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income Business Review…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-20T23:26:32.295Z"
-        },
-        {
           "id": "b73a2c4d8fb6b593",
           "title": "Dark Horse to Release Vampire Hunter D: Rose Princess Manga, Vampire Hunter D: Fortress of Blood Comic, The Case of Charles Dexter Ward Manga (Updated)",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzFKQzRtQTYwLWxmZW9ZaUtkX0EzSHNtWUU0WFVWQjBVaXltZGpaT21FZjlVYlpUVUExX0Zkd2lZRVBMSjdlem9kZ2Rrb2F3aWdXVkNlTmVpcXhBVmRxeXV2ZncwTFBETFduYVNtNnBSSUd6bU9HdUtTLXNTQkRTOEVTd3JLTnkyakJ6c2hoelJrYnBJbmZ3UFAtODR2VGFHbUFwMHRpeFN1Q0M1UjRtZTRFcjQ4Wl9LaHczdV9lTFFtbzZ4bTB2eW43czFKcS04SGE2Nlc4VUFSREptQ1FoSl9mQm5CMXhFV2hDa21B?oc=5",
@@ -1478,6 +1453,40 @@
           "first_seen": "2026-08-21T17:26:10.851Z"
         },
         {
+          "id": "26bf543e65fab2cd",
+          "title": "Young Americans redefine the American dream as costs rise and priorities shift",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTZJRlBVUV9vQjA1MWRMV09KSXl5bnFXTEZ2QTUyUG5PejM5ektqX0h2UTdZNG9HaWpjc1p4LVg5M0tSU3hSOW42NmxwS0p2b0VjTHJOODRLVDVvRDJQdC1UWTNGcVZ5TGlVQ3ZmdDVFZDU2NUgyT2dGZ0l0M1dxTkJWV0JNMHprX3R3?oc=5",
+          "source": "AOL.com",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-22T19:29:28.000Z",
+          "snippet": "Young Americans redefine the American dream as costs rise and priorities shift AOL.com",
+          "score": 24.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "f634bc4c5a3e5804",
+          "cluster_id": "4430d47f882d",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "AOL.com",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeTZJRlBVUV9vQjA1MWRMV09KSXl5bnFXTEZ2QTUyUG5PejM5ektqX0h2UTdZNG9HaWpjc1p4LVg5M0tSU3hSOW42NmxwS0p2b0VjTHJOODRLVDVvRDJQdC1UWTNGcVZ5TGlVQ3ZmdDVFZDU2NUgyT2dGZ0l0M1dxTkJWV0JNMHprX3R3?oc=5"
+            }
+          ],
+          "summary": "Young Americans redefine the American dream as costs rise and priorities shift AOL.com…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-23T05:36:09.960Z"
+        },
+        {
           "id": "59a966f866f91ce4",
           "title": "WyoTech's Female Enrollment Doubles as Women Redefine the Skilled Trades Workforce",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRjdqUXpqOS1TRlFyWFJwOGFVMEtwVHNNTXA0aFp1WmZwMlMxX0IxVG4xZ0FXZC1YaGNSUXlkejA3eTlMdktrbUZJcE04U3lJTFJhVHVCVkZncXB4amt1R2JSdzExRTJHa2M5a0RfQ3J1ZkdDRXFQeHVPUjBUUG80Y2FrQzhWVmNTbkUzWjZFQnFGVGR0cDFMX1BtVmFjZ3RlNUM4REFCUlVNNHBQb0ZrZnpXTlNzaUNmSHBfb0hsZ0pxNVBtN2Q2RWsyUUw1eld1ck1rNDlpWUVybHVYQkFuYjhpWDhEQmtXVk84V1FIUkZMckRWakJIeTBhODJUdlpiTjUzbmNkb1NsVWc?oc=5",
@@ -1488,7 +1497,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T18:33:12.000Z",
           "snippet": "WyoTech's Female Enrollment Doubles as Women Redefine the Skilled Trades Workforce Chronicle-Tribune",
-          "score": 25,
+          "score": 24.7,
           "flags": [
             {
               "id": "reit",
@@ -1522,7 +1531,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T15:29:53.000Z",
           "snippet": "Opinion | New York’s Childcare Expansion Could Redefine Early Education Common Dreams",
-          "score": 24.3,
+          "score": 24.1,
           "flags": [
             {
               "id": "reit",
@@ -1542,40 +1551,6 @@
             }
           ],
           "summary": "Opinion | New York’s Childcare Expansion Could Redefine Early Education Common Dreams…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-22T17:18:15.662Z"
-        },
-        {
-          "id": "1a15094bdf7afb24",
-          "title": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative?",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUdIB7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUQ?oc=5",
-          "source": "simplywall.st",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-22T14:27:07.000Z",
-          "snippet": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative? simplywall.st",
-          "score": 24.1,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "764f9c9b10a9c23e",
-          "cluster_id": "3522d1050b18",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "simplywall.st",
-              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUdIB7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUQ?oc=5"
-            }
-          ],
-          "summary": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative?…",
           "status": "ONGOING",
           "first_seen": "2026-08-22T17:18:15.662Z"
         },
@@ -1614,6 +1589,40 @@
           "first_seen": "2026-08-20T23:26:32.295Z"
         },
         {
+          "id": "1a15094bdf7afb24",
+          "title": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative?",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUdIB7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUQ?oc=5",
+          "source": "simplywall.st",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-22T14:27:07.000Z",
+          "snippet": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative? simplywall.st",
+          "score": 23.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "764f9c9b10a9c23e",
+          "cluster_id": "3522d1050b18",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "simplywall.st",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUdIB7wFBVV95cUxQam1FeUFUc2dLV2U0WThCdTVma1lYaEsxWFpXUmdlb1RIRHhqd2JTSEU4UGFiSHZTTHU1dkk5eVI1b0FOR1NGUUlOcGx4WGthR05oaFkwM1lxRGk3aTB1bVc5bVJpZFI2eXpTbExaaUpoeGNKVDVWVHFXZkV0S09JMkI3QzBnaHFTMmRUWkF0RndTNURIY20wRmMzZUFLdzExaUlPb0VJeUVRSWp3S2pWM3E1dXZaWkk3dXNEZE9oLVU0N180eGZhSldHM2FmSGdIU1BwTHg3LVRJZ1IwLTBkUWhWZy1wQXhvMVI2eG1zUQ?oc=5"
+            }
+          ],
+          "summary": "Will Piper Sandler's (PIPR) New Secondary Advisory Hire Redefine Its Private Capital Narrative?…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-22T17:18:15.662Z"
+        },
+        {
           "id": "237ab1408c0dda64",
           "title": "Sydney Sweeney Dresses as Wonder Woman, Boyfriend Scooter Braun as Superman",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWW43N1JKSEY4ZExPS2ZyZ1RlNXVtSUtvY2xiQ014Zmc1MXhXU0ktUTMzVTRxVHJKaUhnNlJEN2VLaVlZQWpUaUdyYTB2S2EtdnBvZkt2M3ZRMU14S1ZrT1VwbWRFcUxrMzZvQ180MS1UWUtRTTgya3lobThZVEJpT1NUWW9SUDhHRXc?oc=5",
@@ -1624,7 +1633,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T18:24:34.000Z",
           "snippet": "Sydney Sweeney Dresses as Wonder Woman, Boyfriend Scooter Braun as Superman fortressofsolitude.co.za",
-          "score": 23.9,
+          "score": 23.7,
           "flags": [
             {
               "id": "reit",
@@ -1648,40 +1657,6 @@
           "first_seen": "2026-08-23T06:53:01.538Z"
         },
         {
-          "id": "e2874f6f81288576",
-          "title": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmQyMlRBVVQxcmZaSnRDMjNseXBEdnBzY1pRbVlJRm5DeFlUWUNFaDR3b1o5Wm5zaW9BY0NUU2RmWHBKUzI5T2x2T1JEUlJmS2dRaWZZS1pUVEhqZkEzUUJMbENjSEJtUUhtd00tMzVBSndFQ3ZOemo5YXQzeVp5elBGbDFuWEljbGtWS2M4TWtHZTVFeGJz?oc=5",
-          "source": "fortressofsolitude.co.za",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-22T17:47:39.000Z",
-          "snippet": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’ fortressofsolitude.co.za",
-          "score": 23.8,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "7c67824529fe2f4d",
-          "cluster_id": "a01f7660b9cf",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "fortressofsolitude.co.za",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmQyMlRBVVQxcmZaSnRDMjNseXBEdnBzY1pRbVlJRm5DeFlUWUNFaDR3b1o5Wm5zaW9BY0NUU2RmWHBKUzI5T2x2T1JEUlJmS2dRaWZZS1pUVEhqZkEzUUJMbENjSEJtUUhtd00tMzVBSndFQ3ZOemo5YXQzeVp5elBGbDFuWEljbGtWS2M4TWtHZTVFeGJz?oc=5"
-            }
-          ],
-          "summary": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’ fortressofsolitude.co.za…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-23T05:36:09.960Z"
-        },
-        {
           "id": "d4de97cdfbae7ddc",
           "title": "How Sifuna’s quest for a new party could redefine Linda Mwananchi as 2027 nears",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnFOOWVOd2J2aEQyaS1lTjZqRE5Pb2NRWC1tdWxTNE9sc2ZPSTJaSmxOWUVtdHltU1RuUWxLZ2x2V3NfdUxyUEdwaXNKMV9FeWROQlN6SDdqMmFvWkNWbE5meFdxTDE4cTNXYWJLSnRsdW96RVNyWkctdHBDOFlzNlUzdmhZTm9lX2xwWHg4Mm9KUnJzeXhTT1ZLTXU0NHdydFFuSGRuRVJKOVNiNkt0di1PZTN2QlNIUVA0?oc=5",
@@ -1692,7 +1667,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T12:00:16.000Z",
           "snippet": "How Sifuna’s quest for a new party could redefine Linda Mwananchi as 2027 nears The Eastleigh Voice",
-          "score": 23.7,
+          "score": 23.6,
           "flags": [
             {
               "id": "reit",
@@ -1716,16 +1691,16 @@
           "first_seen": "2026-08-22T12:25:28.634Z"
         },
         {
-          "id": "8819982d5f765f53",
-          "title": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWROOXdjazNrd3RLMVdUelgxdGROVXhDNXBlX0NqVXMyeXlYcW4wZ282VVhianU5eEpBNHJwdWZldzRIRE1ENElzbXBUVXB5aHk4UTNvcWRsdks1akh5RnctR05EaHgtVDlmNGJFZDFmNzg2NzRCODNyTXZQWEZKTjJZUQ?oc=5",
-          "source": "Yahoo News Canada",
+          "id": "e2874f6f81288576",
+          "title": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmQyMlRBVVQxcmZaSnRDMjNseXBEdnBzY1pRbVlJRm5DeFlUWUNFaDR3b1o5Wm5zaW9BY0NUU2RmWHBKUzI5T2x2T1JEUlJmS2dRaWZZS1pUVEhqZkEzUUJMbENjSEJtUUhtd00tMzVBSndFQ3ZOemo5YXQzeVp5elBGbDFuWEljbGtWS2M4TWtHZTVFeGJz?oc=5",
+          "source": "fortressofsolitude.co.za",
           "section": "realestate",
           "subsection": "sa-listed",
           "geo": "sa",
           "feedWeight": 8,
-          "published_at": "2026-08-22T16:29:38.000Z",
-          "snippet": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre Yahoo News Canada",
+          "published_at": "2026-08-22T17:47:39.000Z",
+          "snippet": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’ fortressofsolitude.co.za",
           "score": 23.5,
           "flags": [
             {
@@ -1734,20 +1709,20 @@
               "tone": "neutral"
             }
           ],
-          "tone": "positive",
-          "content_hash": "e70cc7771c231cef",
-          "cluster_id": "5be152e46841",
+          "tone": "neutral",
+          "content_hash": "7c67824529fe2f4d",
+          "cluster_id": "a01f7660b9cf",
           "duplicate_count": 1,
           "also_in": [],
           "all_links": [
             {
-              "source": "Yahoo News Canada",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWROOXdjazNrd3RLMVdUelgxdGROVXhDNXBlX0NqVXMyeXlYcW4wZ282VVhianU5eEpBNHJwdWZldzRIRE1ENElzbXBUVXB5aHk4UTNvcWRsdks1akh5RnctR05EaHgtVDlmNGJFZDFmNzg2NzRCODNyTXZQWEZKTjJZUQ?oc=5"
+              "source": "fortressofsolitude.co.za",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmQyMlRBVVQxcmZaSnRDMjNseXBEdnBzY1pRbVlJRm5DeFlUWUNFaDR3b1o5Wm5zaW9BY0NUU2RmWHBKUzI5T2x2T1JEUlJmS2dRaWZZS1pUVEhqZkEzUUJMbENjSEJtUUhtd00tMzVBSndFQ3ZOemo5YXQzeVp5elBGbDFuWEljbGtWS2M4TWtHZTVFeGJz?oc=5"
             }
           ],
-          "summary": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre Yahoo News Canada…",
+          "summary": "National Treasure 3 Director Confirms It’s Happening — ‘Unless Nic Cage Gets Hit By A Bus’ fortressofsolitude.co.za…",
           "status": "ONGOING",
-          "first_seen": "2026-08-22T17:18:15.662Z"
+          "first_seen": "2026-08-23T05:36:09.960Z"
         },
         {
           "id": "f32c72d9da0ed0d5",
@@ -1760,7 +1735,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T10:24:59.000Z",
           "snippet": "Ethiopia’s Unity Can Redefine Africa’s Future, Says Uhuru Kenyatta ENA English",
-          "score": 23.5,
+          "score": 23.4,
           "flags": [
             {
               "id": "reit",
@@ -1784,6 +1759,40 @@
           "first_seen": "2026-08-22T11:34:16.231Z"
         },
         {
+          "id": "8819982d5f765f53",
+          "title": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWROOXdjazNrd3RLMVdUelgxdGROVXhDNXBlX0NqVXMyeXlYcW4wZ282VVhianU5eEpBNHJwdWZldzRIRE1ENElzbXBUVXB5aHk4UTNvcWRsdks1akh5RnctR05EaHgtVDlmNGJFZDFmNzg2NzRCODNyTXZQWEZKTjJZUQ?oc=5",
+          "source": "Yahoo News Canada",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-22T16:29:38.000Z",
+          "snippet": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre Yahoo News Canada",
+          "score": 23.3,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "e70cc7771c231cef",
+          "cluster_id": "5be152e46841",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Yahoo News Canada",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWROOXdjazNrd3RLMVdUelgxdGROVXhDNXBlX0NqVXMyeXlYcW4wZ282VVhianU5eEpBNHJwdWZldzRIRE1ENElzbXBUVXB5aHk4UTNvcWRsdks1akh5RnctR05EaHgtVDlmNGJFZDFmNzg2NzRCODNyTXZQWEZKTjJZUQ?oc=5"
+            }
+          ],
+          "summary": "Abandoned fortress upgrade plans aim to help 'regenerate' town centre Yahoo News Canada…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-22T17:18:15.662Z"
+        },
+        {
           "id": "bff33f4a0ce93879",
           "title": "This abandoned Soviet fortress still guards Russia’s coast near North Korea",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLTQ0YTR1d0Y3OXpEbmtUNHRuSFRiMWRNWUR1Qi1SalZudWhicGpaR2tUeWJ0WXFxMkw3MVZjMXdCYWZIZ2Frc0RVYXdTZGJIdkdwSHBXeWJwQm1CbjNLXzhtOTM3bFptbTBVSU1NX0JoVUEtazhIMTJKamxkRDZuVG1tRFNCLUVwWmcxNC1Ia28wZ2UxWEJDclpRVGxaMVEzZzYxcldQQzVRRDNjWEhKa0NFbXBjY2x2MGhKbmhpYWcxSmNwNlljc01faHk1YTdDZUcyaVBIYXRXTTZ0RmwxSUMyYkt3ZlZWUXR6V3dUNkN5Q1ZOa2U5VlN3?oc=5",
@@ -1794,7 +1803,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T15:43:32.000Z",
           "snippet": "This abandoned Soviet fortress still guards Russia’s coast near North Korea MSN",
-          "score": 23.4,
+          "score": 23.2,
           "flags": [
             {
               "id": "reit",
@@ -1828,7 +1837,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T08:26:36.000Z",
           "snippet": "Trafford Centre launches sector-leading foundation to drive community impact and redefine ESG in retail Trending Now Infrastructure",
-          "score": 23.3,
+          "score": 23.1,
           "flags": [
             {
               "id": "reit",
@@ -1862,7 +1871,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T08:31:01.000Z",
           "snippet": "EU Sterilisation Overhaul Set to Redefine Equipment Ownership and Liability by 2027 Ad-hoc-news.de",
-          "score": 23.3,
+          "score": 23.1,
           "flags": [
             {
               "id": "reit",
@@ -1930,7 +1939,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T12:07:00.000Z",
           "snippet": "Chinese coastguard proposes turning South China Sea isles into robotic fortress The Star",
-          "score": 22.8,
+          "score": 22.6,
           "flags": [
             {
               "id": "reit",
@@ -1964,7 +1973,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T03:12:17.000Z",
           "snippet": "Six Crimes Off Death Row: How Vietnam’s Legal Reform Could Redefine Punishment and Justice Devdiscourse",
-          "score": 22.7,
+          "score": 22.6,
           "flags": [
             {
               "id": "reit",
@@ -1998,7 +2007,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T20:28:19.000Z",
           "snippet": "Merzigo seeks to redefine premium content distribution in the era of platforms and social media produ",
-          "score": 22.2,
+          "score": 22.1,
           "flags": [
             {
               "id": "reit",
@@ -2020,80 +2029,6 @@
           "summary": "Merzigo seeks to redefine premium content distribution in the era of platforms and social media produ…",
           "status": "ONGOING",
           "first_seen": "2026-08-22T11:34:16.231Z"
-        },
-        {
-          "id": "9b77890117aac48f",
-          "title": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUF9Qc2I3S3VWZVhkVXdPMUZtekpSWGpvUk4tTWVCNVNMc09hQ0YwdXJLYUNKai1QS2dsWmhOWlh5bk9WS1RtVjlXY0RUdVZ4M0E?oc=5",
-          "source": "TOLOnews",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-22T06:44:21.000Z",
-          "snippet": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse TOLOnews",
-          "score": 22.1,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "d392c5d229b92a1c",
-          "cluster_id": "ffb27ac627d0",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "TOLOnews",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUF9Qc2I3S3VWZVhkVXdPMUZtekpSWGpvUk4tTWVCNVNMc09hQ0YwdXJLYUNKai1QS2dsWmhOWlh5bk9WS1RtVjlXY0RUdVZ4M0E?oc=5"
-            }
-          ],
-          "summary": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse TOLOnews…",
-          "status": "ONGOING",
-          "first_seen": "2026-07-05T08:07:33.608Z"
-        },
-        {
-          "id": "0f69156a2ff37b33",
-          "title": "Derwent London stock holds steady as 2026 gains consolidate",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5",
-          "source": "Ad-hoc-news.de",
-          "section": "realestate",
-          "subsection": "uk-leasing",
-          "geo": "uk",
-          "feedWeight": 7,
-          "published_at": "2026-08-22T13:18:12.000Z",
-          "snippet": "Derwent London stock holds steady as 2026 gains consolidate Ad-hoc-news.de",
-          "score": 22,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "positive",
-          "content_hash": "8dd32b3355eee9ef",
-          "cluster_id": "95eddd2d4cf7",
-          "duplicate_count": 2,
-          "also_in": [
-            "Ad-hoc-news.de"
-          ],
-          "all_links": [
-            {
-              "source": "Ad-hoc-news.de",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5"
-            },
-            {
-              "source": "Ad-hoc-news.de",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5"
-            }
-          ],
-          "summary": "Derwent London stock holds steady as 2026 gains consolidate Ad-hoc-news.de…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-22T17:18:15.662Z"
         },
         {
           "id": "a3cfc44fa8b39a15",
@@ -2192,40 +2127,6 @@
           "first_seen": "2026-08-20T23:26:32.295Z"
         },
         {
-          "id": "7a273ef879a66f79",
-          "title": "Pega Bets Governance-Native AI Will Redefine Customer Engagement",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUgxWlRPTUFHenNEMzlNQ2lNWTBVeS02dGY0emREb2Z4WmpiRTFJd0RuMUdndXBfUlNuM1ZNdGNtR0ZlWVAyMjdMcmw3S0hLT09zUEFsclVUZnBQdXIyZDNaNzBmZ0pZU0pvQWJlNkFsclMzNXlhQXZFYzMwWTB1RFVjOWtBQVJDcDBacURUUmFLc2dNUG9VZ2ZTM2dLM1Q4?oc=5",
-          "source": "The Futurum Group",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-21T14:10:50.000Z",
-          "snippet": "Pega Bets Governance-Native AI Will Redefine Customer Engagement The Futurum Group",
-          "score": 22,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "9a567172e594cc94",
-          "cluster_id": "193911e4b981",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "The Futurum Group",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUgxWlRPTUFHenNEMzlNQ2lNWTBVeS02dGY0emREb2Z4WmpiRTFJd0RuMUdndXBfUlNuM1ZNdGNtR0ZlWVAyMjdMcmw3S0hLT09zUEFsclVUZnBQdXIyZDNaNzBmZ0pZU0pvQWJlNkFsclMzNXlhQXZFYzMwWTB1RFVjOWtBQVJDcDBacURUUmFLc2dNUG9VZ2ZTM2dLM1Q4?oc=5"
-            }
-          ],
-          "summary": "Pega Bets Governance-Native AI Will Redefine Customer Engagement The Futurum Group…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-21T18:33:13.543Z"
-        },
-        {
           "id": "15d332497c4043cf",
           "title": "How a continuous learning cycle will redefine national advantage",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMEZLTHJOQUI4UUdNMks3MVdDY1VWczJHY2JldkZhb2RBemNDUTBZQnFIU29tTXk4OTVzcDdyRGxUNURvX0RFVmxxQVpsS1NTOG04OWc0LU9jazBES0lvMmUzd0JKNHFsTmxsdHZfUlJjTzRJREVGdVYtVnlMaGp6V2l3YzJWRnFPUEltMXowRUlscTdTREhVMmxLeWJMa0JDWnVyWF96dlJUNnFNaDZwdXNLMDhZYmxkV2pNdVpfYTM?oc=5",
@@ -2258,6 +2159,40 @@
           "summary": "How a continuous learning cycle will redefine national advantage Washington Technology…",
           "status": "ONGOING",
           "first_seen": "2026-08-21T17:26:10.851Z"
+        },
+        {
+          "id": "7a273ef879a66f79",
+          "title": "Pega Bets Governance-Native AI Will Redefine Customer Engagement",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUgxWlRPTUFHenNEMzlNQ2lNWTBVeS02dGY0emREb2Z4WmpiRTFJd0RuMUdndXBfUlNuM1ZNdGNtR0ZlWVAyMjdMcmw3S0hLT09zUEFsclVUZnBQdXIyZDNaNzBmZ0pZU0pvQWJlNkFsclMzNXlhQXZFYzMwWTB1RFVjOWtBQVJDcDBacURUUmFLc2dNUG9VZ2ZTM2dLM1Q4?oc=5",
+          "source": "The Futurum Group",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-21T14:10:50.000Z",
+          "snippet": "Pega Bets Governance-Native AI Will Redefine Customer Engagement The Futurum Group",
+          "score": 22,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "9a567172e594cc94",
+          "cluster_id": "193911e4b981",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The Futurum Group",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUgxWlRPTUFHenNEMzlNQ2lNWTBVeS02dGY0emREb2Z4WmpiRTFJd0RuMUdndXBfUlNuM1ZNdGNtR0ZlWVAyMjdMcmw3S0hLT09zUEFsclVUZnBQdXIyZDNaNzBmZ0pZU0pvQWJlNkFsclMzNXlhQXZFYzMwWTB1RFVjOWtBQVJDcDBacURUUmFLc2dNUG9VZ2ZTM2dLM1Q4?oc=5"
+            }
+          ],
+          "summary": "Pega Bets Governance-Native AI Will Redefine Customer Engagement The Futurum Group…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-21T18:33:13.543Z"
         },
         {
           "id": "a854d77ed9601f60",
@@ -2600,40 +2535,6 @@
           "first_seen": "2026-08-22T17:18:15.662Z"
         },
         {
-          "id": "7648fae87c96756b",
-          "title": "Will Qualys’ AI-Native Risk Platform Redefine Its Competitive Moat in Cybersecurity (QLYS)?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1BlTW5tRjNONWVzdUJXTHBpcjFITjJDN0ZQb2FwTkt0UDFOaEdELXdrSU5jOXZtaVBjcTktZnByeE9XcHZVdkkwUF8zeXNDOWwxS2Rkc0lQdlZySFFwN3ZPQzlISnplejZyOTlVY3pDazBNUnVHUVJtMTQ3RmFCNmNfVVRTOUdFVDRhTmpQdGVEOVNhZmh6aDZvcnVUU2lDdmRmMWxIY19ZSHJ2aTNHNF9pN3NSQWVsV2diSGdvYkFjRG5obFFRTlFhenBpNGxfWEh3RVNR?oc=5",
-          "source": "Sahm",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-20T11:37:49.000Z",
-          "snippet": "Will Qualys’ AI-Native Risk Platform Redefine Its Competitive Moat in Cybersecurity (QLYS)? Sahm",
-          "score": 22,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "30c3e7c834715c52",
-          "cluster_id": "f0b09581b506",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "Sahm",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1BlTW5tRjNONWVzdUJXTHBpcjFITjJDN0ZQb2FwTkt0UDFOaEdELXdrSU5jOXZtaVBjcTktZnByeE9XcHZVdkkwUF8zeXNDOWwxS2Rkc0lQdlZySFFwN3ZPQzlISnplejZyOTlVY3pDazBNUnVHUVJtMTQ3RmFCNmNfVVRTOUdFVDRhTmpQdGVEOVNhZmh6aDZvcnVUU2lDdmRmMWxIY19ZSHJ2aTNHNF9pN3NSQWVsV2diSGdvYkFjRG5obFFRTlFhenBpNGxfWEh3RVNR?oc=5"
-            }
-          ],
-          "summary": "Will Qualys’ AI-Native Risk Platform Redefine Its Competitive Moat in Cybersecurity (QLYS)?…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-20T23:26:32.295Z"
-        },
-        {
           "id": "5b4a41253bc72c87",
           "title": "RU5H aims to redefine all-gay travel with kink-positive cruise experiences",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVNwS3ByUW82WXlaR1RnN1I0YjFJUGlTZHNKaW5kV0ttem10WUFQOVZWV0poSUNXZV9IUXFJOG9WOTQwWEw4YURQX2dlSGJ2YjI3bWF6VHY0cHhoMjBoMVNyTnBWeTRYdjM2X2pHNGtTSENnUVhLNi1ZZl84bTl2UzY3THVpcmFtNzl3VTk5WWFLX2YtVVBseEFVTVZvb1puNk04ZA?oc=5",
@@ -2770,40 +2671,6 @@
           "first_seen": "2026-08-21T12:59:07.630Z"
         },
         {
-          "id": "b3b496b9292a05c7",
-          "title": "Hiranandani Communities and The Fern Hotels & Resorts, Series by Marriott Come Together to Redefine Experiential Living in Alibaug",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQT2gwSWV5X3EtU1ZaeHNMOTBlbHFkNElfcDk0M21vZUd1SFNQNnlxbktyeXdZS0RBbTBTY1ZmUmt3bjJURDdYZXE5OEZDX201SmE4dllmV0tOalBQam94MWJnaWk4RHN3MVl0endROFZGeGhlQnAxTG90UnNyZ3hJMW9fSG5WMkxPdDFUbmVRd1ZZNWV0bVlBRXZVTmJaR3g0WHN6WTUwNUFNY1FUWEFCaVh6cWlBazdJZ2tMY1dEN3FOMWV5TWlZdWlDbXYtQWliN3dPeVJqWHlVNm9JamRwSnUtZlhJV3BsZkRkT2hSVEVGcVFyVl9NNUpUYTJ6dlJjS1FFWm1B0gGGAkFVX3lxTFBPaDBJZXlfcS1TVlp4c0w5MGVscWQ0SV9wOTQzbW9lR3VIU1A2eXFuS3J5d1lLREFtMFNjVmZSa3duMlREN1hlcTk4RkNfbTVKYTh2WWZXS05qUFBqb3gxYmdpaThEc3cxWXR6d1E4VkZ4aGVCcDFMb3RSc3JneEkxb19IblYyTE90MVRuZVF3Vlk1ZXRtWUFFdlVOYlpHeDRYc3pZNTA1QU1jUVRYQUJpWHpxaUFrN0lna0xjV0Q3cU4xZXlNaVl1aUNtdi1BaWI3d095UmpYeVU2b0lqZHBKdS1mWElXcGxmRGRPaFJURUZxUXJWX001SlRhMnp2UmNLUUVabUE?oc=5",
-          "source": "HospiBuz",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-20T11:57:42.000Z",
-          "snippet": "Hiranandani Communities and The Fern Hotels & Resorts, Series by Marriott Come Together to Redefine Experiential Living in Alibaug HospiBuz",
-          "score": 22,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "5061b1fcea911df2",
-          "cluster_id": "25009a769a51",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "HospiBuz",
-              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQT2gwSWV5X3EtU1ZaeHNMOTBlbHFkNElfcDk0M21vZUd1SFNQNnlxbktyeXdZS0RBbTBTY1ZmUmt3bjJURDdYZXE5OEZDX201SmE4dllmV0tOalBQam94MWJnaWk4RHN3MVl0endROFZGeGhlQnAxTG90UnNyZ3hJMW9fSG5WMkxPdDFUbmVRd1ZZNWV0bVlBRXZVTmJaR3g0WHN6WTUwNUFNY1FUWEFCaVh6cWlBazdJZ2tMY1dEN3FOMWV5TWlZdWlDbXYtQWliN3dPeVJqWHlVNm9JamRwSnUtZlhJV3BsZkRkT2hSVEVGcVFyVl9NNUpUYTJ6dlJjS1FFWm1B0gGGAkFVX3lxTFBPaDBJZXlfcS1TVlp4c0w5MGVscWQ0SV9wOTQzbW9lR3VIU1A2eXFuS3J5d1lLREFtMFNjVmZSa3duMlREN1hlcTk4RkNfbTVKYTh2WWZXS05qUFBqb3gxYmdpaThEc3cxWXR6d1E4VkZ4aGVCcDFMb3RSc3JneEkxb19IblYyTE90MVRuZVF3Vlk1ZXRtWUFFdlVOYlpHeDRYc3pZNTA1QU1jUVRYQUJpWHpxaUFrN0lna0xjV0Q3cU4xZXlNaVl1aUNtdi1BaWI3d095UmpYeVU2b0lqZHBKdS1mWElXcGxmRGRPaFJURUZxUXJWX001SlRhMnp2UmNLUUVabUE?oc=5"
-            }
-          ],
-          "summary": "Hiranandani Communities and The Fern Hotels & Resorts, Series by Marriott Come Together to Redefine Experiential Living in Alibaug HospiBuz…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-20T12:34:41.278Z"
-        },
-        {
           "id": "dfb21bb4b0874213",
           "title": "Proton Nepal launches 'Redefine Your Everyday' campaign for e.MAS 5",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazc0ODlEend6WjJQYWpMaWtEdVJxdTBCMlJJbTZBVjZfbUhvVThDd1dHWDU0ZG80X1dSSkotd3pKbVVLdlpxU0hwc1p2Um9ET1pwYzE2S1J5b0M1ZWQ5d1N4a2ZLNXh0NTZiNzBubFN5S3NwUjVKdFNpNkZXZVB6dHhzeTB0THFkS2VYcWgxTXVLa1pWQVY5UFc2X1BrUzZYaTZqaWF30gFcQVVfeXFMUF80Q0p1LWlxOTdEbi02QVdYc0NyVDlYTmt5Rldac2k5b3hUTHI3Tmwtd05oTHhYX1BKZjZ6M0pXaEhWOExVbVVLRHVhd0E0VVc3M2ZBdjNmZTU0cFY?oc=5",
@@ -2825,12 +2692,18 @@
           "tone": "neutral",
           "content_hash": "08dccc15bcf13c24",
           "cluster_id": "0f8aeeff778f",
-          "duplicate_count": 1,
-          "also_in": [],
+          "duplicate_count": 2,
+          "also_in": [
+            "Ekantipur"
+          ],
           "all_links": [
             {
               "source": "The Himalayan Times",
               "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazc0ODlEend6WjJQYWpMaWtEdVJxdTBCMlJJbTZBVjZfbUhvVThDd1dHWDU0ZG80X1dSSkotd3pKbVVLdlpxU0hwc1p2Um9ET1pwYzE2S1J5b0M1ZWQ5d1N4a2ZLNXh0NTZiNzBubFN5S3NwUjVKdFNpNkZXZVB6dHhzeTB0THFkS2VYcWgxTXVLa1pWQVY5UFc2X1BrUzZYaTZqaWF30gFcQVVfeXFMUF80Q0p1LWlxOTdEbi02QVdYc0NyVDlYTmt5Rldac2k5b3hUTHI3Tmwtd05oTHhYX1BKZjZ6M0pXaEhWOExVbVVLRHVhd0E0VVc3M2ZBdjNmZTU0cFY?oc=5"
+            },
+            {
+              "source": "Ekantipur",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3BqelBtVUVkMkJmcVhTOXhacDk2REdZaWI1VFNLWDJqaVc0NnFKMW5wTVE3RllCY1pPQUFVN0tYaHpWNkJ1OWRhU0NYWlc2UjhPNGR4UzZ6M05memdOS1h0NlhBZnhJeHlxWnR0cFVVb3N4MlVRdlJndVlHaW94WWJ3aDlnODI0MHgwbFZaT0xMMDdVMTZGYTdjRE92c0RUU1g4?oc=5"
             }
           ],
           "summary": "Proton Nepal launches 'Redefine Your Everyday' campaign for e.MAS 5 The Himalayan Times…",
@@ -2940,6 +2813,114 @@
           "first_seen": "2026-08-20T23:26:32.295Z"
         },
         {
+          "id": "1e0febd430d15e75",
+          "title": "Identity and AI redefine the fight against fraud, Veridas said.",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPci1NZGlEOVlpR3l0T2RkVU5MUENDX0d6Zk5udG1SYll2R0E3b2ZWVFRpd1B0S1lJTTdZclR3aF9sc1YyS3RpcTBZWVV3SF9ZN3NPYnQzb2JNb19yaU4tNjFPYjJQTUVxMFBZX0lNUmV5UjRRZzlJbXdPZ0xIcFJKaTd6N0ZzbF8xUDVUbk9FSXlocUpUNlBySGREamZmcnFkaHNHblh3?oc=5",
+          "source": "TI INSIDE Online",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-20T20:42:11.000Z",
+          "snippet": "Identity and AI redefine the fight against fraud, Veridas said. TI INSIDE Online",
+          "score": 22,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "da809ac22b9c8d2b",
+          "cluster_id": "f76264507641",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TI INSIDE Online",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPci1NZGlEOVlpR3l0T2RkVU5MUENDX0d6Zk5udG1SYll2R0E3b2ZWVFRpd1B0S1lJTTdZclR3aF9sc1YyS3RpcTBZWVV3SF9ZN3NPYnQzb2JNb19yaU4tNjFPYjJQTUVxMFBZX0lNUmV5UjRRZzlJbXdPZ0xIcFJKaTd6N0ZzbF8xUDVUbk9FSXlocUpUNlBySGREamZmcnFkaHNHblh3?oc=5"
+            }
+          ],
+          "summary": "Identity and AI redefine the fight against fraud, Veridas said.",
+          "status": "ONGOING",
+          "first_seen": "2026-08-21T12:59:07.630Z"
+        },
+        {
+          "id": "9b77890117aac48f",
+          "title": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUF9Qc2I3S3VWZVhkVXdPMUZtekpSWGpvUk4tTWVCNVNMc09hQ0YwdXJLYUNKai1QS2dsWmhOWlh5bk9WS1RtVjlXY0RUdVZ4M0E?oc=5",
+          "source": "TOLOnews",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-22T06:44:21.000Z",
+          "snippet": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse TOLOnews",
+          "score": 21.9,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "d392c5d229b92a1c",
+          "cluster_id": "ffb27ac627d0",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "TOLOnews",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUF9Qc2I3S3VWZVhkVXdPMUZtekpSWGpvUk4tTWVCNVNMc09hQ0YwdXJLYUNKai1QS2dsWmhOWlh5bk9WS1RtVjlXY0RUdVZ4M0E?oc=5"
+            }
+          ],
+          "summary": "Khoday Nazar Khan Fortress in Maidan Wardak Faces Imminent Collapse TOLOnews…",
+          "status": "ONGOING",
+          "first_seen": "2026-07-05T08:07:33.608Z"
+        },
+        {
+          "id": "0f69156a2ff37b33",
+          "title": "Derwent London stock holds steady as 2026 gains consolidate",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5",
+          "source": "Ad-hoc-news.de",
+          "section": "realestate",
+          "subsection": "uk-leasing",
+          "geo": "uk",
+          "feedWeight": 7,
+          "published_at": "2026-08-22T13:18:12.000Z",
+          "snippet": "Derwent London stock holds steady as 2026 gains consolidate Ad-hoc-news.de",
+          "score": 21.8,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "positive",
+          "content_hash": "8dd32b3355eee9ef",
+          "cluster_id": "95eddd2d4cf7",
+          "duplicate_count": 2,
+          "also_in": [
+            "Ad-hoc-news.de"
+          ],
+          "all_links": [
+            {
+              "source": "Ad-hoc-news.de",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5"
+            },
+            {
+              "source": "Ad-hoc-news.de",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g0TjNJcXV6eTBUS1JBY2p1cEpSZU1ObTlTaDNiTlY4bGZiUHVCVnlMMzRGZDM4eVZiMFpzQ2U2MDZIRDJLMnRQZ0o0WldfdGE1LXprRXN4aUhIMmdlZ1pIM2RBeXdjU25SNXhNdFluRGg0b0hDdE9tTkxuZTdBTjZkUkhfLTJtLTR6eTRNNWFvUkV0Wm5FWG5odGhJVlpOX1lPWWtLRGw3dGl5SGU0VzVtSmlQUl84Sm1pc0ExSQ?oc=5"
+            }
+          ],
+          "summary": "Derwent London stock holds steady as 2026 gains consolidate Ad-hoc-news.de…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-22T17:18:15.662Z"
+        },
+        {
           "id": "acfb2bb4a0190b13",
           "title": "MonteZOOMa: The Forbidden Fortress at Knott’s Berry Farm",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjVfME9ldXVHMWRtcnVoR1ZPa1owd3NzZWhhZ3hhS2ZVVzlzQS1NRXFHdkJOX09zaXotMkFYczN0R2xoUUNEZXdXT1BfSWxlc0hTZ0VVV3FVc05WdF9sMHN6RHAybWxBSFZUd3B1VWsyM3Vra2dpX0FQZzdrTi1RRnBJLVRGZW53eFY0cFQzaFRfM1JHRnd3YkkxTm_SAaIBQVVfeXFMUFdkNWszYnN2b1BsSGlZeEVyaVhLSUlkZTNEUVFOczFkQmVlUzh0ZjlaNURIYmY4SE1BN1JGdnhJSzdoWTVGWHBPcjR4aml2SjhsbzBobmRUWGdGajN5MS13WDczMUhGcmNFcGdTOC1CWkJtM1lFcFcyU2d2Um53bE53Z2VQbm00ZFpCU3BuOW9KdlZPYVdPck1aTXg0MHYwS1h3?oc=5",
@@ -2950,7 +2931,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-22T01:21:00.000Z",
           "snippet": "MonteZOOMa: The Forbidden Fortress at Knott’s Berry Farm YourCentralValley.com",
-          "score": 21.5,
+          "score": 21.4,
           "flags": [
             {
               "id": "reit",
@@ -2961,12 +2942,23 @@
           "tone": "neutral",
           "content_hash": "65fb33d8181bfb51",
           "cluster_id": "f944623df3a1",
-          "duplicate_count": 1,
-          "also_in": [],
+          "duplicate_count": 3,
+          "also_in": [
+            "AOL.com",
+            "ABC10"
+          ],
           "all_links": [
             {
               "source": "YourCentralValley.com",
               "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjVfME9ldXVHMWRtcnVoR1ZPa1owd3NzZWhhZ3hhS2ZVVzlzQS1NRXFHdkJOX09zaXotMkFYczN0R2xoUUNEZXdXT1BfSWxlc0hTZ0VVV3FVc05WdF9sMHN6RHAybWxBSFZUd3B1VWsyM3Vra2dpX0FQZzdrTi1RRnBJLVRGZW53eFY0cFQzaFRfM1JHRnd3YkkxTm_SAaIBQVVfeXFMUFdkNWszYnN2b1BsSGlZeEVyaVhLSUlkZTNEUVFOczFkQmVlUzh0ZjlaNURIYmY4SE1BN1JGdnhJSzdoWTVGWHBPcjR4aml2SjhsbzBobmRUWGdGajN5MS13WDczMUhGcmNFcGdTOC1CWkJtM1lFcFcyU2d2Um53bE53Z2VQbm00ZFpCU3BuOW9KdlZPYVdPck1aTXg0MHYwS1h3?oc=5"
+            },
+            {
+              "source": "AOL.com",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlc5b1ZSSElpQXVVU2pGNkxvNUN2aS1LMUlPbUF0ZmNXM3JRSnBoYTVlcjVfNm9zOEp3ZEdvOHZld1FUbmExdkUtcFVNSVN0SkI2cDV2M3RPTFFseU9mZDhnY3NSRE1XSHJlbU01TGJuOUJYX3hfeDlubFp4UkR6X2JIMjRFU1g1NVhJZnhR?oc=5"
+            },
+            {
+              "source": "ABC10",
+              "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSjRpODVaYkEzajduWDhEUUN5TEhTTlhoRjNRamJ6S1dDSlM2Sm9RajZwM0ljZHhuM2paRER2SER6WUNfSVkzN2tFUWQ2SkhvZklWT2NBQ2xQQmNzSjNIM2dJSnRCTGVVVDdVaVgxNkM0TWRFZzBPX09JOVljMFUyVC01RS1QMk5nbmY5Vk9RZ3hOZ0ZtSi1qd3piUFpKUmpBbjBKd1NKLXpJR1pLdklfaUF3R2NSdTd1eUo1aFFfeXQwU09GdW5HS3ZMVDZCd0Y2aWlEMjdoOVNMV3c2MFNDQUktTTBaOHZPbklLc0x2dldyTUFTUWlyUURSQTl6YUp1WFFqV25iWThYR3NwaDItMlNR?oc=5"
             }
           ],
           "summary": "MonteZOOMa: The Forbidden Fortress at Knott’s Berry Farm YourCentralValley.com…",
@@ -2995,10 +2987,9 @@
           "tone": "neutral",
           "content_hash": "2ba9cbecd265def7",
           "cluster_id": "d2c2b269eb4e",
-          "duplicate_count": 3,
+          "duplicate_count": 2,
           "also_in": [
-            "Reuters",
-            "marketscreener.com"
+            "Reuters"
           ],
           "all_links": [
             {
@@ -3008,10 +2999,6 @@
             {
               "source": "Reuters",
               "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9kckFWTHhrdlhqWEZqYUpHZXVFZjFqYVBaMVV3X2JnOEVJdHVXWDBYOERCdWwtc1MxeWltbjZ3VldraVgzVXpLV29UOVN4dnJrRDhOVTJjcUJnSkx3NjZsQS1TUjhpaGJyVEJ1WENpd3pFd3hXMGJZUVl0djJvOTZHeEtfbjlyZklEU0tOdFUzZzJpX3g3cnZWZzd5aVJ2YnhZ?oc=5"
-            },
-            {
-              "source": "marketscreener.com",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2FfMl9yYlNLdlZhdU82YzFxRXJyRGl4UzR1Z1I2azFnQ2Q1bmJqX1pxUjlMZDlhY0hwUG1IVDlUWXRrNGhoQVpTV0l4bGRaNWdhejFlZDU1Z1B2dDRLN3VaR1lEdzdqNGZoNnVqQ2xBQXNMcnYyMHBsMHZIbEZlY3NmYVJveVc3MXVTb1FlRDNMdkFqb2c?oc=5"
             }
           ],
           "summary": "New Fortress Energy's finance chief Guinta resigns TradingView…",
@@ -3029,7 +3016,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T21:03:01.000Z",
           "snippet": "Christopher S. Guinta to Resign as New Fortress Energy CFO Effective Aug 21, 2026 TradingView",
-          "score": 21.2,
+          "score": 21.1,
           "flags": [
             {
               "id": "reit",
@@ -3063,7 +3050,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T21:01:08.000Z",
           "snippet": "New Fortress Energy (NASDAQ: NFE) CFO sets resignation date Stock Titan",
-          "score": 21.2,
+          "score": 21.1,
           "flags": [
             {
               "id": "reit",
@@ -3087,6 +3074,112 @@
           "first_seen": "2026-08-22T11:34:16.231Z"
         },
         {
+          "id": "1f9635e8f1aa415d",
+          "title": "Drake's Island fortress off Plymouth coast put up for sale for £6m",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxVLTU4ZzgxUHZqTVhXbkczWWgtbVhzMzFJbkFfMmtYRHVUTkNPdU5ONDZnb2ZpTXo1TFlLWXFfdFVhTk1RQVBTS19DTHdQVXNKZnZFRVV5UTZKNXJnOERRa1FpUXo0VmFIQTlvelAxT3hINFh1UWx3d2N3a2VaaFBLNkRvelBCQ0tiRE5ESVBYOVZTNWN1dW9fcmk2VG5TdXhXRnVTT2wtRkp3d2N2UVBMRnpxa3ppNk0tOEJHMA?oc=5",
+          "source": "The Independent",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-21T13:27:00.000Z",
+          "snippet": "Drake's Island fortress off Plymouth coast put up for sale for £6m The Independent",
+          "score": 21,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "48720a5fe0777eee",
+          "cluster_id": "96b8d8b3fffe",
+          "duplicate_count": 2,
+          "also_in": [
+            "AOL.com"
+          ],
+          "all_links": [
+            {
+              "source": "The Independent",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxVLTU4ZzgxUHZqTVhXbkczWWgtbVhzMzFJbkFfMmtYRHVUTkNPdU5ONDZnb2ZpTXo1TFlLWXFfdFVhTk1RQVBTS19DTHdQVXNKZnZFRVV5UTZKNXJnOERRa1FpUXo0VmFIQTlvelAxT3hINFh1UWx3d2N3a2VaaFBLNkRvelBCQ0tiRE5ESVBYOVZTNWN1dW9fcmk2VG5TdXhXRnVTT2wtRkp3d2N2UVBMRnpxa3ppNk0tOEJHMA?oc=5"
+            },
+            {
+              "source": "AOL.com",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXRLWmJGOXZNNDFnMi1MS0hNOW5lOWUtaHU5OGpYLVRvRHhyTmdpb3oxdGktZzFhYVNycTdsa1pEdFA1SVVxRGI5UzRuUFl2RGowWkd2NEdXY2lhQThnZGZGUVN6ejAzSGFPUVR0YjFMVkNLZ0tUaEExclYwUUV6aUVfLURKQQ?oc=5"
+            }
+          ],
+          "summary": "Drake's Island fortress off Plymouth coast put up for sale for £6m The Independent…",
+          "status": "NEW"
+        },
+        {
+          "id": "2f50ce2ea2b68e9f",
+          "title": "Egypt asylum shift deepens 'Fortress Europe' concerns",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnBiQU02QkMxOE81cEdHVXRYVlc4SU12TGpLa1VHVDQ1MXBObEhFVjFOTzV0LUZ5Y2VFQW5OSjNWel9TOExpZzBNVFkxUnlobnJUeTh1ajR0azJRYVE5YWVGX09feDNZRUE0MmFPTk9yaE9CTG5TT000NXIzMlNkVWRBZGFsNW_SAYwBQVVfeXFMTWtsYmtFdHBxeXgzckFhS1JxcUdnbWs2XzRtekFHZXJXdEFrcXlURDlDcjM4dEJRalJKb1c2a0JNa01wVzFnQzRsSWlQdU8xeXQzM3VfXzdLbzBGTkNuTDhRTDBkZ2dzQzA1cXJzeU51Y2VuSEV6bERKNllZVjdyMGxTajVtckM3OWJwYjg?oc=5",
+          "source": "The New Arab",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-21T15:40:52.000Z",
+          "snippet": "Egypt asylum shift deepens 'Fortress Europe' concerns The New Arab",
+          "score": 21,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "26f72c0fafbeb7b3",
+          "cluster_id": "881abfee0da2",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "The New Arab",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnBiQU02QkMxOE81cEdHVXRYVlc4SU12TGpLa1VHVDQ1MXBObEhFVjFOTzV0LUZ5Y2VFQW5OSjNWel9TOExpZzBNVFkxUnlobnJUeTh1ajR0azJRYVE5YWVGX09feDNZRUE0MmFPTk9yaE9CTG5TT000NXIzMlNkVWRBZGFsNW_SAYwBQVVfeXFMTWtsYmtFdHBxeXgzckFhS1JxcUdnbWs2XzRtekFHZXJXdEFrcXlURDlDcjM4dEJRalJKb1c2a0JNa01wVzFnQzRsSWlQdU8xeXQzM3VfXzdLbzBGTkNuTDhRTDBkZ2dzQzA1cXJzeU51Y2VuSEV6bERKNllZVjdyMGxTajVtckM3OWJwYjg?oc=5"
+            }
+          ],
+          "summary": "Egypt asylum shift deepens 'Fortress Europe' concerns The New Arab…",
+          "status": "ONGOING",
+          "first_seen": "2026-08-21T17:26:10.851Z"
+        },
+        {
+          "id": "168f932af1c5f08f",
+          "title": "Rethinking Europe’s Margins: Between Fortress Europe and Its Invisibilized Internal Others - Cambridge University Press & Assessment",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ0xJMmxadE9YSExBX2pqMlJzNFgyTG5ic0M5UEwtSXQzR3A5ZzhkTkdGbkxMb1hnR3JjUnFZcFpzVk9SSmhGNmY1X0dORVNMbS1OcV9OcnRtV0JqNVVNOFVhc1JQaXJBcE56aG9HMThDeUgwYURLUHk4Q2w0SGY0dkQ5U3BmWGtrdml6Nnl5RnZUN1gwYmU1RG1jY2xobVl0MmpIdUlBdXFYaml4ajNxWkhaQlZYcjdOc1Zmb290eTh5a2FXNzJ3dVIxcjBONlBERVRVdmdYLU9CZWNEdWx4Y3FnQ1pSdUJqY3JxN1A2MFZOLW56X0FHdHlkdHhsa3dUN1lnS21aR3I5NWcwd19jcWxMV1hGOXNKZGozQQ?oc=5",
+          "source": "Google News",
+          "section": "realestate",
+          "subsection": "sa-listed",
+          "geo": "sa",
+          "feedWeight": 8,
+          "published_at": "2026-08-21T10:18:52.000Z",
+          "snippet": "Rethinking Europe’s Margins: Between Fortress Europe and Its Invisibilized Internal Others Cambridge University Press & Assessment",
+          "score": 21,
+          "flags": [
+            {
+              "id": "reit",
+              "label": "REIT UPDATE",
+              "tone": "neutral"
+            }
+          ],
+          "tone": "neutral",
+          "content_hash": "9f2a44f92fc37eb6",
+          "cluster_id": "f788c531cde5",
+          "duplicate_count": 1,
+          "also_in": [],
+          "all_links": [
+            {
+              "source": "Google News",
+              "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ0xJMmxadE9YSExBX2pqMlJzNFgyTG5ic0M5UEwtSXQzR3A5ZzhkTkdGbkxMb1hnR3JjUnFZcFpzVk9SSmhGNmY1X0dORVNMbS1OcV9OcnRtV0JqNVVNOFVhc1JQaXJBcE56aG9HMThDeUgwYURLUHk4Q2w0SGY0dkQ5U3BmWGtrdml6Nnl5RnZUN1gwYmU1RG1jY2xobVl0MmpIdUlBdXFYaml4ajNxWkhaQlZYcjdOc1Zmb290eTh5a2FXNzJ3dVIxcjBONlBERVRVdmdYLU9CZWNEdWx4Y3FnQ1pSdUJqY3JxN1A2MFZOLW56X0FHdHlkdHhsa3dUN1lnS21aR3I5NWcwd19jcWxMV1hGOXNKZGozQQ?oc=5"
+            }
+          ],
+          "summary": "Rethinking Europe’s Margins: Between Fortress Europe and Its Invisibilized Internal Others Cambridge University Press & Assessment…",
+          "status": "NEW"
+        },
+        {
           "id": "7c3bf278a4ec17cd",
           "title": "COMMENTARY: China’s Oil Fortress Will Reshape the Global Order: Bousso",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk5JWTIyQUZOS0JubnZRZDBMRC1Wem5JRVcxWmN0YWQ2RGFNVmdnUExSc3JFMWFkcVE1QkVUUlUyQ25rM05VMWhxQVc5R0RpQm1TY2FCdGdIOWJyQmN0SUVPZWdpaHZfYVJabHhJOXNybGs0bG9EUFJIQ2dLWVlrRTRLSnp0T3J1UzZjcHJQb1I?oc=5",
@@ -3097,7 +3190,7 @@
           "feedWeight": 8,
           "published_at": "2026-08-21T18:59:49.000Z",
           "snippet": "COMMENTARY: China’s Oil Fortress Will Reshape the Global Order: Bousso EnergyNow.com",
-          "score": 21.1,
+          "score": 21,
           "flags": [
             {
               "id": "reit",
@@ -3117,74 +3210,6 @@
             }
           ],
           "summary": "COMMENTARY: China’s Oil Fortress Will Reshape the Global Order: Bousso EnergyNow.com…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-22T11:34:16.231Z"
-        },
-        {
-          "id": "91967a9f69d40a0a",
-          "title": "Infomina deepens security push with Blue Fortress buyout",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1Bpc3g1R21LamIwckdKNm1iLTEzZ3pZRS1yN0dJbElLbVpLa3NnU2tDdXJwRGR2anB1d3RaN1dCV2hzaHFoc2FKWllaTjlEd1NpLXRmQTV2M2ZmaDZobGJKOEJJclRhNHlGeWFOS21ySTY2YzhYTGJpRWphblhRbklzQjdfTFlscC0zTTkwb2NaSGZEOFMwQVFiSVdBUm5fZ0pNOEF2cHVhMkZ5Y3pGaFFZQ3JSc1pOZHI2RGlkMTM1Zw?oc=5",
-          "source": "ET CIO SEA",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-21T19:17:14.000Z",
-          "snippet": "Infomina deepens security push with Blue Fortress buyout ET CIO SEA",
-          "score": 21.1,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "0b0d9f8b6db0fc86",
-          "cluster_id": "bcbfce20601d",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "ET CIO SEA",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1Bpc3g1R21LamIwckdKNm1iLTEzZ3pZRS1yN0dJbElLbVpLa3NnU2tDdXJwRGR2anB1d3RaN1dCV2hzaHFoc2FKWllaTjlEd1NpLXRmQTV2M2ZmaDZobGJKOEJJclRhNHlGeWFOS21ySTY2YzhYTGJpRWphblhRbklzQjdfTFlscC0zTTkwb2NaSGZEOFMwQVFiSVdBUm5fZ0pNOEF2cHVhMkZ5Y3pGaFFZQ3JSc1pOZHI2RGlkMTM1Zw?oc=5"
-            }
-          ],
-          "summary": "Infomina deepens security push with Blue Fortress buyout ET CIO SEA…",
-          "status": "ONGOING",
-          "first_seen": "2026-08-22T11:34:16.231Z"
-        },
-        {
-          "id": "cbefb900e963df94",
-          "title": "New Limited Series: Vampire Hunter D: Fortress of Blood",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTEhDazRMWnlPeVdOV28zb1IybE1DOXlpX05CbkR0aDgyNk9LcXphMlRpZ3gzQlBYOVZURllBTU5LbEQ5M1RIRFdpMTF4T3E5eTNxX3JOR3lxSkJoQTFBREdJbi1vWVZWY3FUS0dIVzQxWjRrU3pXdFlPLVNybVRiV05pdU9LUQ?oc=5",
-          "source": "League of Comic Geeks",
-          "section": "realestate",
-          "subsection": "sa-listed",
-          "geo": "sa",
-          "feedWeight": 8,
-          "published_at": "2026-08-21T19:44:33.000Z",
-          "snippet": "New Limited Series: Vampire Hunter D: Fortress of Blood League of Comic Geeks",
-          "score": 21.1,
-          "flags": [
-            {
-              "id": "reit",
-              "label": "REIT UPDATE",
-              "tone": "neutral"
-            }
-          ],
-          "tone": "neutral",
-          "content_hash": "38b057a8d8cc5508",
-          "cluster_id": "70b7c61bdf7f",
-          "duplicate_count": 1,
-          "also_in": [],
-          "all_links": [
-            {
-              "source": "League of Comic Geeks",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTEhDazRMWnlPeVdOV28zb1IybE1DOXlpX05CbkR0aDgyNk9LcXphMlRpZ3gzQlBYOVZURllBTU5LbEQ5M1RIRFdpMTF4T3E5eTNxX3JOR3lxSkJoQTFBREdJbi1vWVZWY3FUS0dIVzQxWjRrU3pXdFlPLVNybVRiV05pdU9LUQ?oc=5"
-            }
-          ],
-          "summary": "New Limited Series: Vampire Hunter D: Fortress of Blood League of Comic Geeks…",
           "status": "ONGOING",
           "first_seen": "2026-08-22T11:34:16.231Z"
         }
@@ -3376,12 +3401,12 @@
       "label": "Bitcoin",
       "symbol": "BTC-USD",
       "group": "crypto",
-      "price": 76851.22,
+      "price": 77064.69,
       "prevClose": 69266.19,
-      "change": 7585.029999999999,
-      "pct": 10.95,
+      "change": 7798.5,
+      "pct": 11.26,
       "currency": "USD",
-      "asof": "2026-08-23T11:15:22.000Z",
+      "asof": "2026-08-23T12:26:15.000Z",
       "ok": true
     }
   ],
@@ -3453,7 +3478,7 @@
         "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-22T18:19:06.000Z",
-        "score": 35.9,
+        "score": 35.7,
         "also_in": []
       },
       {
@@ -3472,7 +3497,7 @@
         "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-22T04:17:00.000Z",
-        "score": 34.8,
+        "score": 34.7,
         "also_in": [
           "Kalkine"
         ]
@@ -3493,7 +3518,7 @@
         "status": "ONGOING",
         "section": "sa",
         "published_at": "2026-08-23T02:00:30.000Z",
-        "score": 33,
+        "score": 32.6,
         "also_in": []
       }
     ],
@@ -3564,7 +3589,7 @@
         "status": "ONGOING",
         "section": "realestate",
         "published_at": "2026-08-22T18:19:06.000Z",
-        "score": 35.9,
+        "score": 35.7,
         "also_in": []
       }
     ],
@@ -3579,9 +3604,21 @@
   },
   "changes": {
     "previousId": "2026-08-23-morning",
-    "addedCount": 15,
-    "carriedCount": 75,
+    "addedCount": 18,
+    "carriedCount": 72,
     "newHeadlines": [
+      {
+        "title": "Education Minister Dharmendra Pradhan calls upon corporate world to redefine Corporate Social Responsibility",
+        "source": "News On AIR",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUZWOWtzODdIb0lONXBoLWhYdUU2VmRUeEhSUTlTZGtqR0xheWpvYkZkVTRseTA4ZkJIVWN0TmRJMDU3S3FtNGsyeTNMR0RXTVJzTUhEUHZBVmpJRVRQcFZDc05PYmJYM2pPZC1yOTR6emM4QVZDSzFxSDlxREVsdnQ0WTl4dlNmeVlYb2lxb2xOQlR4VkFYaXlMT3lzQXIzeDdDUm1JcGc1NVZ1TFRnV0FfaTNqVjBVMy0yRDd4ZG9PS1FOalhRVzBIRU1OdkE?oc=5",
+        "flags": [
+          {
+            "id": "reit",
+            "label": "REIT UPDATE",
+            "tone": "neutral"
+          }
+        ]
+      },
       {
         "title": "Does Liberty Energy’s (LBRT) Data Center Power Pivot Redefine Its Core Competitive Edge?",
         "source": "simplywall.st",
@@ -3595,9 +3632,9 @@
         ]
       },
       {
-        "title": "Education Minister Dharmendra Pradhan calls upon corporate world to redefine Corporate Social Responsibility",
-        "source": "News On AIR",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUZWOWtzODdIb0lONXBoLWhYdUU2VmRUeEhSUTlTZGtqR0xheWpvYkZkVTRseTA4ZkJIVWN0TmRJMDU3S3FtNGsyeTNMR0RXTVJzTUhEUHZBVmpJRVRQcFZDc05PYmJYM2pPZC1yOTR6emM4QVZDSzFxSDlxREVsdnQ0WTl4dlNmeVlYb2lxb2xOQlR4VkFYaXlMT3lzQXIzeDdDUm1JcGc1NVZ1TFRnV0FfaTNqVjBVMy0yRDd4ZG9PS1FOalhRVzBIRU1OdkE?oc=5",
+        "title": "I Drove The Lexus LM Luxury Van In Japan—It Redefines Executive Cars",
+        "source": "Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iT1FuTkFac3paaUJ5bGVsLUtmdVlWMXJNcG85RTliMzl1Q2FOSzM3UGlMd0tuQ1licl9ITGNQMEVmajc2QTNPS3lodnJ4ekNjQ2FMVEhDLUFZdlluQVBPX0l1aGt2c0FG?oc=5",
         "flags": [
           {
             "id": "reit",
@@ -3622,18 +3659,6 @@
         "title": "Asghar Farhadi tonight at the Forte Mare fortress, and John Savage in the garden of the House of Nobel Prize winner Ivo Andrić",
         "source": "vijesti.me",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOG0tRGtrME1oVzZWUWVJM3lJaFNIckFaMmg5UGJaVExrZ1NqZlB1OTlaUDgyaWxBS2xJSlpjMFZham1VVmZxMENScWVsbUNEam9SVHFjWVd1QXM3QXJIREtSYTUySTNSQTgtX3BkSGJ2cnhHWFBwMEU2Y1lVTUFqN2VEcWJ0bHFobHJBcno3NXhZZUd2QkNJVlJmcF81d0psZXVaQnI0dTZNR1hvcFRzS1dCZVFGbGdXYTF3SW5wcHBGdVpTUDBlRkgxcTQ2M1c2Vzc1cHh0ZjYwcWRXcGdYRmRuOFVqcUp5NnfSAdsBQVVfeXFMTVZESTlOSjZYaTNQbEcybTVmWkJuanY2eFZpZjRicDlvbEJNVDIwb1R4cDFpbUhwR0V0QTBxeEJxRVJRTkQtaldYMll5WU1YakJFWE1IeWVhZmJ1U1p3Q3RTMXVoUmROam5NeHl2eHZfSE1nUjZaSGw1ckZpeTMtZWFnYnVhR1ZVVUUyMW9kWlF0ZjQ2VmtVODExejVUR2NBX3MweGJMazZjNVFTbFJ2Tm52bnhCSy1lZ0FKNGg5TEpOY2Q3WHplV1A2LVF6alRKb3ZYcDMxQlVjbnhn?oc=5",
-        "flags": [
-          {
-            "id": "reit",
-            "label": "REIT UPDATE",
-            "tone": "neutral"
-          }
-        ]
-      },
-      {
-        "title": "I Drove The Lexus LM Luxury Van In Japan—It Redefines Executive Cars",
-        "source": "Motor1.com",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iT1FuTkFac3paaUJ5bGVsLUtmdVlWMXJNcG85RTliMzl1Q2FOSzM3UGlMd0tuQ1licl9ITGNQMEVmajc2QTNPS3lodnJ4ekNjQ2FMVEhDLUFZdlluQVBPX0l1aGt2c0FG?oc=5",
         "flags": [
           {
             "id": "reit",
@@ -3686,45 +3711,45 @@
     "9ecc26dd1821decf",
     "acee31c4142b6a0f",
     "3cab7bcb17cbbd64",
-    "f4b69d6fefd66fee",
     "be209e1fe5ad1f9f",
-    "8a8557c943297be7",
-    "6d3da65f6e0810a1",
+    "f4b69d6fefd66fee",
     "1697a75a75fc8c1e",
     "7b0d53f204255d13",
+    "8a8557c943297be7",
+    "6d3da65f6e0810a1",
     "0739e55c2dee6d15",
     "7a2a3c437a932ca3",
     "06cefc0d4e7dae82",
-    "086dcb64ed48c4c1",
     "4665ef111ed70308",
+    "086dcb64ed48c4c1",
     "d88549513f442071",
-    "522773e6b9d1ab16",
     "7db98674d7f6cb91",
+    "522773e6b9d1ab16",
     "e8a4dbf90c23281f",
     "dc194128bd6a3d9b",
-    "808c0cc3bc979440",
     "e35b8ea663ec8df4",
     "be24a9bfe943dcd9",
     "7aeee12c012bec15",
     "b148a9efd207c8d9",
     "5d36525bf7a947f4",
+    "808c0cc3bc979440",
     "4564d8b9219e5b05",
-    "26bf543e65fab2cd",
     "dcd0ed88a3c0e2a3",
     "3e3336e54ff04d4f",
-    "47836e94f32406fd",
     "ce04b9ed7866ce2f",
+    "47836e94f32406fd",
     "b73a2c4d8fb6b593",
+    "26bf543e65fab2cd",
     "59a966f866f91ce4",
     "42e86a4c96f5006c",
-    "1a15094bdf7afb24",
     "2fd5f0e954e91992",
     "eaa6963e78dbc62f",
+    "1a15094bdf7afb24",
     "237ab1408c0dda64",
-    "e2874f6f81288576",
     "d4de97cdfbae7ddc",
-    "8819982d5f765f53",
+    "e2874f6f81288576",
     "f32c72d9da0ed0d5",
+    "8819982d5f765f53",
     "bff33f4a0ce93879",
     "75518cebc159f560",
     "03eaeb9de16c102c",
@@ -3732,16 +3757,13 @@
     "5199b7047b0a801f",
     "9437415c41301751",
     "1fde7ccf83e7b163",
-    "9b77890117aac48f",
     "d8bcef86e28261f1",
-    "ed5a9b289f018ba0",
     "962cf6922752d731",
-    "0f69156a2ff37b33",
     "a3cfc44fa8b39a15",
     "b36f0c4f352044f4",
     "4e34c2451e3faf25",
-    "7a273ef879a66f79",
     "15d332497c4043cf",
+    "7a273ef879a66f79",
     "a854d77ed9601f60",
     "0e8af2c4914a4dae",
     "62a9fdf77589da60",
@@ -3752,24 +3774,27 @@
     "3e4222fbd4f3ad13",
     "6a1bf469ec9cc265",
     "07222581e46ccffa",
-    "7648fae87c96756b",
     "5b4a41253bc72c87",
     "f05ab075fa7b44a9",
     "32f408f1e21c2ee2",
     "d6ce763719a5f3c3",
-    "b3b496b9292a05c7",
     "dfb21bb4b0874213",
     "3a56afa1fe931eb3",
     "1b24fc01ef1a7ad4",
     "b81db82ce8b37ab7",
+    "1e0febd430d15e75",
+    "9b77890117aac48f",
+    "0f69156a2ff37b33",
     "acfb2bb4a0190b13",
     "80a3a96f5e28017f",
     "4b13a71158fe49d3",
     "c4110706cb13d329",
-    "7c3bf278a4ec17cd",
-    "91967a9f69d40a0a",
-    "cbefb900e963df94",
     "4d35f73fe93f63fc",
-    "65c1cea2ebbb1133"
+    "65c1cea2ebbb1133",
+    "9e4f669af4ad1471",
+    "1f9635e8f1aa415d",
+    "2f50ce2ea2b68e9f",
+    "168f932af1c5f08f",
+    "7c3bf278a4ec17cd"
   ]
 }
