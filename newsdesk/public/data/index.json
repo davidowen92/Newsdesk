@@ -1,7 +1,14 @@
 {
-  "latest": "2026-10-08-midday",
-  "generated_at": "2026-10-08T11:54:42.601Z",
+  "latest": "2026-10-08-evening",
+  "generated_at": "2026-10-08T17:40:53.551Z",
   "editions": [
+    {
+      "id": "2026-10-08-evening",
+      "label": "Evening",
+      "created_at": "2026-10-08T17:40:45.995Z",
+      "story_count": 90,
+      "file": "editions/2026-10-08-evening.json"
+    },
     {
       "id": "2026-10-08-midday",
       "label": "Midday",
@@ -414,13 +421,6 @@
       "created_at": "2026-09-09T19:35:48.795Z",
       "story_count": 90,
       "file": "editions/2026-09-09-evening.json"
-    },
-    {
-      "id": "2026-09-09-midday",
-      "label": "Midday",
-      "created_at": "2026-09-09T14:58:12.169Z",
-      "story_count": 90,
-      "file": "editions/2026-09-09-midday.json"
     }
   ]
 }
