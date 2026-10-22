@@ -1,8 +1,8 @@
 {
-  "edition": "2026-10-21-evening",
-  "generated_at": "2026-10-21T20:26:44.117Z",
+  "edition": "2026-10-22-morning",
+  "generated_at": "2026-10-22T09:59:41.134Z",
   "feeds": 32,
-  "items": 1472,
+  "items": 1526,
   "stories": 90,
   "markets_ok": 14,
   "markets_total": 15,
@@ -10,12 +10,8 @@
     {
       "feed": "engineeringnews",
       "error": "Status code 403"
-    },
-    {
-      "feed": "moneyweb",
-      "error": "Invalid character in entity name\nLine: 8\nColumn: 23\nChar:  "
     }
   ],
   "summariser": "extractive",
-  "duration_ms": 5235
+  "duration_ms": 5428
 }
