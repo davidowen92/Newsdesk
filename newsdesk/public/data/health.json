@@ -1,8 +1,8 @@
 {
   "edition": "2026-11-20-evening",
-  "generated_at": "2026-11-20T18:56:13.011Z",
+  "generated_at": "2026-11-20T22:57:29.897Z",
   "feeds": 32,
-  "items": 1152,
+  "items": 1300,
   "stories": 90,
   "markets_ok": 14,
   "markets_total": 15,
@@ -10,16 +10,8 @@
     {
       "feed": "engineeringnews",
       "error": "Status code 403"
-    },
-    {
-      "feed": "gn-middleeast",
-      "error": "Status code 429"
-    },
-    {
-      "feed": "gn-sa-cre",
-      "error": "Status code 429"
     }
   ],
   "summariser": "extractive",
-  "duration_ms": 5296
+  "duration_ms": 5405
 }
